@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "title": "POSSIBLE EVIDENCE OF COLD D(D,p)T FUSION FROM DEE'S 1934 EXPERIMENT",
+        "authors": [
+            {
+                "first": "Yeong",
+                "middle": [
+                    "E."
+                ],
+                "last": "Kim",
+                "suffix": "",
+                "affiliation": [
+                    "Department of Physics",
+                    "Purdue University",
+                    "West Lafayette, IN 47507"
+                ],
+                "email": ""
+            }
+        ],
+        "abstract": [
+            {
+                "text": "D (D, p) T fusion probabilities for the back-to-back proton-tritium tracks observed in Dee's 1934 experiment are calculated using the conventional theory and found to be many orders of magnitude smaller than those inferred from Dee's data. Our results indicate that Dee's data may be evidence for cold fusion, possibly due to low-energy reaction barrier transparency as recently proposed. Therefore it is important to repeat Dee's experiment with modern facilities.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "ABSTRACT"
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "In 1934, Oliphant, Arreck, and Lord Rutherford reported the discovery of deuterium-deuterium fusion via nuclear reactions, $D ( D, p ) T$ and $D ( D, n )^{3} He$. They bombarded deuterated ammonium chloride $(ND_{4}Cl)$, ammonium sulphate $((ND_{4})_{2}SO_{4})$, and orthophosphoric acid $(D_{3}PO_{4})$ with 20\u2013200 keV deuterium (called \"diplogen\" then) ion $(D^{+})$ beam generated from a Cockcroft-Walton discharge tube. Later in the same year (1934), Dee studied the nuclear reaction $D ( D, p ) T$ more carefully using a 160 keV $D^{+}$ beam on a $(ND_{4})_{2}SO_{4}$ target and photographed ionization tracks of $p$ and $T$ in a cloud chamber. Occasionally, proton-tritium $(p \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot T)$ pairs were observed with the angle between the tracks very near to 180\u00b0. Dee attributed these tracks to $D ( D, p ) T$ reactions involving deuterons, which had lost energy. The $D^{+}$ beam generation system used by Dee was an improved Cockcroft-Walton discharge tube constructed by Oliphant and Rutherford, which generated a higher beam current (~100 \u00b5A).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "1. INTRODUCTION"
+        },
+        {
+            "text": "Recently, Fleischmann suggested that these results obtained by Dee are the first indication that there are low-energy fusion channels in solid lattices, similar to the cold fusion electrolysis experiments. Fleischmann's suggestion was criticized by Close on two grounds. The first is that Dee's photographs do not show that the tracks are exactly back-to-back and hence one cannot eliminate the possibility that the incident deuteron had even one keV of energy, which is comparable to the solar core temperature. The second objection by Close (and also by Petrasso) was that no energetic tritium or proton had been observed in the cold fusion electrolysis experiments with deuterated palladium. More recently, Huizenga objected to Fleischmann's statement that a significant number of back-to-back $p-T$ tracks were observed by Dee, since what Dee actually stated was that occasionally back-to-back $p-T$ tracks were observed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "1. INTRODUCTION"
+        },
+        {
+            "text": "In this paper, Dee's results are analyzed using the conventional theory to establish whether the back-to-back $p-T$ tracks observed by Dee suggest an anomalous effect, in order to resolve the controversy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "1. INTRODUCTION"
+        },
+        {
+            "text": "When D+ ions (deuterons) are incident on the $(ND_{4})_{2}SO_{4}$ target, the dominant fusion reactions are known to be:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "2. FUSION KINEMATICS"
+        },
+        {
+            "text": "$D+D \\\\\\\\\rightarrow ^3H + p \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad (Q_t = 4.033 \\\\\\\\\text{ MeV})$",
+            "cite_spans": [],
+            "ref_spans": [],
+            "eq_spans": [
+                {
+                    "text": "D+D -> ^3H + p (Qt=4.033 MeV)",
+                    "latex": "D+D \\\\\\\\\rightarrow ^3H + p \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad (Q_t = 4.033 \\\\\\\\\text{ MeV})"
+                }
+            ],
+            "section": "2. FUSION KINEMATICS"
+        },
+        {
+            "text": "$D+D \\\\\\\\\rightarrow ^3He + n \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad (Q_2 = 3.269 \\\\\\\\\text{ MeV})$",
+            "cite_spans": [],
+            "ref_spans": [],
+            "eq_spans": [
+                {
+                    "text": "D+D -> ^3He + n (Q2 = 3.269 MeV)",
+                    "latex": "D+D \\\\\\\\\rightarrow ^3He + n \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad (Q_2 = 3.269 \\\\\\\\\text{ MeV})"
+                }
+            ],
+            "section": "2. FUSION KINEMATICS"
+        },
+        {
+            "text": "The velocities $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{\\\\\\\\\nu}_{p}$ and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{\\\\\\\\\nu}_{T}$ of the emitted proton $(p)$ and tritium $(T)$ are co-planar with the velocity $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{\\\\\\\\\nu}_{D}$ of the incident deuteron. The scattering angles, $\\\\\\\\\theta_{L}^{p}$ and $\\\\\\\\\theta_{L}^{T}$, of the emitted $p$ and $T$ in the LAB frame are measured from the direction of the incident deuteron velocity $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{\\\\\\\\\nu}_{D}$. In the CM frame, the directions of $p$ and $T$ velocities are opposite, and the scattering angles in the CM frame add up to 180\u00b0, i.e., $\\\\\\\\\theta_{C}^{p} + \\\\\\\\\theta_{C}^{T} = 180\u00b0$.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "eq_spans": [],
+            "section": "2. FUSION KINEMATICS"
+        },
+        {
+            "text": "The LAB scattering angle is given by:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "eq_spans": [
+                {
+                    "text": "$\\\\\\\\\tan\\\\\\\\\theta_{L}^{p} = \\\\\\\\\frac{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sin\\\\\\\\\theta_{C}^{p}}{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma_{p} + \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cos\\\\\\\\\theta_{C}^{p}}$",
+                    "latex": "\\\\\\\\\tan\\\\\\\\\theta_{L}^{p} = \\\\\\\\\frac{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sin\\\\\\\\\theta_{C}^{p}}{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma_{p} + \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cos\\\\\\\\\theta_{C}^{p}}"
+                }
+            ],
+            "section": "2. FUSION KINEMATICS"
+        }
+    ]
+}

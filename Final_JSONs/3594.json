@@ -1,0 +1,362 @@
+{
+    "metadata": {
+        "title": null,
+        "authors": [
+            {
+                "first": "R",
+                "middle": [
+                    "K"
+                ],
+                "last": "Rout",
+                "suffix": null,
+                "affiliation": [
+                    "Neutron Physics Division",
+                    "Bhabha Atomic Research Centre"
+                ],
+                "email": null
+            },
+            {
+                "first": "A",
+                "middle": [],
+                "last": "Shyam",
+                "suffix": null,
+                "affiliation": [
+                    "Neutron Physics Division",
+                    "Bhabha Atomic Research Centre"
+                ],
+                "email": null
+            },
+            {
+                "first": "M",
+                "middle": [],
+                "last": "Srinivasan",
+                "suffix": null,
+                "affiliation": [
+                    "Neutron Physics Division",
+                    "Bhabha Atomic Research Centre"
+                ],
+                "email": null
+            },
+            {
+                "first": "A",
+                "middle": [
+                    "B"
+                ],
+                "last": "Garg",
+                "suffix": null,
+                "affiliation": [
+                    "Neutron Physics Division",
+                    "Bhabha Atomic Research Centre"
+                ],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": null,
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "ABSTRACT"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Palladium loaded with either hydrogen or deuterium is found to give a clear autoradiograph on exposure to $\\\\\\mathbf{X}$ -ray film. The phenomenon is found to be 100% reproducible and is independent of the technique of loading, be it electrolytic, gas loading, plasma discharge or ion implantation. lt appears only if the exposure to X-ray film is done in atmosphere of hydrogen, oxygen or air. These emissions are also detected by TLD measurements. Investigations seeking to identify the nature/energy of the radiation through transmission measurements using various filters\ntentatively indicate that the radiations could be low energy electrons having an energy of around 300to 400ev.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "1. Introduction"
+            },
+            {
+                "text": "The occurrence of anomalous emissions from certain metals (such as palladium and titanium), when loaded with deuterium, either electrolytically (Jones 1989) or in gas phase (De Ninno\n1989) or in plasma phase (Rout 1991), has been reported by various laboratories. Most of these emissions have been found to be sporadic and are not easily reproducible. We report here\nemission of some low energy radiations emanating from palladium when loaded either with\ndeuterium or hydrogen, by any loading technique. The phenomenon is reproducible and the low energy radiations have been observed from all the samples loaded so far.",
+                "cite_spans": [
+                    {
+                        "text": "Jones 1989",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "text": "De Ninno\n1989",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "Rout 1991",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "1. Introduction"
+            },
+            {
+                "text": "The majority of the samples used were in the shape of disks, 16 mm diameter and 2 mm thick. These were loaded by affixing them on a plasma focus (PF) (Mather 1971) central electrode or by first degassing in vacuum (600\"C, $1 0^{-5}$ mb) and then allowing them to cool in the $\\\\\\mathbf{D}_{2}$ or $\\\\\\mathrm{H_{2}}$ atmosphere (at 1 bar pressure, for 2 hours). A few Pd samples (in form of needles) were loaded using the Wada gas discharge technique (Wada 1989). The bulk loading obtained varied between 0.1 and 0.6. It is possible that the loading in the surface layer may be much higher. The $\\\\\\mathbf{H}_{2}$ and D2 gases used for loading had tritium content of - 10^{-4}$ Ba/ml and < 10^{-5}$ Bq/ml respectively.",
+                "cite_spans": [
+                    {
+                        "text": "Mather 1971",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "text": "Wada 1989",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Experimental Methods & Results"
+            },
+            {
+                "text": null,
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.1 Loading of Gas"
+            },
+            {
+                "text": "A few samples were also checked for X-ray emission on a low background silicon lithium (SiLi) detector with a thin beryllium window (l keV energy threshold). The measurement time was typically 18 hours. No sample showed emission of X-rays above background.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Higher energy $( \\\\\\geq2 0 \\\\\\mathrm{~ keV} )$ radiations emanating from the samples was also measured by a end window type gas flow detector (operating in Geiger Muller mode, 0.8 mg/cm- window). The typical background of the detector was 0.0l + 0.002 count/s. Samples with $\\\\\\mathrm{D_{2}}$ or $\\\\\\mathbf{H}_{2}$ loading were observed to give 0.02 + 0.002 count/s (18 hours of counting). No counts above\nbackground were however observed when the sample was kept inside a windowless gas flow detector.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Autoradiographs have been observed in oxygen and air atmospheres but not in helium, argon and nitrogen atmospheres. The presence of oxygen or air appears to be necessary to observe\nstrong radiographs. It is likely that oxygen is assisting the phenomenon (Some other impurity present in oxygen as well as in air causing this phenomena although unlikely, cannot be ruled out). However there appears to be an optimum concentration (< 100 %) of oxygen in atmosphere at which the fogging is maximum.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The energy released in H2- $O_{2}$ recombination reaction is 1.5 eV. If a few hundred to thousand times this energy gets transferred to a L normal hot fusion can take place resulting in emission of energetic charged particles $( \\\\\\leq1 0^{-2} / \\\\\\mathrm{s} )$ . if there is a pathway to transfer the chemical recombination energy to deuterons. This may be possible only for certain metallurgical\ncompositions and conditions. However there are several other phenomena in condensed matter",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "which suggest that short lived large energy fluctuations (Dasannacharya 1989) do take place. thes flucuations ean ma 10 1 0times th averuge energy.",
+                "cite_spans": [
+                    {
+                        "text": "Dasannacharya 1989",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Discussion & Conclusions"
+            },
+            {
+                "text": "The radiations emitted from the samples were predominantly of very soft nature and of\ncomparatively low intensity (as will be evident from subsequent sections). They were short lived (maximum life of a few days).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Autoradiography was the most extensively used diagnostics. For autoradiography the X-ray films were kept in contact or a few mm away from the sample. The exposure time varied from $2 4$ to 120 hours. Fig. I shows a contact autoradiograph of a disk loaded with $\\\\\\mathbf{D}_{2}$ using a PF device (30 discharge shots, 24 hours exposure). Fig.- $2$ is an autoradiograph of a similar $\\\\\\mathbf{H}_{2}$ loaded\nsample (30 discharge shots, 90 hours exposure) kept 0.2 mm away from the film. In all the\nautoradiographs obtained (under any condition), the fogging was always observed only on the side of the film facing the samples, in spite of the fact that the X-ray film is transparent to optical radiation and had sensitive coating on both sides. This confirms the low range of the radiations and absence of optical emissions.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "were kept in vacuum $( < 1 0^{-2}$ Ms\u4e1asecdode ocdcornhedc na $\\\\\\cdot$ samples\nmbar). Some samples were also kept in atmospheres of nitrogen, helium and argon gases. The gas pressure was retained slightly (- 50 mbar) above one\natmosphere. The exposure time in all the cases was 96 h. No radiation, above threshold, was observed on any of these autoradiographs.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "By means of a sensitive densitometer, it was possible to measure density of even very faint autoradiographs. Some samples were also autoradiographed in an atmosphere of hydrogen (- 50 mbar pressure) for 96 h, the fogging obtained on the autoradiographs was just discernible over threshold (see Table 1). PdHx samples kept in oxygen atmosphere (pressure - 50 mbar) above atmosphere, for 96 h, fogged the autoradiographs to an average density which was 40 to 60% less than what was obtained with control samples in air (see Table 1). Fogging was also detected when thin filters $( 2 \\\\\\, \\\\\\mu$ m aluminised polycarbonate foil (0.25 mg/cm\") in one or several layers) were kept between the film and loaded samples. Weak fogging was always measured with one layer of such a filter (see Table l). With two layers of filters fogging was observed only in one instance (barely above threshold). No fogging was ever observed, above threshold, with three or more layers of filters.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The autoradiography and TLD (CaSCa based) measurements were made with and without glass and fused silica filters. Activity observed without filter in case of TLD study was seven times above background. No radiation was observed to cross glass or fused silica, indicating the absence (or very low intensity) of optical, ultraviolet or infrared radiators. These results were confirmed by photomultiplier and photodiade study.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The emissions were also subjected to electric field. The electric field between the loaded\nsample (disk type) and the film was maintained by a perspex spacer, 1.2 mm thick, having an opening of 12 mm at its centre. In different sets of experiments the voltage was varied from t 1.5 $\\\\\\mathbf{v}$ to +400 $\\\\\\mathbf{v}$ (field varying from +3.3 KV/em to -3.3 KV/cm). Application of the field very much increased the intensity of fogging of the autoradiographs. The fogging increased as the voltage was increased, saturating approximately at 100 $\\\\\\mathbf{v}$ Surprisingly, when positive voltage was\napplied to the sample (for electrons to be retarded towards the film), the fogging was higher as compared to negative voltage. The Fig. 3 and 4 are the autoradiographs of two identical plasma focus loaded (15 PF shots) disks. The first one was with 100 $\\\\\\mathbf{v}$ positive and the second one with 100 $\\\\\\mathbf{v}$ negative supply. The exposure time for both the cases was 41 hours.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "Remarks on Cold Fusion, $\\\textsf{C 2},$ Report BARC-1500, Bhabha Atomic Research Centre, Bombay.",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Dasannacharya",
+                        "suffix": null
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Dasannacharya",
+                        "suffix": null
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Rao",
+                        "suffix": null
+                    }
+                ],
+                "year": 1989,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "De Ninno",
+                        "suffix": null
+                    }
+                ],
+                "year": 1989,
+                "venue": "Eurphys Lett",
+                "volume": "9",
+                "issn": null,
+                "pages": "221",
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Jones",
+                        "suffix": null
+                    }
+                ],
+                "year": 1989,
+                "venue": "Nature",
+                "volume": "338",
+                "issn": null,
+                "pages": "737",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Rout",
+                        "suffix": null
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Rout",
+                        "suffix": null
+                    }
+                ],
+                "year": 1991,
+                "venue": "Fusion Technol",
+                "volume": "19",
+                "issn": null,
+                "pages": "391",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Mather",
+                        "suffix": null
+                    }
+                ],
+                "year": 1971,
+                "venue": "Methods of Experimental Physics, Academic Press, NY, USA",
+                "volume": "9B",
+                "issn": null,
+                "pages": "187",
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "BIBREF6",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Wada",
+                        "suffix": null
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Nishizawa",
+                        "suffix": null
+                    }
+                ],
+                "year": 1989,
+                "venue": "Jpn J Appl Phys",
+                "volume": "28",
+                "issn": null,
+                "pages": "2017",
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "TABREF0": {
+                "text": "Density of autoradiographs under various conditions. Density averaged and normalised to 24 h exposure time.",
+                "type": "table"
+            }
+        },
+        "back_matter": []
+    }
+}

@@ -1,0 +1,495 @@
+{
+    "metadata": {
+        "title": "Physical Reasons for Accepting the Deep-Dirac Levels- Physical Reality vs Mathematical Models in LENR",
+        "authors": [
+            {
+                "first": "Andrew",
+                "middle": [],
+                "last": "Meulenberg",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "Jean-Luc",
+                "middle": [],
+                "last": "Paillet",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "Jean-Luc",
+                "middle": [],
+                "last": "Paillet",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            }
+        ],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "Limitations to contempurary models of Coulomb and nuclear interactions have previously been identified in the developnent of low-energy nuclear neaction (LENR) theuies based on expenmental Cold Fuson (CF) results. However, relatrvisbc quantum mechanics has aready pravided a means to overcome these linmtations. Nevertheless, this \"anonalous soluton has been repeatedly rejected, based an the mathematical formalism of an assumed singular potential, simply because it has nat been necessary heretofore in the description of available physical data. The physical realities of a non-singular potential and its interaction with a relativistic electroe are not new physics and provide a soid theretical basis for CF (as indicated in another paper in this conference, and the references therein) and for new fields in femto-physics and nuclear chemistry. This present paper is essentially a reasoned complaint aganst those critics who proeaim the limitaions f the anomalous soluton, yet ignore the inappicabiity of their chosen potential to the real world where they claim the solution(s) fail. It also castigates those physicists wha accept the mathematical limitatios as applicable to the real wwrid even when presented with the evidence of assumpbons made where they are no konger valid. The paper picks a few of these alleged limtations and shows bow relativity and near-field interactions alter predictions based on the mathemateal models and appreximatoas used to characterize the conwentonally accepted observations. In dentities where the simple models fail, ar violate physical reality, and paints to the implications of extending the madels to better fit the real world and to properly understand the physical mechanismis) involved.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Few physicists today would question the inadequacy of 19th century physics to correctly calculate many effects when bodies approach the speed of light. And, when a bound s-orbit electron approaches is nucleus, the region of its highest Andrew Meulenberg*",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "resonance may be positive or negative. However, the deep-orbits all have positive integers, k (corresponding to a positive energy), and the deep-orbit ground state has a value of $k=1$ , which should correspond to a p-, not to an $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot$ , orbital. With no $k=0$ , there is no solution with zero angular momentum. If there is any angular momentum at all, then the electron orbits cannot go to $r=0$ because the centrifugal barrier is too high. Use of the tem \"s-orbital.,\" which implies a maximum electron density at $x=0$ for the $1/r$ potential, and to so identify the deep-orbit ground state is then misleading and could lead to one thinking of the solution as singular.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Physical Size and Mass of the Electron and Proton"
+            },
+            {
+                "text": "The unmentioned assumptions of the mathematical solution of the relativistic quantum equations leading to the deep orbits include the infinite mass of the point source of a Coulomb potential. We have already addressed the pbysical absurdity of the singular potential associated with a point source. Here we address the standard correction for the infinite-mass assumption. In elementary quantum mechanics courses, a correction for finite mass nucleus is made to the solution of the Schrodinger equation. This is done after the simplified model of infinite mass source is solwed. This cowrection is based on recognition of the 2-body problem, as existing in the center-of-mass system, being reduced to a single-body problem by introduction of a reduced' mass.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Physical Approximations Used to Treat Infinities"
+            },
+            {
+                "text": "Introduction of a finite nuclear mass immediately forces changes to many of the arguments against the deep orbit solutions. First off, the assumed singularity of a point source for the theoretical $1/r$ Coulomb potential does not exist at $r=0$ , the center of mass. The proton is shifted away from $r=0$ and from the electron. In fact, the singular condition can only exist if the angular momentum of the system is exactly zero and the electron (also assumed to be a point source in the same approximation) is simultaneously at $r=0$ along with the point source Despite the fact that the wave functions of both nucleus and electron may overlap at $r=0$ , the probability of both of these particles being together at the same time is zero. Thus, the potential is proportional to $1/ ( r+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\varepsilon)$ with $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\varepsilon> 0$ .",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Physical Approximations Used to Treat Infinities"
+            },
+            {
+                "text": "Many models in physics lead to infinities in one limit or another. To get around this problem, it is common practice to introduce a \"cut-off' to prevent values from going to infinity. Such treatment must somehow be unaceptable to the mathematical physicists who proclaim the invalidity of the anomalous solutions. Perhaps, to be acceptable, such \"fixes' must only be validated by the proposed models better fitting the experimental data when the fixes are included. lf so, cold fusion might provide thase data. Unfortunately, such data are not yet uniwersally accepted and therefore \"any change is unnecessary.\"",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Physical Approximations Used to Treat Infinities"
+            },
+            {
+                "text": "The key to the deep electron levels is relativity [17]. This is aso a limit to some extent. Non-relativistic physics is an approximation that is valid under most conditions. In the nuclear range, electron velocities require inclusion of this effect So, instead of imposing a cutoff such as that imposed by classical quantum mechanies (\"no electron orbits can exist below the atomic levelsl\"), it is possible to seek and find the physical limit imposed by, and the consequences of, nelativity. Similarly, quantum mechanies has allowed the Laws of physics to be 'relaxed' during cetain interactions [13]. This limit is as crude as an arbitrary cutoff (and as uninformative). Relativity can provide a much more accurate and informative (physically reasonable) limitation to the classical interaction dynamics. Like quantum mechanies, it also provides a challenge to our perceptions of reality. Cold fusion provides a transition region between the classical atomic and nuclear regimes. It allows physically accessible information to be analyzed and compared with madels.",
+                "cite_spans": [
+                    {
+                        "text": "[17]",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "text": "[13]",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Relativistic Coulomb Potential and Heisenberg Uncertainty Relation (HUR)"
+            },
+            {
+                "text": "For some people, the fatal flaw in the concept of deep orbits is heir failure to obey the HUR. At the predicted KE = 1 MeV level of kinetic energies of an electron bound in the low femtometer raxdius orbits of the near-nuclear environ-",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Relativistic Coulomb Potential and Heisenberg Uncertainty Relation (HUR)"
+            },
+            {
+                "text": "ment, the angular momentum is $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sim\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hbar/ 1 0 0$ Thus, the HUR is violated by two orders of magnitude, unless the kinetic electron energy is somehow raised to the $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot$ 100 MeV level [17] An electron with this energy cannot be bound in the stetie Coulomb potential of a single proton. This argument is hard to contest without going against what has become a fundamental tenet of quantum mechanies One of the present authors (JLP) has found a possible answer in effects such as the near-field magnetic interactions between the nucleus and the electron, that raise the kinetic energy of a tight-hound electron into the 100 MeV range [17,18]",
+                "cite_spans": [
+                    {
+                        "text": "[17]",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "text": "[17,18]",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Relativistic Coulomb Potential and Heisenberg Uncertainty Relation (HUR)"
+            },
+            {
+                "text": "lt is known that the deep orbits predicted by the Klein-Gordon and Dirac equations are a result of relativity [5]. We have been seeking the physical mechanism that satisfies both the singularity and the HUR limitations of the anomalous solutions. Early-on in the study, it was recognized that there was a correction needed to the virial theorem as it is applied to deep orbits [19]. Obital requirements in a central potential are defined by the virial theorem. For non-relativistic rbits in a $1 / r$ Coulomb potentia, the virial theorem requires that the kinetic energy of the bound particle be one-half of the magnitude of its potential energy. The relativistic correction to the virial theorem predicts that as the particle velacity approaches that of light, this ratio of the energies approaches unty (i.. $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{K E} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Rightarrow\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left| \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{P E} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\right| )$ . While this cwrection has major implications for the creation of a deep-orbit-electron population, it resolves neither the singularity nor the HUR problem of the solution.",
+                "cite_spans": [
+                    {
+                        "text": "[5]",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "text": "[19]",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Relativistic Coulomb Potential and Heisenberg Uncertainty Relation (HUR)"
+            },
+            {
+                "text": "The most recent contributions [5] to resolving the HUR problem are also presented at this conference [17]. Relativity not only introduces mass energy into the Hamiltonian, thus providing the deep orbits, it also affects (greatly increasing) the attractive forces between the proton and electron as the average electron velocity approaches a significant fraction of c. In the low-femtometer range of orbits, the Coulomb potential is no longer a $1/ s$ potential and, with magnetic interactions, bound-electron kinetic energies can exceed 100 MeV. This unexpected turn of events resolves the HUR issue very nicely. However, it introduces some other questions, such as \"'where do the >100 MeV energies come from?\"' and \"how do these relativistic electromagnetic energies compare with the nuclear energies (fractional quark size) that are so much greater than the static Coulomb energies normally considered!\"",
+                "cite_spans": [
+                    {
+                        "text": "[5]",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "text": "[17]",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Relativistic Coulomb Potential and Heisenberg Uncertainty Relation (HUR)"
+            },
+            {
+                "text": "The use of mathematics in physics is essential. However, it is a tool. Any dogmatic adherence to its 'rules' and predictions, which may be based on improper or inadequate formulation and approximations should be avoided. The mathematics needs to be guided by the physics, before it can properly guide physics into (or out of) new regions of interest. Neither physics nor mathematies should be considered sacrosanct. This paper has addressed a few of these issues associated with the deep electron orbits predicted by relativistic quantum mechanics.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Condusion"
+            },
+            {
+                "text": "Physics has said that the Coulomb potential varies as $1/r.$ Meied od ea egodL any solution of an equation using this potential must be rejected unless it is zero at $r=0$ \nsingular at that point. Both are correet in their frame of reference; but, they are both wrong when applied to the special case near $r=0$ . We have shown that the singularity in the $1/r$ potential is non-physical and therefore mathematical solutions that include the singularity must be *adjusted' so that they are no longer singular and rejected The means of such adjustment are well known in physics and some have even been applied to the case of interest here.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Condusion"
+            },
+            {
+                "text": "We believe that the dilemma of cold fusion theory is resolved in the acceptance of the deep-orbit electrons. Because of the uncertainties in the inflwence of some of the physical interactions (e.g., spin-spin) at these femtometer dimensions, actual values for the deep-orbit radii are still under investigation. Nevertheless, within the wide range of approximations and assumptions made in the calculations, most variations are not great and the implications for CF are unchanged.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Condusion"
+            },
+            {
+                "text": "In the peocess of exploring (with an open mind) the mathematics and physics of this near-field region, important things beyond CF are being discovered. The most recent of these is the effect of relativity on the Coulomb potential energy for deep-orbit electrons. With energies greatly in excess of the known nuclear binding energies and with",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Condusion"
+            },
+            {
+                "text": "a trivial change that has been published - and rejected or ignored by the crities. The standard practice of *cut-offs', a mathematical atifice, to avoid these problems is, for some reason, 'not allowed' in the arguments against the possibility of the anomalous solution being valid. Of course, if incontrovertible proof of the predicted deep-electron orbits were to become available, these same crities would declare themselves experts in the field and using these very techniques would 'prove' the validity of the anomalous solutions (with 'their' modifications)-",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Solutions Avoiding the Singularity"
+            },
+            {
+                "text": "The problem with the mathematical rejection of the anomalous solution is not with the mathematics itself. It is with the approximations used, and the non-physical assumptions, interpretations and their implications for the solution. The $1/r$ Coulomb potential is so imbedded within many physicists' minds that deviation is unthinkable. We have been taught that it is valid - at least to the nucleus, e-g., [10]. However, the original law' must be corrected for source coafi gurations and relativity in the nuclear range. When mathematical rigor, without physical consideration, is applied to the $1/r$ \u00b7 problem at $r=1$ l, these details are ignored. This allows a non-physical singularity and its consequences to be introduced into the mathematics. Such singularities are encountered routinely in physical models and *handled\" in various ways. Such treatments for the anomalous solution have been routinely \"rejected' over the decades and, without experimental observation of the deep-orbits predicted by the relativistic quantum mechanics, it is difficult to rationalize such measures. It is precisely under these conditions that near-field and far-field interacions become mixed ('sequestration' fails [11]), symmetry is broken, and *matter' is created and destroyed. This is the basis for one model of cold fusion that uses the reduction of nuclear mass resulting from energy transfer to the deep-orbit electron to explain D-D fusion to He rather than to the normal \"hot' fusion paths of fragmentation into protons, neutrons, tritium, and *He [12].",
+                "cite_spans": [
+                    {
+                        "text": "[10]",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "text": "[11]",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "text": "[12]",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Solutions Avoiding the Singularity"
+            },
+            {
+                "text": "Modern quantum mechanies treats the ambiguities during transitions through these interaction regions by use of the Fock and Stueckelberg model and the uncertainty relation [13]. Energy, mass, and other constants need no longer be conserved during such transitions as long as they are conserved before and after the resultant interactions.",
+                "cite_spans": [
+                    {
+                        "text": "[13]",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Solutions Avoiding the Singularity"
+            },
+            {
+                "text": "Khelashvili and Nadareishvili [14] proved that the anomalous solution of the Klein-Gordon equation for the hydrogen atom with a singular $1/r$ Coulomb potential is valid. However, in the same paper (and subsequently affirmed [15 16]), they eannot do the same for the anomalous solutions of the Dirac equations. In addition to the unaddressed higher order terms in $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\nu$ [17], what may be missing in the decades-old argument is that the actual anomalous solutions for the Dirae deep orbits have no electron probability distribution at the singularity (assuming that one physically exists). Aecording to [1], there are no ls-orbitals in the anomalous solution of the Dirac equations, furthermore, the deep-orbit ground state (2s in their nomenclature) has angular momentum as do all the deep-orbit s-orbital solutions. How can this happen and what does it mean?",
+                "cite_spans": [
+                    {
+                        "text": "[14]",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "text": "[15",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "text": "[17]",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Solutions Avoiding the Singularity"
+            },
+            {
+                "text": "In [1], Maly and Va'vra produced a detailed description and tables of the deep orbits, for both the relativistic K-G and the Dirac equations. In |2], the authors included figures of the electron densities for several representative orbits. In this later paper, they were estimating the size of the deep-orbit atoms and were not concerned about arguments against the existence of the deep orbits. However, the information provided in the two papers can be used to indicate that no anomalous solutions of the Dirac equations (for the hydrogen atom with a finite-sized nucleus, thus a non-singular Coulomb-type potential) have any walue at $r=0$ (see next paragraph) If there is no electron density at $r=0$ , there is no singularity in the deep-orbit solution and then all arguments against the deep orbits (if based on a singularity) must be invalid. This result is a step beyond simply using a non-singular potential. As suggested by calculations, but not yet proven, it may be possible (even if unnecessary) to provide this same result with a singular potential.",
+                "cite_spans": [
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Solutions Avoiding the Singularity"
+            },
+            {
+                "text": "What is the basis of the non-population at the singular point? The deep level identified as 2s is perhaps better labeled as a 2p' level (with angular momentum of $n$ ). The reason for the new notation is related to the new quantum number, $k$ introduced in the Dirac equation solutions. The integer value of $k$ , which corresponds to an angular momentum",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Solutions Avoiding the Singularity"
+            },
+            {
+                "text": "the greatly enhanced interaction between the bound electron and the charged-quarks of a nucleon, the theoretical relationship between the strong-nuclear force, the electromagnetic force, and the weak interaction may be altered. lt would appear that cold fusion is operating in the transition region between the atomic and the nuclear forces and is providing experimental data that will illuminate many aspects of physics today.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "Electron transitions on deep Dirac levels I",
+                "authors": [
+                    {
+                        "first": "J.A.",
+                        "middle": [],
+                        "last": "Maly",
+                        "suffix": null
+                    },
+                    {
+                        "first": "J.",
+                        "middle": [],
+                        "last": "Va'vra",
+                        "suffix": null
+                    }
+                ],
+                "year": 1993,
+                "venue": "Fusiom Sci. Technol",
+                "volume": "24(3)",
+                "issn": null,
+                "pages": "307-318",
+                "other_ids": {}
+            },
+            "BIBREF2": {},
+            "BIBREF3": {},
+            "BIBREF4": {},
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": "Special relativity: the souree of electron deep orbits",
+                "authors": [
+                    {
+                        "first": "J.L.",
+                        "middle": [],
+                        "last": "Paillet",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Meulenberg",
+                        "suffix": null
+                    }
+                ],
+                "year": 2017,
+                "venue": "Found. Phys",
+                "volume": "47(2)",
+                "issn": null,
+                "pages": "256-264",
+                "other_ids": {}
+            },
+            "BIBREF6": {},
+            "BIBREF7": {},
+            "BIBREF8": {},
+            "BIBREF9": {},
+            "BIBREF10": {
+                "ref_id": "BIBREF10",
+                "title": "The Fegwuaw Lectwes an Pbysics.2nd edition, Vol. 3.",
+                "authors": [
+                    {
+                        "first": "R.P.",
+                        "middle": [],
+                        "last": "Feynman",
+                        "suffix": null
+                    },
+                    {
+                        "first": "R.B.",
+                        "middle": [],
+                        "last": "Leighton",
+                        "suffix": null
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Sands",
+                        "suffix": null
+                    }
+                ],
+                "year": 1965,
+                "venue": "Addison -Wesley, USA",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF11": {
+                "ref_id": "BIBREF11",
+                "title": "Origius of Mass",
+                "authors": [
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "Wilezek",
+                        "suffix": null
+                    }
+                ],
+                "year": 2012,
+                "venue": "arXiv:1206.71 14v2 22, Aug",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF12": {
+                "ref_id": "BIBREF12",
+                "title": "Tunneling Beneath the *He Fragmentation Energy",
+                "authors": [
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Meulenberg",
+                        "suffix": null
+                    },
+                    {
+                        "first": ".P.",
+                        "middle": [],
+                        "last": "Sinha",
+                        "suffix": null
+                    }
+                ],
+                "year": 2011,
+                "venue": "J. Condensed Mater Nacr. Sci",
+                "volume": "4",
+                "issn": null,
+                "pages": "241-255",
+                "other_ids": {}
+            },
+            "BIBREF13": {
+                "ref_id": "BIBREF13",
+                "title": "Thearies of variable mass purticles and low energy nuclear phenomena",
+                "authors": [
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Davidson",
+                        "suffix": null
+                    }
+                ],
+                "year": 2014,
+                "venue": "Fond. Phys",
+                "volume": "44(2)",
+                "issn": null,
+                "pages": "144-174",
+                "other_ids": {}
+            },
+            "BIBREF14": {
+                "ref_id": "BIBREF14",
+                "title": "Some problems of self-adjoint extension in the Schrodinger equation",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Nadareishvili",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Khelashvili",
+                        "suffix": null
+                    }
+                ],
+                "year": null,
+                "venue": "arXiv:0903.0234",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF15": {
+                "ref_id": "BIBREF15",
+                "title": "On the existence of additional (hydrino) states in the Dirac equation",
+                "authors": [
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Khelashvili",
+                        "suffix": null
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Nadareishvili",
+                        "suffix": null
+                    }
+                ],
+                "year": null,
+                "venue": "arXiv:1601.01957",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF16": {},
+            "BIBREF17": {
+                "ref_id": "BIBREF17",
+                "title": "Advance on electron deep orbits of the hydrogen atom for LENR",
+                "authors": [
+                    {
+                        "first": "J.L.",
+                        "middle": [],
+                        "last": "Paillet",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Meulenberg",
+                        "suffix": null
+                    }
+                ],
+                "year": 2016,
+                "venue": "Pec. of ICCF-20, the\n20Wth int. Cwuf. ow Condeused Matter Nncl. Sri., Sendai, Japan, October 2-7",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF18": {},
+            "BIBREF19": {}
+        },
+        "ref_entries": {},
+        "back_matter": [
+            {
+                "text": "This work is supported in pat by HiPi Consulting. Ashland, VA, USA: by the Science for Humanity Trust, Bangalore, India; and by the Science for Humanity Trust, Ine, Tucker, GA, USA.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Acknowledgement"
+            }
+        ]
+    }
+}

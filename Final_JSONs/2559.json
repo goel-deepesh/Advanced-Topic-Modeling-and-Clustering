@@ -1,0 +1,515 @@
+{
+    "metadata": {
+        "title": "Modeling of Surface and Bulk Effects in Thin-Film Pd Cathodes with High Proton Loading",
+        "authors": [
+            {
+                "first": "Nie",
+                "middle": [],
+                "last": "Luo",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "George",
+                "middle": [
+                    "H"
+                ],
+                "last": "Miley",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "Andrei",
+                "middle": [
+                    "G"
+                ],
+                "last": "Lipson",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": "PACS: 71.20.Be; 66.10.-x; 73.50.-h\nKeywords: Hydride; Electronic structure: Charge state; Density fiunctional theory",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            },
+            {
+                "text": "ords: Hvdride; Electronic structure: Charge state; Density finctional theory",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "The palladium hydride system has been an interesting yet perplexing topic of multi-\ndisciplinary research for many years [1-3]. Unlike ordinary metal alloys, where a fairly good understanding is achieved through relatively straightforward concepts, metal\nhydrides pose a number of problems. First, hydrogen is usually much smaller and lighter than the host metals, and hence its motion in the host metals generates some unexpected effects. Second, a hydrogen atom is a stronger attractor of electrons than most metal atoms. Therefore the bonding nature between hydrogen and metals is different from a normal metal bond. There are numerous other issues facing the palladium hydride\nsystem, which is finding an increasing importance in various applications. For example",
+                "cite_spans": [
+                    {
+                        "text": "[1-3]",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Charge transport in palladium hydride (and metallic hydrides in general) is complicated in that it involves both electrons and H ions. First the electron transport of PdH is\ncomplex and not anticipated as is manifested by the unusual electric resistance change versus the H/Pd ratio, illustrated conceptually in Fig. 1. As shown, the normalized\nresistance as a function of loading $x, i. e.$ , HPd atomic ratio, first increases and then\ndecreases [4]. The resistance finally undergoes an oscillation at ultra high loading [5]. Because the mobility and the number of electrons in PdH are orders of magnitude higher than those of the H ion, electron transport dominates these resistance changes. The initial increase in the resistance (up until $x \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sim0. 6 5 )$ is relatively easy to understand from an\nalloying point of view. Or, in other words, the added H in the lattice creates scattering centers, increasing the resistance. The subsequent drop for $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{x} > 0. 6 5$ is not well\nunderstood thus far, typically being thought to be associated with the formation of new band states. The oscillation region shown in Fig. 1 has only recently been reported and has not yet been explained theoretically.",
+                "cite_spans": [
+                    {
+                        "text": "[4]",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "[5]",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Charge transport and the charge state of hydrogen in Pd"
+            },
+            {
+                "text": "In addition to resistivity studies, considerable research has been dedicated to probing the nature of H transport $( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e. g.}$ diffusion and drift) in Pd. These drift experiments $[ 6-7 ]$ \nstrongly suggest that H drifts in Pd in the form of a positive ion with a fractional charge number of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sim+0. 5$ This observation, combined with the decrease of the paramagnetic\nsusceptibility with H loading, seems to strongly support the notion of a proton model in which the hydrogen is viewed as donating its electron to the unfilled Pd $d$ -shell.\nHowever, such a proton model seems oversimplified in terms of experiments like\nelectronic specific heat [8]. Because the electronic specific heat is directly proportional to the size of the Fermi surface, the proton model should predict a progressively smaller\nelectronic specific heat as the H loading is increased. However the contrary is found in the related nickel hydride. Moreover from a chemistry point of view, H can more easily acquire an electron than most metal atoms because of its relatively large electro-\nnegativity (See Table 1).",
+                "cite_spans": [
+                    {
+                        "text": "[ 6-7 ]",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "text": "[8]",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Charge transport and the charge state of hydrogen in Pd"
+            },
+            {
+                "text": "Some previous band structure calculations [9-11] have been carried out to elucidate the charge state of H in Pd. The studies include PdH and PdHo2s, where unit cells can be easily defined. The general conclusion is that the H is slightly negatively charged in spite of the filling up of the Pd d-bands. Without further study, this result has appeared to\ncontradict some of the observations cited above.",
+                "cite_spans": [
+                    {
+                        "text": "[9-11]",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Charge transport and the charge state of hydrogen in Pd"
+            },
+            {
+                "text": "A detailed FLAPW electronic structure calculation has been carried out for H at various sites and compositions of PdH. These results generally confirm and expand the previous numerical studies as regard to the charge state of H in Pd, and also provide a qualitative explanation for why H drifts like a partially charged positive ion under the influence of an electric field.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The main focus of the present research is various improvements over previous band-structure calculations: More hydride compositions and proton locations are considered in this paper. The numerical results also suggest a way to reconcile the conflicting picture of a negative H ion inferred from electronic-structure calculations with the positive\ncharge inferred from the hydrogen drift experiment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Model and calculation"
+            },
+            {
+                "text": "One of the extensions beyond previous studies is the explicit consideration of the so-called \"bridging\" site, designated in Fig. 2. This site, along with the two others, namely the \"on-top\" site and the \"hollow'' site, play an important role in the surface catalytic chemistry of Pd (100) surface. We consider the bridging site here for one additional\nreason. The drift of hydrogen through interstitial hopping inside a Pd metal matrix is a dynamic process, and hydrogen atom must pass through one of two possible sites: the bulk tetrahedral site or the bridging site. Because the path through the bridging site is the shortest, it is of special interest to probe the electronic structure for H located at this site.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Model and calculation"
+            },
+            {
+                "text": "Also, PdH, of three different compositions $x$ namely PdH,2s, PdHa.s, PdH are studied when the H is at the octahedral site. This was done to investigate the change of charge density around H as loading progresses. A careful choice of the super-cell was necessary for $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{P d H}_{0. 5},$ which has not previously been reported in the literature.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Model and calculation"
+            },
+            {
+                "text": "The electronic structure calculation is carried out in the framework of the density\nfunctional theory (DFT). A full-potential linearized augmented plane wave (FLAPW) package, WIEN2K [12], is used extensively in the calculation. The muflin tin (MT)\nradius for Pd was chosen between 1.45 to 2.0 a.u, while that for H was varied between 1.2 to 1.8 a.u., with the ratio between the two MT radii kept around 1.2, as suggested from $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{p}$  Blaha [13] for metal-hydrogen bonds. The radii were changed over the above ranges so as to insure that a marked difference in the electronic structure with different radii is not artificially introduced. In computing the relative charge around H at different locations and loading levels, a single hydrogen MT radius of 1.5 is used. One significant improvement of the present calculation versus earlier band structure studies is the use of generalized gradient approximation (GGA) as compared to the local density\napproximation (LDA) used by previous investigators. The functional of Perdew-Berke-Ernzerhof [l4] is selected in the current GGA calculation.",
+                "cite_spans": [
+                    {
+                        "text": "[12]",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "text": "[13]",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "text": "[l4]",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Model and calculation"
+            },
+            {
+                "text": "From a simple qualitative picture, we should expect less charge around the H when the hydrogen fraction, $x,$ decreases, because the electron around the H has to be shared by",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Model and calculation"
+            },
+            {
+                "text": "more Pd. From Table $2$ this is indeed what happens. However, the magnitude of change is less than what is expected from the simple consideration of work function, electron affinity and electro-negativity. Because the electron affinity of a single H, 0.702 eV, is much smaller than the work function of a Pd metal, 5.12 eV, electron tends to shift away from H when the H composition $x$ is small. However, the DFT result at PdHozs does not show much of this tendency. Our explanation is that in our calculation the H is always 8-coordinated in all three loadings, and intercepts roughly the same portion of Pd orbits. Therefore, the change in the charge state is quite small although the loading has been significantly altered.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The charge density distribution in one of the (100) planes is given in Figs. 3-5,\nrespectively, for each of the three cases. The hydrogen is slightly negatively charged in all of these cases and the change is hardly noticeable. To represent these cases, the charge state can be labeled as $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{H}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\delta}$ , where 8- is often a small fraction. In the case of octahedral H, for example, $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\delta\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sim0. 1-0. 2$ (See Table 2.) This result collaborates the pseudopotential LDA result of Chan and Louie [l1], and is a strong evidence for the formation of negatively charged H in Pd.",
+                "cite_spans": [
+                    {
+                        "text": "[l1]",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Figs. 3-5",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Next we turn to the question of how to reconcile this static picture with the notion of a fractionally charged positive H ion found in drift experiments. We postulate that the\neffect is associated with the dynamic nature of the proton hopping process. When an\nelectric field is applied to the $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{H}^{6}$ at the octahedral site, the proton hopping (tunneling)\nprocess will be assisted in the direction of the field. Therefore, the hydrogen drift (or in other words, an electric field assisted tunneling process) is characterized as that of a\nproton, $i. e., a+1$ charge, ar the octahedral site. However, in hopping from one octahedral site to another, the proton must follow a path through either the tetrahedral site or the\nbridging site, and the charge state at these two locations will also affect the time average charge of the hydrogen in a drift experiment. The path through the bridge site is the\nshorter of the two available and received our primary attention. The charge density plot at this site is given in Fig. 6. Table $2$ shows that the proton is roughly charged with 0.6 more electrons at the bridging site than at the octahedral site. This implies that proton carries an effective electron cloud of -0.6 with it as it goes though the bridging region when\ndrifting. Hence the net proton charge manifested in the overall rift experiment is $1-0. 6$  $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sim0. 4$ , matching the typical value of 0.5 expected from drift measurements within the\nexperimental and computational uncertainties.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 6",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "text": "Table 2",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Strictly speaking, the path through the octahedral site also needs to be considered because the proton tends to have a lower energy there as compared to the bridging site. This study is a work in progress and we will report those results later. Overall our study serves as a qualitative understanding of some problems in the transport properties of the palladium hydride system.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": null,
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "Hydrogen in Metals",
+                "authors": [
+                    {
+                        "first": "D.P.",
+                        "middle": [],
+                        "last": "Smith",
+                        "suffix": null
+                    }
+                ],
+                "year": 1948,
+                "venue": "The University of Chicago Press, Chicago",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "The Palladium/Hydrogen System",
+                "authors": [
+                    {
+                        "first": "F.A.",
+                        "middle": [],
+                        "last": "Lewis",
+                        "suffix": null
+                    }
+                ],
+                "year": 1967,
+                "venue": "Academic Press, New York",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": "Theory of the Properties of Metals and Alloys",
+                "authors": [
+                    {
+                        "first": "N.F.",
+                        "middle": [],
+                        "last": "Mott",
+                        "suffix": null
+                    },
+                    {
+                        "first": "H.",
+                        "middle": [],
+                        "last": "Jones",
+                        "suffix": null
+                    }
+                ],
+                "year": 1958,
+                "venue": "Dover Publications, New York",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": "Phys. Lett. A 276 (2000) 122",
+                "authors": [
+                    {
+                        "first": "p",
+                        "middle": [],
+                        "last": "Tripodi",
+                        "suffix": null
+                    },
+                    {
+                        "first": "M.C.H.",
+                        "middle": [],
+                        "last": "McKubre",
+                        "suffix": null
+                    },
+                    {
+                        "first": "F.L.",
+                        "middle": [],
+                        "last": "Tanzella",
+                        "suffix": null
+                    },
+                    {
+                        "first": "P.A.",
+                        "middle": [],
+                        "last": "Honnor",
+                        "suffix": null
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "Di Gioacchino",
+                        "suffix": null
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Celani",
+                        "suffix": null
+                    },
+                    {
+                        "first": "V.",
+                        "middle": [],
+                        "last": "Violante",
+                        "suffix": null
+                    }
+                ],
+                "year": 2000,
+                "venue": null,
+                "volume": "A 276",
+                "issn": null,
+                "pages": "122",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": "Proceedings, ICCF-8, Villa Marigola, Lerici (La Spezia), Italy, 2000, p. 169",
+                "authors": [
+                    {
+                        "first": "G. H.",
+                        "middle": [],
+                        "last": "Miley",
+                        "suffix": null
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Selvaggi",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Tate",
+                        "suffix": null
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Okuniewski",
+                        "suffix": null
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Williams",
+                        "suffix": null
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "Chicea",
+                        "suffix": null
+                    },
+                    {
+                        "first": "H.",
+                        "middle": [],
+                        "last": "Hora",
+                        "suffix": null
+                    },
+                    {
+                        "first": "J.",
+                        "middle": [],
+                        "last": "Kelly",
+                        "suffix": null
+                    }
+                ],
+                "year": 2000,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": "169",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": null,
+                "authors": [],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "BIBREF6",
+                "title": null,
+                "authors": [],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF7": {
+                "ref_id": "BIBREF7",
+                "title": null,
+                "authors": [],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF8": {
+                "ref_id": "BIBREF8",
+                "title": null,
+                "authors": [],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF9": {
+                "ref_id": "BIBREF9",
+                "title": null,
+                "authors": [],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "Fig. 1",
+                "type": "figure"
+            },
+            "TABREF0": {
+                "text": "Table 1",
+                "type": "table"
+            },
+            "FIGREF1": {
+                "text": "Fig. 2",
+                "type": "figure"
+            },
+            "FIGREF2": {
+                "text": "Figs. 3-5",
+                "type": "figure"
+            },
+            "TABREF1": {
+                "text": "Table 2",
+                "type": "table"
+            },
+            "FIGREF3": {
+                "text": "Fig. 6",
+                "type": "figure"
+            }
+        },
+        "back_matter": [
+            {
+                "text": "hsrearch was araly supotedb ganftm atiteE Eey, LC",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Acknowledgement"
+            },
+            {
+                "text": null,
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "References"
+            }
+        ]
+    }
+}

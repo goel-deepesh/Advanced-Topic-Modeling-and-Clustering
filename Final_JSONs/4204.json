@@ -1,0 +1,534 @@
+{
+  "metadata": {
+    "title": "Anomalous Heat Generation in Charging of Pd Powders with High Density Hydrogen Isotopes, (II) Discussions on Experimental Results and Underlying Physics",
+    "authors": [
+      {
+        "first": "A.",
+        "middle": [],
+        "last": "Takahashi",
+        "suffix": "",
+        "affiliation": [
+          "Technova lnc."
+        ],
+        "email": "akito@sutv.za.ne.jp"
+      },
+      {
+        "first": "A.",
+        "middle": [],
+        "last": "Kitamura",
+        "suffix": "",
+        "affiliation": [
+          "Kobe University"
+        ],
+        "email": null
+      },
+      {
+        "first": "T.",
+        "middle": [],
+        "last": "Nohmi",
+        "suffix": "",
+        "affiliation": [
+          "Kobe University"
+        ],
+        "email": null
+      },
+      {
+        "first": "Y.",
+        "middle": [],
+        "last": "Sasaki",
+        "suffix": "",
+        "affiliation": [
+          "Technova lnc."
+        ],
+        "email": null
+      },
+      {
+        "first": "Y.",
+        "middle": [],
+        "last": "Miyoshi",
+        "suffix": "",
+        "affiliation": [
+          "Technova lnc."
+        ],
+        "email": null
+      },
+      {
+        "first": "A.",
+        "middle": [],
+        "last": "Taniike",
+        "suffix": "",
+        "affiliation": [
+          "Technova lnc."
+        ],
+        "email": null
+      },
+      {
+        "first": "R.",
+        "middle": [],
+        "last": "Seto",
+        "suffix": "",
+        "affiliation": [
+          "Technova lnc."
+        ],
+        "email": null
+      },
+       {
+        "first": "Y.",
+        "middle": [],
+        "last": "Fujita",
+        "suffix": "",
+        "affiliation": [
+          "Technova lnc."
+        ],
+        "email": null
+      }
+    ],
+    "abstract": [
+      {
+        "text": "By our D(H) 2e区sw话5区epe 5 8060923092 2030D2 gas charge in the 1^{\\epsilon} phase (zero pressure interval) gave 20-90 $a \ngas charge. 2) In the 2^{\\cdot} phase of pressure rise (finally up to 1MPa), significant excess heat (about 2 kl/g-Pd) for D-gas charge was observed, while near zero bevel excess heat for H-gas charge was observed. We discuss the underlying surface and nano-particle physies in views of the enhanced surfuce adsorption potential by fractal sub-nano-scale trapping points on nano-Pd grain, the diffusion to inner shallknver Bloch potential of regular Pd lattice, and the drastic mesoscopic and isotopec effect of surface and lattice rearrungement of nano-Pd particle by full D(H)-absorption to make deeper DNH) trapping potentials (about 2eV for D).",
+        "cite_spans": [],
+        "ref_spans": [],
+        "section": "Abstract"
+      }
+    ],
+    "body_text": [
+      {
+        "text": "The aim, experimental apparatus, experimental procedure and observed results of deuterium (and protium) gas charging experiments with various nano-fabricated Pd powders are written in our paper by Sasaki to this meeting . The observed results for Pd/PdO/ZrC $\\cdot$ nano-composite samples (about 10 nm diameter Pd particles dispersed in about $7$ micron size ZrO, flakes) provided us a confirmation-trialf of Arata and Zhang experiment- and a very interesting performance of deuterium (D) and protium (H) absorption and exothermic energy generation-",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "l. Introduction"
+      },
+      {
+        "text": "The results by nano-Pd/ZrO, samples are very interesting since specific surface effects in adsorption and following absorption into inner \"lattice'\" sites look taking place to result in anomalously large stoichiometry values (x>1) of PdDx and deep trapping potential (or released energy). Compared with the results of 100nm Pd paricle-powders, 1Oum Pd particles dispersed in $\\mathrm{Z 1O}_{2}$ are regarded to have shown the drastic mesoscopic effects with isotopac difference.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "l. Introduction"
+      },
+      {
+          "text": "We summarized the integrated data of D(HyPd ratios, Heat per one-gram-Pd. Energy per D(H) atom absorption ( E_{1u} i and gas-flow rates, and results are given in Table-l of Reference-l (see also Ref.S). Furst we discuss the data for 1(Knm Pd-particle owders (D-PP ad H-PP runs in Tablel of Ref-1). Loading ratios, D(HNPd, are 0.43 and 0.44 respectively for deuterium (D) and protium (H) gas charging. Specific energies per absrbed D (or H) atom E_{| \\nu|} (or $\\DeltaH_{\\star}$)values are O.2deV/atom-D and 0.20eV/atom-H. When D(H) is absorbed in metal lattice, surtace adsorption works on D(H) molecule (or atom) first and D(H)-atoms diffuse into inner lattice sites (O-sites of Pd, usually) gradually. Figure 3* illustrates typical form of surface trapping potential and inner periodical (Bloch) trapping potentials.",
+          "cite_spans": [],
+          "ref_spans": [
+            {"text": "Figure 3*", "ref_id": "FIGREF0"}
+          ],
+          "eq_spans": [],
+        "section": "3. Results and Discussions for 1\" Phase Data"
+
+      },
+            {
+        "text": " $1^{a}$ phase and the second phase as we show typical data in Fig.1' .",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "l. Introduction"
+      },
+        {
+        "text": "The $1^{\\ast}$ phase is defined as the time-interval where reaction chamber (cell) keeps nominal \"zero' gas-curve in the $1^{-1}$ pressure. This means almost all $\\mathrm{{D ( H )}}$ -gas charged was absorbed by nano-Pd powders. Heat-power evolution\nphase may be regarded mostly by chemical reaction energy during the D(H)-gas absorption into nano-Pd powders, in the ponit of view of conventional chemistry. However, we may have a component of \"nuclear\"\" process that we discuss later. For determining a $1^{=}$ phase interval for heat-power evolution, we need to take a time-delay (about 1S minutes or three times of calorimetry time constant S minutes) into account', while the evolution of pressure has quick response.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "l. Introduction"
+      },
+      {
+        "text": "Trend of heat-power evolution in the second phase is very isotope dependent, as typical data is shown in `Fig.2'.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "2. Trend of Heat-Power Evolution"
+      },
+            {
+        "text": "The H-gas charge has given \"zero\" power level (sometimes negative integrated values according to a possible zero-level drift of calorimetry or due to possible de-oxidation of PdO by D(H) charge). Obviously, the D-gas charge to the Pd/PdO/ZrO: nano-composite sample gave much more heat-power than that of the H-gas charge, for (c), which effect laoks anomalously large compared to those by (a) and (b) and suggests a mesoseopic effect of Pd nano-particles on heat evolution, as discussed below.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "2. Trend of Heat-Power Evolution"
+      },
+      {
+        "text": "For known values in text book \\cdot . $\\mathbf{E_{H}}$ is about 0.5eV and $\\mathrm{E}_{0}, \\alpha$ is 0.23eV. The difference, F $=$ -E $t_{1}=1$ , is close to the energy released per D(H)-atom absorption in lattice and is about 0.25eV for balk Pd lattice. Observed $\\mathbf{E}_{\\mathrm{int}}$  $(\\, \\DeltaH_{s} \\, )$ values for 100nm Pd particle powder are near to this value of bulk Pd metal. Thus means that 10um Pd particle works as bulk-metal for D(H) absorption. We will see $\\mathbf{E}_{121}$ values for Pd-black and Pd/PdOZrO, nano-composite samples will have given much larger energies (deeper trapping potentials) to show the drastic mesoscopie effeets. For the definition of mesoscopic size, we consider a Pd grain having 2,000 to 20,000 of total number of atoms.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "3. Results and Discussions for 1\" Phase Data"
+      },
+      {
+        "text": "Next, we look integrated data for Pd-black samples (D-PB and H-PB runs) in Table-l of Ref.1. $\\mathbf{E}_{\\mathsf{L}}$ values in averages of runs are 0.70t0.15eV/atom-D and 0.69t0.10eV/atom-H. These values are significantly higher than the bulk value about 0.25eV. For the virgin runs (#1 runs), significantly high loading as PdC $b \\times1$ or PdH. uw were observed. However, for runs with used samples (#2, #3, #4 runs), loading ratios were as small as 0.23 in average. Nevertheless the specific $\\mathbf{E}_{| a |}$ values were observed as same as the virgin (#1) runs. This fact means that microscopic active adsorption sites on surface of used Pd-black are working in the same way as the virgin Pd-black sample, although effective area of active surface decreased to 1/3 or less.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "3. Results and Discussions for 1\" Phase Data"
+      },
+      {
+        "text": "Now we discuss the integrated data in the $1^{a}$ phases for Pd/PdO/ZrO: samples (D-PZ and H-PZ runs in Tablel of Ref.1). We observed heat-power levels were strongly dependent on the D(H) gas-flow rate. The larger gas-flow rate has trend to give the larger excess heat level in the $1^{-}$ phase, but the $1^{-}$ phase ends earlier than the ease of smaller flow rate. This is understood as the faster gas-flow meets faster saturation of D(H) absorption in powders. Therefore, to compare specific values of $\\mathbf{E}_{\\mathrm{int}}$ (released energy per D(H)-atom), D(HyPd (loading ratio) and heat fin kJ) per g-Pd is more appropriate to understand the underlying physics.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "3. Results and Discussions for 1\" Phase Data"
+      },
+      {
+        "text": "Our first surprise is that all measured loading ratios. D(HWPd values for the $1^{-1}$ phases are greater than 1.0, namely owerloading (x=l.l in average for PdD(H)x stoichiometry) in usual sense, even though the background gas pressure were nearly zero (near vacuum). This must be said as the drastic mesoscopic effect of $\\mathbf{D} ( \\mathbf{H} )$ absrption by the Pd nano-composite samples. For the known bulk Pd-metal, D H) atoms are trapped in Bloch potentials (see Fig.3) at O-sites for x<1.0. The observed anomalous data of x>1.0 should show that the aditional trappings at T-sites or surface happened by the mesoscopic effect (about S,000 Pd atoms existing in a Snm diameter particle).",
+        "cite_spans": [],
+           "ref_spans": [
+             {"text": "Fig.3", "ref_id": "FIGREF0"}
+          ],
+        "eq_spans": [],
+        "section": "3. Results and Discussions for 1\" Phase Data"
+      },
+      {
+        "text": "The data for specific released energy Ey, values are also anomalously large and isotope (D or H)-dependent These are 2.2-2.SeV/atom-D and 1.3-2.1eV/atom-H. Deuterium gives larger $\\mathrm{E}_{1u}$ values. These released energy values are 5-10 times of the conventional value 0.25eV for bulk Pd metal. These values are however dependent on gas-flow rate, and we need further investigation so far. As $\\mathbb{P Z}$ samples gave drastic mesoscopic effects, compared to the 10Dnm Pd powder we need further study by changing nano-Pd particle size.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "4. Excess Heat for the Second Phase"
+      },
+      {
+        "text": "In 'Fig.4' degassing data of Pd/ZrO sample is shown compared with that of Pd-black, under baking procedures. Note that the vertical seale of pressure is logarithmic. Clearly. $\\mathrm{Pd} / \\mathrm{Z rO}_{2}$ sample can very highly retain D(H) atoms even after the evacuation. The desorption process of nano-Pd grain is speculated to be very unusual. The LNH) retention of Pd/ZrO, sample seems about lo0-fold greater than that of Pd-black. This degassing results, showing peak at about 20\"C, also suggest that the D(H) trapping potential of Pd/ZrO: nano-composite sample is much deeper than that of bulk Pd lattice.",
+        "cite_spans": [],
+        "ref_spans": [
+          {
+            "text": "'Fig.4'",
+            "ref_id": "FIGREF1"
+          }
+        ],
+        "eq_spans": [],
+        "section": "4. Excess Heat for the Second Phase"
+      },
+      {
+        "text": "As summarized in Table-l of Ref-1, we observed positive excess heat in the $2^{\\mathrm{id}}$ phase of D-PZ series runs for virgin (#l run) samples (we tried three pairs of samples for simultaneous runs with D-gas by A1 (A2 for D-PZS) and H-gas by A2 (A1 for H-P26) cells). For the D-PZS run, D-gas cylinder dried out in the $2^{n 4}$ phase and gas-pressure decreased (we had leakage), so that excess heat phenomenon was not observed. For earlier two PZ runs, we observed clear excess heat, only for D-gas charging, 2.27 and 2.07kJ/g-Pd in the time interval of 1,600 minutes, respectively.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "4. Excess Heat for the Second Phase"
+      },
+      {
+        "text": "Now, we discuss about a possible chemical energy release by oxidation* of charged D(H)-gas, as samples contained PdO and ZrO: compoments. Already Fig.4' shows clearly D(H)-gas was mastly absorbed by Pd-grains in PZ samples, since Pd-black gave the same pattern of degassing. We have to consader a reduction of $\\mathrm{PdO}$ states followed by production of .D:O (xH:0) and PdD, (PdH,) states. The reaction energies $\\varrho_{0}$ and $\\varrho_{n}$ are evaluated to be (162.6xr + 70.0xy) kJ and (156.6xr + 58.0xy) kJ, respectively. For assumed values of $x=1-0$ and $y=0-1$  $\\varrho_{0}$ and $O_{n}$ are 0.84 - 0.73 eV/D and 0.81 - 0.6eV/H, respectively. These are too small to aceount for both the observed $E_{1}$ energies and the isotope effeets. Consequently, the main component of heat for a $1^{\\ast}$ phase cannot be due to the formation of water (D.0 or H.O) by the D(H)-gas charging to PdO nano-particles. A role of PdO surface layer of Pd-nano-partilce for making sub-nano-holes on surface under D(H)-chrage will be discussed in our future paper.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "4. Excess Heat for the Second Phase"
+      },
+      {
+        "text": "There might be an yet-unknown atomic/electronic process governing the phenomenon in the present mesoscopic system, or the concept of \"atom clusters\" might apply. However, it seems rather difficult to assume that such a large isotope effect is only in the electronic process of adsorption and/or hydride\ncould be a candidate mechanism responsible for the phenomenon.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "4. Excess Heat for the Second Phase"
+      },
+      {
+        "text": "A speculation for the underlying physies of the atomic \\mathbf{s} molecular-level cluster formation by Coulombic interaction of deuterons and electrons in metal-hydride and the strong nuclear interaction of multi-body deuteron interaction is illustrated in 'Fig.S', viewing the aspect from a few body system to more complicated multi-body systems, namely, cluster, mesoscopic and bulk lattice systems. The 4D/TSC theory predicts a time-dependent TSC trapping potential for a Coulombic interaction between four deuteron QM-waves and four electron QM-wavest",
+        "cite_spans": [],
+        "ref_spans": [
+           {
+            "text": "'Fig.S'",
+            "ref_id": "FIGREF2"
+          }
+        ],
+        "eq_spans": [],
+        "section": "4. Excess Heat for the Second Phase"
+      },
+      {
+        "text": "A speculated deep potential trapping deuterons (or protons) into \"local\" Pd lattice inside the mesoscopic nano-particle grain is considered to be a combination of a collective deep well potential (resembling shape to the nuelear Wxxds-Saxon potential) and a \"finite\" Blkch potenial of bulk Pd metal lattice. However the finite Bloch potential (locally periodical) is fomed at the bottom of the collecive deep well (See also 'Fig.3'). Particles (d or $\\mathbf{p}$ ) trapped in this \"mesoscopic potential\" will make a non-linear oscillation which magnifies the mobility (kinetic energy of trapped state) of deuterons (or protons) and enhances the cluster (especially 4D/ISC) frmation probability under a colective dynamies. Possible formation of sub-nano-holes on surface of Pd-particle may arrange places for TSC formation.",
+        "cite_spans": [],
+           "ref_spans": [
+             {
+              "text": "'Fig.3'",
+              "ref_id": "FIGREF0"
+             }
+           ],
+        "eq_spans": [],
+        "section": "4. Excess Heat for the Second Phase"
+      },
+      {
+        "text": "The formation of collective deep well potential and more mobile particle motion inside it will enhance the speed of D(H) adsorption on surface and absorption into grain. The observed high retention of D(H) by PdZrO, powder in vacuum will be also explained by such a mesoscopic potential. Nuclear strong interaction for simultaneous 3 and 4 deuterons in very condensed 4D/TSC is modeled-\" based on the pion-exchange model (Hideki Yukawa) and potential (Hamada-Johnston). The pion exchange force for many body interaction has been scaled by the unit of PEF.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "4. Excess Heat for the Second Phase"
+      },
+      {
+         "text": "2) In the $2^{\\mathsf{1}}$ 1) The D-eas charge in the $1^{-}$ phase (zero pressure) gave 20-90% excess heat than the H-gas charge.\nphase, significant excess heat (about 2 kJ/g-Pd) for the D-gas charge, while zero level for the H-gas charge, was observed.\n3) No increase of neutron counts was seen, neither increase of gamma-rays over natural backgrounds.\n4) D(HWPd ratios in the end of $1^{2 1}$ phase was x>1.0, namely over-loading (x=l.1 in average). Flow rate\ndependence of x-values should be investigated further. Nano-Pd dispersed sample (Santoku, PdZrO.) retained 100 times more D(H) atoms after evacuation, than the Pd-black case.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "5. Concluding Remarks"
+      },
+      {
+        "text": "For Pd/PdOlZrO: powders (Santoku-samples), we obtained results 1) through 4):",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "5. Concluding Remarks"
+      },
+      {
+        "text": "We discussed that there may be a strong mesoscopic effect by Pd-nano-particle, namely surface and lattice rearrangement probably makes deep D(H) trapping potentials (1.0-2.5eV) by a nonlinearly coupled vibration states, of trapped $\\mathrm{D ( H )}$ -particles, between a deep collective trapping well potential and a periodical Bloch potential.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "5. Concluding Remarks"
+      }
+    ],
+    "bib_entries": {
+      "BIBREF0": {
+        "ref_id": "BIBREF0",
+        "title": "Anomalous Heat Generation in Charging of Pd Powders with High Density Hydrogen Isotopes, (I) egx natahrianasrneacrnrcdrondnandea",
+        "authors": [
+          {
+            "first": "Y.",
+            "middle": [],
+            "last": "Sasaki",
+            "suffix": null
+          },
+          {
+            "first": "A.",
+            "middle": [],
+            "last": "Kitamura",
+            "suffix": null
+          },
+          {
+            "first": "Y.",
+            "middle": [],
+            "last": "Miyoshi",
+            "suffix": null
+          },
+          {
+            "first": "T.",
+            "middle": [],
+            "last": "Nohmi",
+            "suffix": null
+          },
+          {
+              "first": "A.",
+              "middle": [],
+              "last": "Tanike",
+              "suffix": null
+          },
+          {
+            "first": "A.",
+            "middle": [],
+            "last": "Takahashi",
+            "suffix": null
+          },
+          {
+            "first": "R.",
+            "middle": [],
+            "last": "Seto",
+            "suffix": null
+          },
+          {
+            "first": "Y.",
+            "middle": [],
+            "last": "Fujita",
+            "suffix": null
+          }
+        ],
+        "year": null,
+        "venue": null,
+        "volume": null,
+        "issn": null,
+        "pages": null,
+        "other_ids": {}
+      },
+      "BIBREF1": {
+        "ref_id": "BIBREF1",
+        "title": "The special report on research project for creation of new energy",
+        "authors": [
+          {
+            "first": "Y.",
+            "middle": [],
+            "last": "Arata",
+            "suffix": null
+          },
+           {
+            "first": "Y.",
+            "middle": [],
+            "last": "Zhang",
+            "suffix": null
+          }
+        ],
+        "year": 2008,
+        "venue": "J. High Temperature Sociery",
+        "volume": null,
+        "issn": null,
+        "pages": null,
+        "other_ids": {}
+      },
+      "BIBREF2": {
+        "ref_id": "BIBREF2",
+        "title": "Hydrogen and Metal (in Japanese)",
+        "authors": [
+          {
+            "first": "Y.",
+            "middle": [],
+            "last": "Fukai",
+            "suffix": null
+          },
+           {
+            "first": "K.",
+            "middle": [],
+            "last": "Tanaka",
+            "suffix": null
+          },
+           {
+            "first": "Y.",
+            "middle": [],
+            "last": "Uchida",
+            "suffix": null
+          }
+        ],
+        "year": 2002,
+        "venue": "Uchida-Roukakuho Pub., Tokyo",
+        "volume": null,
+        "issn": "4-7536-5608-X",
+        "pages": null,
+        "other_ids": {}
+      },
+      "BIBREF3": {
+        "ref_id": "BIBREF3",
+        "title": "Cold Fusion 2008- Mechanism of Condensed Cluster Fusion (in Japanese)",
+        "authors": [
+          {
+            "first": "A.",
+            "middle": [],
+            "last": "Takahashi",
+            "suffix": null
+          }
+        ],
+        "year": 2008,
+        "venue": "Kogakusha",
+        "volume": null,
+        "issn": "978-4-7775-1361-1",
+        "pages": null,
+        "other_ids": {}
+      },
+        "BIBREF4": {
+        "ref_id": "BIBREF4",
+        "title": "Study on 4D/TSC condensation motion by non-linear Langevin equation",
+        "authors": [
+         {
+            "first": "A.",
+            "middle": [],
+            "last": "Takahashi",
+            "suffix": null
+          },
+            {
+            "first": "N.",
+            "middle": [],
+            "last": "Yabuuchi",
+            "suffix": null
+          }
+        ],
+        "year": 2008,
+        "venue": "LENR Seree-Book 1",
+        "volume": null,
+        "issn": null,
+        "pages": "57-83",
+        "other_ids": {}
+      },
+      "BIBREF5": {
+        "ref_id": "BIBREF5",
+        "title": "Basies of deuteron cluster dynamics by Langevin equation",
+        "authors": [
+          {
+            "first": "A.",
+            "middle": [],
+            "last": "Takahashi",
+            "suffix": null
+          }
+        ],
+        "year": 2009,
+        "venue": "LENR Source-Book 2, American Chemical Society, Oxford University Press",
+        "volume": null,
+        "issn": null,
+        "pages": null,
+        "other_ids": {}
+      },
+      "BIBREF6": {
+        "ref_id": "BIBREF6",
+        "title": "Dynamie mechanism of TSC eondensation motion",
+        "authors": [
+           {
+            "first": "A.",
+            "middle": [],
+            "last": "Takahashi",
+            "suffix": null
+          }
+        ],
+        "year": 2009,
+        "venue": "J. Condensed Matter Nuclear Science",
+        "volume": "2",
+        "issn": null,
+        "pages": "33-44",
+        "other_ids": {}
+      },
+      "BIBREF7": {
+        "ref_id": "BIBREF7",
+        "title": "Anomalous effect in\ncharging of Pd powders with high density hydrogen isotopes",
+        "authors": [
+          {
+            "first": "A.",
+            "middle": [],
+            "last": "Kitamura",
+            "suffix": null
+          },
+           {
+            "first": "T.",
+            "middle": [],
+            "last": "Nobmi",
+            "suffix": null
+          },
+             {
+            "first": "Y.",
+            "middle": [],
+            "last": "Sasaki",
+            "suffix": null
+          },
+             {
+            "first": "A.",
+            "middle": [],
+            "last": "Tanike",
+            "suffix": null
+          },
+           {
+            "first": "A.",
+            "middle": [],
+            "last": "Takahashi",
+            "suffix": null
+          },
+           {
+            "first": "R.",
+            "middle": [],
+            "last": "Seto",
+            "suffix": null
+          },
+          {
+           "first": "Y.",
+           "middle": [],
+           "last": "Fujita",
+           "suffix": null
+         }
+        ],
+        "year": 2009,
+        "venue": "Physies Leters A",
+        "volume": "373",
+        "issn": null,
+        "pages": "3109-3112",
+        "other_ids": {}
+      }
+    },
+    "ref_entries": {
+      "FIGREF0": {
+        "text": "Imuge of D(H) trapping potentials at surface adsorption (depth $\\mathrm{E_{1}}$ ) andlatice ahsarpion (depth $\\mathbf{E}_{\\mathbf{t}_{0} \\mathbf{u}}$ ; trapped D(H) atam diffuses gradually into inner Bloch trapping patentials through the QM tunneling. Afier full loading {x=l for PdDx), rearrangement of Pd lattice may happen to make shallower potentials for bulk Pd (left figure), while nano-Pd gruin in ZrO, flake will have a specific mesoscopic potential (right figure) which reflects a non-linear combination of a cernrerntrnrurnunu ru nDr",
+        "type": "figure"
+      },
+      "FIGREF1": {
+        "text": ". De-gassing data for Pd/ZrO.(Santoku)-sumple compared with that for Pd-black, Santoku-sumple retains 100 times D(lH)-atos, presumably by its very deep trapping potentials of the mesoscopic effect of dispersed Pd-nano particles",
+        "type": "figure"
+      },
+      "FIGREF2": {
+        "text": ". Speculation of potential change from a few body interaction to cluster, mesoscopic grain and bulk lattice of metal-deuterium {-protium) system, buth for Coulombic and strong nuclear interaction. The propused condensed cluster fusion is speulte t abe plase for the clustet, mnesoscopic grain systems and near-surface of bulk metal as Pd.",
+        "type": "figure"
+      }
+    },
+    "back_matter": []
+  }
+}

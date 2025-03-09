@@ -1,0 +1,388 @@
+{
+    "metadata": {
+        "title": "Excess Energy Release During Na Metal Dissolution in a Dilute Epsom (MgSO4\u00b7 7H2O) Solution",
+        "authors": [
+            {
+                "first": "Arunachalam",
+                "middle": [],
+                "last": "Lakshmanan",
+                "suffix": null,
+                "affiliation": [
+                    "Saverha Enginering Coflege, Chenuat 602J0S, Imdla"
+                ],
+                "email": null
+            },
+            {
+                "first": "Arunachalam",
+                "middle": [],
+                "last": "Lakshmanan",
+                "suffix": null,
+                "affiliation": [
+                    "Saverha Enginering Cufiege, Chemal 602105, Indla"
+                ],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": "During sodium metal disolution in aqueous Epsom salts, it was accidentally discovered that a massive explosion oocurs in 0.85 M Epsom splution on the completion of Na dissolution. Borosil glass vaparizes at temperatures = 1000'C. This fact indicated that a very high temperature has indeed been reached in this experiment. The timing of the explusion (20- 25 s after Na addition) indicated that hydragen somehaw got trupped in cavitation induced meta-stable nano-crystals. The excess energy release coukd not be explained by comventional hydrogen cwmbustion in ait. One must therefore look elsewhere for an cxplanaion of the process behind the excess energy release.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "rate is peaceful but the rate of dissolution is quite low even at low salt concentrations (1.7-3.8 M) since Mn and Ni react very slowly with water. Based on a detailed study with many salt solutions, it was concluded that high enthalpy of formation of crystal and high molarity are two other factors, which favor peaceful dissolution of Na [3].",
+                "cite_spans": [
+                    {
+                        "text": "[3]",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "On the suggestion of a reactor chemist to cut down the cost, we tried a dilute Epsom solution (0.85 M) to dissolve Na. The Na dissolution indeed proceeded peacefully as with 2 M solution for about 20-30 s since Na addition. The formation of a small quantity of white Mg(OH), precipitate in the glass beaker could be seen visually thereby confirming the Na dissolution process. However, at the end of Na dissolution, i.e., 30 s after Na addition, an intense and massive explosion cccurred, accompanied with Na aerosol release and a shock wave as well as vaporization of Borosil glass beaker containing salt solution. The explosion attracted the attention of everyone in the building due to its high intensity, even people in rooms far from the one where the experiment was carried out. Molten glass needles flew all around, making holes too small to be seen with the naked eye in two plastic water bottles at two different locations about $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\textit{2}$ m from the explosion. I was standing 4-5 m from the cell when it exploded. The needles seratched my hand. Borosil glass vaporizes at temperatures = 1000\"C. This fact indicates that a very high temperature has indeed been reached in this experiment. The timing of the explosion (20-25 s after Na addition) is prime fuacie evidence that hydrogen somehow got trapped in the solution. A normal hydrogen explosion accurs within 5-10 s after Na addition in dilute salt solutions, and the intensity of a normal explosion is not sufficient to vaporize the glass beaker. It merely breaks it into a few pieces. This situation was quite different. Despite the massive energy release, the stirrer was not damaged. lt continued to rotate, which indicated that the energy was released outwardly. It was also noted that the bottom of the glass beaker which was placed on a wooden stool did not vapxrize. This showed that the plasma-like condition was reached only on the side walls of the glass beaker, since a container free condition could be reached only on its sides. At the battom, this condition could not be reached due to the presence of the wooden stool which acted as a heat absotbe. Therefore, in future, experiments researchers should take note of the geometry and material of the container. Another parameter which needs to be standardized is the Epsom salt concentration. This is critical. An excess of salt would result in peaceful Na dissolution while a lack of salt concentration would result in premature Na-H2O reaction. It was found that to trigger the excess energy release, the 2Na => Mg exchange reaction in cavitation induced crystals as well as Na-H2O reaction should take place with equal probability. That can occur only at a critical Epsom salt coacentration which exactly coincided with the salt concentration (O.85 M) used in the experiment. The role of serendipity (accidental discovery) in the development of science cannot he overlooked. Such a massive release of energy, which could not be explained away easily by chemical means, calls for a close scrutiny of the process behind it.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "One can imagine a series of successive experiments done at 1.9 M., 1.8 M .. The thought is that one might see an increase in energy release along the way prior to where the system explodes. If so, then this might be important in that it could provide a \"safe\" ersion of the experiment which begins to show anomalous behavior.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The fact that the amount of sodium that could be dissolved peacefully increases with the salt content in an Epsom solution is a clear indication that sodium is dissolved mainly in the salt rather than in water. If sodium-water is the major or only mode of reaction, sodium solubility should not depend on the salt content at these relatively low molar concentrations. In contrast, in the NaOH solution, in which sodium reacts with water at all salt concentrations, for a given water content, the sodium solubility has been found to decrease with increasing salt content. This is expected from the redluced availability as well as reduced thermxdynamie activity of water at such high salt corcentrations. In an Epsom solution, a chief reason why sodium prefers to displace host metal rather than reacting directly with water is the difierence in the rates of these two reactions. The Na-metal exchange reaction rate in Epsom is fast at the crystalloid",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "Sodium metal dissolves peacefully in concentrated Epsom solution (>1.6 M) when it is stirred in open air. This technique ofers several advantages for alkali metal dissolution as well as for alkali metal (Na, K, Li, ete.) firefighting since the end products are ecofriendly. Sodium dissolution in dilute Epsom solutions ( :0.7 MM) can, however, be hazardous due to the onset of highly exothermic and violent Na-H2O reaction. Intermediate concentrations offer interesting possibilities of hydrogen trapping in cavitation induced metastable nano-crystals. The massive explosion witnessed in 0.85 M Epsom solution accompanied by the vaporization of the entire glass beaker containing the solution at the end of sodium metal dissolution could not be explained away by simple hydrogen combustion; the massive excess energy released as a burst deserves to be understood in detail-",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Condusion"
+            },
+            {
+                "text": "The evidence presented here is circumstantial. We will not know for sure how much energy is produced until the experiment is reproduced many times and the energy release is measured with adequate calonmetry. The energy balance assembled in this work is useful only in as much as it provides a reference energy balance under the interpretation prowided. This is not prof that the energy matches the numbers, or in fact is anomalous at all. There is the need to carry out the experiment in an appropriate calorimeter. The author is hoping to get support from funding agencies to cany out appropriate replication experiments in the future, and that such follow on experiments are very important to confirm that the energy produced really is anomalous. There is also the need to confirm if the anomalous energy release occurs only at a particular (0.85 M) salt concentration. lf the increase in energy release is gradual as the salt concentration is decreased from 2 to 0.85 M, it could provide a \"safe\" version of the experiment in the concentration at which the anomalous behavior begins. A still better approach would be to develop a fuel cell with a continuous flow of Epsom solution having appropriate salt concentration with another flow of molten Na metal to produce continucus excess heat energy similar to the heat production in Ni-H systems repoted by Focardi et al. [(8).",
+                "cite_spans": [
+                    {
+                        "text": "(8)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Condusion"
+            },
+            {
+                "text": "dissolution turned very violent. Intense sodium sputtering, sodium fire and sdium aerosol release were observed in all three cases. When the concentration of the Zn(NO3)2-6H-0 solution was decreased to 45% of its solubility limit (molarity = 2), intense explosion was observed once sodium was added to the solution under stirring condition since Na reacted freely with water to produce intense hydrogen. A common feature with the above salts is that those metals, i.e., Cu and Zn do not reaet with water, unlike Mg, and thus sodium-cation exchange reactions becomes energetically unfavorable. This view is confirmed from the fact that in MnSC $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\frac{}{}$ and NiSO4 aqueous salt solutions, sodium dissolution",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental Results"
+            },
+            {
+                "text": "Figure 2 shows the results obtained on Na metal dissolution in Epsom (righr) as well as NaOH (lefi) solutions. The solution temperature was constantly monitored with a Ch-Al thermocouple wire inserted into the solution in such a way that it does not disturb the stirring. In both cases the solution temperature raises during Na dissolution carried out under stirring condition in air. Hydrogen gas is released in both cases and a blue fiame due to hydrogen burning in air ower the beaker is witnessed at times. In the case of NaOH solution, the rise in solution temperature is faster with increasing water content. This is only to be expected because Na reacts with water and hence with increasing water content, the Na dissolution rate is faster. The Na dissolution rate is very slow if the water content is low as seen from the very slow rise in solution temperature (Fig. 2a, lef). In fact the Na metal could be seen to rotate for more than a minute till it is dissolved completely in the latter case. In contrast, Na dissolution is quite swift with Epsom solution at all concentrations above a threshold limit as witnessed from the quick rise in solution temperature irrespective of its water content (Fig. 2a, righr). This result shows that the mechanisms of Na metal dissolution in the two solutions are quite different.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental Results"
+            },
+            {
+                "text": "Another notable difference between the NaOH and Epsom solutions was on the sodium solubility limits. In an Epsom solution, for a given water content (- 100 mL), the amount of sxdium that could be dissodved peacefully increased from 6 to 10.5 g when the molar concentration was increased from 1.4 to 1.8 M. The above solubility limits were arrived at on the basis of observation of sodium fire initiated by sodium-air reaction with further addition of sodium. In contrast in the NaOH solution, for a given water content (--120 mL), the Na solubility was found to decrease from about 30 to 15 g when the molar concentration was increased from 8 to 12 M as expected from the reduced availability as well as reduced thermodynamic activity of water at such high salt concentrations. The sodium solubility limit in this case was arrived at on the basis of NaOH salt reaching its solubillty limit in water, i.e., further sodium addition resulted in NaOH precipitation. More details of this work can be obtained from reference [1].",
+                "cite_spans": [
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental Results"
+            },
+            {
+                "text": "Na dissolution was also carried out in several other aqueous salt solutions and the results obtained are as follows. ln concentrated Zn(NO3}2-6H20, Zn SO4 and CuCl2.2H20 (85% solubility limit, molarity = 3) solutions, sodium",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental Results"
+            },
+            {
+                "text": "proceeds in a controlled and peaceful manner in concentrated Epsom solution. In pure 2 M aqueous Epsom solution, the above reaction lasts for about 15-20 s as evidenced from the hydrogen released, which usually ignites in air abowe the glass beaker in which sodium is dissolved. But for the above slow and controlled release of Mg atoms from the crystalloids into the solution, the Mg-HpO reaction would also have proceeded quite quickly, resulting in an explosion similar to that of Na-h \u00b7 O reaction.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Na dissolution in dilute Epsom solution and hydroge rapping"
+            },
+            {
+                "text": "The situation with the massive explosion in 0.85 M solution on the completion of Na dissolution (20-25 s afier Na addition) is completely different and calls for a different explanation. First of all, the massive energy burst was an accidental discovery - serendipity! At high Epsom concentration (= 1. 6 M), 2Na-Mg cation exchange reaction and at low concentation (\u00b7 0.7 M) Na-H2O reaction occur. At 0.8S M Epsom concentration both the reactioas mentioned above are shown to take place with equal probability [3]. Borosil glass vaporizes at temperatures \u00b7 1000\"C. This fact indicated that a very high temperature has indeed been reached in this experiment The timing of the explosion indicated that hydrogen somehow got trapped in the cavitation induced metastable nanccrystals. This means that instead of a 2Na-Mg ecation exchange, a 2H-Mg exchange seems to have taken place. A cage meant to trap a mcssive elephan (Nat ions) instead trapped the elusive panthers ($H^{+} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\i o n s $) L Towards the end of sodium dissolution in the 0.85 M Epsom solution, iLe -25 s from the start, the oniginal aim of dissolving sodium in a dilute aqueous solution of Epsom salt at room temperature appears to have been almost achieved at less cost than in the standard solution.",
+                "cite_spans": [
+                    {
+                        "text": "[3]",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Na dissolution in dilute Epsom solution and hydroge rapping"
+            },
+            {
+                "text": "embryo level which grows quickly to nano- or even micro-crystals due to stimulation by cavitation. In comparison, the Na-H2O reaction rate is slowed down because the water molecules are continuously engaged in hydrolyzing these crystalloids formed while stirring the solution. If an ionic solid is to dissolve, some energy is needed to overcome the force of inter-ionic attraction. If water is the solvent, this energy is supplied by the interaction of water molecules with the ions of the solute.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cavitation-induced crystallization"
+            },
+            {
+                "text": "There remains a question as how such tiny (micro- or nano-sized) Epsom crystalloids are formed in under-saturated solution. It is known that a reduction in pressure by rotation can cause water to boil even at room temperature, leading to cavitation-induced erystals. Such cavitation events occurring in ship propellers damage the propeller. Crystal formation due to cavitation has been attrib of factors such as: (i) local temperature increase, ii) pressure changes leading to rapid cooling rates ( $10^{7} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\! \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\!-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\! 10^{10} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{ K ~ s^{-1} }$ i and iil) concomitant shockwaves [4]. Local hot spots can vaporize the solution and can turm an under-saturated solution into a super-saturated one, thereby promoting crystal formation. However, the application of Bernoulli's equation in this case has shown that cavitation occurs in the Epsom solution not because of stirming but because of exothermicity arising during the exothermic reaction of Na2O layer surrounding the Na metal, followed by exothermic sodium metal dissolution. These local boiling spots are distributed throughout the solution by the stiring. Due to the small size of the stirrer blades (a few centimeters) the pressure drop is too $(>-27.5$ small to cause boiling of water at room temperature despite the high speed (10) rpm). In ntrast, rotation of water stream for e.g., by a ship propeller of 8 m diameter with a tip velocity higher than 40 m $s^{-1}$ ereates a high vacuum\ninch Hg) due to its larger length (a few meters); this pressure drop is large enough to cause boiling even at room temperature, despite the relatively low speed of rotation (100 rpm). This is conventional cavitation. But in this experiment, the highly exothermic Na reactions cause local hot spots which lead to cavitation-induced meta-stable crystals. This is known as steam cavitation. A recent study shows that if a steam bubble is introduced in a cold-water pool, due to a fast condensation of the steam from the surface of this bubble, a phenomena similar to the cavitational collapse of the bubble occurs. The steam bubble cavitation process was found to be more efficient compared to conventional processes because of the elimination of intermediate energy [5]. A recent study confirms that gas bubbles formed by absorbing the heat of vaporization from surrounding environment can be used to tailor the kineties of the nucleation and growth of inrganic nano-crystals in a colloadal synthesis [6]. In this experiment, gas bubbles generated from boiling solvents under atmospherie pressure (or under vacuum) were shown to facilitate the formation of iron oxide nano-crystals. Artificial argon bubbles could also replace the solvent gas bubbles in controlling the nucleation and growth of iron oxide nano-crystals.",
+                "cite_spans": [
+                    {
+                        "text": "[4]",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "text": "[5]",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "text": "[6]",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cavitation-induced crystallization"
+            },
+            {
+                "text": "lt should be emphasized that cavitation in this work primarily causes the formation of metastable crystals, and not in the production of high temperatures directly. This is unlike earlier work in which it was postulated that eavitation alone (during the process of gas bubble implosion using ultrasonic sound waves) can directly lead to the generation of very high temperatures required for nuclear fusion [7]. The fact that Na dissolution proceeds peacefully in Epsom solution clearly indicates that the Na-H2O reaction rate is slowed down by the cavitation process and the hydrogen production rate is controlled with controlled release of Mg atoms from the crystals by 2Na $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Leftrightarrow\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{M}_{8}$ exchange reaction as shown in Table 3a,b. Before the Na-H.O reaction commences, or during its early onset, the cation-exchange reaction becomes the predominant mode of Na-dissolution in a concentrated Epsom solution. Although the rate of reaction of Mg with water is slow when compared to Na, all the Mig atoms expelled do not react with water instantly since a porion of Mg atoms released could get trapped again and again in the MgSO4 crystalloids, additively similar to what happens to the sodium atoms in Na,SO4 crystals formed due to cavitation, as depicted in Table 3c. Such a retrapping process would slow down the release of Mg atoms into the salt solution. The Mg atoms displaced will react relatively slowly with water to form Mg(OH)2 and hydrogen until all the Mig atoms are released into the solution. Thus the sodium dissolution",
+                "cite_spans": [
+                    {
+                        "text": "[7]",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cavitation-induced crystallization"
+            },
+            {
+                "text": "problems those include poor visibility, inability to apply from distance, etc. Sodium when cooled to room temperature solidifies and sticks to reactor components. During the routine operations, cleaning of reactor components containing residual sxdium is essential. Presently used methods such as removal of Na by melting it with acetylene torch have prowed to be highly cumbersome and ineffective in many situations. To address these problems, we developed an aqueous system based on Epsom salt (MgSO4.7H2O). Concentrated aqueous solutions of this salt were found to be highly effective in dissolving Na metal peacefully. When applied through a high-speed water jet, the Epsom solution easily remowes Na sticking to metal components. This solution could also serve as an effective liquid fire extinguisher in Na firefighting. Tiny droplets of this salt solution were found to be very effective in neutralizing Na aerosol generated dunng Na fire. The byproducts obtained during this application, namely Mg(OH)2 and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{Na_{2} S O}_{4}$ are highly ecofnendly (unlike the case with the presently used 10 M NaOH solution) and hence the entire firefighting or cleaning operation could be carried out in air in open conditions. The only precaution to be taken is the production of hydrogen whose concentration should be controlled through proper ventilation ow by other means.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental Results"
+            },
+            {
+                "text": "Following the lead of France in fast-breeder reactors, most countries use 10 M NaOH solution for Na disposal duning decommissioning of fast reactors. The ationale behind selecting NaOH was the end product obtained due to Na-H $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\frac{}{}$ O reaction is also NaOH, which is water soluble, so no new byproduct is formed. But this work must be carried out in closed environment since NaOH is highly corrosive. In any case it cannot be used for Na-firefighting in open conditions because NaOH solution is highly alkaline and corrosive [1].",
+                "cite_spans": [
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental Results"
+            },
+            {
+                "text": "While the application of concentrated aqueous Epsom solution (2>1.3 M) under stiing conditions or through high-speed water jets was found to be highly effective in dissolving Na metal peacefully, very dilute solutions (&0.7 M) resulted in an instant explosion due to the hydrogen released through highly exothermic Na-h \u00b7 Oreaction. Intermediate salt concentrations (0.7-1.3 M) offer challenging possibilities of hydrogen production by Na-H20 as well as Mg-HyO reactions and the trapping of hydrogen. This occurred at a critical Epsom salt concentration in cavitation-induced nano-crystals in a glass beaker. It is the subject of this paper, and a matter of great interest.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental Results"
+            },
+            {
+                "text": "The paper is divided into two parts. The first part deseribes the experiment, which involves the dissolution of Na metal in aqueous Epsom solution at different salt concentrations. The second part describes the plausible theory behind excess energy release and its applications for electrical power production.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental Results"
+            },
+            {
+                "text": "Dissolution of Na metal in aqueous salt solution is tricky because Na usualy filoats in the solution. When comes in contact with air, molten Na catches fire and produces Na aerosols, both of which are highly dangerous. An encyclopedia report suggests that Na metal wets effectively solid powders in molten condition under stirring condition provided us the clue to owercome this problem. First of all, stirring a liquid solution is easy. Secondly, reaction of Na metal and Na2O with water is exothermic and hence no extemal heating is essential. For example the thin Na2O layer surrounding Na metal reacts with water exothemically to heat up Na metal and melt it through the reaction, $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{N a_{2} O}+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{H_{2} O} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Leftrightarrow$ 2NaOH. Stirring helps in distributing the heat uniformly in solution. Thus Na metal dissolution could be easily carried out under vigorous stirning condition t - -800-1000 rpmy in a glass beaker containing Epsom solution. A commercial Remi external mixer was used for stirring purposes. Figure I shows the typical experimental set-up used. Before stirring, the Epsom solution (2 M) is crystal clear. After stirring the solution tums milky due to tiny bubbles fiormed by entrapped air and dissolved gas. The tiny bubbles caused by vapxrous cavitation and occurring extremely rapidly, in a microsecond time scale are not visible to naked eye especially under turbid conditons. Elsewhere, such cavitation bubbles generated by a 193 nm ArF excimer laser beam delivened with a specially designed tip into absorbing NaCl solution were found to have a life time of 80 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu s$ with a maximum bubble diameter of about 1 mm when imaged with flash photomicrography with CCD camera [2]. Cavitation depends on the purity of water. Pure water can withstand considerable low pressure without undergoing cavitation. However, in salt water, cavitation inception occur easily at",
+                "cite_spans": [
+                    {
+                        "text": "[2]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "Na_{2} O+H_{2} O \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Leftrightarrow 2NaOH",
+                        "latex": null
+                    }
+                ],
+                "section": "Experimental Results"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "A.R.",
+                        "middle": [],
+                        "last": "Lakshmanan",
+                        "suffix": null
+                    }
+                ],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Turovets",
+                        "suffix": null
+                    }
+                ],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": "lnfinite Eneryy",
+                "authors": [
+                    {
+                        "first": "A.R.",
+                        "middle": [],
+                        "last": "Lakshmanan",
+                        "suffix": null
+                    }
+                ],
+                "year": 2008,
+                "venue": null,
+                "volume": "81",
+                "issn": null,
+                "pages": "41",
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": "Steam bubble cavitatian",
+                "authors": [
+                    {
+                        "first": "A.V.",
+                        "middle": [],
+                        "last": "Mahulkar",
+                        "suffix": null
+                    }
+                ],
+                "year": 2008,
+                "venue": "AJChE J.",
+                "volume": "54",
+                "issn": null,
+                "pages": "1711",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": "Cavitation: A technology on the horizom",
+                "authors": [
+                    {
+                        "first": "P.R.",
+                        "middle": [],
+                        "last": "Gogate",
+                        "suffix": null
+                    }
+                ],
+                "year": 2006,
+                "venue": "Carrent Sci.",
+                "volume": "91",
+                "issn": null,
+                "pages": "35",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": "Gas-Bubble Effects on the\nFermiation of Colloidal lron Oxide Nanocrystals",
+                "authors": [
+                    {
+                        "first": "Jared",
+                        "middle": [],
+                        "last": "Lynch",
+                        "suffix": null
+                    }
+                ],
+                "year": 2011,
+                "venue": "Am Chem- Sc.",
+                "volume": "133",
+                "issn": null,
+                "pages": "12664-12674.",
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "BIBREF6",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "R.P.",
+                        "middle": [],
+                        "last": "Tabeyarkhan",
+                        "suffix": null
+                    }
+                ],
+                "year": 2002,
+                "venue": "Science",
+                "volume": "295",
+                "issn": null,
+                "pages": "1868-1873.",
+                "other_ids": {}
+            },
+            "BIBREF7": {
+                "ref_id": "BIBREF7",
+                "title": "Large excess heat producbion in Ni-H systems",
+                "authors": [
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Focardi",
+                        "suffix": null
+                    }
+                ],
+                "year": 1998,
+                "venue": "L Nino\nCimento",
+                "volume": "111 A",
+                "issn": null,
+                "pages": "1233-1142.",
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "TABREF0": {
+                "text": "A simplified picture of the Epoom salt solution before (10M1gSOy - 4at and afier sodium dissolucion ( 8Mg S O_{4} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, 2Na_{2}SO_{4}-( b )) an the 2 M standard solution under vngarcus rotaion recommended foe sodium dispasal. Exchange of Na with Mg ukes place by 2Na-Mg exchange reaction. The dissdutica process of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathsf{M}_{S}$ atoms in MgSOy in what is knomn as addkive reaction ic) slows down the reactica nate and thas is haw Na dissclution proceeds peacefully in 2M Epom solutica.",
+                "type": "table"
+            }
+        },
+        "back_matter": []
+    }
+}

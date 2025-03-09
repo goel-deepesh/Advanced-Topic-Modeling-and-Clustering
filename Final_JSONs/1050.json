@@ -1,0 +1,649 @@
+{
+    "metadata": {
+        "title": "Scarch for cold fusion using x-ray detection",
+        "authors": [
+            {
+                "first": "M.",
+                "middle": [
+                    "R."
+                ],
+                "last": "Deakin",
+                "suffix": "",
+                "affiliation": [
+                    "Depurtment of Chemistry, Flovida State Lnversiry. Tallahassee. Florida 32306"
+                ],
+                "email": null
+            },
+            {
+                "first": "J.",
+                "middle": [
+                    "D."
+                ],
+                "last": "Fox",
+                "suffix": "",
+                "affiliation": [
+                    "epurtrient of Physies. Floride State Unersity. Tallahassee, Florida, J2306"
+                ],
+                "email": null
+            },
+            {
+                "first": "K.",
+                "middle": [
+                    "W."
+                ],
+                "last": "Kemper",
+                "suffix": "",
+                "affiliation": [
+                    "epurtrient of Physies. Floride State Unersity. Tallahassee, Florida, J2306"
+                ],
+                "email": null
+            },
+            {
+                "first": "E",
+                "middle": [],
+                "last": "Myers",
+                "suffix": "",
+                "affiliation": [
+                    "epurtrient of Physies. Floride State Unersity. Tallahassee, Florida, J2306"
+                ],
+                "email": null
+            },
+            {
+                "first": "W.",
+                "middle": [
+                    "N."
+                ],
+                "last": "Shelton",
+                "suffix": "",
+                "affiliation": [
+                    "epurtrient of Physies. Floride State Unersity. Tallahassee, Florida, J2306"
+                ],
+                "email": null
+            },
+            {
+                "first": "G.",
+                "middle": [],
+                "last": "Skofronick",
+                "suffix": "",
+                "affiliation": [
+                    "epurtrient of Physies. Floride State Unersity. Tallahassee, Florida, J2306"
+                ],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": "A search for x rays excited by charged-particle fusion products in a Pt-Pd electrolytic cell with Li-D:O electrolyte is reported. Electrolytic londing of the palladium cathode was found to be 0,S deuterium atoms per Pd atom. No x rays above background were detected and the fusion rate was inferred to be less than  $1. 6 \\\\\\\\\\\\\\\\\times 1 0^{-2 0}$ fusioms/(sec deuteron).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Reports of \"cold\" deuteron fusion have been based on the detection of excess heat from electrolysis cells' or neutrons from electrolytic cells and solids loaded with deuterium gas.- The paper by Flcischmann and Pons and carlier news releases to the press aroused considerable interest in the scientific community and the public. A lurge power gain was reported from an clcctrochemical ccll consisting of a Pd cathode and a Pt anode operating in a Li+D:O solution. The paper by Jones eral. * reported low-level emission of neutrons from an electrochemical cell with similar eclectrodes but using a more complicated solution of sults dissolved in deuterated water. Since confirmation of the observation of cxcess hcat production will not, in itself, address the muclear fusion issue suggested by Fleischmann and Pons, we have attempted to fnd a signature of nuclear events in an clectrochemical cell. Reported neutron production levels are far below those expected if deuteron fusion were producing the reported heat excess. Alterative mechanisms for encrgy production have been considered from among the nuclear reactions normally regarded us responsible for fusion:",
+                "cite_spans": [
+                    {
+                        "text": "'",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "text": ".-",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "*",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "where the numbers in parentheses are the laboratorv energies of the reaction products in MeV. Rcactions $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hat{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omicron}$ and (2) are the usual deuteron fusion renctions observed in which the resulting energy appears as the kinetic energy of the fragments. Reaction (3) has been considered by somc authors since tritium occurs in dcutcrated watcr. Reaction (4) has been considered as onc in which energy results but neutrons are not produced. All the reactions listed except reaction (4) are commonly observed in the laboratory and their cross sections have been measured to energies as low as about 10 keV in the center-of-mass system.' $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{A}$ number of scurches for heat excess and nuclcur reaction products have been unsuccessful-' and have sct severe limits on the probability of \"cold fusion.\" Several authors have criticized the experimentul techniques of Fleischmann and Pons.",
+                "cite_spans": [
+                    {
+                        "text": "'",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "text": "-'",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "text": ".",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "This Rapid Communication reports a search for evidence of charged particle production in an electrochemical cell by detecting characteristic x rays of Pd which result from $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\kappa$ shell vacancies produced by fast protons in a Pd cathode. The measurement is motivated by the possibility that at room temperature, reaction (1) could have a much larger cross section than reaction (2). even though at IO keV the cross scctions for the two rcactions are about equal.'",
+                "cite_spans": [
+                    {
+                        "text": "'",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "An electrochemical cell was constructed for our experiment as shown in Fig. 1. The cell was made of Pyrex glass, provided with a thin blowa Pyrex window and thcn",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [
+                    {
+                        "text": "d + d - t ( 1. 0 0 8 ) + p ( 3. 0 2 5 ) ; ,",
+                        "latex": "$$d \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\!+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\! d \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\!-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\! t ( 1. 0 0 8 ) \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\!+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\! p ( 3. 0 2 5 ) \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\;, \\\\\\\\\\\\\\\\\tag{1}$$"
+                    },
+                    {
+                        "text": "d+d ->^{3} ! {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{He}} ( 0. 8 1 7 )+n ( 2. 4 5 2 )",
+                        "latex": "$$d+d \\\\\\\\\\\\\\\\\rightarrow^{3} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\! {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{H}e} ( 0. 8 1 7 )+n ( 2. 4 5 2 ) \\\\\\\\\\\\\\\\\tag{2}$$"
+                    },
+                    {
+                        "text": "d+t ->^{4} ! \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{He} ( 3. 5 1 4 )+_{n} ( 1 4. 0 5 6 ) ; ,",
+                        "latex": "$$d+t \\\\\\\\\\\\\\\\\rightarrow^{4} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\! \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{H}e ( 3. 5 1 4 )+_{n} ( 1 4. 0 5 6 ) \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\;, \\\\\\\\\\\\\\\\\tag{3}$$"
+                    },
+                    {
+                        "text": "d+d ->\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{}^{4} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{He} ( 0. 0 7 6 )+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma( 2 3. 7 7 2 ) ; ,",
+                        "latex": "$$d+d \\\\\\\\\\\\\\\\\rightarrow\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{}^{4} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{H}e ( 0. 0 7 6 )+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma( 2 3. 7 7 2 ) \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\;, \\\\\\\\\\\\\\\\\tag{4}$$"
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "clcaned with distilled water, rinsed with isopropyl alcohol, and dried in vacuum. The clectrolyte used was a DyO solution, prepared by cutting a piece of lithium metal to the correct volume so that it would form a O.lAf solution when added to the D-O. The lithium had been stored in ol and was cleaned in toluene and dried under nitrogen before dissolving. After the roquisitc amount was dissolved and the stock solution was madc, ss 25 ml of the electrolyte was put in the cell and a current $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{o f} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\approx6 0$ mA maintained. The current density was -= 300 mA/cm\". The Pd foil cathode was $5 \\\\\\\\\\\\\\\\\times1 0^{-3}$ em thick and s $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda}$ em- of foil area was viewed by the x-ray detector through the thin window.* All operations were carried out at room temperature, and the cell temperature and current were monitored. However, calorimetry on the cell was not attempted.",
+                "cite_spans": [
+                    {
+                        "text": "*",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The echelinzato cos s ecion o/ d19%1072 em- for fast protons (averuged from 3 to 1.75 MeV).' The cross section for $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\kappa$ shell vacancy production becomes very small below 1.75 MeV. The 21 keV palladium $K \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\pi$ rays can pass through the thin-cell window and are casily dctected in a small silicon x-ray detector.* The ability of the detection system to register $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\kappa$  $.$ rays from the Pd cathode was checked by fluorescing the electrode using Ba $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\kappa$ x rays after the cell had been filled with clectrolyte. The x-ray spectrum was continuously accumulated once the current was started. Room background radiation fluoresces the cathode and Pd $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\kappa$ x rays are therefore present as an artifact of background. An energy spectrum of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot$ rays near 2l keV is shown in Fig. 2(a). This spectrum was produced by fluorescing the Pd cathode with Ba $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\kappa$ x rays, which appear in channels abowe 488 and are thercfore not seen in Fig. 2(a). The background counting rate is quite time dependent, probably because of its cosmic-ray origin, but the shape of the backeround spectrum in the region of the Pd x rays is continuous and without structure other than the Pd $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\kappa$ x rays. The background spectrum could therefore be normalized to, and subtracted from, the spectrum obtained with the cell in operation. Background was determined by counting with",
+                "cite_spans": [
+                    {
+                        "text": "'",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "text": "*",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 2(a)",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "the cell in place for 113 h before aplying current. The x-ray detector was placed as closc as possible to the cathode. Counts within a window of O.S keV which included the Pd $K_{a}$ lines were recorded as the cell was operated in the manncr described above. The normalized background rate in the cncrgy window was $1. 1 8 6 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\pm0. 0 7 5$ counts per hour. The x-ray spectrum accumulated during the time the cell was in operation (333 h) is shown in Fig. $2 ( {\\\\\\\\\\\\\\\\\bf b} )$ The observed counting rate abowe backpround was 0.006 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\pm 0.093 counts per hour. Therefore there is no evidence of fusion induced x rays in this experiment. In order to calculate the maximum fusion rate consistent with these data, we have considered the number of K-shell ion-izations expected from 3 MeV protons. The fraction of the energy release carried by the triton in the fusion reaction is one-third that of the proton--the K-shell ionization probabilities for 1 MeV tritons and the even lower energy 'Hc ions from reaction (2) are negligible by comparison. We have included an estimate of the fraction of emitted protons stopped in the foil, the fluorescence yicld of Pd K. shell vacancies, the transmission of 21 keV x rays through the glass window, the solid angle, and efficiency of the detector. The overall eficicncy of the detection system is 39 1 * xry counts er roton",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. $2 ( {\\\\\\\\\\\\\\\\\bf b} )$",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The loading of dcuterium in the Pd cathode was dcter-mined by remowing deuterium from the loaded cathode. Deuterium which evolved when the applied current was disconnected was captured and its volume measured. The remaining deuterium in the palladium was expelled by heating the sample in a thermogravimetric analysis system (Dupont 951 thermogravimctric analyzcr). Based on the total mass of the gas liberated, the londing of the sample was 0.79 : 0.02 deuterium atoms per Pd atom.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "On the basis of our calculations, the measured counting rate corresponds to 0.07 t 1.1 fast protons released per",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "second in the cathode. From our measurement of the loading of the Pd cathode with dcuterium, the absolute \u5b89\u56fd\u6216\u53f0THiaeaed oadodcd uo a mng $1. 6 \\\\\\\\\\\\\\\\\times 1 0^{-2 0}$ fusions/(sec deuteroa), assuming equal probabilityfor reuctions (1) and (2).3",
+                "cite_spans": [
+                    {
+                        "text": "3",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion"
+            },
+            {
+                "text": "Another attempt to detect charged particies from clec-trochemical fusion' has also resulted in a null result. Be-causc the charged particlcs were detected directly, that experiment had inherently greater sensitivity than ours. Their arrangement used the Pd cathode as a thin window on the electrochemical cell with only one side exposed to the electrolyte.",
+                "cite_spans": [
+                    {
+                        "text": "'",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion"
+            },
+            {
+                "text": "We have run several other electrochemical cells, one for as long as six wecks, in an cffort to detect x rays from charged-particle fusion products. No cvidcnce of nuclear fusion has been detected. The data reported here are the result of our efforts to reduce and understand the x-ray background associated with this type of measurement.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion"
+            },
+            {
+                "text": "While the upper limit we are able to place on the fusion probability, as evidenced by proton production and subsequent cxcitation of Pd $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\kappa$ shell vacancies, is not as stringent as some neutron measurements,\" the work reported here prowides a uscful experimental statement regarding fast charged particles from reaction (1). If we accept the proposition that reactions $( 1 )$ and (2) are dominant in the deuterium fusion process, then the mcasurements of Gai et al.' when combined with our result, rule out nuclear fusion as the energy souree c ved by Fleischmann and Pom,by a ator of roughly $1 0^{1 0}$",
+                "cite_spans": [
+                    {
+                        "text": "\"",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "'",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion"
+            },
+            {
+                "text": "We acknowledge the assistance of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathtt{R}$ Clark in the measurement of deuterium loading and of T. Ficlds and M. Slocum in the data taking. We appreciate the communication with R. Fleming. This work was supported in part by the National Science Foundation, the Department of Energy, and the State of Florida.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Acknowledgments"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "$\\\\\\\\\\\\\\\\\rfloor$ Electroanal. Chem., 261, 301 1989.",
+                "authors": [
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Fkischmana",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Poas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "$\\\\\\\\\\\\\\\\\rfloor$ Electroanal. Chem.",
+                "volume": "261",
+                "issn": null,
+                "pages": "301",
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "Nature (London\uff09 338, 337 (1989); $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Delta}$ Bertin, M. Bruschi, M. Cap-ponL, $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathsf{S}$ DeCastro, U. Mareoni, $c$ Moroal, M. Piccinini, N. Semprini-Cesari, $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Lambda}$ Trombini, $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu}$ Vitale, $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hat{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\phantom{G}}$ Zoeeoli, $.$ B. Cirr, G. L. Jensen. S. $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{t}$ Jones, and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{E}$ P. Palmer, Nuovo Cinento 101A, 997 (1989).",
+                "authors": [
+                    {
+                        "first": "S.",
+                        "middle": [
+                            "E."
+                        ],
+                        "last": "Jones",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E.",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Palmer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B.",
+                        "middle": [],
+                        "last": "Czirr",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Decker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [
+                            "L."
+                        ],
+                        "last": "Jen-scn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.",
+                        "middle": [
+                            "M."
+                        ],
+                        "last": "Thorne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P.",
+                        "middle": [],
+                        "last": "Taylor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Rafelhki",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Nature (London\uff09",
+                "volume": "338",
+                "issn": null,
+                "pages": "337",
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": "Beach, Nucl. Phys. 0, R. B. Thees, W. L. McGarry, and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathsf{L A}$ \uff0cHardekopf. 273 (1966):N. Jarmie, R. E Barnes, and R. $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Lambda$",
+                "authors": [
+                    {
+                        "first": "R.",
+                        "middle": [
+                            "B."
+                        ],
+                        "last": "Thees",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W.",
+                        "middle": [
+                            "L."
+                        ],
+                        "last": "McGarry",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Hardekopf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N.",
+                        "middle": [],
+                        "last": "Jarmie",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Barnes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "A",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1966,
+                "venue": "Nucl. Phys.",
+                "volume": "0",
+                "issn": null,
+                "pages": "273",
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": "Phys. Rev. C 29, 2031 (1984); $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbb{P}, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbb{J}$ . Wilkinson IIl and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{r}$  $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{E}$ Cecil, Phys. Rev. C 31, 2036 (1985). $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{k}$ yaeauta $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{J}$ *M. Gai, S. L. Rugari. R. H. France. B $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{J}$ Land. $2$ Davenport, H. S. Issacs, and 340.29(1989).",
+                "authors": [
+                    {
+                        "first": "P.",
+                        "middle": [
+                            "J."
+                        ],
+                        "last": "Wilkinson",
+                        "suffix": "III"
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Cecil",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Gai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [
+                            "L."
+                        ],
+                        "last": "Rugari",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [
+                            "H."
+                        ],
+                        "last": "France",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Land",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H.",
+                        "middle": [
+                            "S."
+                        ],
+                        "last": "Issacs",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Phys. Rev. C",
+                "volume": null,
+                "issn": null,
+                "pages": "340.29",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": "Nature (London) 339, 183 (1989); many add-tional experiments and observations critical of the techniques used in Ref. I were dscussed at a special sesaon of the American Physical Society, beld in Baltimore, on the evenings of 1 and 2 May 1989.",
+                "authors": [
+                    {
+                        "first": "R.",
+                        "middle": [
+                            "D."
+                        ],
+                        "last": "Petraso",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W.",
+                        "middle": [
+                            "K."
+                        ],
+                        "last": "Wenael",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [
+                            "R."
+                        ],
+                        "last": "Parker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C.",
+                        "middle": [
+                            "K."
+                        ],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Flore",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Nature (London)",
+                "volume": "339",
+                "issn": null,
+                "pages": "183",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": null,
+                "title": "The Pd foil was obtained from Engelhard Corp. and rolled to r.\"Tnkhneid d T 2.",
+                "authors": [],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "BIBREF6",
+                "title": "in Ion Beamm Handbook for Materials Analyst, edited by J. W. Mayer and E. Rimini (Academic, New York, 1977), Chap. S; G. Lapicki. J. Phys. 9J. $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{F}$ Zigler, $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{r}$ \u8f66\u8d85 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{v}$ A. Brusic, G. S. Necrgtzeonentan ctmnt rno mod $.$",
+                "authors": [
+                    {
+                        "first": "J.",
+                        "middle": [
+                            "W."
+                        ],
+                        "last": "Mayer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E.",
+                        "middle": [],
+                        "last": "Rimini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Lapicki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Zigler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Brusic",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1977,
+                "venue": "Ion Beamm Handbook for Materials Analyst",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF7": {
+                "ref_id": null,
+                "title": "H. Zabel, J. $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\epsilon$ argill IIl, E.J.O'Sullivas, and D. Marwick, Phys. Rer. Lett.62.2929 (1959).",
+                "authors": [
+                    {
+                        "first": "H.",
+                        "middle": [],
+                        "last": "Zabel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E.",
+                        "middle": [
+                            "J."
+                        ],
+                        "last": "O'Sullivas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "Marwick",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1959,
+                "venue": "Phys. Rer. Lett.",
+                "volume": "62",
+                "issn": null,
+                "pages": "2929",
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "Construction dingram of the clectrochemical cell used in thas expenmeat.",
+                "type": "figure"
+            },
+            "FIGREF1": {
+                "text": "(a) Portion of the x-ray spectrum produced by fluorescing the Pd electrode with Ba x rays, (b) X-ray spectrum in the vicinaty of the Pd $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\kappa_{0}$ energy after 333 h of eperation of the clectrochemical cell",
+                "type": "figure"
+            }
+        },
+        "back_matter": []
+    }
+}

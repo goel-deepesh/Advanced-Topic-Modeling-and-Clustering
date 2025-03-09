@@ -1,0 +1,428 @@
+{
+    "metadata": {
+        "title": "Search for neutrons from deuterium-deuterium nuclear reactions in clectrochemically charged palladium",
+        "authors": [
+            {
+                "first": "M.M.",
+                "middle": [],
+                "last": "Brocr",
+                "suffix": "",
+                "affiliation": [
+                    "AT&T Bell Laborutories, Murray Hill, New Jersey 0797e"
+                ],
+                "email": ""
+            },
+            {
+                "first": "L. C.",
+                "middle": [],
+                "last": "Feldman",
+                "suffix": "",
+                "affiliation": [
+                    "AT&T Bell Laborutories, Murray Hill, New Jersey 0797e"
+                ],
+                "email": ""
+            },
+            {
+                "first": "A. C. W. P.",
+                "middle": [],
+                "last": "James",
+                "suffix": "",
+                "affiliation": [
+                    "AT&T Bell Laborutories, Murray Hill, New Jersey 0797e"
+                ],
+                "email": ""
+            },
+            {
+                "first": "J.S.",
+                "middle": [],
+                "last": "Kraus",
+                "suffix": "",
+                "affiliation": [
+                    "AT&T Bell Laborutories, Murray Hill, New Jersey 0797e"
+                ],
+                "email": ""
+            },
+            {
+                "first": "R. S.",
+                "middle": [],
+                "last": "Raghavan",
+                "suffix": "",
+                "affiliation": [
+                    "AT&T Bell Laborutories, Murray Hill, New Jersey 0797e"
+                ],
+                "email": ""
+            }
+        ],
+        "abstract": [
+            {
+                "text": "We report on a search for neutrons from $d d$ fusion in Pd rods loaded clectrochemically with deuterium, In a four-weck measurement we observe $< 0. 0 0 7 n / ( \\\\\\sec8 )$ Pd, oompared to 2.6x10' $n / ( x-x )$ Pd, claimed reoently by Flcischmann, Poms, and Hawkins. Our result implics $< 2. 2 \\\times 1 0^{-2 8} ( d d m )$ fusions/il(dd pair) secl, as compared $1 0-1 0^{-2 3} ( d d n )$ fusions/l(dd pair)sec] observed by Jones et al. in a Ti clectrode.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "The recent reports by Fleischman, Pons, and Hawkinsl (FPH) and Jones et a. of the observation of ncutrons from pallandium (titanium in Jones' case) electrochemically loaded with dcutcrium has stimulated intense interest in the verification of this process, and in the entire possibility of \"cold nuclear fusion.\" In this paper we report our parDB gsemutronempatowoeatan dped Pd-D system at room temperature.' We se $2. 2 \\\times 1 0^{-2 4}$ limit on the deuteron-deuteron fusion rate of\n(ddn) fusions/l(dd pair) scc], with ddn indicating the neutron producing branch of dd fusion. This is S orders $q$ magnitude belonw that reported in FPH and approxirmately a factor of S below that reported by Joncs, One unique aspect of our cxperiment, is the use of the high-energy portion of the gamma-ray spectrum from thermal neutrons captured by Na and I in a Nal(Tl)-- spectrometer system. Such a method renders the detection system relatively insensitive to ambient natural radioactivity and results in enhanced scnsitivity for thermal ncutrons. We also report a quantitative nuciear reaction analysis of the deuterium loaded Pd rod to estimate the amount of absorbed deuterium.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "this cxperiment was the dctection of neutrons and not a quantitatiwe mcasurement of any possible \"excess\" heat effects associated with cold fuson. these thermoncters only served to indicate any gross thermal cxcursions, The electrolytic solution in both cells was nominalily the same as that used by FPH: O.1 molar LiOD in D:O (99.8 at. % D) with the LiOD obtained by adding Li:O (*Li/'Li ratio unknown) to the heavy water. BHoth cells were operated in a constant--current mode (separate power supplies) with current densitics of 63 and 70 mA/cm' for the 0.4 cm rod and the 0.125 cm wires, respectively. Corresponding applied cell potentials varied between $.$ and 6 V. The current density values were choscn as an intcrmediatc value of those used by FPH. at which they claimed to have observed a significant neutron flux (4x10* sec-l for a 0.4x 10 em rod).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The Pd wires and the rod in this experiment were prepared in different ways. The two wires were cut from an available wire spool (99.5% Pd), which had been drawn to its inal diamctcr Irom an ingoL Onc of the wires was subsequently annealed at 900 $\\\\\\circ c$ for $- 1$ h in flowing Ny. The rod was cast from Pd powdcr (99.95% Pd), which was meited undcr Ar in a radio frequency heated BN crucible and subsequently cold rolled to its final diamcter. The rod was then anncaled as described for the wires. Finally, both wires and the rod were cleaned with a light mechanical polish (sand paper). After approximately one day's exposurc to room atmosphere, they were inscrted in the D:O/LIOD cell electrolyte.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "We investigated the possibic ncutron emission from three Pd rods: two wires (0.125 cm diameter by 10 cm long) were mounted scparatcly and parallcl to cach other in one electrolysis cell \\\\\\mathbf{A} second cell contained a 0.4 cm dtam x 10 cm rod. Both cells were made from borosibcate glass $( \\\\\\mathrm{P} y r e x, \\\\\\sim0. 2$ cm wall thickness) and scaled with Tetlon or a rubber stopper to prevent D:O cxchange with $o_{2}$ anaricererted h derndebocarnaog\n $D_{2}$ were relcused through a single bubbler trap, flled with silicone oil. The Pd cathode emerged from the electrolytic solution and then through the seal on the top for electrical connection. In the case of the cell with the two wires, the wires were strapped to a glass rod to prevent electrical shorting caused by shape distortion due to the dcuterium loading. The submerged length was $6. 9$ cm for the 0.4 cm rod and 9 cm for the two smaller wires. The anode was a Pt wire (0.076 em diameter), coiled onto a 2cm glass tube cage. This cage was positioned coaxialy with the Pd cathode and onc of the glass support tubes was fed through (with the Pt wire inside) the top seal for electrical connection.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "In this experiment the neutron detector was a single NaI(Tl) scintillation crystal (12.5 cm diamx 12.5 em length). completely surrounded with polyethylene moderator, as shown in Fig. I. The two cells were placed inside this moderator \"housc\" with S cm polycthyienc between the detector and the cells. Lead blocks were positioned outside this \"poly housc\" to reduce undesired $,$ background and -sS cm thick borax contuining boxes were placed outside the lead shield to absorb any external neutrons, Any neutrons resulting from dd fusion reactions inside the Pd rods arc moderaled to thermal cncrgics in the polyethylene blocks. The thermal neutrons then either yield a 2.225 MeV $.$ ray from the $( n p \\\\\\gamma)$ capture reaction in the polyethyiene or a ncarly continuous spectrum of high-energy y's in the range $3. 5-7$ MeV from thermal",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. I",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "CTRGM\u533aSMS Re meoroe heo thermometers. Since the purpose",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "neton captre by W an 1 ithin thedetector",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The advantage of detecting in this high-energy region. rather than directly at the 2.225 MeV line, is the signifcantly reduced background, which arises mainly from natural radioactivity. This can be scen clcarly in Fig. $2 ( \\\\\\mathbf{b} )$ which shows a typical pulse height spectrum from the Nal dctector. Three lines, at 2.120, 2.204, and 2.447 MeV, appear in this 2.225 MeV region and are as-sonM d 2 in naGdeaodtioPaba 1.847 MeV $( 2 4 0 0^{\\\\\\circ} U$ 614 MeV (2Th chain), at 1.764 and\nchain), and the \"K linc at 1.460 MeV were observed. The higheat energy $,$ ray from ambient natural radioactivity is 3.35 MeV. Thus at higher encr-gies $( > 3. 5 M o V )$ the spectrum is free from these radiation sources except for wery weak high-energy fission $,$ rays and a very low level of $\\\\\\mathbf{\\\theta}$ rays from U and Th decay in the crystal itself. Thus, in contrast to the use of 2.2 MeV $n$ as an indicaton of the $( n_{P \\\\\\gamma} )$ reaction, our method practically eliminates the possibility of mistaking a background $,$ ray for a neutron signal",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. $2 ( \\\\\\mathbf{b} )$",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The residual background above 3.5 MeV is ncarly all due to cosmic ray muons passing through the crystal. In order to reduce this background, twwo plastic scintillators wcrc installed above and below the Nal dctector. Ewents detected in the Nal crystal were pated in an anticoin-cidence mode by pulses from the two plastic scintillators. The gated output for a fixed lifetime, typically 1800 sec, was analyzed and stored in a multichannel analyzer. Ihe spectral data (0-7 MeV) was periodically transferred onto a hard disk of a pcrsonal computer. From this cxper-imental data base the temporal behavior of the y-ray intensities in any region can be aceessed and examined; re-glons of particular interest are those around 2.2 MeV (re-gion $R_{2}$ and the n-sigmal range 3.5-7 MeV (region $R 1 )$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The neutron detection efficiency was measured with a $\\\\\\sec^{-1}.$ Am-Bc source with a nominal ncutron flux of $6 \\\times 1 0^{4}$\nAfter placing this source in an identical LiOD/D;O cell in the same position as the electrolysis cells, the calibration spectrum was obtained [Fig.\nThis shows clearly the 2.224 MeV line due to the $( n p \\\\\\gamma)$ capture, as well as the brondband signal from the reaction of thermal ncutrons with 'Na and i2'I. The linc at 4.4 MeV (and part of the lower energy single escape line peak at 3.9 MeV) are due to $( \\\\\\alpha, n \\\\\\gamma)$ reactions in the source and from the reaction $1 2 C ( m^{\\\\\\prime} \\\\\\gamma)$ in the polyethyiene by neutrons of energy > 4.4 MeV. This feature is not expected from 2.5 MeV fusions neutrons. A nominal neutron detection cflicicncy of 0.015 was obtained from the counting rate in $R \\\\\\downarrow$ with the source in place, divided by the neutron lux from the Am-Be source. It must be noted, however, that a substantial fraction of the ncutron flux from this source ranges in encrgy up to 8 MeV. significantly higher than 2.45 MeV, the energy of dd fusion ncutrons. The higher cnergy neutrons are moderated less efficiently and thus contribute less to the signal in $R 2$ The value of O.015 empioyed in this work should therefore be considered a lower limit to the neutron detection elficiency actually relevant to dd fusion detection.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The 0.4 em rod was charged for 33 days during which the ncutron detection system was opcrativc. At the cnd of this period the current was discontinued. The sample was allowed to outgas for 24 h in an open, silica container which was lushed with dry nitrogen gas at atmospheric pressure. After this period the 0.4 cm rod was removed MAdMNS\u4e2d\u4e1a\u9910T $\\\\\\approx 1 0^{-1 7} \\\\\\mathrm{c m^{2} s e c}^{-1} \\\\\\mathrm{w}$  $n$ E cocflicient of D in Pd at $\\\\\\eta$ s $- 3 \\\times 1 0^{-7} c m^{2} s e c^{-1}$ at 300 K in the $\\\rho$ phase of Pd-D (using the known activation energy-),storing at\nassumcs retention of the remaining dcuterium. lt was noticed upon remowal of this rod from the electrolysis cell that the submerged section had clearly expanded and that the rod thus had a \"winc bottle shape.\" The subnerged part was ss0.45 cm in diameter, while the unsubmerged part retained the original 0.40 cm diameter. The rod was removed from the liquid N: for about 2 h for dicing into disks for subsequent analysis. This process consisted of using a diamond saw to cut threc, 0.15 cm disks from both ends of the rod. The dilferent material properties of the deuterated and undcuicrated portions were alrcady noticed at this stage, as the deuterated portion cut much more slowly and unevenly. This clcarly refiects the brit-",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "tling efect of the deuterium on the Pd.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The deuterium loading was examined via nuclear reaction analysis using the d(-He.p)a reaction, a standard ion beam analysis technique.I* The resulting spectrum is shown in Fig. $3$ and indicates a strong proton and alpha particle signal, indicative of a large deuterium concentration. Since the croas section for the analysis reaction is about $1 0^{-1}$ of the 'He clastic (Rutherford) scattering reaction, it is immediately obvious that the deuterium concentration is comparable (within an order of magnitude) to the Pd concentration. It should be noted that the measurement was carried out at the center of the disk indicating that the deuterium had diffused through the entire cross section of the rod during the clectrochemical loading time. This dimusion (charging) time to reach the rod center is $\\\\\\Delta t=R^{2} / D,$ with $R$ the radius of the rod and D the difasion cocllicient of deuterium in Pd. For $R=0. 2$ em and $D=3 \\\times 1 0^{-7}$ em'sec\"' (at room temperature), this time is 1.5 days. Analysis of the portion of the rod which was not submerged gives no indication of a deuterium signal. The absence of deuterium 4 cm above the londed area is consistent with a diffusiom length of only 0.85 cm for the sample at room temperalure for four weciks. The analysis of the nuclcar reaction data is complex since the experiment probes through the penctration depth of the 'He (about 2 um) with a reaction cross section strongly varying with 'He energy. Furthermore, the irst few mcrons have lost dcutenum due to out diffusion into the atmosphere during the two hours of cxposure for cutting and analysis (corresponding diffusion length -460 um). Nevertheless the extracted D/Pd ratio is 0.38 which is consistent with typical maximum loading valaes .ll and out diffusion during the cutting period. Despite somc uncertaintics in this analysis, substantial deuterium louding at the center of the 0.4 cm Pd rod is clearly demonstrated.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. $3$",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "As mentioned previously, during clectrolysis the y-ray fux both at the 2.2 MeV region (region $R_{2}$ and in the region between $3. 5$ and $\\\\\\eta$ MeV (region $R 1 )$ was measured. Figure $4 ( a )$ shows the count rate with both cells inside the poly \"pit\" up to 14 days afler the start of the cxperiment. At day l6 the current through the cell with the two wires (cell $2 )$ was discontinued, the cell removed, and the shielding temporarily disturbed in order to facilitate the repositioning of the cell with the 0.4 cm rod in front of the detector. As can be seen in Fig. 4 this resulted in a small but clcarly observable spike in the counting rate in the 2.2 MeV region due to enhanced cxposurc to ambient room background, clearly illustrating the danger of relying on this spectral region to dcterminc any low levcl $.$ sfrom $( a_{DY} )$ reactions. On the other hand, no such spike is seen in the n-signal region $R 1$",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure $4 ( a )$",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "text": "Fig. 4",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Counting rates in region $R 1$ between days 10 and 33 after the start of the experiment $( t=0 )$ are shown in Fig. $4 ( b )$ The counting rate is almost an order of magnitude lower than in Fig, 4(a). From day $1 6$ only cell I (with the single rod) continued to be monitored up to day 30.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. $4 ( b )$",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "text": "Fig, 4(a)",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Buc8186752180c0c0ed2n 5370d5ond\n $\\\\\\sec^{-1}$\ndetermined with a dummy cell, identical (with $D_{2} O/$ LiOD) except for the presence of a Pd rod, betwe\n30 and 33 with a mcasured rate of 0.1472: 0.0008 $\\\\\\sec^{-1}.$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "This implies a maximum signal rate of 0.0\u58eb 0.0012 $\\\\\\infty^{-1}$ which, together with the measured eficiency of 0.015, results in an upper limit of 0.08 n/sec for this particular sample. If a D/Pd ratio of one is assumed, then this neutron flux limit corresponds to a (ncutron) fusion rate per deuterium pair $\\\\\\mathrm{o f} < 2. 2 \\\times 1 0^{-24}$ (ddn)fusions/ l(dd pair)secl. In cxpressing this ratio in terms of a fusion rate per dd pair, it is implied that the cffect (real to the extent of the upper limit) is a volume effect.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "ln this paper we have reported on the search for neutrons from any possible deuterium-deuterium fusion reac-",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion"
+            },
+            {
+                "text": "tions inside clectrochemically deuterated palladium rods. Using a Nal(T) scntillation dctector wc have mcasured <0.08 neutrons/sec for a O.4x $\\\\\\gamma$ cm cast, cold rolled, and anncaled Pd rod. This corresponds to < 0.007 n/(sec/g) Pd, compared to FPH's claimed' /g)Pd. Our upper limit corresponds t $0 < 2. 2 \\\times 1 0^{-24}$ \uff08ddn\uff09 fusions/l(dd pair)secl, which is approximatcly five times oethantat ctimedby Jos.'",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "$\\\\\\mathbf{\\\\\\omega}$ Electroanal. Chem. 261, 301 (1989).",
+                "authors": [
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Fieischmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Pons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Hawkims",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "261",
+                "issn": null,
+                "pages": "301",
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "Nature (Lon-don)338.737 (1989).",
+                "authors": [
+                    {
+                        "first": "S. E.",
+                        "middle": [],
+                        "last": "Jones",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E. P.",
+                        "middle": [],
+                        "last": "Palmer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J. B.",
+                        "middle": [],
+                        "last": "Cirr",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "$\\\\\\mathtt{L}$ Decker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G. L.",
+                        "middle": [],
+                        "last": "Jensen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J. M.",
+                        "middle": [],
+                        "last": "Thorne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "$\\\\\\mathsf{F}$. Tayior",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Rafciski",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "338",
+                "issn": null,
+                "pages": "737",
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": "Preliminary results of this work were reported at the American Physical Socicty mecting in Baltimore, MD. May $1$ 1989 and at the Cold Fusiom Phenomena Workshop in Santa $\\\\\\mathbf{F e}$ NM. NBpni.3.98Scon.",
+                "authors": [],
+                "year": 1989,
+                "venue": "",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": "$\\\\\\mathbf{k}$ W. Wenael, R.R Parker, $c. \\\\\\mathbf{k}. \\\\\\mathsf{L}$ . *R, D. Petrasso, $\\\\\\mathbf{x}$\nand $\\\\\\mathbf{c}$ EoeN mdm aos Sd htn Solan a *S, Majorowski and $\\\\\\mathbf{B}$ Baranowski, $\\\\\\mathbf{\\\\\\mu}$\n1119 (19823.",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": null,
+                "issn": null,
+                "pages": "1119",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": "*R $\\\\\\mathbf{R}$ Arons, Y. Tamminga, and G. de Vie,Phy.Status Solidi 40,107 (19700.",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "40",
+                "issn": null,
+                "pages": "107",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": "TH. K. Birmbaum and $c$ A. Wert, Ber. Busenges, Phys. Chem 76.806 (1972).",
+                "authors": [],
+                "year": 1972,
+                "venue": "",
+                "volume": "76",
+                "issn": null,
+                "pages": "806",
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "BIBREF6",
+                "title": "*Y, Fukai and H. Sugimote, Adv. Phys. 34, 263 (1985)",
+                "authors": [],
+                "year": 1985,
+                "venue": "",
+                "volume": "34",
+                "issn": null,
+                "pages": "263",
+                "other_ids": {}
+            },
+            "BIBREF7": {
+                "ref_id": "BIBREF7",
+                "title": "*E. Wicke and H. Brodowaky, in Hydrogen in Metals $n$ edited by G. Alefeld and $\\\\\\mathbf{\\\\\\omega}$ Volkl (Springer-Veriag. Berlin, 1978), .nC\"P $3",
+                "authors": [],
+                "year": 1978,
+                "venue": "",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF8": {
+                "ref_id": "BIBREF8",
+                "title": "W. Mayer Fundmanas of Surface\n $c$ Feldman and $\\\triangleleft$ Jneger, Comdnchiom gf Heat in Solds \u7535\u4e0aC\u7535451250 072730 IIH. S. Carsiaw and $\\\\\\jmath$  $c",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "NaI(T) scintiliator detector system for measuring electrochemically induced dd -- n funion reactions",
+                "type": "figure"
+            },
+            "FIGREF1": {
+                "text": "(a) Pule eiht spectrum of a Am-Be calibrtion Nal(T) detector, (b) typical pulse height spectrum (signal+ background) measured during electrochemical deu-",
+                "type": "figure"
+            },
+            "FIGREF2": {
+                "text": "Spectrum used in the 'He analysis of the deuterium content of a londed Pd rod. The spectrum indicates Rutherfoed backscattering from the Pd and proon and alpha particle signals from 'He-d interactioms. The encrgy asociated with the outgoing proton (1.17 MeV) is determined by the energy loss in the solid-state detector with a depletion layer amaller than the proton range in silicon.",
+                "type": "figure"
+            },
+            "FIGREF3": {
+                "text": "Gcunin ri atn 2 e reloa hoig the vulnerability of this spectral region to matural radioactivity background. The spike ocurred by temporarily disturbing the shiclding during days 16 and 17 after the start of the electrolyals proceis; (b) counting rate in the 3.5-7 MeV regioa during the eclkctrochemical deuterium loading of 3 Pd rods. Data betwecn days n and 33 are from a singe cell with a 0.4 cm diameter Pd rod. lackground data (with identical cell, but without the Pd red) are showm between days 30 and Jl.",
+                "type": "figure"
+            }
+        },
+        "back_matter": [
+            {
+                "text": "We would like to thank $\\\tau$ Boone, R. A. Laudise, D. N. Louacono, D. W. Murphy, J. T. Plewes, J. W. Rodgers, T. D. Schlabuch, B. E Spcar, G. M. Sturchio, S. S. Voris, M. M. Weiss, and $G$  $\\\\\\mathbf{c}$ Lindsay (AT&T Nassau Mctal Works) for their various assistance and stimulating discussions and intcractions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": ""
+            }
+        ]
+    }
+}

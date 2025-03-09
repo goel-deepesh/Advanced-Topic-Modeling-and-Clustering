@@ -1,0 +1,323 @@
+{
+    "metadata": {
+        "title": "PORTABLE X-RAY DETECTOR",
+        "authors": [
+            {
+                "first": "David B.",
+                "middle": [],
+                "last": "BUEHLER",
+                "suffix": "",
+                "affiliation": [
+                    "Departments of Chemistry, Electrical Engineering and Physics\nBrigham Young University\nProwo, UT 84602"
+                ],
+                "email": ""
+            },
+            {
+                "first": "Lee D.",
+                "middle": [],
+                "last": "HANSEN",
+                "suffix": "",
+                "affiliation": [
+                    "Departments of Chemistry, Electrical Engineering and Physics\nBrigham Young University\nProwo, UT 84602"
+                ],
+                "email": ""
+            },
+            {
+                "first": "Stewen",
+                "middle": [
+                    "E"
+                ],
+                "last": "JONES",
+                "suffix": "",
+                "affiliation": [
+                    "Departments of Chemistry, Electrical Engineering and Physics\nBrigham Young University\nProwo, UT 84602"
+                ],
+                "email": ""
+            },
+            {
+                "first": "Lawrence B.",
+                "middle": [],
+                "last": "REES",
+                "suffix": "",
+                "affiliation": [
+                    "Departments of Chemistry, Electrical Engineering and Physics\nBrigham Young University\nProwo, UT 84602"
+                ],
+                "email": ""
+            }
+        ],
+        "abstract": [
+            {
+                "text": "A portable X-ray detector has been developed to complement \"cold fusion\" studies. Our reasoning is that any set of nuclear reactions which produce measurable heat must also produce abundant secondary \\\textbf{x} -rays. However, at the Nagoya meeting and elsewhere, we found that errors and uncertainties in current cxperiments prewent unambiguous interpretation of claims of excess-heat gencration. Hence, this paper also outlines criteria for establishing calorimeter performance for definitive measurements of \"excess hear\" in cold-fusion experiments.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "ABSTRACT"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Nuclear reactions are characterized by relcase of MeV-scale energics, hence their importance to power-production schemes. (Chemical reactions typically involve eV-energies, down by a factor of 10* from nuclear reactions.) But energy release at the nuclear level implies that secondary x-rays will be produced, since only tens of keV are required to generate x-rays. If nuclear reactions are indeed producing heat at the lewels claimed $( > 1 \\\\\\mathrm{m W} ),$ then sufficient x-rays should be produced to be detectable. The x-rays arnise from the ionizing eifects of nuclear products on the materials in which the heat dewelops. Thus, x-ray measurements may provide a crucial test for the presence of heat-generating nuclear reactions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PORTABLE X-RAY DETECTOR"
+            },
+            {
+                "text": "Characteristic x-rays of Pd or Ni (for example) which result from \\\\\\mathbf{k} shell vacancies produced by fast nuclear products are readily dctected using a 10mmXl0mm photodiode. The energy of the x-rays provides iniormation on what reactions are taking place. (For example, if the Ru K-alpha line at 19.2 KeV is strong, onc may surmise the production of Ru.) A typical response spectrum for this detector is shown in Figure 1. Note that the noise leve is well below the nickel K-alpha line (7.5 kev) and the Pd K-alpha energy (2l.l keV). The dctector is small enough (2.8 cm-diameter \\\\\\mathbf{x} 3 cm long) to fit next to or evwen into an operating cell. Furthermore, it operaies well near room temperature.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "PORTABLE X-RAY DETECTOR"
+            },
+            {
+                "text": "A Monte Carlo computer code was written in order to estimate the number of x-rays detected near an electrolytic cell in which one of several fusion reactions occur. The cell is assumed to be cylindrical in shape, to have glass walls, and to contain a cylindrical palladium (or nickel) electrode immersed in DyO. The number of x-rays detected per fusion event is calculated.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PORTABLE X-RAY DETECTOR"
+            },
+            {
+                "text": "The input parameters are:\n-rod radius and length\n-thickness of the surface layer in which fusion events occur\n-distance from center of cell to rod\n-cell radius and height\n\u00b7glass thickness\n-reaction: d+d-->p+t, d+d-->n+'He, d+\"Li-> 2a, d+ 'Li-->n+2a\n-detector aperature (assumed to be square)\n-distance from center of cell to dctector\n'quantum efficiency of the detector\nAfter these parameters are determined, the program follows the charged particles ev bv event.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "After these parameters are determined, the program follows the charged particles event by event.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "First a fusion site is determined. This site is randomly selected from points within the specified skin thickness of the palladium clcctrode. (End effects are ncglected.) The skin thickness may be set to the clectrode radius in order to model fusion events occurring uniformly throughout the volume of the electrode.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Then the direction of the first outgoing charged particle is randomly selected and the particle is stepped through the palladium rod. At cach step the energy is calculated using the proton stopping powers of Zeigler, Biersack, and Littmark, The stopping and ranges of ions in maner, Pergamon Press, New York (1985). The stopping powers of other ions are determined from proton walues by using $z^{2}$ scaling. At each step, the K-shell ionization cross section is calculated using ECPSSR cross sections from Chen and Crasemann, At. Dara ond Nucl. Data Tobies, 33, 217, and Chen from Johansson and Campbell, PIXE. Wiley, New York (1988). The x-ray production cross section is then calculated by multiplying the ionization cross-section by the fluorescence yield. The cross section for ions other than protons is determined by taking $2^{2}$ times the proton cross setion for the same energy per nucleon.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "From the cross section, an x-ray production probability is determined. Since the cross sections are very small, the probability is augmentod $b y$ a suitable factor which is later divided out of the results. (This is wquivalent to making cach \"cvent\" correspond to a large number of identical fusion ewents.) On the basis of this probability, it is determined at cach step whether or not an x-ray is emitted.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "If an x-ray is emitted it is determined if the x-ray is a K-a or K-B x-ray on the basis of the B/a ratio. The direction of travel is then randomly chosen. The x-ray is followed along this direction through the electrode. $\\\\\\mathbf{D_{2} O}$ and glass to the detector. Each event is then given a weight corresponding to th rall attenuation factor. The sum of such weights then represents the total (fractional) number of detected x-rays.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Since K-a and K-B x-rays have different attenuation factors, they are summed separately so as to provide an estimate of the numbers detected in cach peak.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Whether or not an x-ray is emitted at a given step, the ion continues its path through the electrodc. Each ion is then followed until it stops or leaves the clcctrode,. the possibility of x-ray emission being considered at cach step. If more than one charged particle is produced in the fusion ewent, the second particle is tracked in a similar fashion.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "d-d fusion) in the volume of a 1.0 mm diameter Pd wire, 3.0 cm long. The average path of x-rays through $D_{2} O$ is 2.0 cm and through glass is 2.0 mm. The detcctor is 3.0 em from the Pd wire",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "5.86x10* K-a x-rays make it to the surface of the Pd each second.\nThe solid angle factor is 0.00774\nTransmission through the DyO is 0.307\nTransmission through the glass is 0.378\nDetector efficiency is 0.115\nThe product of the last four factors is 1.03 x 104, s0 60 K-a x-rays per second are detected. This is of order 10- above the sensitivity limit imposed by typical backgrounds.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "We strongly encourage use of x-ray detectors in connection with cold-fusion experiments in order to determine the presence of nuclear reactions. Our detcctor including multi-channel analyzer board and portablc computer cost only about $5,.500 so that expense should not be a major obstacle to its use. This detector system was developed at the suggestion of Dr. Tom Passel of EPRl.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The calorimetrist has the responsibility to conclusively demonstrate the accuracy and precision of the heat measurements. Accurate heat measurement is far from trivial and nothing should be, assumed without good justifcation. Experience shows that gross errors can occur from obscure and difficult to detct effects.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "OUTLINE OF FOR PERFORMANCEFOR MEASUREMENT OF\"EXCESS HEAT INCOLD-FUSION EXPERIMENTS"
+            },
+            {
+                "text": "A precise and complete description of how the calorimeter functions must be given together with a detailed physical description of the instrument. The physical description must include materials and accurate dimensions for all calorimeter components. The functional description must include the method of heat measurement and a description of the calorimeter system and surroundings.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "OUTLINE OF FOR PERFORMANCEFOR MEASUREMENT OF\"EXCESS HEAT INCOLD-FUSION EXPERIMENTS"
+            },
+            {
+                "text": "$\\\\\\mathbf{A}$ There are three methods of heat measurement.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "OUTLINE OF FOR PERFORMANCEFOR MEASUREMENT OF\"EXCESS HEAT INCOLD-FUSION EXPERIMENTS"
+            },
+            {
+                "text": "1. In the heat conduction method, the temperature difference across a thermal path with constant thermal conductivity between the system and surroundings is measured. This temperature difference is linearly proportional to the rate of heat flow through the path (Newton's law of cooling). For accurate mcasurement as much as possible of the heat flow must be through the measurement path. All other heat flow paths must also have a constant thermal conductivity.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "OUTLINE OF FOR PERFORMANCEFOR MEASUREMENT OF\"EXCESS HEAT INCOLD-FUSION EXPERIMENTS"
+            },
+            {
+                "text": "$\\\\\\mathrm{c.}$ The calorimeter may interact with the surroundings in ways other than\nheat exchange.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "ll. Three kinds of experiments have been done in efforts to determine the \"excess heat\" that may be due to cold fusion.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "A. Absolute heat measurements have been made by comparison of the heat effects of the reactions to the heat from an electrical heater. To be accuratc, an absolute measurement must meet several cnteria.\nAll heat generated in the heater must be transported to the\ncalorimeter system. The amount of heat gencrated in and lost\nthrough the heater icad wires must be ncgligiblc or corrected\nfor.\n2. All heat transport paths between system and surroundings must\nbe quantified, controlled, and accounted for.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Absolute heat measurements have been made by comparison of the heat effects of the reactions to the heat from an clectrical heater. To bc accurate, an absolute measurement must meet several criteria.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "2. In the power compensation method, the heat rate is measured by\nthe change in input power required to maintain a constant\ntemperature in the calorimeter when the measured process\noccurs.\n3.  In the temperature change method, total heat is obtained by\nmultiplying a measured temperature change in a known amount\nof material by the heat capacity of the material. If the material\nis fowing at a known rate, the heat rate is obtained.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "B. The caloimtersurroundings may be one oftwo types.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In isoperibol calorimeters, the surroundings are kept constant 2. In adiabatic calorimeters,the temperature of the surroundings is\nkept at the same temperature as the calorimeter system so mo\nheat is exchanged.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "1. The calorimeter may be open and mass may be transported\nbetwen the calorimeter system and the surroundings. An open\nsystem usually is operated at a constant pressure, i.c.\natmospheric pressure. At constant pressure heat is cquatablc\nwith enthalpy.\n2. A closed system is also usually a constant volume system where\nbeat is equatable with total energy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "3. The heat distribution in space and time produced by the heater\nmust closely match that from the reactions.\n $4.$ Calibrations and tests must be altemated in time and done in\napproximately cqual numbers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "B.Relative heat measurements have been made by comparison of the heat\neffects of the reactions in control (e.g- light water) and test $( c. 8$ heavy\nwater) systems. Precision is more important than accuracy in such\nmeasurements, thus the following criteria.\n1. To assess random errors and detect any changes in calorimeter\nfunction, controls and tests must be altermated or simultancous\nin time, approximately cqual in number, and if possible done\nboth in parallel and sequentially.\n $2$ The thermal conducivitesof all heat transier paths must be\nshown to be the same for both controls and tests.\n3. The heat distribution in space and time must be the same for\ncontrols and tests.\n $\\\\\\mathbf{c}$ Some experiments have been designed to show that the \"excess heat*\neifect is so large that no conceivable errors or chemical effects could\npossibly account for the results, and thus the observed heat must come\nfrom nuclear reactions. Such experiments require verification by\nsufficient and proper controls.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "B. Relative heat measurements have been made by comparison of the heat effects of the reactions in control (e.g- light water) and test $( c. 8$ . heavy water) systems. Precision is more important than accuracy in such measurements, thus the following criteria.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": " $\\\\\\mathbf{c}$ Some experiments have been designed to show that the \"excess heat* effect is so large that no conccivable errors or chemical effects could possibly account for the results, and thus the cbserved heat must come from nuclear reactions. Such experiments require verification by sufficient and proper controls.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "l.The calorimeter output signal must be consistent with the heat transfer characteristics of the calorimeter. For cxample the time constant for changes in the measured heat rate must be the same as the time constant for transport of heat from the calorimcter to the surroundings in a heat conduction calorimcter. Proper functioning of temperature sensors in the calorimcter environment must be verified. As an example, thermocouples are prone to ernors caused by chemical corrosion of the junction and by stray electrical",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "IV.  Finally, to verify actual performance, the calorimeter must be tested with a reaction having an accurately known enthalpy change.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "$\\\\\\mathbf{v}$ Because all electrochemical calorimctric cxperiments intended to demonstrate \"excess heat\" require correction for the heat of the clcctrolysis reaction, the expected reaction must be verified and quantified. Otherwise an incorrect value for the thermoncutral potential will be used in the correction. For example, deposition of an alkali metal under a silicate (or aluminate or borate) $3.$ The heat distibution in space and time produced by the heater must closely match that from the reactions.\nCalibrations and tests must be altemated in time and done in approximately equal numbers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "To assess random errors and detect any changes in calorimeter\nfunction, controls and tests must be alternated or simultancous\nin time, approximately equal in number, and if possible done\nboth in parallel and sequenially.\n $2$ The thermal conductivities of all heat transfer paths must be\nshown to be the same for both controls and tests.\n $3.$ The heat distribution in space and time must be the same for\ncontrols and tests.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            }
+        ],
+        "bib_entries": {},
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "Typical x-ray energy spectrum from small x-ray detector.",
+                "type": "figure"
+            }
+        },
+        "back_matter": [
+            {
+                "text": "*Excess heat\" can only be proven to be nuclear in origin by showing that the products of the nuclear reactions are produced at the same time and rate as the heat and in amounts commensurate with the law of mass-energy conservation. X-rays would, however, be a strong indicator of nucicar (MeV-scaic) reactions and would be an effective tracer of high-energy reactions when the precise nature of the processes remains hidden. Until such proof exists, application of Occam's razor demands that \"excess heat\" be regarded as having its source in ordinary chemical reactions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": null
+            },
+            {
+                "text": "coating on an electrode in aquecus solution possible at cell voltages near 3 volis. The thermoneutral polential for Li 1s about 2.9 vols, compared to 1.S volts for hydrogen. A neratiwe \"excess heat\" rate monorional to the rate of denosition of L. would thus be fOund if the reacion were assumed to be srictly generation of hydrogen. The accuracy of the thermoneutral potential must also be assessed. A value derived from a single source or type of the measurement eanmot be considered reliable. Note also that if a lithium layer is deposited on an elecrode under a coaing (e.g. silicate, borate or aluminate coating) and later should the coating crack. then exothermic water-lithium reactions would result, producang \"heat bursts\".",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,889 @@
+{
+    "metadata": {
+        "title": "Lithium Fluoride X-ray Imaging Film Detectors for Condensed Matter Nuclear Measurements",
+        "authors": [
+            {
+                "first": "R.M.",
+                "middle": [],
+                "last": "Montereali",
+                "suffix": null,
+                "affiliation": [
+                    "ENEA, FISACC, C.R. Frascati, V. E. Fervni, 45,00044 Frascati RM), Italy -Associazione Euratom-ENEA sulla Fusione, $CR$ Fraseati, $V$  $E$ Fermi, 45,00044 Fraseati (RM), Italy"
+                ],
+                "email": "rosa.montereali@eneait"
+            },
+            {
+                "first": "S.",
+                "middle": [],
+                "last": "Almaviva",
+                "suffix": null,
+                "affiliation": [
+                    "ENEA, FISACC, C.R. Frascati, V. E. Fervni, 45,00044 Frascati RM), Italy -Associazione Euratom-ENEA sulla Fusione, $CR$ Fraseati, $V$  $E$ Fermi, 45,00044 Fraseati (RM), Italy"
+                ],
+                "email": null
+            },
+            {
+                "first": "E.",
+                "middle": [],
+                "last": "Castagna",
+                "suffix": null,
+                "affiliation": [
+                    "ENEA, FISACC, C.R. Frascati, V. E. Fervni, 45,00044 Frascati RM), Italy -Associazione Euratom-ENEA sulla Fusione, $CR$ Fraseati, $V$  $E$ Fermi, 45,00044 Fraseati (RM), Italy"
+                ],
+                "email": null
+            },
+            {
+                "first": "F.",
+                "middle": [],
+                "last": "Bonfigli",
+                "suffix": null,
+                "affiliation": [
+                    "ENEA, FISACC, C.R. Frascati, V. E. Fervni, 45,00044 Frascati RM), Italy -Associazione Euratom-ENEA sulla Fusione, $CR$ Fraseati, $V$  $E$ Fermi, 45,00044 Fraseati (RM), Italy"
+                ],
+                "email": null
+            },
+            {
+                "first": "M.A.",
+                "middle": [],
+                "last": "Vincenti",
+                "suffix": null,
+                "affiliation": [
+                    "ENEA, FISACC, C.R. Frascati, V. E. Fervni, 45,00044 Frascati RM), Italy -Associazione Euratom-ENEA sulla Fusione, $CR$ Fraseati, $V$  $E$ Fermi, 45,00044 Fraseati (RM), Italy"
+                ],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": "A novel thin-film imaging detector for X-rays, based on photoluminescence from aggregate color centers in lithium fluoride, has been proposed and tested. The detector consists in a radiation-sensitive thin film of lithium fluoride thermally evaporated on a glass substrate. The morphological properties of the lithium fluoride thin films, which influence the detector performances, have been investigated.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Among akali halides, lithium fluoride (LiF) is particularly interesting because it is practically not hygroscopic, it possesses good physical anxd optical properties and it can host laser active electronic defects stable at room temperatune (RT). Vanous kinds of radiatiom can generate stable primary and aggregate defects, known as color centers (CC) [1] in LiF crystals and thin films. Some of these CC are optically active and emit photolumineseence efficiently in the visible spectral range at RT, under optical pumping. The primary CC is the $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{r}$ one, which consists of an anionic vacancy occupied by an electron. Its absorption band is located at around 248 nm and up to now the photoluminescence originating from the $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{F}$ defeet in LiF has not been detected unambiguosly. The aggregate centers $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{F}_{2}$ and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{F}_{s}$ (two electrons bound to two and thrce anion vacancies, respectively) possess almost overlapping absorption bands, around 450 nm, generally called M band [2]; under optical pumping in this spectral region, at RT they emit broad photoluminescence bands peaked at 678 nm and S41 nm for $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{F_{2}}$ and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{F_{3}}^{+}$ CC, respectively. Due to these properties, LiF is a radiation-sensitive dielectric material well-known in dosimetry [3] and utilized in optoelectronic devices [4-7].",
+                "cite_spans": [
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "text": "[2]",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "[3]",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "text": "[4-7]",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "In recent years the arca of growth, characterization and coloration of LiF thin films has seen a [12] based on $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{F},$ and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{F_{s}}^{*}$ SEE8S gamma dosimetry [9 s nuclear sensors for neutrons [10,11] and as novel soft X-ray imaging detectors",
+                "cite_spans": [
+                    {
+                        "text": "[12]",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "text": "[9",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "text": "[10,11]",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Recently the use of LiF thin films as innovative $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{x}$ ray imaging detectors based on photoluminescence from optically active CC in LiF thin films [13] has been successfully extended to higher energies, up to 10 keV [l4]. Their main peculiarities [l2,14], which are intrinsic high spatial resolution on a large field of view, wide dymamic range, easiness of handling and versatility make a very powerful tool to reveal $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{x}$ radiation eventually emitted during low energy nuclear reactions (LENR)experiments.",
+                "cite_spans": [
+                    {
+                        "text": "[13]",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "text": "[l4]",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "text": "[l2,14]",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The electro-magnetic radiation interacts with the matter by three processes: photoelectric effect, Compton effect and electron-positron pair creation. Depending on $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{x}$ -rays energy, their penetration in LiF ranges from few tens of nanometers to several hundreds of micrometers; the deposited energy per unit length is constant in a certain material and the radiation intensity along the depth decreases as an exponential function, approximately. Figure I shows the attenuation length of X-rays in LiF as a function of their energy, below the Ni $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathsf{K}$ edge (8.333 keV). The exposure to $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{x}$ -rays produces the stable formation of CC in LiF in layers of thickness comparable with their attenuation length.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure I",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Experimental results and discussion"
+            },
+            {
+                "text": "Uniform thickness, good optical quality, polyerystalline LiF films of different thicknesses, from 0.1 to 4 um, have been grown by thermal evaporation [8] on heated amorphous and crystalline substrates. The substrates were clamped to a rotating plate, controlled at fixed temperatures up to 350 -C during the deposition process. The starting material consists of LiF microcrystalline powder (Merck Suprapur, 99.99% pure), heated at about 8N-C in a tantalum crucible, placed below the substrate at a distance of 22 em, under a typical vacuum pressure below $5 10^{-6}$ mbar. The evaporation rate, monitored in situ by an INFICON quartz oscillator, was controlled at a fixed value of l nm's during the growth. The total thickness of the depsited films was also directly measured by using a Tencor Alpha-Step 200 profilometer. The morphological analysis was performed by an Assing Perception Device Atomic Force Microscope (AFM) equipped with a Veeco MLCT-AUNM-10 tip operating in contact mode, maximum scan area of (25 x 25) um and a $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\epsilon}$ -axis range of S um. The estimated relative error for x, y and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu}$ axis is -3%. Measurements are performed with a resolution of 257 x 257 points on xy plane (sample plane).",
+                "cite_spans": [
+                    {
+                        "text": "[8]",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental results and discussion"
+            },
+            {
+                "text": "The stuctural, morpbological and optical properties of the films grown on optically transparent amorphous substrates, like glass and silica, are dependent on the deposition parameters, in particular the substrate temperature, which influences the features of films of different thickness and the stable formation of primary and aggregate color centers [15].",
+                "cite_spans": [
+                    {
+                        "text": "[15]",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental results and discussion"
+            },
+            {
+                "text": "Figure 2 ~$ shows the two-dimensional (2D) AFM image (5 x 5) umb of the surface of a LiF thin film deposited by thermal evaporation on a glass substrate kept at 28 9C and of total thickness = 1.9 m",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Experimental results and discussion"
+            },
+            {
+                "text": "The images show a quite compact grain structure with regular and uniform grain size distribution, average grain size is about 10 nm and the Root Mean Square (RMS) roughness value compute from the image is l I nm on the 5xS umf mapped area, which is comparable with the typical roughness of a thicker LiF film grown on glass microscope slides.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental results and discussion"
+            },
+            {
+                "text": "X-rays of energy higher than 2 eV are entirely absorbed by this film, as it can be deduced by the curve of Fig. l, making it coloured along its full thickness. The CC produced in the LiF film by the X-rays exposition can be made visible by blue light excitation of the photoluminescence of the $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{F_{2}}$ and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{F_{1}}$ defects, which emit in the red and green spectral regions, respectively.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental results and discussion"
+            },
+            {
+                "text": "The exposed LiF film is analyzed by using a Confocal Laser Scanning Microscope (CLSM) Nikon Eelipse Cl-80i equipped with a coherent CW Argon laser operating at 458 nm. It allows to integrate, acquine and store the signature of the emitted radiation in a fluorescence image reaching a spatial resolution below 300 nm at the used wavelength. The same optical microscope was used in different optical operation modes, with white and blue light lamp illumination, in order to exclude and/or distinguish artifacts in the registered fluorescence image. The presented morphological investigation confirm the good surface quality of the LiF-film based detector.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental results and discussion"
+            },
+            {
+                "text": "Novel LiF-film based X-ray detectors were proposed, realized and characterized. These two-dimensional imaging detectors found application in photonies, biology, material science, device investigation and in the characterization of intense X-ray sources, including very short duration ones [l6]. They allow great versatility, as they can grown in the form of thin films by well-assessed physical deposition techniques-The stored fluorescence images, based on the stable formation of aggregate electronic defects in the exposed areas, can be directly read without the need of any development procedure, which could introduce some artifacts. A good optical quality and a uniform surface of the deposited LiF film, which is the radiation-sensitive element in the X-ray detector, improve the quality of the images and reduces reading artifacts. Further studies are in progress on the LiF films growth on several substrates and their characterization in order to improve the optical quality and adhesion properties, as well as progress are under way in the full spectral analysis of the stored fluorescence images.",
+                "cite_spans": [
+                    {
+                        "text": "[l6]",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental results and discussion"
+            },
+            {
+                "text": "",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "Physies af Color Centers",
+                "authors": [
+                    {
+                        "first": "W.B.",
+                        "middle": [],
+                        "last": "Fowler",
+                        "suffix": null
+                    }
+                ],
+                "year": 1968,
+                "venue": "Academic Press, New York and London",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "J.",
+                        "middle": [],
+                        "last": "Nahum",
+                        "suffix": null
+                    },
+                    {
+                        "first": "D.A.",
+                        "middle": [],
+                        "last": "Wiegand",
+                        "suffix": null
+                    }
+                ],
+                "year": null,
+                "venue": "Phys . Rev. 154",
+                "volume": null,
+                "issn": null,
+                "pages": "817",
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": null,
+                "authors": [],
+                "year": null,
+                "venue": ":Dsxssaic. 1s . 0 2 27 7187. 97",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "V.V.",
+                        "middle": [],
+                        "last": "Ter-Mikirtychev",
+                        "suffix": null
+                    },
+                    {
+                        "first": "T.T.",
+                        "middle": [],
+                        "last": "Tsuboi",
+                        "suffix": null
+                    }
+                ],
+                "year": null,
+                "venue": "Prog. Quant. Eleetr. 20",
+                "volume": null,
+                "issn": null,
+                "pages": "219",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "R.M.",
+                        "middle": [],
+                        "last": "Montereali",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Mancini",
+                        "suffix": null
+                    },
+                    {
+                        "first": "G.C.",
+                        "middle": [],
+                        "last": "Righini",
+                        "suffix": null
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Pelli",
+                        "suffix": null
+                    }
+                ],
+                "year": null,
+                "venue": "Opt. Cowmun. 153",
+                "volume": null,
+                "issn": null,
+                "pages": "223",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Belarouci",
+                        "suffix": null
+                    },
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "Menchini",
+                        "suffix": null
+                    },
+                    {
+                        "first": "H.",
+                        "middle": [],
+                        "last": "Rigneault",
+                        "suffix": null
+                    },
+                    {
+                        "first": "B.",
+                        "middle": [],
+                        "last": "Jacquier",
+                        "suffix": null
+                    },
+                    {
+                        "first": "R.M.",
+                        "middle": [],
+                        "last": "Montereali",
+                        "suffix": null
+                    },
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "Somma",
+                        "suffix": null
+                    },
+                    {
+                        "first": "P.",
+                        "middle": [],
+                        "last": "Moretti",
+                        "suffix": null
+                    }
+                ],
+                "year": null,
+                "venue": "Opt Cawmmun. 189",
+                "volume": null,
+                "issn": null,
+                "pages": "281",
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "BIBREF6",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "K.",
+                        "middle": [],
+                        "last": "Kawamura",
+                        "suffix": null
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Hirano",
+                        "suffix": null
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Kurobori",
+                        "suffix": null
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "Takamizu",
+                        "suffix": null
+                    },
+                    {
+                        "first": "H.",
+                        "middle": [],
+                        "last": "Hosono",
+                        "suffix": null
+                    }
+                ],
+                "year": 2004,
+                "venue": "Appt. Pbys. Lert. 84",
+                "volume": null,
+                "issn": null,
+                "pages": "311",
+                "other_ids": {}
+            },
+            "BIBREF7": {
+                "ref_id": "BIBREF7",
+                "title": "Handbook af Thin Film Meterials, edited by H.S. Nalwa, ol. 3, Ch.7",
+                "authors": [
+                    {
+                        "first": "R.M.",
+                        "middle": [],
+                        "last": "Montereali",
+                        "suffix": null
+                    }
+                ],
+                "year": null,
+                "venue": "Academic Press",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF8": {
+                "ref_id": "BIBREF8",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Montechi",
+                        "suffix": null
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Baccaro",
+                        "suffix": null
+                    },
+                    {
+                        "first": "E.",
+                        "middle": [],
+                        "last": "Nichelatti",
+                        "suffix": null
+                    },
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "Bonfigli",
+                        "suffix": null
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Marolo",
+                        "suffix": null
+                    },
+                    {
+                        "first": "R.M.",
+                        "middle": [],
+                        "last": "Montereali",
+                        "suffix": null
+                    }
+                ],
+                "year": 2002,
+                "venue": "Proceedings of the 7th ICATPP-7 Cowference, Villa Olmo, Cawno, 2001, edited by M. Barone, E. Borchi, J. Huston, C. Leroy, P.G. Rancoita, P. Riboni, R. Ruchiti, World Scientific",
+                "volume": null,
+                "issn": null,
+                "pages": "819",
+                "other_ids": {}
+            },
+            "BIBREF9": {
+                "ref_id": "BIBREF9",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "Cosset",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Celerier",
+                        "suffix": null
+                    },
+                    {
+                        "first": "B.",
+                        "middle": [],
+                        "last": "Barelaud",
+                        "suffix": null
+                    },
+                    {
+                        "first": "J.C.",
+                        "middle": [],
+                        "last": "Vareille",
+                        "suffix": null
+                    }
+                ],
+                "year": 1997,
+                "venue": "Thin Solidl Fiws 303",
+                "volume": null,
+                "issn": null,
+                "pages": "191",
+                "other_ids": {}
+            },
+            "BIBREF10": {
+                "ref_id": "BIBREF10",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Almaviva",
+                        "suffix": null
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Marinelli",
+                        "suffix": null
+                    },
+                    {
+                        "first": "E.",
+                        "middle": [],
+                        "last": "Milani",
+                        "suffix": null
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Prestopino",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Tueciarone",
+                        "suffix": null
+                    },
+                    {
+                        "first": "C.",
+                        "middle": [],
+                        "last": "Verona-Rinati",
+                        "suffix": null
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "angenec Lant nin m cai n n odon",
+                        "suffix": null
+                    }
+                ],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF11": {
+                "ref_id": "BIBREF11",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Baldacchini",
+                        "suffix": null
+                    },
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "Bonfigli",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Faenov",
+                        "suffix": null
+                    },
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "Flra",
+                        "suffix": null
+                    },
+                    {
+                        "first": "R.M.",
+                        "middle": [],
+                        "last": "Montereali",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Pace",
+                        "suffix": null
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Pikuz",
+                        "suffix": null
+                    },
+                    {
+                        "first": "L.",
+                        "middle": [],
+                        "last": "Reale",
+                        "suffix": null
+                    },
+                    {
+                        "first": "J.",
+                        "middle": [],
+                        "last": "Nemeseience",
+                        "suffix": null
+                    }
+                ],
+                "year": 2003,
+                "venue": "Nemescience andl Nanotechnvogy 3 (6)",
+                "volume": null,
+                "issn": null,
+                "pages": "483",
+                "other_ids": {}
+            },
+            "BIBREF12": {
+                "ref_id": "BIBREF12",
+                "title": "ENEA Patent TO2002A000575, G. Baldacchini, F. Bonfigli, A. Faenov, F. Flora, R.M. Montereali, A. Pace, T. Pikuz, L. Reale, (International N*: W0 2004/005906*1)",
+                "authors": [],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF13": {
+                "ref_id": "BIBREF13",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Almaviva",
+                        "suffix": null
+                    },
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "Bonfigli",
+                        "suffix": null
+                    },
+                    {
+                        "first": "I.",
+                        "middle": [],
+                        "last": "Franzini",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Lai",
+                        "suffix": null
+                    },
+                    {
+                        "first": "R.M.",
+                        "middle": [],
+                        "last": "Montereali",
+                        "suffix": null
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "Pelliccia",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Cedola",
+                        "suffix": null
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Lagomarsito",
+                        "suffix": null
+                    }
+                ],
+                "year": 2006,
+                "venue": "Appl. Phys. Lett. 89",
+                "volume": null,
+                "issn": null,
+                "pages": "54102",
+                "other_ids": {}
+            },
+            "BIBREF14": {
+                "ref_id": "BIBREF14",
+                "title": null,
+                "authors": [],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF15": {
+                "ref_id": "BIBREF15",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Baldacchini",
+                        "suffix": null
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Cremona",
+                        "suffix": null
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "d'Auria",
+                        "suffix": null
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Martelli",
+                        "suffix": null
+                    },
+                    {
+                        "first": "R.M.",
+                        "middle": [],
+                        "last": "Montereali",
+                        "suffix": null
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Montecchi",
+                        "suffix": null
+                    },
+                    {
+                        "first": "E.",
+                        "middle": [],
+                        "last": "Burattini",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Grilli",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Raco",
+                        "suffix": null
+                    }
+                ],
+                "year": 1996,
+                "venue": "Nuclear Instruments and Methods in Physies Research B 116",
+                "volume": null,
+                "issn": null,
+                "pages": "447",
+                "other_ids": {}
+            },
+            "BIBREF16": {
+                "ref_id": "BIBREF16",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "Calegari",
+                        "suffix": null
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Stagira",
+                        "suffix": null
+                    },
+                    {
+                        "first": "C.",
+                        "middle": [],
+                        "last": "D 'Andrca",
+                        "suffix": null
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Valentini",
+                        "suffix": null
+                    },
+                    {
+                        "first": "C.",
+                        "middle": [],
+                        "last": "Vozzi",
+                        "suffix": null
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Nisoli",
+                        "suffix": null
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "De Silvestri",
+                        "suffix": null
+                    },
+                    {
+                        "first": "L.",
+                        "middle": [],
+                        "last": "Paletto",
+                        "suffix": null
+                    },
+                    {
+                        "first": "P.",
+                        "middle": [],
+                        "last": "Villoresi",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Faenow",
+                        "suffix": null
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Piku",
+                        "suffix": null
+                    }
+                ],
+                "year": null,
+                "venue": "Appl. Phs. et 89",
+                "volume": null,
+                "issn": null,
+                "pages": "11122",
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "FIGREF1": {
+                "text": "Fig $1-A$ enatn enth ft anstin nimn hande sancionofthefeney.",
+                "type": "figure"
+            },
+            "FIGREF2": {
+                "text": "Fig, 2 2D AFM image of a Lif film, of thickness 1.9 m, thermally evaparated on a glass substrate kept at 28 C.",
+                "type": "figure"
+            }
+        },
+        "back_matter": []
+    }
+}

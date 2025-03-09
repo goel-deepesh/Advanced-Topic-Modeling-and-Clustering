@@ -1,0 +1,424 @@
+{
+    "metadata": {
+        "title": "Triple tracks in CR-39 as the result of Pd-D Co-deposition: evidence of energetic neutrons",
+        "authors": [
+            {
+                "first": "Pamela",
+                "middle": [
+                    "A."
+                ],
+                "last": "Mosier-Boss",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "Stanislaw",
+                "middle": [],
+                "last": "Szpak",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "Frank",
+                "middle": [
+                    "E."
+                ],
+                "last": "Gordon",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "Lawrence",
+                "middle": [
+                    "P.",
+                    "G."
+                ],
+                "last": "Forsley",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": "Since the announcement by Fleischmann and Pons that the excess enthalpy generated in the negatively polarized Pd-D-D.O system was attributable to nuclear reactions occurring inside the Pd lattice, there have been reports of other manifestations of nuclear activities in this system. In particular, there have been reports of tritium and helium-4 production; emission of energetie particles, gamma or X-rays, and neutrons; as well as the transmutation of elements. In this communication, the results of Pd-D eo-deposition experiments conducted with the cathode in close contact with CR-39, a solid-state nuclear etch detector, are reported. Among the solitary tracks due to individual energetic particles, triple tracks are observed. Mieroseopic examination of the bottom of the triple track pit shows that the three lobes of the track are splitting apart from a center point. The presence of three x-particle tracks outgoing from a single point is diagnostic of the C (n,n')3a carbon breakup reaction and suggests that DT reactions that produce 29.6 MeV neutrons are occurring inside the Pd lattice. To our knowledge, this is the first report of the production of energetic (29.6 MeV) neutrons in the Pd-D system.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "CR-39 is an allyl glycol carbonate plastic that has been widely used as a solid-state nuclear track detector. These detectors have been used extensively to detect and identify such fusion products as p, D, T, *He, and a particles resulting from inertial confinement fusion (ICF) experiments (S\u00e9guin et al. 2003). They have also been used to detect neutrons (Phillips et al. 2006). When a charged particle passes through the CR-39 detector, it leaves a trail of damage along its track inside the plastic in the form of broken molecular chains and free radicals (Frenje et al. 2002). After treatment with an etching agent, tracks remain as holes or pits. The size and shape of these pits provide information about the mass, charge, energy, and direction of motion of the particles (Nikezic and Yu 2004). Therefore, CR-39 detectors can semiqualitatively be used to distinguish the types and energies of individual particles. Advantages of CR-39 for ICF experiments include its insensitivity to electromagnetic noise; its resistance to mechanical damage; and its relative insensitivity to electrons, X-rays, and y-rays. Consequently, CR-39 detectors can be placed close to the source without being damaged. Furthermore CR-39, like photographic film, is an example of a constantly integrating detector, which means that events are permanently stamped on the surtace of the detector. As a result, CR-39 detectors can be used to detect events that occur either sporadically or at low fluxes.",
+                "cite_spans": [
+                    {
+                        "text": "(S\u00e9guin et al. 2003)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "text": "(Phillips et al. 2006)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "text": "(Frenje et al. 2002)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "text": "(Nikezic and Yu 2004)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Earlier, the use of CR-39 to detect the emission of energetic particles resulting from Pd-D electrolysis",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "thick polyethylene film between the cathode and the CR-39 detector. For images l and v, the detectors wene eiched for 6 h and for images dw-n, the detectors were etched for 10 h. For both (a) and (b), the lef tmages the images on the nighr ane an overhay of two images tuken at tmo diferent focal lengths (suwfuce andl botomt af the pis)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "Besides being used to detect energetic particles, CR-39 has also been used to measure neutron yields from DD and DT implosions (Frenje et al, 2002). The possible interactions of",
+                "cite_spans": [
+                    {
+                        "text": "(Frenje et al, 2002)",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "explanations for the formation of a triple track are (1) that it is due to overlapping single tracks or (2) it is the result of reactions that emit three particles of similar mass and energy. Figure 1b shows triple tracks resulting from overlapping tracks due to the $.$ particles emitted fhom an of these triple tracks. The image, Fig. 1b bottom microphotograph, shows that each lobe of the triple track has a distinct separate bright spot. This contrasts with triple tracks obtained as the result of a Pd-D co-deposition experiment. Focusing inside the bottom of the triple track pit, Fig. ld right image and Fig. 2a, b right images, it appears that the individual lobes of the triple track are splitting apart from a center point. This favors explanation (2) as the source of these triple pits. The number of triple tracks observed in these CR-39 detectors is very low. It is estimated that less than ten such tracks are present on each detector. They have been observed on both the front and back sides of the CR-39 detector. There are probably more such triple tracks present in the regions where the density of pits is higher. However, differentiating them from overlapping pits is difficul.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 1b",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "text": "Fig. 1b",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "text": "Fig. ld",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "text": "Fig. 2a",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The CR-39 detectors have been immersed in the electrolyte, and they have been placed in contact with the wires and screens used as cathode materials (Mosier-Boss et al. 2007). After etching, a few solitary tracks were observed randomly distributed in the CR-39 detectos. No triple tracks were observed. These results indicate that the tracks observed in the CR-39 after a Pd-D co-deposition experiment are not due to radioactive contamination of the",
+                "cite_spans": [
+                    {
+                        "text": "(Mosier-Boss et al. 2007)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "cell components or to some chance exposure to a DT neutron source. Additional control experiments have been conducted that indicate that the trnple tracks shown in Figs. ld and 2a,b do not have a chemical origin. No tracks were observed when electrolysis in deuterated water was done using Ag wire or Ni screen in place of the Pd-D co-deposition (Mosier-Boss et al. 2007). Experiments were condueted by replacing PdCly with CuCl, (Mosier-Boss et al. 2007). In these experiments, the electrochemical reactions occurring for both the PdCl2 and CuCl2 systems are the same. At the cathode, the metal plates are out in the presence of evolving $\\\\\\mathbf{D}_{2}$ gas while, at the anode, $\\\\\\mathrm{o}_{2}$ and $\\\\\\operatorname{c\\\\\\mathrm{l}}_{2}$ evolution occurs. The only difference is that metallic palladium absorbs deuterium and copper does not. While tracks, including triple tracks, are observed in the Pd-D system, no tracks are observed in the Cu-D system. Experiments have also been conducted in which a 60-pum thick polyethylene film has been placed between the cathode used in Pd-D co-deposition and the CR-39 detector. When these detectors were etched, tracks, including the triple tracks shown in Fig. 2b, are observed. Besides neutrons, linear energy transfer (LET) curves indicate that > 2 MeV protons and >10 MeV x can penetrate 60 um of polyethylene. If the triple tracks were due to structure defects, they would have been observed in the control experiments. Since no triple tracks were observed in the control experiments, the triple tracks resulting from Pd-D co-deposition eannot be attributed to defects in the structure of the CR-39 detectors. Both the Cu-D co-deposition experiments (Mosier-Bess et al.",
+                "cite_spans": [
+                    {
+                        "text": "(Mosier-Boss et al. 2007)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "text": "(Mosier-Boss et al. 2007)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Figs. ld",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "text": "Fig. 2a,b",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "text": "Fig. 2b",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "As long as the triton is not completely thermalized, it will undergo DT fusion to form a 14.l-MeV neutron. The p-T double tracks in CR-39 reported by Lipson et al. (20N0) indicate that these tritons are energetic, and the eross section of DT fusion is higher than that of DD fusion (Lawsen 1957). Analysis of the tracks present on the backside of the CR-39 detector (see \"Electronic supplementary material\" for further discussion) show that the observed size distribution exhibits features that are consistent with both DD and DT fusion reactions.",
+                "cite_spans": [
+                    {
+                        "text": "(Lawsen 1957)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The multibody reactions proposed by Takahashi (1994) involve deuteria occupying the tetrahedral and octahedral sites in the metal lattice. In the proposed 3D and 4D fusion reactions occurring in the metal deuterides, high-energy x pxarticles are formed that dissociate deuterons in the system to produce neutrons with a continuous spectrum in the 0 to 10 MeV region. These high energy a particles are also expected to produce Bremsstrahlung X-rays. Experimental data that suport this mechanism are evidence of recoil carbon and oxygen atoms on the backside of the CR-39 suggestive of l.25-8 MeV neutrons (see discussion in \"Electronic supplementary material'\") and Bremsstrahlung radiation that has been observed in the X-ray and y-ray spectra obtained during Pd-D co-deposition (Szpak et al. 1996).",
+                "cite_spans": [
+                    {
+                        "text": "(Takahashi 1994)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "text": "(Szpak et al. 1996)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Measuring the emission of energetic neutrons is chal lenging. In order to be detected using I\"B, \"Li, or He detectors, the neutron needs to be themalized. This requires placing hydrogen-rich materials between the neutron source and the detector, which will impact the eollection eificiency of the detector. In addition, when using electronic-based detectors, long acquisition times are typically used to improve the signal to nose ratio (SN). However, if the rate of production is sporadic and'or at a low level, the signal can be averaged away. As discussed vide supra, this is not a limitation for CR-39 detectors. Furthermore, the energetic c, p, $\\\\\\mathrm{T},$ and He species formed as the result of DD and DT fusion should also leave tracks in the CR-39 (Frenje et al. 2002). In principle, one would expect that the statistics of these interactions could be deduced by analyzing the tracks on the side of the CR-39 detectors that had been in contact with the cathode. However, differentiating these species using the CR-39 track data can be difficult. The size and shane of the tracks formed in the CR-39 detectors depend upon the energy, charge, and mass of the emitted particle as well as the angle of incidence. Calibration of the CR-39 detectors is done by either exposing the detectors to sources emitting particles of known energy or by placing them in accelerators used to generate charged particles. Even under ideal conditions, there is significant overlap in the track sizes of the different particles. In the Pd-D co-deposition experiments, the particles that are emitted have to traverse through a thin film of heavy water before reaching the detector surface. This will skow the particles down, which will further complicate speciation. Calibration efforts are currently underway. However, the effect of water on the energetics of the particles and on the size distribution of the tracks is discussed in more detail in \"Electronic supplementary materia\". In order to say anything conclusive about reactiom rates, the reactions need to occur at a constant rate. That is not true of the Pd-D system. Events that produce heat (Szpak et al. 2004), y and'or X-ray radiation (Szpak et al. 1996), tritium (Szpak et al. 1998), and energetic particles (Szpak et al. 2007) in cathodes produced by Pd-D co-deposition oceur sporadically and in bursts.",
+                "cite_spans": [
+                    {
+                        "text": "(Frenje et al. 2002)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "text": "(Szpak et al. 2004)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "text": "(Szpak et al. 1996)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "text": "(Szpak et al. 1998)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "text": "(Szpak et al. 2007)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The mechanism by which DD and DT fusion reactions can oceur in Pd is not yet understood; nevertheless, theories are ecurrently under development. However, since no tracks, single or triple, were obtained when CuClh was used in place of PdCly, it can be concluded that the deuterium must be inside a metal lattice for these reactions to occur and not simply adsorbed on the surface of the metal. This implies that the metal lattice facilitates these reactions indicating that nuclear phenomena can be influenced by the atomic and electronic environment",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The presence of thee a-particle tracks outgoing from a single point is diagnostic of the \"C(n,n')3ca carbon breakup reaction and is easily differentiated from other neutron interactions oecurring within the CR-39 detector (Durani and Bull 1987; Al-Najjar et al. 1986: Abdel-Moneim and Abdel-Naby 2003; Palfalvi et al. 2005; Sajo-Bchus et al. 2005). Consequently, analysis of the CR-39 detectors used in the Pd-D co-deposition experiments has concentrated on looking for these three prong stars as their identification is unambiguous. Although the three x particles resulting from the -C(n,n')3a carbon breakup reaction can completely fly apart, as has been observed for CR-39 detectors exposed to DT generators, such particles would be difficult to differentiate from tracks that result from three separate solitary events. This is especially true given the density of tracks (Fig. lc) observed in the Pd-D co-deposition experiments using the current protocol (Mosier-Boss et al. 2007). However, Fig. 2a, ii shows a triple track in which one track is separated from the other two tracks, and Fig. 2a, ili shows a triple track that has all three tracks separated from one another. The relative size of the triple tracks $( \\\\\\mathrm{F i g. ~ 2} )$ to one another is not relevant. The $1 2 C ( n, n^{\\\\\\prime} )$  $3 x$ carbon breakup reaction can occur anywhere on the surface or inside the CR-39 detector. After etching, triple tracks generated closer to the surface of the CR-39 detector will appear larger than those created deeper inside the detector.",
+                "cite_spans": [
+                    {
+                        "text": "(Durani and Bull 1987; Al-Najjar et al. 1986: Abdel-Moneim and Abdel-Naby 2003; Palfalvi et al. 2005; Sajo-Bchus et al. 2005)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "text": "(Mosier-Boss et al. 2007)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Fig. lc",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "text": "Fig. 2a",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "text": "Fig. 2a",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "text": "Fig. 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The \"C(n,nYj3a raction is anisotropic (Abde-Moneim and Abdel-Naby 2003). Likewise, the reactions proxlucing the triple tracks during Pd-D co-deposition should be anisotropic. This anisotropicity is illustrated by comparing the images in Fig. 2a, , ii and b. -iii with those in Fig. 2a illi-v and b, $\\\\\\mathbf{\\\\\\lambda}$ it ean be seen that, as the carbon atom has been shattered, one x particle has been shot below the plane of the center point and two a particles have been ejected above the plane of the center point",
+                "cite_spans": [
+                    {
+                        "text": "(Abde-Moneim and Abdel-Naby 2003)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 2a",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "text": "Fig. 2a",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Knowing the threshold energy needed to shatter a carbon atom and the distance each x particle of the triple track has traversed in the CR-39, the energy of the neutron that created that triple track can be estimated. LET curves are used to determine the stopping distance of alphas in CR-39 as a function of x particle energy. These LET eurves were calculated using the SRIM-20N3.26 code of Ziegler and Biersack (1985). In the photomicrographs shown in $\\\\\\mathrm{F i g. ~ 2a,}$  $i$ ii and b, i, the distance between the center point and one of the prongs of the triple track vary between 4.4l and 4.60 um. Using the LET curves for CR-39, the energy of the x particles are between 1.0 and 1.l MeV. This is the energy carried away by each a particle after the carbon atom was shattered by an energetic neutron. The threshold energy to shatter a carbon atom is 9.6 MeV (Al-Najjar et al 1986). The energy of the neutrons that generated the tracks shown in Fig. 2a, i, il and b, i is estimated to be between 12.6 and 12.9 MeV. The photomicrograph shown in Fig. 2b., ili indicates that two alphas are carrying off the excess energy after the carbon has shattered. The distance between the center point and the prongs of the triple track is l3.6S um. The LET curves for CR-39 indicate that the energy of the alphas is 2.92 MeV. The energy of the neutron that generated this triple track is estimated to bhe 15.44 MeV.",
+                "cite_spans": [
+                    {
+                        "text": "(Ziegler and Biersack 1985)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "text": "(Al-Najjar et al 1986)",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 2a,",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "text": "Fig. 2a",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "text": "Fig. 2b.",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "There have been reports of neutron emissions in the Pd-D system (Jones et al. 1989; Takahashi et al. 1990; Lipson et al. 2000: Mizuno et al. 2001). To our knowledge, this is the first report of the evidence of the emission of 29.6 MeV neutrons formed in situ during a Pd-D electrolysis experiment. Further work is required to determine the reaction(s) that give rise to these energetic neutrons. At this time, however, two possible sources of these neutrons can be considered. One is secondary DT fusion reactions involving energetic tritons produced from primary DD fusion reactions (Phillips et al. 1998). The other is multibody fusion reactions involving deuteria \"clusters\" inside a metal lattice Takahashi 1994).",
+                "cite_spans": [
+                    {
+                        "text": "(Jones et al. 1989; Takahashi et al. 1990; Lipson et al. 2000: Mizuno et al. 2001)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "text": "(Phillips et al. 1998)",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The data that support DT fusion for the production of energetie neutrons in Pd-D co-demsition are: (l) neutrons produced by DT fusion have energies ranging between 11.9 and 17.2 MeV (Phillips et al. 1998). Using LET curves, the estimated neutron energies that generated the triple tracks in CR-39 used in the Pd-D co-deposition experiments fall in this range; $( 2 )$ the tracks attributed to the three a reactions as determined from the automated scanned resuts of the backside of the CR-39 are in agreement with the manually observed number of triple tracks (see \"Electronic supplementary material\" for further discussion); (3) the observation of p-T double tracks in CR-39 (Lipson et al. 2000); and (4) reports of tritium production, using liquid scintillation techniques, in electrolytie Pd-D cells (Packham et al. 1989; Chien et al 1992) as well as in Pd-D co-deposition (Szpak et al. 1998). Unfortunately, the liquid scintillation technique cannot differentiate an increase in tritium concentration due to electrolytic enrichment from generation as the result of DD fusion. One approach to differentiate both sources of tritium is to show that the observed inerease in tniium correlates with the prduction of 3.0 MeV protons. This has been demonstrated by both Lipson et al. (2000) and Jones et al. (1990). Tritium generated as the result of DD reactions should have an energy of 1.01 MeV (Srinivasan 1991). However, this is the energy of tritons that have been created in a plasma. In the Pd-D co-deposition experiments, the cathode is immersed in deuterated water and, as discussed in \"Electronic supplementary material\", the presence of water will slow down the emitted particles-",
+                "cite_spans": [
+                    {
+                        "text": "(Phillips et al. 1998)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "text": "(Lipson et al. 2000)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "text": "(Packham et al. 1989; Chien et al 1992)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "text": "(Szpak et al. 1998)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "text": "(Lipson et al. 2000)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "text": "(Jones et al. 1990)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "text": "(Srinivasan 1991)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "experiments has been demonstrated (Oriani and Fisher 2002, Lipson et al. 2000). In the experiments conducted by Oriani and Fisher (2002), the CR-39 detectors were placed above and below the Pd foil cathode so as to not impede uniform loading of the cathde with deuterium. Although this experimental geometry is not optimum, they wene still able to detect charged particles significantly above background. Lipson et al (2000) prepared Au/Pd/ PdO heterostructures that were electrochemically loaded with deuterium. After electrolysis, the Au/Pd/PdO hetero-structure was placed in contact with CR-39, and tracks consistent for 2.5-3.0 MeV protons and 0.S-l.S MeV tritons were measured. More recently, experiments with CR-39 detectors have been performed using the Pd-D co-deposition process (Szpak et al. 2007). After etching, it has been observed that the density of tracks on the CR-39 detector is greatest where the cathode had been in contact with the deteetor (Mosier-Boss et al. 2007). This indicates that the source of the tracks is the Pd that had been plated on the cathode. The distribution of the tracks along the length of the cathode is inhomogeneous suggesting that some Pd sites are more active than others. Results of these experiments also showed that the production of charged particles oceurred in bursts. Control experiments indicated that the tracks were not due to radioactive contamination of the cell components; nor were they due to impingement of D, bubbles on the surface of the CR-39 detector; nor where they the result of chemical attack by D2, O2, or $\\\\\\mathrm{C l}_{2}$ (Mosier-Boss et al. 2007). These experiments also indicated that LiCl is not essential for the production of energetic particles and that the density of tracks significantly decreases, by at least three orders of magnitude, when H-O is substituted for D.O. Since the natural abundance of deuterium in light water is 0.015%, it is possible that the tracks observed in the light water experiments could actually be due to Pd-D interactions. Microscopic examination of the CR-39 detectors used in Pd-D electrolysis has been done in areas where the density of tracks is less. In these areas, what appear to be triple tracks are observed interspersed among the solitary tracks. The number of these triple tracks is very low--on the order of a ten or less per detector and are only observed in heavy water experiments. These triple tracks have been observed in every Pd-D co-deposition experiment that has been conducted using Ag, Au, or Pt cathodes in both the presence and absence of an external electric or magnetic field. When Ni screen is used as the eathode, tracks and trnple traeks are only observed when an external electric or magnetic field is applied. Triple tracks are indicative of a reaction resulting in the formation of three particles of equal mass and energy. In this communication, the origins of these triple tracks are investigated.",
+                "cite_spans": [
+                    {
+                        "text": "(Oriani and Fisher 2002, Lipson et al. 2000)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "text": "(Szpak et al. 2007)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "text": "(Mosier-Boss et al. 2007)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "text": "(Mosier-Boss et al. 2007)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Details on cell design and operation have been described ebewhere (Mosier-Boss et al. 2007). In these particular experiments., Pd was plated out from a 0.03-M PdCl, 0.3-M LiCl solution in D2O or H.O onto either a Ni, Ag. Au, or Pt cathode that was in contact with a CR-39 detector. In some experiments, a 60-um thick polyethylene film was placed between the cathode and the CR-39 detector. Upon completion of the experiment, which typically nun 2-3 weeks, the cathode was disassembled and the CR-39 detector was etched in 6.5 M NaOH. Etching conditions are indicated in the figure captions. The CR-39 detector was then subjected to microscopic examination using an Eclipse E600 epifluor-escent microscope (Nikon), and images were taken using a CoolSnap HQ CCD camera (Photometrics). The front and back surtaces of the CR-39 detectors were also analyzed using an automated scanning system to obtain quantitative information on the tracks.",
+                "cite_spans": [
+                    {
+                        "text": "(Mosier-Boss et al. 2007)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Figure la and b show images obtained for a CR-39 detector that had been exposed to an 34'Am souree that emits 5.5 MeV a particles. The tracks are conical in shape (Yoshioka et al. 2005). When viewed through a microscope and focusing on the surface of the CR-39 detector, the pits are symmetrical and dark in color (top images in Fig. la and b). The pits can be either circular in shape or elliptical. Cireular pits result from particles that have entered the surtace at a normal incidence while elliptical pits resut from particles entering the surface at an angle. When tocusing deeper into the CR-39 detector, bright points of light are observed in the center of the pits (bottom images in Fig. la and b). These bright points are due to the bottom tip of the conical track. When backlit, the bottom tip of the track aets like a lens and appears as a bright spot inside the track.",
+                "cite_spans": [
+                    {
+                        "text": "(Yoshioka et al. 2005)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Figure la",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "text": "Fig. la",
+                        "ref_id": "FIGREF0"
+                    }
+                ]
+            }
+        ]
+    }
+}

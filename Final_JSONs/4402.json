@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "title": "CORSKY EFFECT IN CONCENTRATED a'-PdH,",
+    "authors": [
+      {
+        "first": "A.",
+        "middle": ["H."],
+        "last": "VERBRUGGEN",
+        "suffix": null,
+        "affiliation": [
+          "Netuurkundig Laborctorium, Vrije Universiteit. Amsterdam (The Netherlands)"
+        ],
+        "email": null
+      },
+      {
+        "first": "C.",
+        "middle": ["W."],
+        "last": "HAGEN",
+        "suffix": null,
+        "affiliation": [
+          "Netuurkundig Laborctorium, Vrije Universiteit. Amsterdam (The Netherlands)"
+        ],
+        "email": null
+      },
+      {
+        "first": "R.",
+        "middle": null,
+        "last": "GRIESSEN",
+        "suffix": null,
+        "affiliation": [
+          "Netuurkundig Laborctorium, Vrije Universiteit. Amsterdam (The Netherlands)"
+        ],
+        "email": null
+      },
+      {
+        "first": "D.",
+        "middle": ["G."],
+        "last": "DE GROOT",
+        "suffix": null,
+        "affiliation": [
+          "Netuurkundig Laborctorium, Vrije Universiteit. Amsterdam (The Netherlands)"
+        ],
+        "email": null
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Gosky effect experiments hawe heen carried out on single-crystal a'-PdH. alloys with $0. 5 6 < x < 0. 7 4$ between 300 and 600 K using a capacitance method for strain measurements. From the temperature dependence of the reciprocal reluxation strength negative values for the spinodal temperature may be deduced in agreement with the predictions of a semirigid band model for the electronic band structure contribution to the total energy of the system. The long-range diffusion coefficients denved from the inelastic relaxation time show good consistency with results obtained by other workers in eomplementary temperature and/or concentration regimes. Arrhenius plots of the reduced or tracer diffusion coefficient lead to activation energies which are not more than 15% larger than the values found in dilute e phase PdH, alloys. The concentration dependence of the tracer diffusion varies more rapidly than $1-x$ . This deviation from a simple site-blocking model is an indication for the existence of H-H cooperative effects, involving a short-range repulsive interaction between the protons.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "section": "Abstract"
+      }
+    ],
+    "body_text": [],
+    "bib_entries": {},
+    "ref_entries": {},
+    "back_matter": [
+      {
+        "text": "This work was supported hy the Stichting vonr Fundamenteel Onder. zoek der Materie (FOM).",
+        "cite_spans": [],
+        "ref_spans": [],
+        "section": null
+      }
+    ]
+  }
+}

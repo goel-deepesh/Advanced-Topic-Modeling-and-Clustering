@@ -1,0 +1,531 @@
+{
+  "metadata": {
+    "title": "Vibrational dynamics of hydrogen and deuterium in crystalline Pd,Sis",
+    "authors": [
+      {
+        "first": "T.",
+        "middle": [],
+        "last": "Lovic",
+        "suffix": "",
+        "affiliation": [
+          "Materials Sciemce and Eugineering Laberatory. Nutowal busnitte of Shunmdunds amd Technology. Gainhersburg, MD 2899, USA"
+        ],
+        "email": ""
+      },
+      {
+        "first": "J.",
+        "middle": [],
+        "last": "Rash",
+        "suffix": "",
+        "affiliation": [
+          "Deparmeur af Chemisry. Lintrversity of Wermomr, Bawlingtom, VT Us4s, USA"
+        ],
+        "email": ""
+      },
+      {
+        "first": "",
+        "middle": [
+          ""
+        ],
+        "last": "Hanagan",
+        "suffix": "",
+        "affiliation": [
+          "linstiuwe af Chemistry, Dupanwenr ef largauic Chemisy, Uinhesity uf tipncala, S-731 Z1 Cipuala, Sieden"
+        ],
+        "email": ""
+      },
+        {
+        "first": "Ooh.",
+        "middle":[],
+        "last":"Y.",
+        "suffix":"",
+        "affiliation":[],
+        "email":""
+      },
+       {
+        "first": "",
+        "middle": [],
+        "last": "Adrso",
+        "suffix": "",
+        "affiliation": [],
+        "email": ""
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Crystalline Pd.,Si, possesses an arthorhombic structure (Pnmua) that is characterized by augmented triangular prismatic coordination of the sicon alons such as that whach occurs in several metal-rich transition-metal sibcides. Recent neutron diffraction results for dcuterium solution in this erystalline phase have indicated that deuterium oecupies only one type of interstice, i.e., a Pd-defined pyramidal site in a four-fold pasition situated an a quadrilateral face of an empty triangular prism. The vibrational dynamics of both H and D ocated at this site were investigated by neutron vibralional spectroscopy. The low-temperalure density of states (DOS) of H in Pd,Si,Ha, indicates three well-defined optic vibratiwas located at 49.4, 67.2 and 75.5 meV. The lowest-energy feature is assigned to the nomal-mode vibration perpendicular to the pyramidal base and the two higher-energy features are assigned to the two orthogonal normal-mode vibrations\n $\\cdot$  $a=0$ \nmeV. This yicds H/D energy ratios of l.57 for the low-energy and 1.32 for both higher-energy modes, relecting an unusual potential for\n $\\cdot$  $\\alpha=$ \nthe presence onf sigibcant IH diffuswmal mobon at this temperature. Preliminary quasielastic neutron scaltering measurements have corroborated this interpretaion.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "section": "Abstract"
+      }
+    ],
+    "body_text": [
+      {
+        "text": "the empty triangular prism in Fig. 1, was found to be empty.) The full occupation of the favored pyramidal interstices would yield the stoichiometry $\\mathrm{P d}_{g} \\mathrm{Si}_{z} \\mathrm{D}$ The\n$\\mathbf{P d}_{9} \\mathbf{S i}_{2}$ can exist as a well-defined crystalline phase that forms peritectically at 1096 K [1] with an orthorhombic structure (Pma) [2] charactenzed by augmented triangular prismatic coordination of the silicon atoms such as that which oecurs in several metal-nch transition-metal silicides, e-g., Co,Si [3]. Isotherms for H, and $\\mathbf{D}_{2} ( g )$ solution in crystalline Pd,Si, [4] confirm significant solu-bilities even at room temperature and O.1 MPa, with measured stoichiometries approaching Po $\\mathbf{I}_{g} \\mathbf{S i}_{2} \\mathbf{H}_{0, 3}$ at 235 K and 12 MPa H,. Recent neutron diffraction results for $\\mathrm{P d}_{g} \\mathrm{S i}_{2} \\mathrm{D}_{0.22}$ [5] show that deuterium occupies only one type of interstice, i.e-, a Pd-defined pyramidal site in a four-fold position situated on a quadrilateral face of an empty triangular prism (see Fig. 1). At room temperature, the dissolved D atoms have five Pd neighbors at distances between 1.74(8) and 2.09y8) $\\hat{\\mathrm{A}}$ and the nearest Si atom is at a distance of 3.02 A. (N.B.., a similar pyramidal site, with two Si atoms at distances of 2.9 and 3.1 A and involving one of the remaining two quaskrilateral faces of",
+        "cite_spans": [
+          {
+            "text": "[1]",
+            "ref_id": "BIBREF0"
+          },
+          {
+            "text": "[2]",
+            "ref_id": "BIBREF1"
+          },
+          {
+            "text": "[3]",
+            "ref_id": "BIBREF2"
+          },
+          {
+            "text": "[4]",
+            "ref_id": "BIBREF3"
+          },
+          {
+            "text": "[5]",
+            "ref_id": "BIBREF4"
+          }
+        ],
+        "ref_spans": [
+          {
+            "text": "Fig. 1",
+            "ref_id": "FIGREF0"
+          },
+           {
+            "text": "Fig. 1",
+            "ref_id": "FIGREF0"
+          }
+        ],
+        "eq_spans": [],
+        "section": "1. Introduction"
+      },
+      {
+        "text": "apart, minimizing any significant interactions between the dissolved H(D) atoms.\n\nDeuterium occupation of pyramidal sites has also been found in some Pd-P phases [6-8], although in these phases, additional types of sites are occupied simultaneously. Pyamidal (as well as tetrabedral) coordination of interstitial H in ZrCo has also been suggested from neutron vibrational spectroscopy (NVS) measurements [9]. In contrast, only distorted Pd, octahedral sites along with a range of tetrahedral sites have been identified as interstitial sites for H in amorphous $\\mathrm{Pd}_{i+3} \\mathrm{Si}_{2}$ by NVS [10]. In the present study, NVS is use cterize the vibrational dynamies of both H and D in solution with erystalline Pd,.Si, and to inwestigate the details of the bonding potential associated with the unusual pyramidal site.",
+        "cite_spans": [
+          {
+            "text": "[6-8]",
+            "ref_id": null
+          },
+          {
+            "text": "[9]",
+            "ref_id": "BIBREF8"
+          },
+           {
+            "text": "[10]",
+            "ref_id": "BIBREF9"
+          }
+        ],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "1. Introduction"
+      },
+      {
+        "text": "Crystalline Pd,Si, was synthesized as discussed elsewhere [2]. Approximately 12 g of finely powdered sample wene sealed in an Al tubular cell equipped with a valve. After evacuating the sample at 373 $\\mathbf{k}$ to remove any SRPa\"Har $\\mathbf{D},$ cene e n don npo r\n $\\mathbf{H}_{2}$ (Matheson' Research purity) or 0.7 MPa $\\mathbf{D}_{2}$ LOTAAAA $\\mathrm{P d_{g} S i_{2} D_{0, 25}}$ or below as necessary to obtain the samples Pd,SiHo,s\n,inagrementwit the pevious solublity",
+        "cite_spans": [
+          {"text":"[2]",
+          "ref_id":"BIBREF1"}
+        ],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "2. Experimental"
+      },
+      {
+          "text": "The NVS measurements were performed at the Neutron Beam Spit-core Reactor (NBSR) at the National Institute of Standards and Technology using the BT-4 spectrometer with the $\\mathrm{Cu} (2 2 0 )$ momochromator and either the low-resolution Be or high-resolution Be-graphuite-Be filter analyzers (with assumed final energies of 3 and 1.2 mev, respectively). Before and after the monochromator, colli-mations of 40'-40' were used for the PdSi, and $\\mathrm{P d}_{g} \\mathrm{S i}_{2} \\mathrm{H}_{0.25}$  $\\mathrm{P d}_{s} \\mathrm{S i}_{2} \\mathrm{D}_{0, 2}$ \nhe instrumental resolutions (full widths at half maximum. FWHM) are denoted by horizontal bars beneath the spectra.",
+           "cite_spans": [],
+           "ref_spans":[],
+           "eq_spans":[],
+           "section":"2. Experimental"
+
+      },
+       {
+        "text": "The high-resolution, low-temperature, density-of-states (DOS) spectrum of H in Pe $\\mathrm{l_{9} S i_{2} H_{0. 25}}$ in Fig. 2 indicates three well-defined optic vibrations located at 49.4, $6 7. 2$ and 75.5 meV. This is in stark contrast to the broad distribution of vibrational energies (maximized at -f) meV) that was observed for H dissolved in amorphous\n$\\mathrm{P d}_{s} \\mathrm{S i}_{s} \\mathrm{D}_{o, 2 s}$\nFig.2. High-resolution spectra af dSi., Pd,Si,H,g\nat 20 $\\kappa$ \n\nPd,, ,Si, [10]. A simple three-Gaussian fit of the crystalline Pe $\\mathbf{I}_{9} \\mathbf{S i}_{2} \\mathbf{H}_{0, 2 5}$ spectrum (ignoring the probable minor contributions of multiphonon scattering at energies above the main features) indicates three modes of roughly equal intensity, consistent with the expected sole oceupation of the pyramidal site. By symmetry considerations, the lowest-energy feature is assigned to the normal-mode vibration perpendicular to the pyramidal base and the two higher-energy features are assigned to the two orthogonal normal-mode vibrations parallel to this base. The nondegeneracy found for the higher-energy modes reflects the non-square nature of the pyramidal base. Fr comparison, the relatively featureless Pd.Sis spectrum is also shown. The low-temperature DOS spectrum of D in $\\mathrm{P d}_{g} \\mathrm{S i}_{2} \\mathrm{D}_{0, 25}$ at the top of Fig. $2 y$ ields corresponding normal-mode energies at 31.4, 50.8 and $5 7. 2$ meV. The somewhat noisier D spectrum refiects the small amount of sample involved and the much smaller incoherent scattering cross section for D compared to H. There are indications of aditional scattering features above 60 meV, but it is unclear how much of this is due to vibrational contributions from the low-energy overtone, multiphonon scattering and residual H in the deuterated sample. More definitive results will have to await further experiments using larger samples and higher D as well as H concentrations. Nonetheless, a comparison of the current H and D spectra give H/D energy ratios of 1.57 for the low-energy and 1.32 for both higher-energy modes, refiecting an unusual potential for this pyramidal site.",
+        "cite_spans": [
+          {"text":"[10]",
+          "ref_id":"BIBREF9"}
+        ],
+        "ref_spans": [
+          {
+            "text": "Fig. 2",
+            "ref_id": "FIGREF1"
+          }
+        ],
+        "eq_spans": [],
+        "section": "3. Results and discussion"
+      },
+      {
+        "text": "g Loean DG et G.i, , 20 md29 $\\mathbf{\\lambda}$ \n\nmonicity. A preliminary quasiclastic neutron scattering measurement of this sample at room temperature, using the Fermi-chopper time-of-flight spectrometer at NIST, indicates the clear presence of a Lorentzian quasielastic component due to localized H motion beneath the Gaussian elastic component, which is consistent with the NVS result. Further experiments are underway to characterize the H diffusive motion in this system. This motion may have similarity to the oscillatory type of H short-range diffusion found in $\\mathbf{P d}_{3} \\mathbf{P}_{0.8} \\mathbf{H}_{0.2}$ [1l] between two erys-tallographically equivalent, Pd-defined, pyramidal sites. These sites are located near the midpoints of two quadrilateral faces of an empty prism, similar to the normally\n $\\mathrm{P d_{o} S i_{z} D_{o.z2}}$",
+        "cite_spans": [
+           {
+            "text":"[1l]",
+            "ref_id":"BIBREF10"
+          }
+        ],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "3. Results and discussion"
+      },
+       {
+        "text": "The optic-vibrational DOS observed for both H and D in ${\\mathrm{P d}}_{\\mathrm{o}} \\mathrm{S i}_{z} \\mathrm{H (D )}_{\\mathrm{o} \\mathrm{z} \\mathrm{s}}$ indicate three well-defined, normal-mode vibrations at low temperature, in good agreement with the\nel pyramidal interstitial site identified by neutron powder diffraction at a similar D concentration. Confirming site oecupancies and vibrational DOS at higher H and D concentrations awaits additional experiments. The different H/D energy ratios for the individual normal-mode vibrations indicate an unusua site potential. Both inelastic\nsuggest the presence of significant H diffusional motion at room temperature and have prompted further neutron scattering investigations in order to identify the nature of the hydrogen mtion in more detail.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "4. Conclusions"
+      },
+       {
+        "text":"The low-resolution DOS spetra of H in Pd,Si,H,2s at 20 and 296 K are compared in Fig. 3. The 20-K spectrum, measured out to 174 meV, illustrates roughly harmonic behavior for the three normal-mode overtones, despite the unusual H/D energy ratios. At room temperature, a substantial smearing of the vibrational features occurs, which would suggest the presence of significant H diffusional motion at this temperature, and/or significant anhar-",
+        "cite_spans":[],
+        "ref_spans":[{"text":"Fig. 3", "ref_id":"FIGREF2"}],
+        "eq_spans":[],
+        "section":"3. Results and discussion"
+       }
+    ],
+    "bib_entries": {
+      "BIBREF0": {
+        "ref_id": "BIBREF0",
+        "title": "Merol. Trows.",
+        "authors": [
+          {
+            "first": "J.A.",
+            "middle": [],
+            "last": "Wysocki",
+            "suffix": ""
+          },
+          {
+            "first": "P.E.",
+            "middle": [],
+            "last": "Duwe",
+            "suffix": ""
+          }
+        ],
+        "year": 1981,
+        "venue": "",
+        "volume": "12",
+        "issn": null,
+        "pages": "153",
+        "other_ids": {}
+      },
+      "BIBREF1": {
+        "ref_id": "BIBREF1",
+        "title": "Chem. Serdpua,",
+        "authors": [
+          {
+            "first": "Y.",
+            "middle": [],
+            "last": "Andersson",
+            "suffix": ""
+          }
+        ],
+        "year": 1988,
+        "venue": "",
+        "volume": "28",
+        "issn": null,
+        "pages": "125",
+        "other_ids": {}
+      },
+      "BIBREF2": {
+        "ref_id": "BIBREF2",
+        "title": "Actw Crsr.,",
+        "authors": [
+          {
+            "first": "S.",
+            "middle": [],
+            "last": "Geller",
+            "suffix": ""
+          }
+        ],
+        "year": 1955,
+        "venue": "",
+        "volume": "8",
+        "issn": null,
+        "pages": "83",
+        "other_ids": {}
+      },
+      "BIBREF3": {
+        "ref_id": "BIBREF3",
+        "title": "J. Soind. Stane Chew",
+        "authors": [
+          {
+            "first": "T.B.",
+            "middle": [],
+            "last": "lasagam",
+            "suffix": ""
+          },
+           {
+            "first": "H.",
+            "middle": [],
+            "last": "Nch",
+            "suffix": ""
+          },
+           {
+            "first": "A.",
+            "middle": [],
+            "last": "Cruft",
+            "suffix": ""
+          },
+           {
+            "first": "Y.",
+            "middle": [],
+            "last": "Anderssan",
+            "suffix": ""
+          }
+        ],
+        "year": 1995,
+        "venue": "",
+        "volume": "120",
+        "issn": null,
+        "pages": "90",
+        "other_ids": {}
+      },
+      "BIBREF4": {
+        "ref_id": "BIBREF4",
+        "title": null,
+        "authors": [
+          {
+            "first": "Y.",
+            "middle": [],
+            "last": "Andersson",
+            "suffix": ""
+          }
+        ],
+        "year": null,
+        "venue": "unpublished",
+        "volume": null,
+        "issn": null,
+        "pages": null,
+        "other_ids": {}
+      },
+      "BIBREF5": {
+        "ref_id": "BIBREF5",
+        "title": "$\\jmath$ Senld Shure Chew-,",
+        "authors": [
+          {
+            "first": "Y.",
+            "middle": [],
+            "last": "Anderssan",
+            "suffix": ""
+          },
+           {
+            "first": "S.",
+            "middle": [],
+            "last": "Rundqvist",
+            "suffix": ""
+          },
+           {
+            "first": "R.",
+            "middle": [],
+            "last": "Tellgrem",
+            "suffix": ""
+          },
+           {
+            "first": "J.O.",
+            "middle": [],
+            "last": "Tbomas",
+            "suffix": ""
+          },
+          {
+            "first":"T.B.",
+            "middle":[],
+            "last":"Flanagan",
+            "suffix":""
+          }
+
+        ],
+        "year": 190,
+        "venue": "",
+        "volume": "32",
+        "issn": null,
+        "pages": "321",
+        "other_ids": {}
+      },
+      "BIBREF6": {
+        "ref_id": "BIBREF6",
+        "title": "Aecra $cy n.$",
+        "authors": [
+           {
+            "first": "Y.",
+            "middle": [],
+            "last": "Anderssan",
+            "suffix": ""
+          },
+           {
+            "first": "",
+            "middle":["N"],
+            "last": "Rundqvis",
+            "suffix": ""
+          },
+           {
+            "first": "R.",
+            "middle": [],
+            "last": "Tellgres",
+            "suffix": ""
+          },
+           {
+            "first": "J.O.",
+            "middle": [],
+            "last": "Tbomas",
+            "suffix": ""
+          },
+          {
+            "first":"T.B.",
+            "middle":[],
+            "last":"Flanagan",
+            "suffix":""
+          }
+        ],
+        "year": 1981,
+        "venue": "",
+        "volume": "B37",
+        "issn": null,
+        "pages": "1965",
+        "other_ids": {}
+      },
+      "BIBREF7": {
+        "ref_id": "BIBREF7",
+        "title": "Chem. Serdpm,",
+        "authors": [
+          {
+            "first": "Y.",
+            "middle": [],
+            "last": "Amdersson",
+            "suffix": ""
+          }
+        ],
+        "year": 1986,
+        "venue": "",
+        "volume": "26A",
+        "issn": null,
+        "pages": "99",
+        "other_ids": {}
+      },
+      "BIBREF8": {
+        "ref_id": "BIBREF8",
+        "title": "Z. Phys. Chem.,.179",
+        "authors": [
+          {
+            "first": "T.",
+            "middle": [],
+            "last": "Schaber",
+            "suffix": ""
+          },
+           {
+            "first": "R.",
+            "middle": [],
+            "last": "Hempelmann",
+            "suffix": ""
+          },
+           {
+            "first": "TJ.",
+            "middle": [],
+            "last": "Udovic",
+            "suffix": ""
+          }
+        ],
+        "year": 1993,
+        "venue": "",
+        "volume": null,
+        "issn": null,
+        "pages": "211",
+        "other_ids": {}
+      },
+      "BIBREF9": {
+        "ref_id": "BIBREF9",
+        "title": "J. Phys.. Candeas. Mfouer,",
+        "authors": [
+           {
+            "first": "JJ.",
+            "middle": [],
+            "last": "Rush",
+            "suffix": ""
+          },
+          {
+            "first":"T",
+            "middle":["J"],
+            "last":"Udowic",
+            "suffix":""
+          },
+           {
+            "first": "R.",
+            "middle": [],
+            "last": "Hempelmann",
+            "suffix": ""
+          },
+          {
+            "first":"D.",
+            "middle":[],
+            "last":"Richier",
+            "suffix":""
+          },
+          {
+             "first": "G.",
+            "middle": [],
+            "last": "Driese",
+            "suffix": ""
+          }
+        ],
+        "year": 1989,
+        "venue": "",
+        "volume": "1",
+        "issn": null,
+        "pages": "1061",
+        "other_ids": {}
+      },
+      "BIBREF10": {
+        "ref_id": "BIBREF10",
+        "title": "Soid Stane Com.,",
+        "authors": [
+          {
+            "first": "D.",
+            "middle": [],
+            "last": "Noreus",
+            "suffix": ""
+          },
+          {
+             "first": "U.",
+            "middle": [],
+            "last": "Dahiborg",
+            "suffix": ""
+          },
+          {
+            "first":"r",
+            "middle":[],
+            "last":"Andersson",
+            "suffix":""
+          },
+           {
+            "first": "R.",
+            "middle": [],
+            "last": "Tellgnen",
+            "suffix": ""
+          }
+        ],
+        "year": 1983,
+        "venue": "",
+        "volume": "46",
+        "issn": null,
+        "pages": "53",
+        "other_ids": {}
+      }
+    },
+    "ref_entries": {
+      "FIGREF0": {
+        "text": "The interstitial pyramidal site for D (black atom) in solutioe with Pd,Si,, deined entirely by Pd (gray atousl.",
+        "type": "figure"
+      },
+      "FIGREF1":{
+        "text":"High-resolution spectra af dSi., Pd,Si,H,g",
+        "type":"figure"
+      },
+      "FIGREF2":{
+        "text":"",
+        "type":"figure"
+      }
+    },
+    "back_matter": [
+      {
+        "text": "Kepnordts tyden Pilldium alcon; Vibrtions; Necsros scateing",
+        "cite_spans": [],
+        "ref_spans": [],
+        "section": null
+      }
+
+    ]
+  }
+}

@@ -1,0 +1,401 @@
+{
+    "metadata": {
+        "title": "5 FROZEN NEEDLES CF PROTOCOL",
+        "authors": [
+            {
+                "first": "Robert",
+                "middle": [
+                    "W."
+                ],
+                "last": "Bass",
+                "suffix": "",
+                "affiliation": [],
+                "email": ""
+            }
+        ],
+        "abstract": [
+            {
+                "text": "",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "ABSTRACT"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "The following protocol is designed to be intuitively convincing to a layman who, if told that needles $2$ 3 and $4 ~$ have been pulsed with constant-voltage DC-electricity for twice, thrice and quadruple the amount of time as needle $1$ , and then measured to contain twice, thrice and quadruple the amount of $H e^{4}$ as the first needle, will instantly reject any doubt that the electrical pulse was creating $H e^{4}$ from some form of nuclear-chemistry process whose action was directly proportional to the amount of DC electrical energy used. At the same time, the protocol is sufficiently statistically sophisticated in its rigorous application of Experiment Design theory as to satisfy the most skeptical and informed critic.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Step 1. Prepare a strip-shaped cathode of CF-suitable Palladium $( {\\\\\\mathrm{CF}}=$ cold fusion), sufficiently wide that after freezing it can be cut conveniently into $s$ parallel needles\" each of which may be presunedt taheyve beninenial-lod rior to freezing and uting",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "HINT 1. Note published caveats of Edmund Storms and Dennis Cravens regarding suitable versus unsuitable choices of materials.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Step 2. Gently load said cathode with deuterium in a Fleischmann-Pons electrolytic-cell manner, until beta phase is attained and cathode becomes PdD, loading-ratio $x$ as close as possible to 1.0.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "HINT 2.1. Recall Michael McKubre's resistivity test for assurance of at least 90% of full loading, as well as Fritz Will's volumetric-swelling test and Storms's pressure-changes and weight-changes tests; also note the many published warmings of Cravens and Storms regarding various potentially fatal mistakes to avoid.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "HINT 2.2. S",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Swelling - The material does not swell in a uniform manner. The length expands in a different manner than the width. This swelling is not uniquely related to composition because it is influenced by formation of cracks.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Resistivity - This requires attaching leads to the sample. The resistivity ratio is also not unique to the composition because the shape of the sample and formation of cracks have an influence. The method is very useful because it can give a relative, real-time measurement of composition while the sample is in the cell.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Orphaned oxygen - The oxygen released when hydrogen goes into the sample can be measured using several methods. My method uses the weight of oil displaced from a reservoir by the change in pressure. This method is accurate to 10.001 moles of D.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Weight - Weight can be easily measured to 10.00005g (:0.00002 moles D) by weighing as a function of time after the current is stopped and extrapolating to zero time.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Step 3. Quick-freeze said cathode by sudden pouring of liquid nitrogen upon it (in situ, to inhibit de-loading), and thereafter maintain the LOADED Pd.Dx cathode frozen.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "HINT 3.1. See paper by John Bockris et al, (J.Electroanal.Chem., vol 338 (1992), pages 189-212), who pioneered this important freezing technique, and found \"massive\" amounts of $H e^{4}$ in a cathode that had been producing excess heat!",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "HINT 3.2. Storms note that if it is not required to keep the sample frozen for more than a couple of weeks, the same objective can be accomplished by freezing in dry ice.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Step 4. Cut or saw frozen Pd $\\\\\\mathbf{D_{r}}$ slab into $s$ parallel \"needles\", keeping them frozen. Number the needles from 0 to 4. (Needle 0 will be the unprocessed blank control sample.)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Step $s$ Attach electrodes to bottom & top of $k_{\\\\\\mathrm{th}}$ needle $( \\\\; k=0, \\\\\\, 1, 2, \\\\\\, 3, \\\\\\, 4 \\\\; ),$ and pulse electrically for times of duration $t_{k}=k. \\\tau$ (for a preselected duration-epoch $:$ seconds), with a preselected fixed current of $I$ amperes, at a preselected potential difference $E_{1 0 0}=1 7. 7$ volts.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "NOTE. According to the Turmer-Bush-Bass Resonant Transparency Spectrum [Abstracts, ICCFS] this provides the energy-level $n=1 0 0$ . above ZPF ground-state, of Colomb Barrier transparency. (lt is assumed here that the engineering unit of' \"volts\" in the MKS system is the same as in theoretical physics, as implied by a paper of Yeong Kim in $P r o c$ ICCF1). The LOW-ENERGY quantum number $n=1 0 0$ is chosen because the line-broadening created by lattice-ZPF is more than 50% of the distance to the next line and close to maximum over the computed Spectrum (Bass) for $n=1$ to $n=6 0 0,$ during which the energy level in eV ranges from about 6.3 eV to 145.2 $\\\\\\mathrm{eV}$ [with numerical accuracy increasing with n]; this is based upon a PERIODIC Coulomb-Madelung/Fermi-Thomas/Mott lattice potential whose validity has been confirmed in that it correctly predicts the strictly empirical Schwinger Ratio within 0.3% of its measured value. The optimal values of time $\\\tau$ and current $I$ must be found by trial $\\\\\\mathcal{s}$ error.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Step 6. Cut or saw each needle in halves (or thirds) and send all 10 (or 15) pieces, in a double-blind protocol, to INDEPENDENT test labs for physical, chemical assays of $H e^{+}$ content by every known",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "HINT. Upon request Brian Oliver of Pacific Northwest National Labs (who, while at Rockwell pioneered the commonly-accepted definitive test procedure in which Palladium cathodes were fidlly ionized before the application of Mass Spectroscopy measurement to the resultant plasma) will supply a 3-page statement entitled Helium Analysis Procedures & Conditions, which also contains pricing inforrmation for both govemmental $\\\\\\delta$ non-government PNNL customers seeking such tests.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Step 8. [See DERIVATION below.] Define mean bias-error $d A,$ mean incremet-factor $8 A$ , and estimated increment-factor standard deviation o by",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "in which case [see PROOF below] one CONCLUDES that with greater than 95% confidence",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "which implies unambiguously that the amount of $H e^{+}$ freshly created in the D-loaded Palladium level $E_{1 0 0}$ .",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "measurement technique, the more accurate the better.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Step 7. E",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "alateulsb asiging $H e^{+}$ amounts of $A_{k}$ for $k_{\\\\\\mathrm{th}}$ needle $( \\\\; k=0, 1, 2, 3, 4 \\\\; ).$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "dA = ( 3 A_{0}+2 A_{1}+A_{2}-A_{4} ) / 5,",
+                        "latex": "\\\begin {r c l} {{d A}} & {{=}} & {{( 3 A_{0}+2 A_{1}+A_{2}-A_{4} ) / 5,}} \\\\\\end{r c l}"
+                    },
+                    {
+                        "text": "\u03b4A = (-2 A_{0}-A_{1}+A_{3}+2 A_{4} ) / 10,",
+                        "latex": "\\\begin {r c l} {{\\\\\\delta A}} & {{=}} & {{(-2 A_{0}-A_{1}+A_{3}+2 A_{4} ) / 10,}} \\\\\\end{r c l}"
+                    },
+                    {
+                        "text": "\u03c3^{2} = ( 1 / 3 ) ( A_{k}-d A-k. \u03b4 A )^{2}.",
+                        "latex": "\\\begin {r c l} {{\\\\\\sigma^{2}}} & {{=}} & {{( 1 / 3 ) ( A_{k}-d A-k. \\\\\\delta A )^{2}.}}  \\\\\\end{r c l}"
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "dA = ( 3 A_{0}+2 A_{1}+A_{2}-A_{4} ) / 5,",
+                        "latex": "\\\begin {r c l} {d A} & {=} & {\\\\\\left( 3 A_{0}+2 A_{1}+A_{2}-A_{4} \\\right) / 5,} \\\\\\end{r c l}"
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\u03c3^{2}  =  ( 1 / 3 ) ( A_{k} \\\\\\,-\\\\\\, d A \\\\\\;-\\\\\\, k. \u03b4 A )^{2}.",
+                        "latex": "\\\\\\sigma^{2} \\\\\\; \\\\\\;=\\\\\\; \\\\\\; ( 1 / 3 ) ( A_{k} \\\\\\,-\\\\\\, d A \\\\\\;-\\\\\\, k. \\\\\\delta A )^{2}."
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "Step 9. Judge experiment succesfl if",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "dA \\\\\\ \\\\\\ < < \\\\\\ \\\\\\delta A,",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "dA <<< \u03b4A,",
+                        "latex": "d A \\\\\\ \\\\\\ < < \\\\\\ \\\\\\delta A,"
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "and al",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "i0",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "\u03c3\\\\\\; \\\\\\; < < \\\\\\; \\\\\\; \\\\\\delta A / 2,",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\u03c3<<< \u03b4A / 2,",
+                        "latex": "\\\\\\sigma\\\\\\; \\\\\\; < < \\\\\\; \\\\\\; \\\\\\delta A / 2,"
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "A_{k} / \\\\\\delta A \\\\\\; \\\\\\;=\\\\\\; \\\\\\; k, \\\\\\; \\\\\\; \\\\\\; \\\\\\; ( \\\\\\; k \\\\\\;=\\\\\\; 0, 1, 2, 3, 4 \\\\\\; ),",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "A_{k} / \u03b4A = k,       ( k = 0, 1, 2, 3, 4 ),",
+                        "latex": "A_{k} / \\\\\\delta A \\\\\\; \\\\\\;=\\\\\\; \\\\\\; k, \\\\\\; \\\\\\; \\\\\\; \\\\\\; ( \\\\\\; k \\\\\\;=\\\\\\; 0, 1, 2, 3, 4 \\\\\\; ),"
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\u03a3_{0}  =  A_{0}+A_{1}+A_{2}+A_{3}+A_{4},",
+                        "latex": "\\\begin {l c l} {\\\\\\Sigma_{0}} & {=} & {A_{0}+A_{1}+A_{2}+\\\\\\mathbf{A}_{3}+A_{4},} \\\\\\end{l c l}"
+                    },
+                    {
+                        "text": "\u03a3_{1}  =  A_{1}+2 A_{2}+3 A_{3}+4 A_{4},",
+                        "latex": "\\\begin {l c l}{\\\\\\Sigma_{1}} & {=} & {A_{1}+2 A_{2}+3 \\\\\\mathbf{A}_{3}+4 A_{4},} \\\\\\end{l c l}"
+                    }
+                ],
+                "section": "DERIVATION: Define"
+            },
+            {
+                "text": "",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\u03a3_{0} = A_{0}+A_{1}+A_{2}+A_{3}+A_{4},",
+                        "latex": "\\\\\\Sigma_{0} ~=~ A_{0}+A_{1}+A_{2}+\\\\\\mathbf{A}_{3}+A_{4},"
+                    }
+                ],
+                "section": "DERIVATION: Define"
+            },
+            {
+                "text": "and differentiate with respect to  $\\\\\\sigma^{2}$  $d A$ and .4 and set both expressions to zero to obtain",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DERIVATION"
+            },
+            {
+                "text": "PROOF. The reader can learn enough about Statistics by reading The Cartoon Guide to\nStatistics by Larry Gonick & Woolcott Smith, HarperCollins (1993), to verify that the preceding provides the result claimed at the 95% Confidence Level. I showed my one-page proof to an internationally reputable expert in Statistics and he agreed that it was correct and said that if the experiment turns out as I predicr then he will give me a Certificate that the Confidence Level is that asserted and be willing to testify in Court as an Expert Witness that according to accepted principles of Statistics the preceding protocol is definitive as stated.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROOF"
+            },
+            {
+                "text": "",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "dA+2 \u03b4A = \u03a3_{0} / 5,",
+                        "latex": "\\\begin {r c l} {d A+2 \\\\\\delta A} & {=} & {\\\\\\Sigma_{0} / 5,} \\\\\\end{r c l}"
+                    },
+                    {
+                        "text": "dA+3 \u03b4A = \u03a3_{1} / 1 0,",
+                        "latex": "\\\begin {r c l} {d A+3 \\\\\\delta A} & {=} & {\\\\\\Sigma_{1} / 1 0,} \\\\\\end{r c l}"
+                    }
+                ],
+                "section": "PROOF"
+            },
+            {
+                "text": "which are trivial to solve in the form",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROOF"
+            },
+            {
+                "text": "",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\u03b4A = ( \u03a3_{1}-2 \u03a3_{0} ) / 1 0,",
+                        "latex": "\\\begin {r c l} {{\\\\\\delta A}} & {{=}} & {{\\\\\\left( \\\\\\Sigma_{1}-2 \\\\\\Sigma_{0} \\\right) / 1 0,}} \\\\\\end{r c l}"
+                    },
+                    {
+                        "text": "dA = ( 3 \u03a3_{0}-\u03a3_{1} ) / 5,",
+                        "latex": "\\\begin {r c l}{ {d A}} & {{=}} & {{\\\\\\left( 3 \\\\\\Sigma_{0}-\\\\\\Sigma_{1} \\\right) / 5,}}  \\\\\\end{r c l}"
+                    }
+                ],
+                "section": "PROOF"
+            },
+            {
+                "text": "which may be readily identified with the form originally claimed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROOF"
+            },
+            {
+                "text": "itorms has kindly supled the following additional coments regarding Step 2:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "Here is some clarification about measuring composition.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            }
+        ],
+        "bib_entries": {},
+        "ref_entries": {},
+        "back_matter": []
+    }
+}

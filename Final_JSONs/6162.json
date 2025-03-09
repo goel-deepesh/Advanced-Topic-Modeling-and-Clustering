@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "title": "UPPER LIMITS ON EMISSION RAIES OF NEUIRONS AND GANA-RATS FRCM \"COLD FUSION\" IN DEUIERIDED METALS*",
+    "authors": [
+      {
+        "first": "M.",
+        "middle": [],
+        "last": "Gai",
+        "suffix": null,
+        "affiliation": [
+          "A.W. Wright Muclear Structure Laboratory, Yale University, New Haven, Connecticut 06511"
+        ],
+        "email": null
+      },
+      {
+        "first": "S.L.",
+        "middle": [],
+        "last": "Rugari",
+        "suffix": null,
+        "affiliation": [
+          "A.W. Wright Muclear Structure Laboratory, Yale University, New Haven, Connecticut 06511"
+        ],
+        "email": null
+      },
+      {
+        "first": "R.H.",
+        "middle": [],
+        "last": "France",
+        "suffix": null,
+        "affiliation": [
+          "A.W. Wright Muclear Structure Laboratory, Yale University, New Haven, Connecticut 06511"
+        ],
+        "email": null
+      },
+      {
+        "first": "B.J.",
+        "middle": [],
+        "last": "Lund",
+        "suffix": null,
+        "affiliation": [
+          "A.W. Wright Muclear Structure Laboratory, Yale University, New Haven, Connecticut 06511"
+        ],
+        "email": null
+      },
+      {
+        "first": "Z.",
+        "middle": [],
+        "last": "Zhao",
+        "suffix": null,
+        "affiliation": [
+          "A.W. Wright Muclear Structure Laboratory, Yale University, New Haven, Connecticut 06511"
+        ],
+        "email": null
+      },
+      {
+        "first": "A.J.",
+        "middle": [],
+        "last": "Davenport",
+        "suffix": null,
+        "affiliation": [
+          "Dept. of Applied Science, Brookhaven National Laboratory, Upton, NY 11973"
+        ],
+        "email": null
+      },
+      {
+        "first": "H.S.",
+        "middle": [],
+        "last": "Isaacs",
+        "suffix": null,
+        "affiliation": [
+          "Dept. of Applied Science, Brookhaven National Laboratory, Upton, NY 11973"
+        ],
+        "email": null
+      },
+      {
+        "first": "K.G.",
+        "middle": [],
+        "last": "Lynn",
+        "suffix": null,
+        "affiliation": [
+          "Dept. of Fhysics and Applied Science, Brookhaven National Laboratory Upton, New York 11973"
+        ],
+        "email": null
+      }
+    ],
+    "abstract": [
+      {
+        "text": "A search for neutrons and gamma-rays emitted in \"cold fusion\" in electrolytically deuterided metals was carried out with a very low background and a sensitive neutron detection system, composed of an array of six liquid-scintillator neutron counters operating in coincidence, with total efficiency of -1%. Pulse shape, pulse height and time of flight, were measured for scattered neutrons. Gama-rays were detected in two large (12.5 cm) Nal(Tl) detectors, with total efficiency of 0.1% at 5.5 MeV. The detection system was shielded from background radiation and two large area cosmic-ray veto counters were utilized. Up to four electrochemical cells, similar to the ones used by Fleischmann, Pons and Hawkins (FPH) and by Jones et al., ran concurrently, with Pd or cold worked Ti rods as cathodes. The Pd electrcdes were cold worked or annealed in vacum or argon, one electrode was predeuterided and various surface treatments were carried out. The metals were electrochemically charged with deuterium in heavy water (97.5% or 99.8% D20) electrolytes containing LiOD or a variety of salts. TI alloy powder deuterided at room temperature and high pressure was also used for camparison. No statistically significant deviation from the background was observed in either gamma-ray or neutron detectors, over three weeks. Using our neutron detector system we estimate (with 98% confidence) the rate of \"cold fusion\" of d t d in our Pd and Ti samples to be smaller than the order of 10-s fusions/atom pair/sec (3o limit), and the gamma ray data yield for (the faster) p + d fusion rate, a limit of the order of 10-2 fusions/atom pair/sec (3o limit). The estimated neutron flux in our experiment ig a factor of 50-100 smaller than that reported by Jones et al. and some million times smaller than that reported by FPH. We suggest that the FPH quoted neutron flux is in error, and the rate of vetoed cosmic ray induced neutron events, in our data, suggests the observation of Jones et al. to be cosmic muon induced events. An attempt to initiate \"cold fusion\" with S MeV alpha particles produced no measurable effect.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "section": "Abstract"
+      }
+    ],
+    "body_text": [],
+    "bib_entries": {},
+    "ref_entries": {},
+    "back_matter": [
+      {
+          "text": "Supported in part by U.S.D.O.E. contracts Numbers: EE-AC02-76ER03074, DE-AC02-76CH00C16.",
+          "cite_spans": [],
+          "ref_spans": [],
+          "section": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+    "metadata": {
+        "title": "Possibility of mechanically stimulated transmutation of carbon nuclei in ultradisperse deuterium-containing media",
+        "authors": [
+            {
+                "first": "A.",
+                "middle": [
+                    "G."
+                ],
+                "last": "Lipson",
+                "suffix": null,
+                "affiliation": [
+                    "Institute of Piysicaf Chemistry, Russian Acadewy of Sciences."
+                ],
+                "email": null
+            },
+            {
+                "first": "V.",
+                "middle": [
+                    "A."
+                ],
+                "last": "Kuznetsov",
+                "suffix": null,
+                "affiliation": [
+                    "Institute of Piysicaf Chemistry, Russian Acadewy of Sciences."
+                ],
+                "email": null
+            },
+            {
+                "first": "T.",
+                "middle": [
+                    "S."
+                ],
+                "last": "lvanova",
+                "suffix": null,
+                "affiliation": [
+                    "Institute of Piysicaf Chemistry, Russian Acadewy of Sciences."
+                ],
+                "email": null
+            },
+            {
+                "first": "E.",
+                "middle": [
+                    "I."
+                ],
+                "last": "Saunin",
+                "suffix": null,
+                "affiliation": [
+                    "Institute of Piysicaf Chemistry, Russian Acadewy of Sciences."
+                ],
+                "email": null
+            },
+            {
+                "first": "S.",
+                "middle": [
+                    "I."
+                ],
+                "last": "Ushakov",
+                "suffix": null,
+                "affiliation": [
+                    "Institute of Piysicaf Chemistry, Russian Acadewy of Sciences."
+                ],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": "The variation of the concentraion of $\\\\\\iota_{C}$ in graphite subjected to vibratory milling in the\npresence of heavy (or light) water is investigated using methkxis of radiocarbon $\\\beta$ -spectral analysis. lt is discovered that the $\\\\\\mathbf{C}+\\\\\\mathbf{D}_{2} \\\\\\mathbf{O}$ system exhibits a statistically significant increase in the $\\\beta$ \ncounting rate in comparison to the $\\\\\\mathbf{C}+\\\\\\mathbf{H}_{2} \\\\\\mathbf{O}$ system milled under similar conditions. A quantitative model of the transmutation of the -C isotope into the l4C isotope involving an interaction\nof multiphonon excitations with deuterons in the graphite crystal lattice in the presence of background themal neutrons is proposed. 8D 1997 Amercan Insttule ey Pryses.\n[$1063-7842(97)02106-5]",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "TABLE 1. Parameers of the $\\\rho$ count of graphite samples milled umder diferent condions.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "TABLE 1",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "3. The influence of chemical isotope effects. Let us assume that for some reason preferential *bumup'' of the principal (\\\\\"light'\") isotopes -C and $B C$ occurs in the $\\\\\\mathbf{C}+\\\\\\mathbf{D}_{2} \\\\\\mathbf{O}$ system in comparison with the Ct H.O system. In this case a significant loss of mass from the original graphite charge $( 8-1 7 9 6 )$ should be observed in order for the concentrating of 14C to oecur. This, however, does not occur, since the mass loss of graphite does not exceed 0.3%. In addition, it is well known that the infiluence of isotope effects in solid-phase systems increases sharply as the specific surface of the samples increases. Therefore, the samples with a large specific surface should have had a larger concentration of radiocarbon, which was not observed (see Table I). According to the experiment, the concentration of $\\\\\\mu_{\\\\\\mathbf{C}}$ in the $\\\\\\mathbf{C}+\\\\\\mathbf{D}_{2} \\\\\\mathbf{O}$ samples depends only on the milling time (the dose of elastic enegy suppled andes ns dend on $S_{\\\\\\mathrm{x p}}.$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "$$\\\\\\hat{N} ( {}^{1 4} {\\\bf C} ) \\\\\\!=\\\\\\! N_{S} P_{d} P_{\\\\\\mathrm{L 3}} \\\\\\! \\\\\\hat{\\\bf C} P_{n} \\\\,,$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\\\\\\hat{N} ( {}^{1 4} {\\\bf C} ) \\\\\\!=\\\\\\! N_{S} P_{d} P_{\\\\\\mathrm{L 3}} \\\\\\! \\\\\\hat{\\\bf C} P_{n} ,,",
+                        "latex": null
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "where $N_{s}$ is the mean number of CMEs formed during milling per unit time for which $W_{S} > E_{v}$ (the binding energy of the neutron in a deuteron),. $\\\rho_{d}$ is the probability of the interaction of a CME with a deuteron in the graphite lattice, $P_{\\\\\\mathrm{B C}}$ is the probability of finding a $v_{\\\\\\mathbf{C}}$ atom near that deuteron, and $P_{s}$ is the probability of finding a background neutron near a deuteron or the probability of the interaction of such a neutron with a CME.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "We must first prove that the CME energy per nucleon (Wg) will be sufficient for splitting a deuteron, i.e., that $( W_{S}^{\\\\\\prime} ) > 2. 2 2$ MeV. For this purpose we utilize the equation of state of a degenerate neutron gas.\\\\\" which, as was shown in Ref. $2$ determines the maximum CME energy density",
+                "cite_spans": [
+                    {
+                        "text": "2",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "$$W_{S}^{\\\\\\prime} {=} \\\frac{3} {5} ( 3 \\\\\\, \\\\\\pi^{2} )^{2 / 5} \\\frac{\\\\\\hbar^{6 / 5}} {m_{x}^{3 / 5}} ( \\\\\\alpha L )^{2 / 5}.$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "W_{S}^{\\\\\\prime} {=} \\\frac{3} {5} ( 3 \\\\\\, \\\\\\pi^{2} )^{2 / 5} \\\frac{\\\\\\hbar^{6 / 5}} {m_{x}^{3 / 5}} ( \\\\\\alpha L )^{2 / 5}.",
+                        "latex": null
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "Thus, the acumulation of 4C in the graphite samples when they are milled in the presence of D.O and the absence of such an effect in the $\\\\\\mathbf{C}+\\\\\\mathbf{H}_{2} \\\\\\mathbf{O}$ system cannot be attributed to the influence of radioactive contaminants, attrition products, or chemical isotope effects. Therefore, it should be assumed that the increase in the comcentration of radiocarbxon during the milling of the $\\\\\\mathbf{C}+\\\\\\mathbf{D}_{2} \\\\\\mathbf{O}$ system is a consequence of nuclear transformation (transmutation) of the I3C isotope into the $1+_{C}$ isotope when multiphonon excitations interact win deteon inte graie crg\nof background thermal neutrons.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Here $m_{s}$ \u54c1\u6d77\u6d77\u5e97\u54c1\u533a\u9650\u96504\u573a conversion factor for the transformation of elastic energy $\\\\\\omega_{D}$ into the energ of atie pielphnons of frquency $\\\\\\iota$ is a parameter having the (the Debye frequency), and\nmeaning of the limiting elastic energy which can be stored by the crystals: $\\\begin{aligned} {L} & {{}=B_{0} / V_{0} \\\rho,} \\\\\\\\\\ \\\\\\end{aligned}$ where $B_{0}$ is the equilibrium bulk moxdulus, $V_{0}$ is the unit cell volume, and $\\\rho$ is the density of the  crystal (in particular, for  graphite $L \\\\\\!=\\\\\\! 4. 2 {\\\times} 1 0^{3} \\\\\\mathrm{e rg / g \\\\\\! \\\\\\cdot\\\\\\! c m}^{3} ).$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "In the next section we consider the possible causes of the observed transmutation of $v_{\\\\\\mathbf{C}}$ into $u_{C}$ and their relationship to the concentrating of elastic energy in the dispersed graphite particles.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "To estimate $\\\\\\mathbf{w}_{s}^{\\\\\\prime}$ using Eq. (2), we must determine the value of $\\\\\\alpha$ . The value of $a.$ in turn, which is also the prob- $\\\\\\omega_{D}$ ShTG\u533apGdgdG ada.e\nn aick, sven n ad eae $s^{2}$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "$$\\\\\\alpha\\\\\\!=\\\\\\! {\\\frac{1} {\\\\\\pi^{5 / 2}}} {\\\frac{m_{n} c^{2}} {( \\\\\\hbar\\\\\\, \\\\\\omega_{D} )^{2}}} ( \\\\\\hbar\\\\\\, m_{n} )^{1 / 2} \\\\\\! ( \\\beta E_{t}^{1 / 2} ),$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\\\\\\alpha\\\\\\!=\\\\\\! {\\\frac{1} {\\\\\\pi^{5 / 2}}} {\\\frac{m_{n} c^{2}} {( \\\\\\hbar\\\\\\, \\\\\\omega_{D} )^{2}}} ( \\\\\\hbar\\\\\\, m_{n} )^{1 / 2} \\\\\\! ( \\\beta E_{t}^{1 / 2} ),",
+                        "latex": null
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "On the basis of the model presented, the mean number of carbon transmutation events $( {}^{1 3} {\\\\\\mathsf{C}} \\\to{}^{1 4} {\\\\\\mathsf{C}} )$ in a disperse graphite particle per unit time ${\\\\\\dot{N}} ( {}^{1 4} C )$ is specified by the following relation:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "where $c$ is the speed of light, $E_{1}$ is the total energy supplied to the crystalline particle, and $\\\beta$ is a coefficient which is equal to the fraction of the elastic energy that is absorbed by (1)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "(2)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "(3)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "can result in the splitting off of a virtual neutron. This process takes place only if $\\\\\\mathbf{W_{S}^{\\\\\\prime} > E_{s}, \\\\\\ i. e.}$ if the CME energy per nucleon is greater than the binding energy of a neutron in the nucleus. For its part, the virtual neutron emitted by the neutron-donor nucleus can be recaptured by a neutron-acceptor nucleus loeated within the field of action of the nuclear forces. If there is no acceptor nucleus near (in terms of nuclear distances) the donr nucleus, the virtual neutron remains in the donor nucleus, since the time of action of a CME is commensurate with a nuclear time $( \\\tau\\\\\\sim1 0^{-2 2} \\\\\\, s )$ lt was pxostulated in Ref. $\\\textit{7}$ that the capture of virtual neutrons by acceptor nuclei can be a more intensive process, if there are background thermal neutrons in the lattice. In this case a background neutron catalyzes the transfer of the virtual neutron, i.e., it materializes the latter. Therefore, when there is a background of thermal neutrons, the distance between the neutron donor and acceptor nuclei can be far greater than the nuclear distance and can be of the order of the lattice constant.",
+                "cite_spans": [
+                    {
+                        "text": "7",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "We previouslyl-' showed that the absorption of elastic energy in crystalline particles takes on a quantum character when they achieve sufficiently small dimensions $( r_{\\\\\\mathrm{{c}}} {\\\\\\mathrm{{\\\\\\scriptsize~ C}}} {\\\\\\mathrm{{\\\\\\scriptsize~ K}}} \\\\\\! \\\\\\! 1 0^{-5} \\\\\\!-\\\\\\! 1 0^{-4}$ cm) during pulsed mechanical loading. This means that the entire portion of elastic energy supplied is absorbed not uniformly by each atom in a particle but is concentrated in individual microregions of the particle in the fowm of quanta of an electromagnetic field. This process becomes possible only when the interaction of a flux of elastic energy with a highly disperse crystalline medium leads to the formation of \\\\\"giant\\\\\" fluctuations of the elastic energy density. The possibility of the appearance of such fluctuations is assxciated in the general case with the presence of a broad size distrnbution of the particles being milled. When the mean diameter of an aggregate is of the order of several microns, the dispersed powder always contains a certain fraction with particle diameters smaller than 0.1 um.- Therefore, it is clear that when an identical portion of elastic energy is supplied to all the particles being milled, in the small fraction of the powder with radii that are 1.5-2.0 orders of magnitude smaller than the mean value, the concentrated elastic energy density can be $5-6$ orders above the mean value. In the case of so-called *'hard\\\\\" concentrating, in which the elastic energy density $E_{\\\\\\mathrm{c h s}}^{\\\\\\prime}$ is commensurate with the energy density of the optical phonons in a crystal (with a $2 ~$ . a virtual electromagnetic bunch in the form of a coherent ebye frequency op, according to the model in Refs. 1 and multiphonon excitation (CME) having a finite density that is commensurate with the nuclear density is created when elastic energy is concentrated in a particle (in the case of \\\\\"soft'\" concentrating the final density of such an electromagnetic bunch is much smaller than the nuclear density). This situation provides grounds for assuming that the case of the *\\\\\"hard\\\\\" concentrating of elastic energy corresponds to the concentrating of the energy of a CME in one or more nucleons of a hypothetical atomie nucleus located at the center of symmetry of the disperse particle. As was shown in Refs. 5 and $\\\\\\mathbf{s}$ the coherent concentrating of such multiphonon excitations in a nucleus in the crystal lattice of a disperse particle",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Since the typical values of the energy of a CME in *\\\\\"hard\\\\\" crystals lie in the range $5-1 0$ MeV/nucleon,- the formation of a vitual neutron in deuterium-containing particles will be facilitated by the small value of the binding energy of a deuteron $( E_{n}=2. 2 2$ MeV). Therefore, the occurrence of nuclear transmutation (alteration of the isotopic eomposiion of the crystal lattice) in such systems is most probable in the presence of a flux of elastic energy and a background of thermal neutrons.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "In the present work an experiment on the mechanical milling of erystalline carbon (graphite) in the presence of an addition of D.O was performed to test these hypotheses. The data obtained on the alteration of the isotopic composition of graphite, as will be shown below, confirm the possibility of the mechanical transmutation of earbkon under the action of \\\\\"giant'\" fiuctuations of the elastic energy density, which lead to the formation of CMEs in the graphite particles.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The choice of graphite as the carrier of neutron-acceptor nuclei was motivated by the fafl hish sftifness'\" of this",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "FlG. 4. Variatiom of the dimemsians of the coberent scaltering regioes al. the microdrain (bl, amd the linewidth iel as a fumctiom of the specific surface of the powcers for $x-7 0$ min. The paints cormespand to the dimensions of the cohenent seafkering regions for $=-1 6 0$ min as a function of $s$ for umannealed graphite milled tugether with HHO or DO.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "experiments, while there is a small upward deviation of the $\\\beta$ activity in comparison to the $\\\\\\mathbf{C}+\\\\\\mathbf{H}_{2} \\\\\\mathbf{O}$ system for the samples milled for $\\\tau_{2}=1 6 0$ min. Thus, the $\\\\\\mathbf{C}+\\\\\\mathbf{D}_{2} \\\\\\mathbf{O}$ systems milled for 70 and 160 min exhibit a statistically significant increase in the $\\\beta$ cen nhcrnon ng cone sponding to the \\\\\"-C spectrum in comparison to the $\\\\\\mathbf{C}+\\\\\\mathbf{H}_{2} \\\\\\mathbf{O}$ system milled under similar conditions. The upward deviations from the background in the control experiments equal 8 for $\\\tau_{1}=7 0$ min and $1 7$ for $\\\tau_{2}=1$ 60 min. The mean rate of the generation of -C with allowance for the calibration is approximately the same in both cases and amounts to $\\\\\\langle{\\\\\\hat{N}} ( {}^{1 4} {\\\\\\mathsf{C}} ) \\\rangle\\\\\\!=\\\\\\! 2 \\\\\\! \\\times\\\\\\! 1 0^{6} ~^{1 4} {\\\\\\mathsf{C}}$ atoms/g-s. The increase in the $\\\beta$ SoeE\u548c er r ugonoenonanae $\\\\\\iota_{C}$ \n $\\\\\\mathbf{C}+\\\\\\mathbf{D}_{2} \\\\\\mathbf{O}$ samples in comparison with the analogous $\\\\\\mathbf{C}+\\\\\\mathbf{H}_{2} \\\\\\mathbf{O}$ samples can have several causes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "1. The detection of $\\\beta$ particles emitted by the tritium found in D.O is eliminated by the fact that the detection region of the -C B particles lies at energies $E > 4 3$ keV, while the cutoff energy in the $\\\beta$ spectrum of 'T $E_{\\\\\\mathrm{c u t o tt}} \\\\\\! \\\\\\! \\\\\\!=1;$ 3 keV.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "2. The influenee of the radioactivity of the \\\\\"attrition products'\" formed as a result of the wear of the steel beads and the drum.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "a) It can be assumed that carbon (including the 'C concentrated in it) contained in the steel passes into the milled product. The inflwence of this factor, however, is eliminated. because the mass of the attrition products relative to the mass of the disintegated graphite does not exceed O.1 wt%. When the carbon content in the steel used is taken into account, the amount of I4C passing into the milled product does not exceed 10-3% of the amount of $1 4 C$ found in the original portion of graphite and cannot make a measurable contrioution to the $\\\beta$ activity of the sample.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "b) The influence of the *\\\\\"hard\\\\\" 3 isotopes of the radium and thorium series adsorbed by the steel (Fig. $2$ curves $2 ~$ and $3 ),$ which formed as a result of radioactive contamination of the environment. In this case upward deviations from the background level should be observed in the $\\\beta$ spectra of the milled products at E> 156 keV. This effect was not detected after short milling times $( \\\tau=7 0$ min) (see Table I). At the same time, when $\\\tau=1 6 0$ min, some increase in the count in analyzer channels 61-250 in comparison with the background is observed for the $\\\\\\mathbf{C}+\\\\\\mathbf{D}_{2} \\\\\\mathbf{O}$ and $\\\\\\mathbf{C}+\\\\\\mathbf{H}_{2} \\\\\\mathbf{O}$ systems. Therefore, the theoretical possibility of \\\\\"hard\\\\\" radionu-clides passing from the steel into the ground product during prolonged mechanical treatments has not been ruled out. However, their contnbution to the S spectrum of radiocarbon is small, since AN is small, although the detection efficiency of \\\"*hard\\\\\" $\\\beta$ particles is more than two times greater than that of 4C $\\\beta$ radiation. In addition, the intensity maximum of these radionuclides is shifted toward higher energies in comparison to the spectrum of ${\\\\\\mathfrak{H}}_{\\\\\\mathbb{C}} ;$ therefore, they cannot be the main cause of the increase in the $\\\beta$ count in the energy range corresponding to radiocarbon.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "F1G. 5 . Variation of the width of the x-ray lines as a funetion of the milling time. $l \\\\\\;-$ Unammeaked graphite without admistunes, C+ H.O. $3-$  $\\\\\\mathbf{C}+\\\\\\mathbf{D}_{2} \\\\\\mathbf{O}$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "FlG. 2. Spectra of the B radiation of nuclides measured using an SPF3SUO4 plastic scinnllaar. Ihe batched poctoe of curve $\\\\\\mathrm{~i}$ conespands to the recorded B cout far iCe.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "minution rate in comparison with the unannealed samples. In the case of dry milling the specific surface of a graphite sample reaches $S_{\\\\\\mathrm{s p}}=$ 340 m?/g (Fig. $3,$ curve $\\\\\\imath)$ The introduction of water into the system lowers the comminution rate of the annealed sample, so that specific surfaces equal to 95 and 75 $\\\\\\mathrm{m^{2} / g}$ are achieved after a time $\\\tau=7 0$ min in $\\\\\\mathbf{C}+\\\\\\mathbf{H}_{2} \\\\\\mathbf{O}$ and C+D2O samples, respectively (Fig. 3, curves $2 ~$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "FIG. $3$ Kinctics of the vibratory commimation of graphite: $I=\\\\\\mathrm{anpcaled}$ graphie without admixtures, $2-$ ammealkd graphite + 5:HyO, $3-w$ nedled graphite +S-D-O. $4-\\\\\\mathrm{u n}$ ammeaed graphile +S:H.O. $5-\\\\\\operatorname{u na}$ nealed gruphte + $5 : \\\\\\mathbf{D}_{2} O.$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "and 3). The values of S for unannealed samples milled with water are equal to only 42 and 59 m-/g after 160 min of milling (Fig. 3, curves $\\\\\\prime$ and 5).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Figures 4a-e present plots of the mean values of the diameter $D$ of the coherent scattering regions, the micros-trains e, and the linewidth $\\\theta$ as funetions of S. As is seen from these figures, in the region of values S- 100 $\\\\\\mathrm{m^{2} / s}$ the $D ( S ), \\\\\\, \\\\\\varepsilon( S ),$ and S) curves display a clear-cut discontinuity, which attests to a change in the character of the fracture of the graphite particles. In fact, the discontinuity on the $\\\theta( S )$ curve, which is associated with considerable broadening of the reflections on the Debye powder diffraction pat-tems, ind e graphite powder is strongly amor-phized at $S \\\\\\! > 1 00 \\\\\\ \\\\\\mathrm{m}^{2} / \\\\\\mathrm{g}$ A sharp increase in the microstrains $\\\\\\epsilon$ and a decrease in the diameter $D$ of the coherent scattering regions occur simultaneously. This supprts the conclusion that because of the amorphization of the graphite paticles no elastic energy is absorbed in them, and plastic flow takes place, leading to the \\\\\"vaponization'\" of graphite. As follows from Fig. dc, after a milling time r=70 min for graphite in the presence of $\\\\\\mathrm{D_{2} O} \\\\\\left( \\\\\\mathrm{H_{2} O} \\\right)$ the mean width of the reflections taken from the [002], [04], and [110] crystallographie directions (like $D$ and e), does not differ from the analogous valwe for the original powder. At the same time $( \\\\\\mathrm{F i g. ~} 5 ),$ when the milling time of the $\\\\\\mathbf{C+H_{2} O} \\\\\\( \\\\\\mathbf{D}_{2} \\\\\\mathbf{O} )$ systems is in-ereased above 70 min, there is a sharp increase in the line-width, the linewidth of the samples milled for $\\\tau=1 6 0$ min bheing almost three times greater than the value of $\\\theta$ for the analogous samples with $\\\tau=7 0$ min. This indicates that after milling for 70 min, graphite still exhibits crystalline proper-ies like the onginal (unmilled) powder, while strong amor-phization occurs when -= 160 min. Therefore, the fluctua-tional quantum model of the fracture of particlesl- (the formation of a CME in them) is applicable in the present case only to $\\\\\\mathbf{C}+\\\\\\mathbf{D}_{2} \\\\\\mathbf{O} \\\\\\( \\\\\\mathrm{H}_{2} \\\\\\mathbf{O} )$ systems milled for $\\\tau=7 0$ min and cannot be used for powders milled for 160 min. We note that in the case of the amorphization of the graphite particles, the concept of a limiting minimum diameter is meaningless; therefore, when S> 100 m-/g (Fig. 3, curve $I 0$ graphite can bhe ground to paricle diameters as small as we wish. These data also provide evidence that the region of applicability of the fluctuational quantum model of the fracture of graphite paticles corresponds to S<100 m $r_{8}$ when $\\\tau=7 0$ min, where they exist predominantly in the crystalline, rather than the amorphous state.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The results of the $\\\beta$ counting for different graphite samples are presented in Table $1$ As we see, for the control samples of the original and separately milled graphite, as well as the $\\\\\\mathbf{C}+\\\\\\mathbf{H}_{2} \\\\\\mathbf{O}$ system afier milling during the times $\\\tau_{1}=7 0$ min and $\\\tau_{2}=1 6 0$ min, the $\\\beta$ counting rate does not exceed the background values within the measurement error over the entire region of the $\\\beta$ spectrum investigated. At the same ime, statistically significant upward deviations from the background in the control measurements with the $\\\\\\mathbf{C}+\\\\\\mathbf{H}_{2} \\\\\\mathbf{O}$ system were obtained for the analogous $\\\\\\mathbf{C}+\\\\\\mathbf{D}_{2} \\\\\\mathbf{O}$ samples in analyzer channels $2 1-6 0$ which correspond to the $\\\beta$ spectrum of $\\\\\\sqcup_{C}$ . In the high-energy channels $( 6 1-2 5 0 )$ the $\\\\\\mathbf{C}+\\\\\\mathbf{D}_{2} \\\\\\mathbf{O}$ samples milled for $\\\tau_{1}=7 0$ min do not display values exceeding the background in the control",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "FlG. 6. Feyuman diagram' of the propased pracess leading to the farmuice of \"C from \"C.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "$\\\tau_{0} \\\\\\! \\\\\\simeq\\\\\\! \\\tau_{D} \\\\\\! \\\\\\simeq\\\\\\! 1 \\\\\\! \\\times\\\\\\! 1 0^{-2} \\\\\\mathrm{~ s.}$ \u4e2d\u76df\u57ce\u56fd\u6d77\u533a\u4e1a de em. 1H0ecm \u4e2d\u7684\u6d77\u4e2d\u4e0a\u4e2d\u7f51\u4e2d\u5dde\u4e2d $L_{D}=6 0$\nThus, the probability of finding a back-\nron in the zone of action of a CME is $P_{\\\\\\mathrm{n}} \\\\\\! \\\\\\simeq\\\\\\! N_{s} \\\\\\!=\\\\\\! 1 0^{-2}.$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Thus, substituting the value of $N_{s}$ and of the probabilities $P_{d}, P_{\\\\\\mathrm{B}_{\\\\\\mathrm{C}}}$ ,and $P_{s}$ into expression $( 7 )$ we obtain the rate of generation of the I4C isotope $\\\\\\dot{N} (^{1 4} {\\\bf C} ) \\\\\\!=\\\\\\! 1. 4 \\\\\\! \\\times\\\\\\! 1 0^{6}$  $1 4 C$ atoms'g-s. This value, which was calculated theoretically on the basis of theories regarding the quantum character of the absorption of elastic energy in graphite micropar-ticles coincides in order of magnitude with the \u5bb6\u4e2d\u56fd\u53f8 $\\\\\\operatorname{lo} C )$ value $\\\\\\langle\\\\\\dot{N} (^{1 4} \\\\\\mathbb{C} ) \\\rangle\\\\\\!=\\\\\\! 2 \\\\\\! \\\times\\\\\\! 1 0^{6}$  $1 4 C$ expenmentally observed during vibratory milling\naong t tn tn an n stoicmosin in the presence of a deuterium-containing medium can be described with a fair degree of accuracy using the model of the quantum absorption'-' of a flux of elastic energy in disperse graphite particles in the presence of background thermal neutrons.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "This situation allows us to present a possible scenario for the mechanotransmutation of $B_{C}$ into '-C (Fig. 6). A coherent multiphonon lattice excitation $( L {\\\to} L^{\\\\\\prime} {\\\to} P h )$ , which is a giant fluctuation of the elastic energy density supplied to a disperse graphite particle, brings about the splitting of a deuteron d into a proton $p$ and a virtual neutron n. Since the deuteron $\\\tau=1 0^{-1 8} \\\\\\mathrm{~ s}$ resonance time of a background thermal neutron $a_{b}$ near a composite nucleus $[ n+{}^{1 3} C ]$ is compatible with the lifetime of the\n, the presence of the background neutron leads to materialization of the virtual neutron fomed when the deuteron d split The role of the background thermal neutron thus reduces to a \\\\\"catalyst'' of the deuteron splitting and the transfer of the neutron to the peutron-aeceptor nucleus $(^{\\\\\\mathrm{B}} \\\\\\mathbb{C ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            }
+        ]
+    }
+}

@@ -1,0 +1,512 @@
+{
+    "metadata": {
+        "title": "Molecular D2 Near Vacancies in PdD and Related Problems",
+        "authors": [
+            {
+                "first": "Peter",
+                "middle": [
+                    "L"
+                ],
+                "last": "Hagelstein",
+                "suffix": "",
+                "affiliation": [
+                    "Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, MA 02139, USA"
+                ],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": "The electron density is too high in PlD for molecular I \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Delta} to form, so we consider the problem of E \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot farmation in a monowacancy, and related problens involving other metal deuterides and hydrides.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "At present there is no general agreement among those working on cold fusion as to what physical mechanism is responsible for excess heat [l], or for other anomalies. In our work, we have tended to separate the associated theory issues into those requiring new physical mechanisms, and those which involve conventional aspects of physics, materials science, or chemistry [2]. For example, it is possible in our view to understand many important aspects of cold fusion experiments by focusing on the conventional issues.",
+                "cite_spans": [
+                    {
+                        "text": "[l]",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "text": "[2]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "From experiment we know that *He is produced in amounts commensurate with the excess energy produced [3. In these experiments the *He is measured in the gas phase, which implies that the active sites must be close to a surface since helium diffusion is slow in PdD near room temperature. Once helium is trapped in defects, it is hard to remove it near room temperature since the binding energy can be an electron volt or more. Consequently the determination of the ratio of energy produced to *He observed is not a simple experiment since it becomes problematic to get all of the *He out [4]. It is now 2012, and it remains the case that only two measurements exist in which a significant effort was made to serub all of the helium out of the cathode in such a measurement. The results from both of these experiments are consistent with a ratio of 24 Me V. This ratio is significant since it is the mass difference between two deuterons and a *He nucleus. In this case this experimental evidence is consistent with proposed physical mechanisms involving two deuterons as reactants, and He as a product.",
+                "cite_spans": [
+                    {
+                        "text": "[3",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "text": "[4]",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "As we have remarked upon previously, the absence of energetic particles in amounts commensurate with the energy produced [5] means that no reasonable conventional Rutherford picture nuclear reaction can be consistent. There is no",
+                "cite_spans": [
+                    {
+                        "text": "[5]",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Rutherford-type mechanism possible in which a 24 MeV reaction energy can be shared among a modest number of final state particles in a manner consistent with experiment. As a product particle, the *He nucleus must he born with an energy less than 10-20 keV to produces few enough secondary neutrons to be consistent with measurements. If we were to propose that a 24 MeV quanta were somehow shared among nearby deuterons, we would have to find a way that the reaction energy be divided up and given to at least 25.000 of them so that the resulting neutron emission from subsequent dd-fusion reactions could be low enough to be consistent with experiment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Given this situation, we might reasonably assert that some kind of new mechanism is responsible; one that involves two deuterons locally, produces 4He, and communicates the reaction energy to low energy condensed matter degrees off freedom. Theoretical models that we have pursued work in this way: however details associated with the reaction mechanisms are discussed elsewhere [6], and are generally not needed in connection with the discussion to follow. We already have enough in such an ansatz to provide a foundation for addressing coaventional physics, materials science, and chemistry issues associated with the experiments.",
+                "cite_spans": [
+                    {
+                        "text": "[6]",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "There is a school of thought that says that the local background electron density is an important parameter in understanding hydrogen as an interstitial in metals (7). In essence, hydrogen is looking for a specifie background electron density; at the optimum electron density the energy is minimized. so that at either lower or higher electron densities the energy increases. Of course, the mathematical formulation of the associated model includes two-bkdy potentials along with the embeding energy. Nevertheless, we can make substantial progress in understanding many basic issues in metal hydrides simply by focusing single-mindedly on the background electron density.",
+                "cite_spans": [
+                    {
+                        "text": "(7)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Background Electron Density"
+            },
+            {
+                "text": "We have described a version of this argument previously in the case of hydrogen and deuterium in Pd [8] (for the arguments that follow, hydrogen will be largely interchangeable with deutenum). We focused first on the diatomic molecule PdH where the interatomic separation at minimum energy is 1.53 A; the corresponding background electron density in a single configuration relativistic Dirac Fock calculation is 0.069 electrons/A-. According to the line of argument that we are following, we now know the background electron density preferred by hydrogen. It may be useful to see how this value compares with the density-dependent embedding energy from embedded atom theorv. which is shown in Fig. 1. We see that the minimum embedding enery cus at an electon density of 0.069 electrons $/ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hat{A}^{3}$ . which is consistent with our estimated of the background electron density in the PdH molecule. This is encouraging.",
+                "cite_spans": [
+                    {
+                        "text": "[8]",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Background Electron Density"
+            },
+            {
+                "text": "The background electron density along the [111] direction in PdD as calculated using a simple superposition of atomie Pd electron density profiles is shown in Fig. 2. One sees that the lowest electron density cccurs at the O-site, and that local minima occur at the T-sites. The electron density at the O-site in this model is 0.079 electrons/A-, which is a bit higher than the optimum electron density (a bit higher than 0.070 giwen in [9], and a bit lower than the DFT result of Orondo, which is near 0.095 electrons/A [10]). Based on the arguments above, we would expect hydrogen occupation of the O-sites in preference to T-sites (this argument is well known), since the electron density is too high at the T-sites. The corresponding difference in the embedding energy is 164 meV (and about 322 meV for the DFT densities, which suggests that the O-T excitation energy if measured from experiment will tell us something about the electron density at the O-site).",
+                "cite_spans": [
+                    {
+                        "text": "[9]",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "text": "[10]",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Background Electron Density"
+            },
+            {
+                "text": "Nickel is known to have a lower solubility for hydrogen and deuterium. Based on the discussion above, we might conjecture that the electron density is higher, which is checked through an analogous superposition caleulation for the background electron density in Ni shown in Pig. 3. we see that the background electron density is higher in this mxdel, with the minimum (0.132 electron $A^{3}$ ) found at the O-site. Once again we would expect that O-site occupation would be preferred over T-site cccupation because the electron density is even higher at the T-site. lt is probable that one could use the difference in solubility between Ni and Pd to estimate the increase in the O-site electron density in Ni.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Background Electron Density"
+            },
+            {
+                "text": "lt seems reasonably clear that we are seeing a commonality in the background electron density along the [lll] direction in these simple fee metals. The shape is nearly the same in all cases, and the only major difference is in what the minimum electron density at the O-site is. Based on the embedding energy of Fig. 1, we note that a modest increase in the minimum electron density above the optimum can produce a large reduction in the hydrogen solubility.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Molecular H: with Background Electrons"
+            },
+            {
+                "text": "lt would be useful to consider the extension of these ideas to the case of molecular H2 embedded in an environment with some background electron density. Unfortunately the situation in this case is a little more complicated. For example, a",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Molecular H: with Background Electrons"
+            },
+            {
+                "text": "hydrogen atom experiences a significant attractive energy due to the background electron density alone, while there is no such effect for the H molecule. Instead, the $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{H}_{2}$ molecule is much more polarizable l1 ], so thathere is a long-range attractive dipole-dipole interaction which dominates the potential when the molecule is separated from the atom.",
+                "cite_spans": [
+                    {
+                        "text": "l1 ]",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "H_2",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{H}_{2}"
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "The dipale-dipole interaction changes how we think ahout the H $-$ molecule problem qualitatively then. It is no longer the case that the molecule is looking for the optimum electron density. Instead, we should begin with the long-range dipole-dipole interaction. Consider in the discussion that follows the case of a triatomic molecule formed by an atom with molecular H.. When this interaction is weak, as in the case of rare gas-diatomic hydrogen molecules, then the molecule approaches the atom seeing an increasingly attractive potential up to the point where the electron density becomes sufficiently high that a substantial inerease in the embedding energy ocurs.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "For example, in the case of Xe-H $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot$ . the potential minimum ccurs at a separation of 3.9214 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{A}$ . We compute the $2. 1 \\\\\\\\\times 10^{-5}$  $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\angle A^{3}$ of about 8.1 meV. The binding energy is 8.3 meV. Note that models that take into account dipole-dipole coupling have long been used to model the spectra of molecular hydrogen rare gas molecules [13].",
+                "cite_spans": [
+                    {
+                        "text": "[13]",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In the case of Pd-Hy the potential minimum occurs at $1. 6 7 A$ , at which point we estimate the background electron density is 0.033 electrons $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\angle A^{3}$ . The associated embedding energy is about 1.4 eV for a 0.74 A H-H separation (and perhaps 1.1 eV for a 1.48 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hat{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{a}}$ separation); and the binding energy is about 0.76 eV [14]. In this ease, the Pd-Hy configuration is a more strongly bound than the bent H-Pd-H configuration by about 0.19 eV [15]. The minimum energy found in a Quantum Espresso calculation of PdHz coresponds to a binding energy of about l.6 eV [16]. We have wondered for some time why the binding should be so strong in this DFT model: in light of the discussion abowe we suspect that the Pd polarizability is overestimated in the DFT calculation.",
+                "cite_spans": [
+                    {
+                        "text": "[14]",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "text": "[15]",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "text": "[16]",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Finally, in the case of NiH2 the binding of molecular H is more than 2 eV at the local minimum corresponding to Ni-H2 according to Niu et al. [17]. In this case, the stronger dipole-dipole attraction pulls the molecule to higher electron density where the bent H-Ni-H configuration is favored: in this case the binding energy is near 2.7 eV. Consequently NiH2 is unstable against decay to the lower bent H-Ni-H configuration.",
+                "cite_spans": [
+                    {
+                        "text": "[17]",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "We know that the H-H separation increases as the electron density increases. A calculation of the potential for H, in jelium at an electron density of 0.0628 electrons $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\angle A^{3}$ is given in Christensen et al. [18], where the potential minimum is about 1 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hat{\\\\\\\\\rho}$ : this density is just below the threshold (near 0.10 electrons $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Delta^{3}$ in Dechiaro's calculation) where no potential minimum occurs in this density regime 19]. We note that the H-H separation in atom-H $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_$ molecules tends to be larger than what might be expected in a jellium calculation due to the dipole-dipole interaction which can produce additional stretching of the H-H bond.",
+                "cite_spans": [
+                    {
+                        "text": "[18]",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "text": "19]",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The electron density is too high in bulk Pd for molecular $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{D},$ to form; hence it seems reasonable to consider the lower electron density available in vacancies [8]. Our focus has been on the monovacancy, since it is in a sense the simplest theoretical problem, and since there seems to be indirect evidence from high-current co-deposition experiments that",
+                "cite_spans": [
+                    {
+                        "text": "[8]",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "D, in Vacancies"
+            },
+            {
+                "text": "conditions under which they are expected correspond to conditions under which excess heat is observed [20,211. A lower electron density occurs in more complicated vacancy structures, such as divacancies and microwoids; such structures are less interesting to us, since larger amounts of volume are present where the electron density is \"too low,\" such that we would expect intemal D2 gas formation which seems to us uninteresting.",
+                "cite_spans": [
+                    {
+                        "text": "[20",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "text": "211",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Let us begin by considering the electron density in the vicinity of a Pd vacancy in PdD. The simple superposition estimate based on Dirae-Fock Pdelectron densities is shown in Fig. 8. The minimum electron density at the vacancy site has now dropped to 0.022 electrons/A3, which is below the background electron density for H2 formation in PdH2 (this density would be relevant in the case of a molecule in the vacancy closest to one Pd atom, as long as the polarizability of the atom in the solid is similar to the polarizability of the isolated atom). This compares with 0.020 in |9], 0.015 electrons/A in Dechiaro's DFT caleulation [16]-",
+                "cite_spans": [
+                    {
+                        "text": "|9]",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "text": "[16]",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 8",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Based on the discussion above, whether molecular H $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot$ or D $-$ will behave similarly in a monovacancy then depends critically on whether the Pd atomic polarizability is impacted because of bonding to other atoms. To investigate, we consider first the calculation of Nakatsuji and Hada (22], where the binding of an He molecule on molecular Pd $-$ was analyzed. The binding in the case of an H2 molecule aligned and centered with a Pdz molecule leads to a binding energy of 0.63 eV, which is a bit less than the 0.76 eV energy of Ref. [14] for PdH2: this might indicate a minor neduction in the Pd polarizability due to bonding.",
+                "cite_spans": [
+                    {
+                        "text": "(22]",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "text": "[14]",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "To pursue this, we consider the calculations of Willke and Scheffler [23) for H2 above a Pd [100] surface. The potential isocontours are seen to correspond to a binding energy no more than about 0.35 eV under conditions where the H-H separation is less than l $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda$ . Such a result seems consistent with a further reduction in the Pd atomic polarizabililty due to additional bonding. There are many related computations in the literature of H $\\\\\\\\\bullet$ over a clean Pd surface in different orientations, and in general the binding energy is only a few tenths of an eV under conditions where the separation is less than  $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{A}$ .",
+                "cite_spans": [
+                    {
+                        "text": "[23)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Based on this there seems to be no reason not to expect D. formation in principle in the vicinity of a monowacancy. The question of the associated binding energy is more interesting: for example, we might expect the binding energy to be similar to that of Hy on a clean Pd surface. In the literature there is theoretical and experimental support for a molecular $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{H}_{2}$ adsorbed state on Pd [210] with a binding energy of 0.27 eV [24,25].",
+                "cite_spans": [
+                    {
+                        "text": "[24",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "text": "25]",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "To pursue this we have carried out some exploratory calculations based on an embedded molecule model based on",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The interaction between the Pd atom and the molecule is dominated by dipole-dipole interactions at large distance, with a reduction in strength at smaller distances; this motivated us to adopt",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "One can develop a reasonable fit to molecule, cluster, and surface Pd-F $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot$ calculations with such an empirical interaction potential. Inside the metal we expect a screening of the long range interaction for distant atoms due to the conduction electrons (the assaciated Thomas-Femisereening length is less than l $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{A}$ ).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "lf we neglect screening, the resulting models show a strong binding of the H2 or D2 molecule due to attractive Van der Waals contributions from many nearby Pd atoms. With screening the minimum energy occurs for the molecule at the center of the vacancy, and the molecule energy is above the vacuum level. Since part of the attractive interaction is bonding rather than dipole-dipole interaction, we tried working with models where exponential screening was deferred. Perhaps it is useful to consider one such calculation (see Fig. 9). In this case we have selected the parameters $c$ and $r$ close to the PdH atom values, with screening deferred to about $4 r_{0}$ , and no correction for the reduction in embedding energy at increased H-H separation. This muxdel was selected since it gives a minimum energy in the vicinity of what would be required to connect with the excess power as a function of loading curves from experiment. In this kind of a model, the total energy can be lowered when the molecule goes away from the center of the monovacancy since there are more Pd atoms that are closer in this direction. The O-site is located at 2.04 A in the [100] direction, and we see that the minimum effective potential occurs for a displacement on the other side, closer to the Pd atom at the center of the next cell. The electron density in this model is very high at the O-site, around 0.066 electrons/A, so that the H-H separation will be more than 1 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{A}$ in the absence of a cage effect. Note that something of a cage effect is expected in this contiguration due to the five Pd atoms that suround the molecule. The potential in this calculation is defined relative to the vacuum molecule. According to the calculations of Orondo, the bulk O-site potential per hydrogen atom is about -250 meV at a loading near 0.85 [10]. If the excess power versus loading curves are a result of D2 cccupation of a nonovacancy in this sense, then the molecule pxotential needs to be somewhere near 300 meV [8]; in Fig- 9 it goes down to -370 meV which is a little too deep. Note that under discussion here is $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbb{D}_{2}$ binding that is a little stronger than for adsorbed H $\\\\\\\\\frac{}{} {}$ on Pd[210] discussed above.",
+                "cite_spans": [
+                    {
+                        "text": "[10]",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "text": "[8]",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 9",
+                        "ref_id": "FIGREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Dechiaro has carried out Quantum Espresso calculations for this configuration [16,. and obtains a minimum potential near 1.45 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{A}$ away from the vacancy center, of close to -1 eV relative to the energy at the vacancy center. Since these DFT calculations overestimate the well depth in the PdH molecule, we might expect a similar overestimate for the attraction in the monovacancy calculation; hence, a corrected version of the calculation might give a reduction in energy near 400 meV. lf so, then there would begin to be a connection between the models and the excess power versus loading curves from experiment.",
+                "cite_spans": [
+                    {
+                        "text": "[16,",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "We have noted previously that the molecule is unstable if nearby O-sites are unoccupied in the monowacancy (8]. We recently noticed a discussin of this efet in te early saper of Rosato and Cleri [9].",
+                "cite_spans": [
+                    {
+                        "text": "(8]",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "text": "[9]",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In a recent paper by He et al. [26), there is a discussion of F $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot$ in a monovacancy in Pd at different loadings. The 5+2 occupation of the monovacancy was not considered in this work, but one can find a discussion of 6+2 ccupation. While the H-H separation is small for this configuration, the molecule is well separated from the Pd atoms. We consider this to be signifieant in connection with screening effects. The overlap probability between two deuterons is impacted strongly by screening, as has been often noted in the literature. One would expect sereening due to conduction electons, but the Thomas-Femi scrceniglengt for an electon in the center of a monovacancy is near 0.7 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda$ which stoo small to",
+                "cite_spans": [
+                    {
+                        "text": "[26)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "make much of a difference. A molecule at higher electron density would be expected to see increased screening, but the Thomas-Fermi length scales very slowly with density.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In our view the key issue is the proximity with a higher $Z$ metal atom. In our models for the reaction mechanism, the maximum reaction rate is proportional to the phonon exchange matrix element for the Do/`He transition, which is proportional to $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\exp(-G )$ , where $G$ is the associated Gamow factor. Hence, any increase in screening impacts the reaction rate exponentially. Consequently, the minor increase in screening near the O-site due to the higher electron density will already lead to a significant enhancement in the coherent reaction rate ower the screening at the vacancy center. If the deuterons tunnel together at even higher electron density closer to the Pd atoms then one would expect even more screening. There may be the possibility of even more enhancement due to orbital hybridization with an inner shell if the one sigma orbital is close to a metal atom when the deuterons get close to each other. In the exploratory calculations we have done so far looking for such hybridization we have found only minor effects.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "lf so, then the goal would be to arrange for a D2 molecule to be close to nearby metal atoms, and not keep them distant near the center of a monovacancy. A similar comment could be made in response to the recent proposals by Stoems for hydrogen and deuterium in voids; from our perspective where the electron density is low the problem looks very much like vacuum physics.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Note that we would expect similar effects associated with monovancies in other metal deuterides and hydrides. Dechiaro has carried out ealculations of molecule formation in monovwacancies in many metal hydrides. In the case of Ni and Au, the DFT calculations show effects similar to those in Pd, and H2 or D2 molecule formation is predicted very much ike in the case of Pd.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "There has been much recent interest in excess heat in NiH experiments with gas phase hydrogen loading [27]. At present there is no agreement as to what mechanism is responsible for the excess heat observed. We have proposed that excess heat in this system is hased on HD/' He transitions, as an analog of the D./\"He transitions for PdD systems [2,6]. While the latter has some support in *He observations connected with the energy produced, there is as yet no experimental",
+                "cite_spans": [
+                    {
+                        "text": "[27]",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "text": "[2",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "6]",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Thoughts on the Pianteli Protocol for NiH"
+            },
+            {
+                "text": "crinenion as to hethe sch a coelainest tsn cisg hstwe\" m and enegyi thd ih ystem.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In the event that HD/' He transitions are involved, then we face the problem of HD formation (similar to the problem of D, formation in PdD). The electron density in Ni is higher at the O-sites than in Pd, so it is much more difficult to load. On the other hand. the interstitial density doesn't need to be as high for the stabilization of the vacancies. The question is how might we arrange for HD in Ni, given that a protocol has been put forth by the Piantelli group [27].",
+                "cite_spans": [
+                    {
+                        "text": "[27]",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In this protocol, the Ni is loaded with hydrogen and then deloaded repeatedly, with an increase in hydrogen uptake each cycle. Given that the solubility of hydrogen in bulk Ni is so low (parts in $1 0^{-4}$ | [28], what is responsible for inereasing hydrogen uptake at the percent level? We have conjectured that vacancies are being produced during this cyeling, and that the observed uptake is due to a loading in the vacancies. Note that since there is loow electron density available within the monovacancy, hydrogen can find its optimum electron density with a corresponding solubility per vacancy O-site higher than that of Pd. One might ask how the local hydrogen density gets sufficiently high to stabilize vacancies in Ni since the solubility is so low. Apparently segregation occurs in the miscibility gap in NiH $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\dots$ , where either there is no H, or regions with NiH $1 7$ coccur [29]. Consequently the hydrogen density gets to be sufficiently high locally so that vacancies can be stabilized [20. In contrast to the PdD expeniments done near room temperature, at the elevated temperature of the Piantelli experiments, some limited vacancy diffusion can occur.",
+                "cite_spans": [
+                    {
+                        "text": "[28]",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "text": "[29]",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "text": "[20",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": []
+            }
+        ]
+    }
+}

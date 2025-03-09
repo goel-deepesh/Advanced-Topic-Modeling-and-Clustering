@@ -1,0 +1,406 @@
+{
+    "metadata": {
+        "title": "PROGRESS TOWARDS REPLICATION",
+        "authors": [
+            {
+                "first": "M.",
+                "middle": [],
+                "last": "MtCKube",
+                "suffix": null,
+                "affiliation": [
+                    "SRI Intermational, 333 Ravenswood Ave. Menlo Park, Califomia, 94025, USA"
+                ],
+                "email": null
+            },
+            {
+                "first": "F.",
+                "middle": [],
+                "last": "Tanelal",
+                "suffix": null,
+                "affiliation": [
+                    "SRI Intermational, 333 Ravenswood Ave. Menlo Park, Califomia, 94025, USA"
+                ],
+                "email": null
+            },
+            {
+                "first": "P.",
+                "middle": [],
+                "last": "Tripodif",
+                "suffix": null,
+                "affiliation": [
+                    "SRI Intermational, 333 Ravenswood Ave. Menlo Park, Califomia, 94025, USA"
+                ],
+                "email": null
+            },
+            {
+                "first": "v",
+                "middle": [],
+                "last": "Violante?",
+                "suffix": null,
+                "affiliation": [
+                    "ENEA, Centro Ricerche Frascati, V. E. Fermi 45 - 00044 Frascati, Rome, Italy"
+                ],
+                "email": null
+            }
+        ],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "A collaborative effort has been established formally between SRI International in Menlo Park, Califomia, and ENEA (Frascati) in ltaly. In addition to providing a framework for an Intermational replication effort, this collabration is intended to focus the complementary skills of the two laboratories on carefully selected problems of Pd/D studies.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION"
+            },
+            {
+                "text": "Researchers are attempting to test and demonstrate the cross-laboratory replicability of gas phase Pd/D $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot$ excess heat, helium and tritium observations. Similar facilities are being established in both countries to allow on-line determination of heat effects correlated with He, and ultimately 'He measurements from so called \"Case\" experiment involving the application of modest temperatures and $0,$ gas pressures to a packed bed of palladium on carbon catalyst and other finely divided metallic catalyst and conductive support materials.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION"
+            },
+            {
+                "text": "A second facet of this collaboration is the joint attempt to replicate the production of tritium in \"Arata/Zhang\" double-structured cathodes. Massive hollow palladium electrodes were manufactured at ENEA and sealed to contain palladium black within the enclosed woid. Two electrodes were operated at SRI as electrolytic cathodes in LiOD electrolyte. On experiment termination these electrodes were vented and their contents examined for *He, He and evidence of tritium. Results of initial gas analyses are presented here. Further analyses are underway and planned.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION"
+            },
+            {
+                "text": "Experiments also are underway to study the metallurgical aspects controlling the loading of D into Pd, and to measure anomalous electrical characteristics and emissions from highly loaded specimens. The results of these scientific endeavors are reported in acompanying papers [1,2].",
+                "cite_spans": [
+                    {
+                        "text": "[1,2]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION"
+            },
+            {
+                "text": "A formal collaboration has been established between SRI International and ENE.A (Frascati) with the primary purpose of demonstrating experiment portability and replicability in the emerging field of Condensed Matter Nuclear Science (CMNS). Experiments are being performed to:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION"
+            },
+            {
+                "text": ". Develop and understand the means to obtain, control and sustain high H/Pd and D/Pd stoichiometric ratio loading in small dimension Pd wires, foils anxd coatings,\ne Study, thin film electrolysis cells for possible evidence of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda}$ ray generation, tritium\nevolution, He, He and higher mass isotope production,\ne Replicate observations of excess heat and *He generation in Pd/C gas phase loading\nexpeniments first reported by Case [3].\ne Further neplicate expeniments of Professrs Arata and Zhang [4.5] with particular\nattention to replicating tritium measurements in the void space of double structured\ncathodes by Clarke et ad [6].",
+                "cite_spans": [
+                    {
+                        "text": "[3]",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "[4.5]",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "[6]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION"
+            },
+            {
+                "text": "The evidence of solid state nuclear effects has been amply demonstrated in a number of observations initially considered to be tanomalous\". The purpose of the discussion here is not to review the numerous published observations (but see, e.g., (7]). Instead we simply identify the phenomena observed with high degree of certainty that are not subject to conventional (non-nuclear) interpretation.",
+                "cite_spans": [
+                    {
+                        "text": "(7]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROGRESS TOWARDS REPLICATION"
+            },
+            {
+                "text": "The existence of an unaccounted for heat source in addition to known electrical and mechanical input has been demonstrated in the Pd/D system, the Ni/H(D) system and possibly others. The extent of this excess heat exceeds conventional chemical energy by at least 2-3 orders of magnitude. As such, nuclear energy production is implicated. Numerous experiments have yielded He as a near-quantitative companion of this \"excess\" heat. Tritium has been measured, both directly and via its decay product -He, as a substantial but sub-quantitative product. Higher mass isotopes have been generated in some instances at isotopic ratios",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROGRESS TOWARDS REPLICATION"
+            },
+            {
+                "text": "differing significantly from natural. Energetic pariles and radiation have been observed in the form of lattice gamma activation, X-ray production, charged particle and neutron emission [7].",
+                "cite_spans": [
+                    {
+                        "text": "[7]",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROGRESS TOWARDS REPLICATION"
+            },
+            {
+                "text": "There has been clear exposition of many of these phenomena at this conference, and these observations are not isolated or incoherent. Evolution of theory in the last 13 years has identified basic physical concepts and models to explain the set of observations without violating fundamental principals of physics. That is, we have exposed clearly nuclear solid state effects and developed rational bases to SGrGHG snWhncsirn u rn r os om s",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROGRESS TOWARDS REPLICATION"
+            },
+            {
+                "text": "The principal issue remaining is one of reproducibility, or, more specifically, lack thereof. We need to establish necessary and sufficient conditions to expose nuclear effects in condensed matter and it appears unlikely that we will establish this understanding by an empirical sifting of experimental conditions. Our collective intuition has taken us well beyond the boundaries of what initially was known, but the parameter space as yet unstudied is daunting. To establish reproducible experiments we require fundamental understanding of the physical processes of condensed matter nuclear science.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROGRESS TOWARDS REPLICATION"
+            },
+            {
+                "text": "We need a comprehensive and correct theory to assert applied physics, valid and simple diagnostics. and engineering control over key system parameters including the following:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROGRESS TOWARDS REPLICATION"
+            },
+            {
+                "text": "Our effort to establish reproducible experiments that can be used to prove the existence of a new phenomenon is based on: (i) fundamental theoretical understanding: (i) clear and simple experiments: and til relible diagnostic measurements of unarguably nuclear effects.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROGRESS TOWARDS REPLICATION"
+            },
+            {
+                "text": "As a suitable diagnostic we have initially focused attention on the measurement of light isotopes: 'H, 'He and *He. Considerable effort has been spent in establishing a mass spectrometric capability for this purpose. With contract support [14] we have purchased and installed (effective September 2001) a Micro-Mass 5400 noble gas mass spectrometer. This instrument has a magnetic sector mass analyzer with 90\u00b0 extended geometry ion optics giving a dispersion length of 54 em, allowing mass resolution of 0.001 dalton at low masses. Two detectors are employed to allow different ranges of sensitivity. A Faraday cup has\n - 2 pptr farts er trilion for He and -0.05 pptr for He, alowing absolute resolution for He of -1x10' atoms, and He of -2.5x10 atoms. In general these atom sensitivities are limited by the instrument background and may be reduced by using different analysis methods.",
+                "cite_spans": [
+                    {
+                        "text": "[14]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROGRESS TOWARDS REPLICATION"
+            },
+            {
+                "text": "An initial phase of experiments was performed using double structured (DS) cathodes prepared at ENEA (Frascati). A previous replication attempt at SRI resulting in copious tritium production (measured as 'He by Clarke, Oliver et. al., [6]), was performed with cathodes prepared by Professors Arata and Zhang. An attempted replication without direct benefit of their specialized knowledge and skill, while ambitious, was felt to be a better test of experiment transferability. This effort was also designed to teach us about metallurgical, machining and welding issues related to the preparation of Arata/Zhang DS cathodes:",
+                "cite_spans": [
+                    {
+                        "text": "[6]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROGRESS TOWARDS REPLICATION"
+            },
+            {
+                "text": "l) Preparation of the host lattice and control of minor constituents. Some emphasis has been placed on reproducible preparation of the metallic host (e.g. Pd, Ni, Ti) for absorption of hydrogen isotopes (D, H). It has long been recognized that minor alloying or surface adsorbed elements can critically impair the host's ability to absorb or retain hydrogen [8]. More recently recognized is the role of lattice defects [9] and of synergistic minority elements (10] in establishing conditions necessary for solid state nuclear effects.",
+                "cite_spans": [
+                    {
+                        "text": "[8]",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "[9]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROGRESS TOWARDS REPLICATION"
+            },
+            {
+                "text": "2) Establishment of high lading. chemical notential or \"fuel\" activity. For the loading of deuterium into bulk, macroscopic palladium it was very quickly recognized that heroic\" loadings to very high deuterium chemical potentials were necessary to stimulate nuclear processes. Early work at IMRA (Japan) [11] and SRI 12] identified a threshold loading for deuterium in palladium wires.",
+                "cite_spans": [
+                    {
+                        "text": "[11]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROGRESS TOWARDS REPLICATION"
+            },
+            {
+                "text": "3) Suitable system stimulation- At ICCFS we presented |13] an empirical function to describe excess heat production in 1 mm Pd wires loaded electrochemically with D. In addition to the expected loading threshold dependence [11, 12] and previously observed threshold dependence on current 13], a term was included to account for the flux of D through the wire surface. Although subject to previous theoretical speculation [9], this was the first clear experimental indication that excess heat, and potentially other condensed matter nuclear effects, require stimulation or perturbhation from an extreme thernmxxdynamic equilibrium or steady state. Flux of material (or electrons) across a boundary appears to provide suitable stimulation and various other means have been attempted (acoustic, magnetic, thermal flux and other) with varying results. The effect of D flux in inducing nuclear effeets has been ably demonstrated [10].",
+                "cite_spans": [
+                    {
+                        "text": "[13]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PROGRESS TOWARDS REPLICATION"
+            },
+            {
+                "text": "The Pd powder used to fill the internal cavity was 0.25-0.55um, 99.95% (metals basis), from Alfa Aesar, Ward Hill, MA. The palladium vessels were filled with Pd powder inside an argon dry box, and then enclosed within a sealed vessel (under argon) for trans e electron beam welder. The Pd black filled cathoxdes were evacuated in the welding device at - $5\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\times10^{-3}$ torr for one hour before welding closed. Ultrasound analysis revealed that the weld thickness was not less then 4mm.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS"
+            },
+            {
+                "text": "The two cathodes were electrolyzed at SRI in O.1 M LiOD roughly following AratavZhang current protocols [4,5]. Table 1 lists the current-time history of electrolysis. The final 35 days of anodic treatment was intended to reduce the D2 gas pressure in the intemal cavity allowing for safe handling of the electrodes.",
+                "cite_spans": [
+                    {
+                        "text": "[4,5]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Table 1",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS"
+            },
+            {
+                "text": "Following anodic stripping the electrodes were transferred to a device constructed at ENEA. capable of puncturing the cathode internal cavity and releasing whatever gas remained into an enclosing. evacuated chamber. By neans of an attached pressure transducer it was possible to observe and quantify this gas release. Two gas samples were obtained from each electrode: the first at ambient temperature (25\"C) immediately following void puncture intended to reflect the equilibrium condition of gas in the intemal cavity, the secod after heating of the extraction vessel to 125C for 15 hours and for 2 hours at 250\u00b0C, to sample hydrogen isotopes absorbed in the palladium metal bulk and black.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS"
+            },
+            {
+                "text": "Figure 1C shows cathode E.APl after reme wrl from the electrochemical cell and puncturing. The surface of the electrode exhibited considerable metallurgical effect and damage resulting from deuterium loading and deloading. At least one axial crack appears to penetrate to the intemal cavity effectively preventing detection of any novel gases in the vessel space. The second cathode, EAP2, showed evidence of the surface expression of a much smaller axial crack (Figure 2). Metallurgical examination of both cathodes is planned to measure the depth of crack penetration.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 1C",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "Figure 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS"
+            },
+            {
+                "text": "aAP: 6opras I25 mndm $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{mass}= 78g$: internal cavity: 45 mm long x 4.4 mm diameter.\nPd powder mass = 0. 5",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS"
+            },
+            {
+                "text": "E.AP2. 70 mm long x 13.5 mm diameter, mass = 1l10g: intemal cavity 45mm long x 4.4 mm diameter.\nPd powder mass = 0.6 2.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS"
+            },
+            {
+                "text": "Table 2 presents the results of gas sampling and initial analyses. Samples were collected in the 250 ce volume of the pre-evacuated bellows puncturing device. Sample E.APl(A) thus was $- 1/4$ atm primarily of adsorbed D.O and absorbed $D_{z}$ As inxdicated in the last column of Table $2$ . the helium in this sample analyzes at the air ambient isotope ratio presumably from air-derived helium adsorbed on the high surface area Pd black.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Table 2",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "Table 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "Heating EAP1 to yield sample (B) resulted in a substantial de-sorption of D. from the Pd bulk and black, an assaciated pressure increase, and decrease in helium concentration. Because of the measurement uncertainty in ['He], this sample also displays no anomaly in belium isotope ratio.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "As can be seen from the data in Table $2$ sample EAP2(A) yiclded a potentially more interesting result. The initial sample while only $- 1/4$ of the volume of EAP1(A), shows a higher concentration of *He and a lower concentration of fHe. The helium isotope composition of this sample is significantly different from the ambient air background, suggesting that at least some of the `He was produced during the course of the experiment.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Table 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "Heating EAP2 to 250PC stimulated a very significant desorption of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathtt{D}$ and a pressure rise to more than $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\imath$ atm. At this dilution the uncertainties in measurement made it not possible for us to calculate the helium isotope ratio.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "The results described above are both preliminary and incomplete: they are discussed here as the results of a \"twork in progress\". Within the next few months we plan to make a thorough analysis of the gas contents of the four samples, and repeated analyses of \"He (and \"He) in an attempt to quantify any He and potentially pesent in these samples.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "A metallurgical examination is already underway at ENE.A to determine the reasons for, and consequences of, electrode mechanical failure. These electrodes will also be sectioned and analyzed to determine the 'He (and *He) content of the bulk metal phase and of the Pd black. Since the diffusion range of helium in Pd is very limited while that of hydrogen is long, careful measurement of *He provides a very sensitive test of the past presence of tritium. The capacity to measure helium in metal samples will be established in the next phase of collaborative activity.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "A new series of experiments also is planed. The *Her'He isotope ratio measured at 2 times the air ambient background for sample EAP2(A) in the present series must be taken as significant and encouraging. This number is, however, substantially less than was measured [6] in our previous attempt to replicate the results of Professors Arata and Zhang. With improved measurement capability, fabrication experience gained, and expanded collaborative support, we anticipate making substantial further progress towards replication.",
+                "cite_spans": [
+                    {
+                        "text": "[6]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "The authors gratefully acknowledge the substantial technical support and prowess of M. L. Bettinali in fabricating the DS cathodes studied in this work, and also the puncturing device used to sample intermal gases.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "REFERENCES"
+            },
+            {
+                "text": "\u9986\u9986 and Nickel Thin Films,\" Proceedings, ICCF-9, Beiing (2002).\n\u6c7d\u793e\u6709\u8bbe\u70ed\u6d41. ManGancGaGeairn ntnton n ner 3. L. C. Case, \"Catalytic Fusion of Deuterium into Helium-d\"; Proceedings ICCF-7. Vancouver (1998). A Ania an . neg Po na 70 6 10 9 8 151: 1i,716),304 s. y Anand .a an n .rhehen of oil-ine Pan sion Cl ionl, Prcedings 6. W. B. Clarke, B. M. Oliver, M.C.H. McKube. F. L . Tanell and P. Tripodi, \"Search for He and tHe in Arasitle Pallatium atdes t vdte for Trtm Producion\", Fusin Ssine and Techology, SAAaidtoad Pos-isehmanefe r Lne energ .t t n .b. 6(G: 20 Thepresen status of chemically-assisted nuclear reactins\", ibid. 5(29): 26, (2000).\n8. M.C.H. McKubre. S. Crouch-Baker, A. K. Hauser, S. I. Smedley, F. L. Tanzella, M. S. Williams and S. S. Wing. Conening Reprdusibiy o Eess Pow Prdodcin\"Procdings, lCC-5, Mome Carlo, 9. P. L-  Hagelstein, \"Anomalis  in Metal Deuterides,\"  MIT Resecarch Laboratory in, (202) nd $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{y}$ of Electranies Progress Repor'\" for 200l: and P. L. Hagelstein, \"A unified model \u534e\n10. Y . Iwamura, T. Itoh, M. Sakano and S. Sakai, \"Observation of low energy nuclear reaction induced by D2 55335833678\n. Jwamura. M Sakan and T Ioh, \"Elemental Analysis of Pd Compleses: Effes 11. K. Kunimatsu, N. Hasegawa. A Kubota, N. Imai, M. Ishikawa, H. Akita and Y. Tsuchida. \"Deuerium Loading Ratio and Excess Heat Generation during Electrolysis of Heavy Water by a Palladium Cathode in a Closed Cell Using a Partially Immersed Fuel Cell Anode,\" Proceedings ICCF-3, Frontiers of Cold Fusion, H. Ikegami, Ed., Universal Press, Tokyo (1992).\n12.M.C.H. McKubre. S. Crouch-Baker, A. M. Riley, S. I. Smedley and F. L. Tanzella, \"Excess Power Observations in Electrochemical Studies of the D/Pd System; the Influence of Loading.\" Proccedings ICCF-3, Frontiers of Cold Fusion, H. Ikegami, Ed., Universal Press, Tokyo (1992).\n13. M Fleischmann and S. Pons, J. Electroanal. Chem., 261, 301 (1989).\n14. We gratefully acknowledge the support of the DARPA Defense Science Office and the Ofice of Naval Research under ONR Contract N00014-00-C-0274.\n15. .B. Clarke. W. J. Jenkins and Z. Top. \"Determination of Tritium by mass spectrometric measurement of nt o Apl. adiat sot, 7, 515, (1976).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "REFERENCES"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": null,
+                "title": null,
+                "authors": [],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF1": {},
+            "BIBREF25": {}
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "Puncturing deice in press; (B) Puncturing tip and DS cathode; (C) EAP1 crack.",
+                "type": "figure"
+            },
+            "TABREF13": {
+                "text": "Preliminary Gas Determinations",
+                "type": "table"
+            },
+            "TABREF1": {
+                "text": "lists the current-time history of electrolysis",
+                "type": "table"
+            }
+        },
+        "back_matter": []
+    }
+}

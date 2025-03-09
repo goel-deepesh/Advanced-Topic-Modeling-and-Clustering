@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "title": "Search for Multibody Nuclear Reactions in Metal Deuteride Induced with Ion Beam and Electrolysis Methods",
+        "authors": [
+            {
+                "first": "Yuji",
+                "middle": [],
+                "last": "Isobe",
+                "suffix": null,
+                "affiliation": [
+                    "Department of Nuclear Engineering, Osaka University, Yamadaoka 2-1, Suita, Osaka 565-0871, Japearn"
+                ],
+                "email": null
+            },
+            {
+                "first": "Shigeo",
+                "middle": [],
+                "last": "Uneme",
+                "suffix": null,
+                "affiliation": [
+                    "Department of Nuclear Engineering, Osaka University, Yamadaoka 2-1, Suita, Osaka 565-0871, Japearn"
+                ],
+                "email": null
+            },
+            {
+                "first": "Kahou",
+                "middle": [],
+                "last": "Yabuta",
+                "suffix": null,
+                "affiliation": [
+                    "Department of Nuclear Engineering, Osaka University, Yamadaoka 2-1, Suita, Osaka 565-0871, Japearn"
+                ],
+                "email": null
+            },
+            {
+                "first": "Yukihiro",
+                "middle": [],
+                "last": "Katayama",
+                "suffix": null,
+                "affiliation": [
+                    "Department of Nuclear Engineering, Osaka University, Yamadaoka 2-1, Suita, Osaka 565-0871, Japearn"
+                ],
+                "email": null
+            },
+            {
+                "first": "Hiroki",
+                "middle": [],
+                "last": "Mori",
+                "suffix": null,
+                "affiliation": [
+                    "Department of Nuclear Engineering, Osaka University, Yamadaoka 2-1, Suita, Osaka 565-0871, Japearn"
+                ],
+                "email": null
+            },
+            {
+                "first": "Takayuki",
+                "middle": [],
+                "last": "Omote",
+                "suffix": null,
+                "affiliation": [
+                    "Department of Nuclear Engineering, Osaka University, Yamadaoka 2-1, Suita, Osaka 565-0871, Japearn"
+                ],
+                "email": null
+            },
+            {
+                "first": "Satoshi",
+                "middle": [],
+                "last": "Ueda",
+                "suffix": null,
+                "affiliation": [
+                    "Department of Nuclear Engineering, Osaka University, Yamadaoka 2-1, Suita, Osaka 565-0871, Japearn"
+                ],
+                "email": null
+            },
+            {
+                "first": "Kentaro",
+                "middle": [],
+                "last": "Ochiai",
+                "suffix": null,
+                "affiliation": [
+                    "Department of Nuclear Engineering, Osaka University, Yamadaoka 2-1, Suita, Osaka 565-0871, Japearn"
+                ],
+                "email": null
+            },
+            {
+                "first": "Hiroyuki",
+                "middle": [],
+                "last": "Miyamaru",
+                "suffix": null,
+                "affiliation": [
+                    "Department of Nuclear Engineering, Osaka University, Yamadaoka 2-1, Suita, Osaka 565-0871, Japearn"
+                ],
+                "email": null
+            },
+            {
+                "first": "Akito",
+                "middle": [],
+                "last": "Takahashi",
+                "suffix": null,
+                "affiliation": [
+                    "Department of Nuclear Engineering, Osaka University, Yamadaoka 2-1, Suita, Osaka 565-0871, Japearn"
+                ],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": "We report here the experimental results suggesting the occurrence of multibody nuclear reactions in metal deuterides under ion-beam irradiation and electrolysis. A meaningful increase of\nhelium-4 was observed during electrolysis with the Pd-D.O system, while neutron emission was not observed. The D+D+D fusion, 3D--t+'He+9.5 MeV, has been observed repeatedly in\ndeuteron-beam irradiation experiments with a TiD, target. On the other hand, in proton-beam\nexperiments with $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{T iD_{x}},$ H+D+D-fusion: H+D+D-p+ He+23.8 MeV was observed. Considering this result, it seems that the 3D reaction oecurred between two deuterons trapped closely in $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{T iD}_{x}$ and an incident particle of deuteron. The multibody nuclear reaction model can interpret both the results obtained in electrolysis and ion-beam experiments. It is considered that the lattice\ndynamies of metal deuteride is of key importance for inducing short-transient and closely packed d-d pairs and, thus, such fusions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "This paper can be downloaded at the web site of the Japanese Journal of Applied Physics,\nhttp.//www.ipap.ip/iiap/index.htm. Until January 2004, anyone could register and download papers there at no cost. The journal is now charging for reprints. We hope to make reprints of this and other cold fusion related papers available here. Here are the title, abstract and keywords for this paper:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            }
+        ],
+        "bib_entries": {},
+        "ref_entries": {},
+        "back_matter": [
+            {
+                "text": "Jpn. J. Appl. Phys. Vol. 41 (2002) 1546-1556 Part 1, No. 3A, 15 March 2002\nDOI:10.1143/JJAP.41.1546",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": null
+            },
+            {
+                "text": "(Received April $2 7,$ 2001; accepted for publication November 21, 2001)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": null
+            },
+            {
+                "text": "multibody nuclear reactions, electrolysis, helium-4, deuteron beam, proton beam, lattice dynamics",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Keywords"
+            }
+        ]
+    }
+}

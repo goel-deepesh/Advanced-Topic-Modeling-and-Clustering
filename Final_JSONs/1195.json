@@ -1,0 +1,196 @@
+{
+    "metadata": {
+        "title": "High-Sensitivity Neutron Detectors Used at Sandia National Laboratories to Monitor and Diagnose \"Cold Fusion' Experiments: Negative Results",
+        "authors": [
+            {
+                "first": "Ronald",
+                "middle": [
+                    "I."
+                ],
+                "last": "Ewing",
+                "suffix": "",
+                "affiliation": [
+                    "Sandia National Laboratories"
+                ],
+                "email": ""
+            }
+        ],
+        "abstract": [
+            {
+                "text": "A multidisciplinary group (Collaborators: R. I. Ewing. M. A. Butler, D. S. Ginley, and J. E. Schirber) at Sandia National Laboratories in Albuquerque, N.M., conducted an cxhaustive search for neutrons from fcold fusioa'\" employing both high-current electrochemical cells and high-pressure gas cells that have been temperature cyeled with liquid nitrogen. We have repetitively tested every \"cold fusion'' system known to us that has been reported or rumored to produce neutrons, using a high-sensitivity multi-detector neutron counter located underground on Kirtland Air Force Base.- Because of the very low radiation background (producing less than 10 counts per hr) in the underground laboratory and the high efficiency of the detectors (9 to 15%, depending on the experimental arrangement), the counter is capable of de-recting the emission of less than 100 neutrons per h and can deteet bursts of as few as 35 neutrons. No neutron emission has been detected at these levels, either in bursts or randomly. \"The neutron counter is composed of a toal of 22 helium-3 gas proportiomal counter tubes imbedded in a polyethylene modcrator, clectricaly conmected to form three independent neutron detectors. Because our counter will observe neutron emission simultaneously in all three detectors, we have been able to show that oc-casioaal random groups of counts in individual detectors that closely mimic both random and burst emission of neutrons are only spurious artifacts common to low level neutron detectors. Had we employed just one detector at a time, we might have been misled into interpreting the artifacts observed on a number of tests as \"neutron emission.\" Among the possible causes of the spurious counts are acoustic or motion disturbances, clectrical discharges across insulators, pile-up of elecronic moise or gamma ray-induced pulses, and cosmic-ray showers. Mrertr rtrn ernune de",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            },
+            {
+                "text": "We conclude that the emission of neutroas by chemical systems at normal temperatares will remain unproven until reproducibly demonstrated using multiple independent detectors to observe simultaneously the test cell in a very low-background environment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "Hich sensiliviny scarch for ncutrons during electrochemical reactioos Pu-sion Techuci.",
+                "authors": [
+                    {
+                        "first": "L.",
+                        "middle": [
+                            "M.",
+                            "A."
+                        ],
+                        "last": "Rutlar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [
+                            "S."
+                        ],
+                        "last": "Ginlay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.",
+                        "middle": [
+                            "E."
+                        ],
+                        "last": "Schirber",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [
+                            "L."
+                        ],
+                        "last": "Ewing",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": null,
+                "volume": "16",
+                "issn": "",
+                "pages": "388",
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "Search for cald fusiom in high pressure D-leaded Ti and Pd, metal and hydridle Fiwrian Tecinol",
+                "authors": [
+                    {
+                        "first": "J.",
+                        "middle": [
+                            "E."
+                        ],
+                        "last": "Schiber",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [
+                            "A."
+                        ],
+                        "last": "Butler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [
+                            "S."
+                        ],
+                        "last": "Gieley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [
+                            "I."
+                        ],
+                        "last": "Ewimg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1969,
+                "venue": null,
+                "volume": "16",
+                "issn": "",
+                "pages": "397",
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": "Negative resulks and pasitive antifacis obsered in a ceenpreheasive search for neutroes from oold fusion sing a emlti-denectoe syutem located anderground Fustion Techwol.",
+                "authors": [
+                    {
+                        "first": "R.",
+                        "middle": [
+                            "I."
+                        ],
+                        "last": "Ewing",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [
+                            "A."
+                        ],
+                        "last": "Butler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I.",
+                        "middle": [
+                            "E."
+                        ],
+                        "last": "Schiaber",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [
+                            "S."
+                        ],
+                        "last": "Ginley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1955,
+                "venue": null,
+                "volume": "16",
+                "issn": "",
+                "pages": "404",
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {},
+        "back_matter": [
+            {
+                "text": "This work was supported by the U.S. Department of Energy under $c$ ontract DE-AC04-76DP00789.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "ACKNOWLEDGMENT"
+            },
+            {
+                "text": "L. M. A. Rutlar, D. S. Ginlay, J. E. Schirber, and R. L. Ewing. Hich sensiliviny scarch for ncutrons during electrochemical reactioos Pu-sion Techuci.,16, 388 (1991.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "REFERENCES"
+            },
+            {
+                "text": "2. J.E. Schiber, M. A. Butler. D. S, Gieley, and R. I. Ewimg. Search for cald fusiom in high pressure D-leaded Ti and Pd, metal and hydridle Fiwrian Tecinol, 16 397 (1969).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "REFERENCES"
+            },
+            {
+                "text": "3. R. I. Ewing. M. A. Butler, I. E Schiaber, and D. S, Ginley, Negative resulks and pasitive antifacis obsered in a ceenpreheasive search for neutroes from oold fusion sing a emlti-denectoe syutem located anderground Fustion Techwol., 16, 404 (1955)- (See alsn: EE Trs. Wie. Si , 37, 15 190).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "REFERENCES"
+            }
+        ]
+    }
+}

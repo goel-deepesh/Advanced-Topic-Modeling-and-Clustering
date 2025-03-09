@@ -1,0 +1,320 @@
+{
+    "metadata": {
+        "title": "Triggering A Deuterium Flux In Pd Wire Using Electromagnetic Field",
+        "authors": [
+            {
+                "first": "Bin",
+                "middle": [],
+                "last": "Liu",
+                "suffix": null,
+                "affiliation": [
+                    "Departnewt of Physics, Tringhua Universin, Beijing 10084, CHINA"
+                ],
+                "email": "lzedmp@tsinghm.edi.cu"
+            },
+            {
+                "first": "Xing",
+                "middle": [
+                    "Z"
+                ],
+                "last": "Li",
+                "suffix": null,
+                "affiliation": [
+                    "Departnewt of Physics, Tringhua Universiny, Beijing 10084, CHINA"
+                ],
+                "email": null
+            },
+            {
+                "first": "Lin",
+                "middle": [],
+                "last": "Yan",
+                "suffix": null,
+                "affiliation": [
+                    "Department of Engineering Physies, Tinghua Universiy, Bejing 100N84, CHENA"
+                ],
+                "email": null
+            },
+            {
+                "first": "Lan",
+                "middle": [],
+                "last": "Ge",
+                "suffix": null,
+                "affiliation": [
+                    "Departnewt of Physics, Tringhua Universiny eijing 10084,CHINA"
+                ],
+                "email": null
+            },
+            {
+                "first": "Bin",
+                "middle": [],
+                "last": "Liu",
+                "suffix": null,
+                "affiliation": [
+                    "CorernmnteLinengicLkinantnicncy,egjing 80a,SCM"
+                ],
+                "email": "lx2.dmp@tsinghuo.edu.ch"
+            },
+            {
+                "first": "Xing",
+                "middle": [
+                    "Z"
+                ],
+                "last": "Li",
+                "suffix": null,
+                "affiliation": [
+                    "CorernmnteLinengicLkinantnicncy,egjing 80a,SCM"
+                ],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": "Aa electromagnetic field is applied on a long-thin Pd wire to test the effect of an clectrical posential oa the loading of the deuterium gas inin the palledium, which was praposed by Del Giudice, De Ninne and their group duning ICCP-9. The preliminary experimental results shomed that this electromagnetic field triggered nat only the loading,. but abo the \"excess hear\" because af the deuterium flux effect as propoed by King Z Li and his group.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "During ICCF-9, Del Giudice, De Ninno and their group showed that an electrical potential along the palladium wire was important to load the deuterium into the Pd \". The pattern of their successful cathode shows that it is also important to increase the resistance of the palladium wire in order to reduce the Joule heating effect while a large electrical voltage is applied onto the palladium wire. However, there may be another way to generate an electrical potential without the strong Joule heating. That is to use the electromagnetic field instead of a DC current.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "We believe also that this RF voltage on the palladium wire would generate a longitudinal deuteron flux along the palladium wire and a transversal deuterium flux across the surface of the palladium wire. These fluxes might generate a heat flow according to the correlation between deuterium flux and heat flow.l- A set of apparatuses were built to test this idea.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "A copper coil was used to generate an electromagnetic field in a glass vessel. A Pd coil, which worked as a secondary winding of a transformer, was put into this glass vessel. When a high frequency RF voltage was applied on the copper coil, it induced an electrical potential in the Pd coil. However, the secondary winding was an open circuit; hence, there was no strong Joule heat effect. Then, we were able to watch the temperature rising when any tiny heat effects appeared in the Pd coil. When the deuterium gas was filled into the abovementioned glass vessel, a temperatune rising on the Pd wire was observed. This temperature rising was correlated with the RF voltage clearly.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "A twin system was made in order to exclude any side-effects such as the possible Joule heating due to the eddy current, the disturbance of RF signal in the Pt thermomete. .... In one of these twins, Pd wire coil was replaced by a similar copper coil. The comparison between these twins showed that there might be a net heat effect in the D/Pd system when this RF voltage was applied-",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "(1) RF voltage on Pd wire is a good method to change the chemical potential of deuteron without strong Joule heating effect.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "A glass vessel (260 x g60 mm) was filled with deuterium gas (l atm.). A long thin palladium wire (3080 x d0.08 mm) was wound on a quartz frame in this vessel .(Fig. 1) Two Pt resistant thermometers were fixed on the Pd wire to monitor temperature variation. A copper coil was wound on the outside surface of this glass wessel to work as a primary coil of a transformer, which generated an electromagnetic field inside the glass vessel when an RF votage (l.4 MHetz) was applied on this primary coil. The Pd wine wrked like a secondary coil of a transformer. RF voltage was induced along this Pd wire. However, this secondary coil was working in an open circuit; hence, the current in Pd wire was so low that the Joule heat of this current was negligible. In order to eliminate the remaining Joule heating effects such as the eddy current, disturbance inside the Pt resistant thermometers, ...etc. a control vessel was made with every thing similar except the replacement of Pd wire by copper wire.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Preliminary Results"
+            },
+            {
+                "text": "When RF voltage was applied on the primary copper coil, the electrical potential was changing along the length of the Pd wire. Hence, the chemical potential of deuterons inside the Pd wire varied along the Pd wire also. However, the chemical potential of the deuterons in the deuterium gas was almost a constant; thereiore, we might expect a deuteron flux across the surface of the Pd wire which would be related to a deuteron flux in the direction of the Pd wire axis als. A heat flow was supposed to be corelated with this deutron lux l, although the loading ratio might be not very high. Figure 2 shows the temperature variation during the period when the RF voltage was applied on. The temperature curve (open circles) shows clearly that there was a heat source inside the palladium wire when the RF voltage was applied on that Pd wire in the deuterium gas. The temperature increased about 2 \"C. As long as the RF voltage was on, this temperature variation was kept there. When the RF voltage was off, this temperature variation disappeared as well. The time interval between two sampling points was 16 seconds; hence, this heating effect lasted more than half an hour. However, there was no such temperature variation in the control vessel with Pd wire and air only (Fig. 3). In figure 3, the temperature variation of the Pd wire was very small (-0.2C), and it kept constant when the RF voltage was changing from O to $3$ or 4 volts. DC current was applied to calibrate its calorimetric constant. When 1.96 V. of DC voltage was applied on this Pd wire, the DC current was 38 mA. lt enhanced the temperature of Pd wire by 1.2 *C. Thus we may estimate that the exeess power in the Fig.2 was about 0.12 W.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "text": "Fig. 3",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Preliminary Results"
+            },
+            {
+                "text": "DC current was applied on the Pd wire to calibrate this heating effect. Before loading the deuterium gas, 1.96 V DC voltage was applied on this Pd wire, and generate a DC current of 34 m.A. It increase the temperature of Pd wire by 12 \"C. It corresponds to 56 mW/\"C. Hence The RF voltage may introduce 112 mW excess power in the Pd wire in a deuterium gas vessel.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "The pumping effect was confimed again in this gas loading system also. When we started pumping out the deuterium gas, a sudden jump up in the temperature of the Pd wire appeared, while the temperature of copper wire showed an sudden dip. The jump up was more than $7 5^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\circ} C$ (figure 4a), but the dip was less than 1.5'C (figure 4c . The time constant of the Pt thermometer is less than 15 seconds, and the time interval between two sampling points was 26 seconds. The Pd wire was wound on the $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbb{P}_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{L}}$ thermometer the size of which is about 30mmxg3 mm. This pumping effect is reproducible; however, the jump in temperature might be higher or lower than $7 5$ C.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "figure 4a",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "(2) The flux is more important than the loading ratio for this excess power. The resistance of the Pd wire was 63 Ohms after D: loading, and its original resistance was 47 Ohms. It meant that the average loading ratio (the number ratio of deuteron to palladium atoms) was less than 0.4. However, it was evident that some heating effect appeared as long as the RF voltage was switched on. This is very different from that in the electrolysis experiment where the loading ratio was assumed to be one of the necessary conditions for excess power.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "(3) During the period of pumping, there might be a longitudinal deuteron flux inside the Pd wire along its axis, and a transversal deuterium flux in and out the surface of Pd wire. We believe that the surface flux played key role in this heating effect because the instantaneous pumping effect was mainly a surface flux effect, which was so strong such that it would dominate even if there was a deuteron flux along the axis of Pd wire also. This assumption was supported by lwamura's experiments as well who showed that the nuclear effect happened only",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "Production of Excess Enthalpy in the Electrolysis of D.O on Pd Cathodes",
+                "authors": [
+                    {
+                        "first": "E.",
+                        "middle": [],
+                        "last": "Del Giudice",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "de Ninno",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Frattolillo",
+                        "suffix": null
+                    }
+                ],
+                "year": "2004",
+                "venue": "Condensed Matter Nuclear Seiene, Procedings of ICCF-9, May 19-24, 2003, Beijing China, edited by Aing Z Li, (Isinghua University Press 2004)",
+                "volume": null,
+                "issn": null,
+                "pages": "82",
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "Correlation between Abnormal Deuterium Flux and Heat Flow in a DrPd System",
+                "authors": [
+                    {
+                        "first": "Xing",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Li",
+                        "suffix": null
+                    }
+                ],
+                "year": "2003",
+                "venue": "J. of Prystes D: Appled Physies",
+                "volume": "36",
+                "issn": null,
+                "pages": "3095",
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": "'Super-Absorption'- - Correlation between Deuterium Flux and Excess Heat--",
+                "authors": [
+                    {
+                        "first": "Xing",
+                        "middle": [
+                            "Z."
+                        ],
+                        "last": "Li",
+                        "suffix": null
+                    },
+                    {
+                        "first": "Bin",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": null
+                    }
+                ],
+                "year": null,
+                "venue": "ibid.",
+                "volume": null,
+                "issn": null,
+                "pages": "202",
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": "\"Pumping Effect'' -Reproducible Excess Heat in a Gas-loading D/Pd System--",
+                "authors": [
+                    {
+                        "first": "Xing",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Li",
+                        "suffix": null
+                    },
+                    {
+                        "first": "Bin",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": null
+                    }
+                ],
+                "year": null,
+                "venue": "ibid.",
+                "volume": null,
+                "issn": null,
+                "pages": "197",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": "Low Energy Nuclear Transmutation in Condensed Matter induced by D: Gas Pemeation through Pd Complexes: Correlation between Deuterium Flux and Nuclear Products'",
+                "authors": [
+                    {
+                        "first": "Yasuhiro",
+                        "middle": [],
+                        "last": "Iwamura",
+                        "suffix": null
+                    }
+                ],
+                "year": null,
+                "venue": "Preeedings of ICCr-/0, Cambridge, USA, Aug.19-24,2003.",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "Using the electrumagnetic field instead of a DC current to pemerate an eletrical potential abeg the\nPd wine.",
+                "type": "figure"
+            },
+            "FIGREF1": {
+                "text": "Temenure wigninte oeiciciks ie inte essel ille wih deueriumgas we FP",
+                "type": "figure"
+            },
+            "FIGREF2": {
+                "text": "Teneprare vainioned oencicdks n r i in te veel fled wi air soen E olnge was changing (black thin line)",
+                "type": "figure"
+            },
+            "FIGREF3": {
+                "text": "Pumping effect in the gas kading system: (a) Temperature jump in Pd wire, (b) Room temperature. (e) Temperature dip in Cu wire.",
+                "type": "figure"
+            }
+        },
+        "back_matter": [
+            {
+                "text": "work is supported by The Ministry of Science and Technology (Fundamental Division), Natural oundation of China (#10145004) and Tsinghua University (Basic Research Fund (985-1)).\n\nThis Sciene F",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Acknowledgements"
+            }
+        ]
+    }
+}

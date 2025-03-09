@@ -1,0 +1,334 @@
+{
+    "metadata": {
+        "title": "A new diagnoute for cold nuclear fusion in pallnsfunn targeis, using the X-rays which would be emilled during the slowing down of proton fusucn peoducts in the turget. has been carnied out So far, negatve reals have been found",
+        "authors": [
+            {
+                "first": "J.P.",
+                "middle": [],
+                "last": "BRIAND",
+                "suffix": "",
+                "affiliation": [
+                    "Umnersud P&AN Cure, 4 plore Jumeu \u00b7 75252 Panus Cedex O5, Fnamce"
+                ],
+                "email": ""
+            },
+            {
+                "first": "J.",
+                "middle": [],
+                "last": "DEWYNCK",
+                "suffix": "",
+                "affiliation": [
+                    "Umnersud P&AN Cure, 4 plore Jumeu \u00b7 75252 Panus Cedex O5, Fnamce"
+                ],
+                "email": ""
+            },
+            {
+                "first": "P.",
+                "middle": [],
+                "last": "CHEVALLIER",
+                "suffix": "",
+                "affiliation": [
+                    "Umnersud P&AN Cure, 4 plore Jumeu \u00b7 75252 Panus Cedex O5, Fnamce"
+                ],
+                "email": ""
+            },
+            {
+                "first": "J.L.",
+                "middle": [],
+                "last": "BOBIN",
+                "suffix": "",
+                "affiliation": [
+                    "Umnersud P&AN Cure, 4 plore Jumeu \u00b7 75252 Panus Cedex O5, Fnamce"
+                ],
+                "email": ""
+            }
+        ],
+        "abstract": [
+            {
+                "text": "A new diagnoute for cold nuclear fusion in pallnsfunn targeis, using the X-rays which would be emilled during the slowing down of proton fusucn peoducts in the turget. has been carnied out So far, negatve reals have been found",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "The recent attempts to observe nuclear fusion in eompresed deuterium gas accumulated via clectrolysis in palladium cathodes have been based on four magor diagnostics [1.2t i) calorimetry. ii) ncutron emassion, ini) y-rays, iv) tntium detection.",
+                "cite_spans": [
+                    {
+                        "text": "[1.2t",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "COLD FUSION: AN ALTERNATIVE DAGNOSTIC"
+            },
+            {
+                "text": "Most of these diagnostics lead, for the time being, to very controversial results. The nuclear reactions sup-poed to be involved in these cxperiments",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "COLD FUSION: AN ALTERNATIVE DAGNOSTIC"
+            },
+            {
+                "text": "$$\\\begin{array} {l} {{\\\\\\mathrm{d}+\\\\\\mathrm{d} \\\to\\\frac{3} {2} \\\\\\mathrm{H} ( 1 ~ \\\\\\mathrm{M e V} )+\\\\\\mathrm{p} ( 3 ~ \\\\\\mathrm{M e V} ),}} \\\\\\\\\\ {{\\\\\\mathrm{d}+\\\\\\mathrm{d} \\\to\\\frac{3} {2} \\\\\\mathrm{H e} ( 0. 8 ~ \\\\\\mathrm{M e V} )+\\\\\\mathrm{n} ( 2. 4 5 ~ \\\\\\mathrm{M e V} ),}} \\\\\\end{array} \\\tag{1}$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "d+d -> (3/2)H(1 MeV) + p(3 MeV), d+d -> (3/2)He(0.8 MeV) + n(2.45 MeV)",
+                        "latex": "\\\begin{array} {l} {\\\\\\mathrm{d}+\\\\\\mathrm{d} \\\to\\\frac{3} {2} \\\\\\mathrm{H} ( 1 ~ \\\\\\mathrm{M e V} )+\\\\\\mathrm{p} ( 3 ~ \\\\\\mathrm{M e V} ),}} \\\\\\\\\\ {\\\\\\mathrm{d}+\\\\\\mathrm{d} \\\to\\\frac{3} {2} \\\\\\mathrm{H e} ( 0. 8 ~ \\\\\\mathrm{M e V} )+\\\\\\mathrm{n} ( 2. 4 5 ~ \\\\\\mathrm{M e V} ),}} \\\\\\end{array}"
+                    }
+                ],
+                "section": "COLD FUSION: AN ALTERNATIVE DAGNOSTIC"
+            },
+            {
+                "text": "$$\\\\\\mathrm{d}+\\\\\\mathrm{d} \\\to\\\frac{3} {1} \\\\\\mathrm{H ( 1 ~ \\\\\\mathrm{M e V} )}+\\\\\\mathrm{p} ( 3 ~ \\\\\\mathrm{M e V} ).$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "d + d -> (3/1)H(1 MeV) + p(3 MeV).",
+                        "latex": "\\\\\\mathrm{d}+\\\\\\mathrm{d} \\\to\\\frac{3} {1} \\\\\\mathrm{H ( 1 ~ \\\\\\mathrm{M e V} )}+\\\\\\mathrm{p} ( 3 ~ \\\\\\mathrm{M e V} )."
+                    }
+                ],
+                "section": "COLD FUSION: AN ALTERNATIVE DAGNOSTIC"
+            },
+            {
+                "text": "$$\\\\\\mathrm{d}+d \\\rightarrow\\\textstyle{\\\frac{1} {2}} \\\\\\mathrm{H e} ( 0. 8 \\\\ \\\\\\mathrm{M e V} )+\\\\\\mathrm{a} ( 2. 4 5 \\\\ \\\\\\mathrm{M e V} ).$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "d+d -> (1/2)He(0.8 MeV) + a(2.45 MeV).",
+                        "latex": "\\\\\\mathrm{d}+d \\\rightarrow\\\textstyle{\\\frac{1} {2}} \\\\\\mathrm{H e} ( 0. 8 \\\\ \\\\\\mathrm{M e V} )+\\\\\\mathrm{a} ( 2. 4 5 \\\\ \\\\\\mathrm{M e V} )."
+                    }
+                ],
+                "section": "COLD FUSION: AN ALTERNATIVE DAGNOSTIC"
+            },
+            {
+                "text": "not only produce neutrons, y-rays or tritium but also energetic heavy charged particles which slow down very fast in the palladium. The sdowing down of these fuson products mainly provides the heating of the target. With a smaller probability they can also ionize the palladium cnthode lcading to some X-ray emission. The tonization of an atom by a charged particle is known to reach its maximum when the velocity of the projectile is equnl to that of the bound electron to be egected. In all cases, the considered particles fp. $\\\\\\cdot$ a) have very low velocities compared to that of a K-eloctron in Pd, and the K-shell ionitation is very unlkely, cxcept in the case of the 3 MeV proons emitted in reaction (l). All these cross sections can easily be calculated from e& ref. [3L While these cross sections for K-ionization by 'He or -H range within 10-7\" to 10-75 cmr, that for 3 MeV protons which is of the order of 10-3* cm' may lend to a reasonable X-ray yicld. These X-rays are emitted along the trajectories of the protoas whoue runge is very short (about 30 um) as compared to the size of the considered targets and are wery strongly autcabsorbed in the bulk of the Pd target.",
+                "cite_spans": [
+                    {
+                        "text": "[3L",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "COLD FUSION: AN ALTERNATIVE DAGNOSTIC"
+            },
+            {
+                "text": "In fact, the siowing down of a 3 MeV proton in Pd gives rise to the emission of 3 x 10-* Ka X-ray photons of this clement. That means that as much as 3 x 10-* Kx Pd X-ray photons are emitted per fusion event in reaction (il The cxact number of dctected X-ray photons is quite dificult to calculate and has to take account of autoabsorptbon in the clectrode and in the whole eell as well as the vodumic distribution of fusion in the electrode. A gcod order of mapnitude can nevertheless be reached if we assunme a uniform distri-buton of the fusion events. Then the X-ray production in the foil beomes 5 10 K X-ray photons slw-per cubic centimeter ot electrode.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "COLD FUSION: AN ALTERNATIVE DAGNOSTIC"
+            },
+            {
+                "text": "We carried out two different kinds of expeiments in sangle compartment cclls to try to observe some sienals proving the oecurrence of cold fusion proceses. In the lirst one we used a Ol mm Pd fol located in a Jodiot cell, fig. la: the Pd cathode was then filed up by deuterium on one side, and the X-rays detected with a large (80 mm-) SiLi detector on the other side. Under thewe conditions, taking into account the overall dctoc-tor efficsency, solid angic and autcabsrpbon, the count rate should reach 3 x 10* Ka photons $s^{-1} W^{-1}.$",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "fig. la",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "COLD FUSION: AN ALTERNATIVE DAGNOSTIC"
+            },
+            {
+                "text": "In a second experiment we used $2 2$ mm thick Pd target (99.95% purity from Jchnsoa Mattey) exposed on",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "COLD FUSION: AN ALTERNATIVE DAGNOSTIC"
+            },
+            {
+                "text": "both sides. the emitted X-rays being observed at 45* as shown in fig, 1b with a Ge detector of 30 mm- area. We used as in ref. |1] 0.1M LL OD soluions and Pt anodes. In this geometry the expected count rate would be of the order of 2 x 10' Ka photons $s^{-1} W^{-1}$ .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "fig, 1b",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "COLD FUSION: AN ALTERNATIVE DAGNOSTIC"
+            },
+            {
+                "text": "E10R ats ranging from a few up 10 100 mA $\\\\\\ c m^{-2}$ and exposure times as long as 120 h were performed. The counting was always started 2 or 3 h after we observed gas emussion on the cathode surface. We present in fig. 2 a typical spectrum observed with a Sili detector over a period ol 22 h where Ka and KB characteristic lines of Pd are casily observed with a detccted rate of 16 $\\\\\\mathbf{n}=1$ (a number that could be preatly reduced in an underground laboratory). This is exactly the rate which can be obscrved in a Pd foil when no eiectrolysis is carricd out and which con-ssitutes the irreducibile background duc to natural radio-actvity and cosmic rays (fluctuating in time by a factor of $=$ similar rates are alko observed with the next element Ag, $Z=4 7 )$",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "fig. 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "COLD FUSION: AN ALTERNATIVE DAGNOSTIC"
+            },
+            {
+                "text": "Under these conditions we can assess that a power rclcase of a few 10-' W em-' could have becn obscrved in the case of the first experimental setup. This is roughly 10\" times smaller than the minimum power (6 mW $\\\\\\mathbf{c m}^{-3} )$ quoted in ref. [1. In the second experimental setup, the minimum ohservable power should be of the order of $1 0^{-5}$ w $\\\\\\mathbf{c m}^{-3}$ (500 times less than observed in ef. [1D.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "COLD FUSION: AN ALTERNATIVE DAGNOSTIC"
+            },
+            {
+                "text": "In cosclusion one can say that the proposed X-ray dhagnostic, whose sensitivity is very high for than clec-trodes and still reasonable for thick material, is quite easy to handle and should be useful for all future experiments where chemists and solid state physicists would carefully study the accumulation processes of dcuterium in Pd, Pd-Ag alloys, or Ti targets. This diagnostic might as well be of interest should the neutron branching ratio be effoctivcly reduced in reaction (1).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "COLD FUSION: AN ALTERNATIVE DAGNOSTIC"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "$ .$ Elecaroch. Chem, 261 (1969) 301.",
+                "authors": [
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Feischmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Pons",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issn": "",
+                "pages": "",
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "Nature (1989.",
+                "authors": [
+                    {
+                        "first": "S.E.",
+                        "middle": [],
+                        "last": "Jones",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E.P.",
+                        "middle": [],
+                        "last": "Palmer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.LB.",
+                        "middle": [],
+                        "last": "Curr",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.L.",
+                        "middle": [],
+                        "last": "Decker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.L.",
+                        "middle": [],
+                        "last": "Jensea",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "JM.",
+                        "middle": [],
+                        "last": "Thornt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.F.",
+                        "middle": [],
+                        "last": "Taylor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.",
+                        "middle": [],
+                        "last": "Rafclky",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issn": "",
+                "pages": "",
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": "Atom. Data Nucl. Data Tables 3 (1985) 256.",
+                "authors": [
+                    {
+                        "first": "D.D.",
+                        "middle": [],
+                        "last": "Cohem",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Harrington",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Atom. Data Nucl. Data Tables",
+                "volume": "3",
+                "issn": "",
+                "pages": "256",
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "Sshematis of the two experimental sctups.",
+                "type": "figure"
+            },
+            "FIGREF1": {
+                "text": "Typieal X-ray spoctruam of Pd observed over a period of 22 h with the SiLi desectoc.",
+                "type": "figure"
+            }
+        },
+        "back_matter": [
+            {
+                "text": "We thank Professor B. Tremillon and F. Briand for their enoouragements to take an interest in this field",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Acknowledgement"
+            },
+            {
+                "text": "[1) M. Feischmann and S. Pons, $ .$ Elecaroch. Chem, 261 (1969) 301.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "References"
+            },
+            {
+                "text": "[2] S.E. Jones. E.P. Palmer, J.LB. Curr, D.L. Decker, G.L.. Jensea. JM. Thornt. S.F. Taylor and J. Rafclky, Nature (1989.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "References"
+            },
+            {
+                "text": "[3| D.D. Cohem and M. Harrington, Atom. Data Nucl. Data Tables 3 (1985) 256.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "References"
+            }
+        ]
+    }
+}

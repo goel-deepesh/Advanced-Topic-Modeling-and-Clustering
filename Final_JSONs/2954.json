@@ -1,0 +1,492 @@
+{
+    "metadata": {
+        "title": "Anomalous Isotopic Distribution in Palladium Cathode After Electrolysis",
+        "authors": [
+            {
+                "first": "Tadahiko",
+                "middle": [],
+                "last": "Mizuno",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "T.",
+                "middle": [],
+                "last": "Ohmori",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "M.",
+                "middle": [],
+                "last": "Enyo",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            }
+        ],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "It was confirmed by several analytic methods that reaction products with mass number ranging from 20 to 28, 46 to $5 4$ and 72 to 82 are produced in palladium cathodes subjected to electrolysis in a heavy water solution at high pressure, high temperature, and high current density for one month. Isotopic distributions were radically different from the natural ones.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION"
+            },
+            {
+                "text": "Nuclear reactions in a solid electrode at ordinary temperatures have been reported by many experimenters since 1989. However, this phenomenon is still not well accepted among researchers because of poor reproducibility and control. What is urgently needed now is to obtain precise and quantitative relationships between potential nuclear reactions and their corresponding reaction proxducts. If nuclear reactions induced by electrochemical reaction occur in solid electrodes, there must be clear evidence such as the evolution of radioisotopes and radiation. Moreover, the evolution of the reaction products should be explained in tems of the nuclear mechanisms. In this work, evidence which indicates the occurnence of some nuclear reactions is presented, in the form of transmuted elements within the cathode and on the cathde surface. The anomalous isotopic distribution of these elements shows they do not come from contamination. For example, natural copper is 70% *Cu, and 30% *Cu. But the copper found in the cathode was 100% Cu, with no detectable levels of Cu. Natral isotpic distibuion vars byless than 0.001% for copper.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION"
+            },
+            {
+                "text": "Palladium rods used were of high purity (99.97% min.) supplied by Tanaka Noble Metals, Ltd. Impurities in the sample were as follows: B: 110 ppm, Si: 10, Ca: 9, Cr: 10, Cu: 6, Ti: 5, Ag: 44, Mg: 1, Pt: 20 and Au: 23. Nothing more was detected by atomic absorption photospectroscopy. Heavy water was supplied by Showa Denko, Ltd. It is 99.75% pure and includes 0.077 micro Ci/dm $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot$ of tritium. The heavy water was purified once in a quartz glass distiller. Reagent grade lithium hydroxide was obtained from Merck, Ltd. Impurities in the reagent were specified as follows: Li,C0,:2% max, Cl: 0.05%, Pb: 20 ppm, Ca: 200, Fe: 20, K: 200 and Na: 2). The anode and recombiner catalyst were, respectively, a high purity (99.99 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vdots$) Pt plate and a Pt mesh. The Pt metal is specified to contain impurities as follows: Rh: 18 ppm., Si, Cr and Pd: 2 ppm, Au, Ag. B, Ca, Cu and Fe: less than 1 ppm. Other impurities were under the limits of detection.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "EXPERIMENTAL"
+            },
+            {
+                "text": "Electrolysis was performed in a closed cell made of stainless steel. The cell inner wall was coated with l mm thick Teflon. The details have been described elsewhere [l]- Before the electrolyte was added to the Pd cell, it was pre-electrolyzed with Pt electrodes at 1 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\AA$ and 150\"C for 6 x $1 0^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\varepsilon}$ s (7 days). Electrolysis experiments were perfomed at a current density of 0.2 A em- or total current of 6.6 A at $1 0^{5}$ n for 2.76 x 10* s (32 days). The sample electrodes were analyzed for element detection by energy dispersive X-ray spectroseopy (EDX), Auger electron spectroscopy (AES), secondary ion mass spectroscopy (SIMS) and electron probe microanalyzer (EPMA).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "EXPERIMENTAL"
+            },
+            {
+                "text": "Several elements were detected in the Pd electrode by the EDX method. Fig. 1 shows typical results before and after electrolysis. The evolution of Pt, Cr, Fe, Cu and other elements were clearly seen. The amounts detected by EDX, AES and SIMS averaged together are shown in Fig. 2. Amounts for all elements were calculated by the peak height of the estimate methods. Amounts were shown normalized with the Pd peak set as 100. Typical counts by EDX and SIMS ranged from 102 to 106 and wene 10 to lo0 times higher than the background counts. Thus, the presence of Ca, Ti. er, Mn, Fe, Co. Cu, Zn, Cd. Sn, Pt and Pb was confirmed. AES and SIiS measurements were also made after bombardment by Ar* or C $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ldots$ ' ions, thus removing surface layers, but the element concentrations at 1 micro m below the electrode surface were almst the same as at the surface. Many holes and cracks were observed in the bulk layer, having 1 to 10 micro m of opening size. The same elements, having almost the same concentration, were also found at the surface. These elements are mostly grouped in three ranges of atomic numbers: from 20 to 30; 46 to 54; and $7 2$ to 82.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "text": "Fig. 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS"
+            },
+            {
+                "text": "The SIMS analysis showed other elements: As, Ga, Sb, Te, I, Hf, Re, Ir, Br and Xe. These elements, except Xe, are difficult to detect by AES and EDX because the peaks are very close to each other, or lower than the limits of detection. Xe is naturally difficult to detect by EDX because it is in the gas state. The SIMS count numbers ranged from 10' to $1 0^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\circ}$ where the background counts were as low as -10, so we have confidence in these results. In Fig. 2 we show the peak intensities normalized with the peak of palladium as 100%. The intensity of Xe was 10 times larger than Pd; it may be that the gas was released by bombarding with $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{o}_{1^{-}}$ ions which caused a temperature rise at the sample. Large differences in isotopic distributions compared with the natural distributions were observed by the SIMS method for Cu, Zn, Br, Ae, Pd, Cd, Hf, Re, Pt, Ir and Hg. Elements of mass number between 39 and 82 are shown in Fig. 3; Cr, Fe and Cu showed large shifts in isotopic ratios. Especially notable was the fact that no \"Cu peak was observed. Except for a few cases, in generally the isotope abundances are higher for odd mass numbers and lower for even ones, as compared with the natural ratios. In Fig. 4, for mass numbers between 100 and 140, Cd and Xe were shown to have large shifts in abundances. In Fig. S, for mass number between 172 and 208, large shifts were seen for Hf, Re, Ir, Os and Hg.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 2",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "text": "Fig. 3",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "text": "Fig. 4",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "text": "Fig. S",
+                        "ref_id": "FIGREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS"
+            },
+            {
+                "text": "Generally speaking, heavier isotopes increased compared to the natural ratio, and lighter isotopes decreased. For example, \"Mg went from 79% down to 74%, while -Mg went from 11% to 12%. This rule did not hold for some elements with few isotopes. \"Cu increased while *\"Cu was absent; \"Ti increased while -Ti decreased. The pattern is confusing fo: \"lCd to \"'Cd: a slight decrease, a giant increase, a large increase and compensating drop in heaviest isotope, number 114. Data from some elements are nat shown in Figs. 3 to 5 because their peaks overlapped with those of other elements, or because they showed only a small difference with natural abundance.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figs. 3 to 5",
+                        "ref_id": "FIGREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS"
+            },
+            {
+                "text": "Neutron intensity and energy measurements were carried out simultancously, in parallel. The neutron evolution rate was sporadic and weak, as peeviously reported [2], with levels of -0.4 counts per second. No gases such as He, $0,$ and Ar were dctcted. Excess het gencration was ess reproducible, varying from 107 to 107 joules. (3)",
+                "cite_spans": [
+                    {
+                        "text": "[2]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS"
+            },
+            {
+                "text": "Essentially the same phenomenon was confirmed five times with high reproducibility at high cathodic current density, above 0.2 A/em-. Current density ranged from 0.2 to 0.6 A/cm-. Different isotope distributions were obtained, depending on the current density. This will be described more fully in an upcoming paper. It can hardly be imagined that all of the elements found were impurities in electrolyte, electrode, or cell. Even if we suppose that all impurities in the system accumulated in the cathade, the amount would be 10O to l() times smaller than the total anount we detected. Furthermore, it is simply impossible to explain the shifts in the isotopic distribution. Hence, it must be concluded that some novel reactions occurred, resulting in the reactants which were found abundant in the electrolyte and electrode material. We assume the cathode palladium was the starting material for these reactions, but it is possible that impurities ad other cell components such as Li, D,O, Pd, Pt, K, Na, Ca, B, C, Ag and Fe may have provided the starting material for the nuclear reactions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "The palladium surface became rough and porous after several wecks of electrolysis, probably due to hydrogen attack. The current may have increased in such roughened surface areas, which would in tum cause a larger reaction and a higher concentration of the reaction products. Enyo [4-6] reported that the effective hydrogen pressure at the",
+                "cite_spans": [
+                    {
+                        "text": "[4-6]",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "hydrogen evolving electrode depends upon the hydrogen atom recombination process which follows the water discharge process. The division of the overpotential between these two steps may be important. It was suggested that at Pd electrodes in alkaline solution the effetive hydrogen pressure may rise as high as $1 0^{6}$ atm [7,8]. There may be further increases at local points on a heterogeneous surface. One may even speculate that the hydrogen isotope nucleus sometimes closely appecaches the medium nucleus [9]. An estimate by Nernst Equation indicates that 5 x 10* atm of pressure may be realized at 140 mV of overpotential at the electrolysis current density of 200 mA/cm* on a flat palladium suface [10]. Furthermowe, the pressure distribution depends on the roughness of the surface, because local current density and the parition of overpotential components may vary with roughness.",
+                "cite_spans": [
+                    {
+                        "text": "[7,8]",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "text": "[9]",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "text": "[10]",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "There are several reports [11-13] of evolution of clements by electrolysis. However, only a few [14, 15] demonstrated shifis in isotopuc abundance. For a god electode l6]. which also generated various elements by cathxdic electrolysis. different isotopic distributions were seen. In this case also, the reaction sites were unevenly distributed on the surface. Typically, the active points may have occupied about $1 0^{-6}$ em- areas and numbered 10* to 10* per em- at the surface. Thus, the current is likely to be concentrated at localized points 10 to 100 times higher than average. Such high pressure can induce neutrons to enter into heavy nuclei and successively form an unstable heavy nucleus [17]. If the reactions start from palladium as the electrode material, fusion and fission may take place simultancously. Several possible reactions might be considered:",
+                "cite_spans": [
+                    {
+                        "text": "[11-13]",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "text": "[14, 15]",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "Here, the subscript at the left-hand side of the intermediates represents the proton number and the top superscript represents the total nuclear number which is connected with nucleus as the hollow atom. It can be assumed that these particles will stay in a stable orbit according to their quantum spin number as the same concept with electron orbits. The connecting nuclei are caught into medium nuclei by the force of high extemal pressure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "Other reactions have to be assumed because many light elements were ohserved. They may be as follows:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "In the case of platinum deposited from the positive electrode to the Pd electrode surface, some reactions may be involved, such as:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "Generally, one can wie the fission reactions as follows:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "$\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\xi}$ \nhence the number of neutrons changes to magic number 82, and especially stable nuclei are selectively produced. In this way, the isotopic distributions of the products after electrolysis can be explained in terms of the difference of binding energy of the nuclei.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION"
+            },
+            {
+                "text": "It must be admitted that these reactions have no solid, detailed theoretical basis yet, but in broad terms this can explain most of the elements which were observed. One may also imagine that as such transmutation reactions were presumably taking place during the electrochemical process, they are likely to be connected with other phenomena such as hydrogen embrittlement and local corrosion.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION"
+            },
+            {
+                "text": "Anomalous evolution of various elements in palladium electrodes was confirmed after high current density cathodic electrolysis under high temperature and pressure for a long time. The following conclusions were drawn:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION"
+            },
+            {
+                "text": "(1) The mass number of the evolved elements was distributed roughly in three groups: 20 to 28, 46 to 54 and 72 to 82, with the amounts, respectively, >50%, 10% and $5 58$ compared to palladium.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION"
+            },
+            {
+                "text": "(2) These evolved elements were found on the surface, and also in the near surface bulk of the electrode in amounts 10 to 100 times smaller.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION"
+            },
+            {
+                "text": "(3) Many evolved elements accumulated in holes and cracks on the electrode which formed during electrolysis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION"
+            },
+            {
+                "text": "(4) Some of the evolved elements have isotopic distributions drastically different from natural ones, especially for Cu, Zn, Br, Xe, Pd, Cd, Hf, Re, Pt, Ir and Hg.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION"
+            },
+            {
+                "text": "(5) Gaseous Xe was noteworthy because it was so abundant. Xenon is particularly unlikely to be a contaminant because metals do not absorb noble gases, and because the cathode was degassed in a vacuum at 473*K for 20 hours.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION"
+            },
+            {
+                "text": "(6) The elements in the bulk layer changed in concentration with depth and showe shis of isotopic distribution.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION"
+            },
+            {
+                "text": "(8) Ni and Co were also confirmed but their isotopic distribution could not be measured because their SIMS peaks overlapped with those of other elements.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION"
+            },
+            {
+                "text": "They may indue fission reactions as follows:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION"
+            },
+            {
+                "text": "(7) Light elements such as O, C, Ca, Na, Mg and Al showed small istopic shifts.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION"
+            },
+            {
+                "text": "g9 Theisotoic distiations of P an P were als hifned.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION"
+            },
+            {
+                "text": "(10) We conclude that nuclear reactions must have occurred during the electrochemical process.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "\"Piffusion Rate of Deuerium in Pd during Cathodic Charging.",
+                "authors": [
+                    {
+                        "first": "Tadahiko",
+                        "middle": [],
+                        "last": "Mizuno",
+                        "suffix": null
+                    },
+                    {
+                        "first": "Tadashi",
+                        "middle": [],
+                        "last": "Akimoto",
+                        "suffix": null
+                    }
+                ],
+                "year": 1992,
+                "venue": "Dent Aagaka",
+                "volume": "vl 60",
+                "issn": null,
+                "pages": "405",
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "Neutron Evolution from Annealed Palladium Cathode in LiOD-D,O Solution",
+                "authors": [
+                    {
+                        "first": "Tadahiko",
+                        "middle": [],
+                        "last": "Mizun",
+                        "suffix": null
+                    },
+                    {
+                        "first": "Tadashi",
+                        "middle": [],
+                        "last": "Akimoto",
+                        "suffix": null
+                    },
+                    {
+                        "first": "Norio",
+                        "middle": [],
+                        "last": "Sato",
+                        "suffix": null
+                    }
+                ],
+                "year": 1989,
+                "venue": "Denki Kagaku",
+                "volume": "57",
+                "issn": null,
+                "pages": "742",
+                "other_ids": {}
+            },
+            "BIBREF2": {},
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": "Sorption of Hydrogen on and in Hydrogen-Absorbing Metals in Electrochemical Enviroaments",
+                "authors": [
+                    {
+                        "first": "Tadahiko",
+                        "middle": [],
+                        "last": "Mizuno",
+                        "suffix": null
+                    },
+                    {
+                        "first": "Michio",
+                        "middle": [],
+                        "last": "Enyo",
+                        "suffix": null
+                    }
+                ],
+                "year": 1996,
+                "venue": "Modern Aspeets of Electrechemistry",
+                "volume": "30",
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Enyo",
+                        "suffix": null
+                    },
+                    {
+                        "first": "P.C.",
+                        "middle": [],
+                        "last": "Biswas",
+                        "suffix": null
+                    }
+                ],
+                "year": 1992,
+                "venue": "J. Electroanal. Chem..",
+                "volume": "335",
+                "issn": null,
+                "pages": "309-319",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": "Cauldron in the Cosmos",
+                "authors": [
+                    {
+                        "first": "C.E.",
+                        "middle": [],
+                        "last": "Rolfs",
+                        "suffix": null
+                    },
+                    {
+                        "first": "W.S.",
+                        "middle": [],
+                        "last": "Rodney",
+                        "suffix": null
+                    }
+                ],
+                "year": 1988,
+                "venue": "Theoretical Astrophysics Series, The University of Chicago Press",
+                "volume": null,
+                "issn": null,
+                "pages": "96-112",
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "BIBREF6",
+                "title": "Mixed Mechanisms Controlling Hydrogen-Interface Mechanism",
+                "authors": [
+                    {
+                        "first": "Moshe",
+                        "middle": [
+                            "H."
+                        ],
+                        "last": "Mintz",
+                        "suffix": null
+                    }
+                ],
+                "year": 1991,
+                "venue": "J. Alloys and Compounds",
+                "volume": "176",
+                "issn": null,
+                "pages": "77-87",
+                "other_ids": {}
+            },
+            "BIBREF7": {},
+            "BIBREF8": {}
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "EDX spectra frm th d od beor ad ater the clectrolysis.",
+                "type": "figure"
+            },
+            "FIGREF1": {
+                "text": "Amounts of elements obtained various measurements",
+                "type": "figure"
+            },
+            "FIGREF2": {
+                "text": "Changes of isotope ratio for reaction\nproducts of mass number between 39 and 81",
+                "type": "figure"
+            },
+            "FIGREF3": {
+                "text": "Changes of isotope ratio for reaction\nproducts of mass number between 104 to 136",
+                "type": "figure"
+            },
+            "FIGREF4": {
+                "text": "Changes of isotope ratio for reaction products of mass number 177 to 208",
+                "type": "figure"
+            },
+            "FIGREF5": {
+                "text": "Figs. 3 to 5",
+                "type": "figure"
+            }
+        },
+        "back_matter": [
+            {
+                "text": "The authors acknowlelde financial support from te Associaion of New Hydrogen Energy in Japan.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "ACKNOWLEDGMENT"
+            }
+        ]
+    }
+}

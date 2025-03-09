@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "title": "Electrochemical Calorimetric Studies on Water and Deuterium Oxide Electrolysis.",
+    "authors": [
+      {
+        "first": "Melvin",
+        "middle": ["H."],
+        "last": "Miles",
+        "suffix": null,
+        "affiliation": [
+          "Naval Weapons Center, Chemistry Division, Research Department, China Lake, CA 93555"
+        ],
+        "email": null
+      },
+      {
+        "first": "David",
+        "middle": ["E."],
+        "last": "Stilwell",
+        "suffix": null,
+        "affiliation": [
+          "Naval Weapons Center, Chemistry Division, Research Department, China Lake, CA 93555"
+        ],
+        "email": null
+      }
+    ],
+    "abstract": [
+      {
+        "text": "This talk will focus on our preliminary results on calorimetric studies on water and deuterium oxide electrolysis using Pt or Pd cathodes with LiOH(D) and NaF as the supporting electrolytes. In some cases, sulfur was added as an intentional Radianion ient: whe Rtonitredrod nweteon acivat iom on ddameter. Radiation levels were monitored by neutron activation of copper\nsilver metal. These studies were prompted by a recent note on electrochemically induced nuclear fusion (1).",
+        "cite_spans": [
+          {
+            "text": "(1)",
+            "ref_id": "BIBREF0"
+          }
+        ],
+        "ref_spans": [],
+        "section": "Abstract"
+      },
+      {
+        "text": "A deuterium oxide solution, containing NaF and the Pd cathode poisoned by sulfur was electrolysed for 14 days. In terms of excess heat, the results appeared to be negative. Next, matched cells, with a Pd cathode in one and a Pt cathode in the other were tested for temperature differences in deuterium oxide containing O.1M LioD. After one week of electrolysis (i00 mA/cm), no unexplained temperature differences between these cells  were observed. However, this experiment is ongoing, and any future results will be given.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "section": "Abstract"
+      },
+      {
+        "text": "A comparison of the steady state heat evolution between water and deuterium oxide (LiOH(D) electrolyte, Pd cathode) indicated that the deuterium oxide cell was producing more heat than the water cell. The Newton cooling constants, 0.0538 J/s'C (HzO cell) and 0.0541 J/s'C (DO cell) were determined by resistance heating in well stirred solutions. During the electrolysis (100 mA/em-), no temperature changes were noted as a function of the thermometer placement, and thus, the cells were not stirred mechanicall $y$ . All trials resulted in an excess calculated heat, with the D20 always producing more excess than the water cells. For example, in one trial the excess heats were 0.20l and 0.223 J/s for the water and DzO cells, respectively. We attribute these observations, wholly or in part, to recombination of the gases (2). Further refinements on these cells are being made and the results will be shown and discussed.",
+        "cite_spans": [
+          {
+            "text": "(2)",
+            "ref_id": "BIBREF1"
+          }
+        ],
+        "ref_spans": [],
+        "section": "Abstract"
+      },
+       {
+        "text": "Hnethc coneonctoctn o. araneansecatnd. DBoen\ncell, in hopes of recording the Pd ignition event\ntowards this effort will be described.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "section": "Abstract"
+      }
+    ],
+    "body_text": [],
+    "bib_entries": {
+      "BIBREF0": {
+        "ref_id": "BIBREF0",
+        "title": null,
+        "authors": [
+          {
+            "first": "M.",
+            "middle": [],
+            "last": "Fleischmann",
+            "suffix": null
+          },
+          {
+            "first": "S.",
+            "middle": [],
+            "last": "Pons",
+            "suffix": null
+          }
+        ],
+        "year": 1989,
+        "venue": "J. Electroanal. Chem.",
+        "volume": "261",
+        "issn": null,
+        "pages": "301-308",
+        "other_ids": {}
+      },
+      "BIBREF1": {
+        "ref_id": "BIBREF1",
+        "title": null,
+        "authors": [
+          {
+            "first": "O.M.",
+            "middle": [],
+            "last": "Sherfy",
+            "suffix": null
+          },
+          {
+            "first": "A.",
+            "middle": [],
+            "last": "Brenner",
+            "suffix": null
+          }
+        ],
+        "year": 1958,
+        "venue": "J. Electrochem. Soc.",
+        "volume": "105",
+        "issn": null,
+        "pages": "665-672",
+        "other_ids": {}
+      }
+    },
+    "ref_entries": {},
+    "back_matter": []
+  }
+}

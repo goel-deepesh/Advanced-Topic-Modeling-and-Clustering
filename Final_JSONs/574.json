@@ -1,0 +1,485 @@
+{
+    "metadata": {
+        "title": "PRACTICAL ASPECTS OF HEAT AND HELIUM MEASUREMENTS IN DEUTERATED PALLADIUM",
+        "authors": [
+            {
+                "first": "B.F.",
+                "middle": [],
+                "last": "Bush",
+                "suffix": "",
+                "affiliation": [
+                    "Chemistry Division, Research Department Naval Air Warfare Center, Weapons Division, China Lake, CA 93555-6001, USA"
+                ],
+                "email": ""
+            },
+            {
+                "first": "M.H.",
+                "middle": [],
+                "last": "Miles",
+                "suffix": "",
+                "affiliation": [
+                    "Chemistry Division, Research Department Naval Air Warfare Center, Weapons Division, China Lake, CA 93555-6001, USA"
+                ],
+                "email": ""
+            }
+        ],
+        "abstract": [
+            {
+                "text": "",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "ABSTRACT"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Metal flasks were used to collect clectrolysis gas samples in Pd/D2O + LiOD and Pd/H,O + LiOH experiments in order to minimize effects due to helium diffusion through glass. For five control experiments rdprepsrGSas a u rnesrnrcrecen o.\n $5. 1 \\\\\\pm0. 7 \\\times1 0^{1 3}$ 'He/500mL. For five experiments producing excess power, the measured helium concentration was higher than the background level in each case. Three different laboratories have been used for measurements of the helium concentrations in various electrolysis gas samples from our experiments during the past three years. The helium measurements from all three laboratories yield helium production rates of $1 0^{1 1}-1 0^{1 2} ~ \\\\\\mathrm{\\\\\\mathrm{~^4 H C / S}}} ~ \\\\\\mathrm{\\\\\\mathrm{~^8 W} ~}$ ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION"
+            },
+            {
+                "text": "Our previous results present a correlation between the measured excess power and helium production in D.O-LiOD electrolysis cells using palladium cathodes. [1] The measured rate of 4He production $( 1 0^{1 1} \\\\\\!-\\\\\\! 1 0^{1 2}$  ${}^{4} \\\\\\mathrm{H c} / s^{*} \\\\\\mathrm{W} )$ is the correct magnitude for typical deuteron fusion reactions that yield helium as a product. 2] Because helium is present in the atmosphere (5.22 ppm), it is essential that atmospherie contamination be prevented. lt is indeed a very challenging experimental problem to clearly establish the production of *He from Pd/D.O electrolysis cells. This situation is compounded by difficulties in obtaining large excess power effects in these experiments.",
+                "cite_spans": [
+                    {
+                        "text": "[1]",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "2]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION"
+            },
+            {
+                "text": "Table I presents the theoretical relationship between the excess power and helium production assuming *H $+^{2} \\\\\\mathrm{H}-\\\\\\mathrm{^4} \\\\\\mathrm{H} \\\\\\mathrm{c}+2 3. 8$ MeV as the major fusion reaction with the energy being deposited within the calorimeter. At low levels of excess power, the uncertainties in measurements of the helium and the excess power are rather large. When the excess power exceeds 0.2 W, however, it could be possible to correlate the rate of*He production with proposed fusion reaction pathways. It should be noted that for any given excess power, the helium concentration in the electrolysis gas stream will be inversely proportional to the current. For example, an experiment producing 0.500 W of excess power when $\\\\\\mathbf{I}=2 5 0$ mA would theoretically yield 112 ppb of \"He in the electrolysis gas stream.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Table I",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "INTRODUCTION"
+            },
+            {
+                "text": "The electrolysis cells initially contained 16 cm' of 0.1 M LiOD + D,0 (99.9% Cambridge Isotope Laboratories) or $0. 1 \\\\\\mathrm{\bf~ M L i O H}+\\\\\\mathrm{\bf~ H}_{2} \\\\\\mathrm{\bf~ O}$ . The design of the clectrolysis cells and calorimeters were similar to previous reports. [1-4] The major difference was that electrolysis gas samples were collected in stainless steel, all metal flasks rather than the 500 mL Pyrex glass flasks used in previous experi-ments [1-3]. Four identical metal flasks (numbered 1-4) and four similar calorimetric cells $( \\\\\\mathrm{A}, \\\\\\mathrm{B}, \\\\\\mathrm{C}, \\\\\\mathrm{D} )$ were used in this study. The helium concentrations in the mctal flasks were measured by a Department of the Interior (DO) laboratory (Helium Field Operations, Amarillo, Texas). The standard deviation (o) for the",
+                "cite_spans": [
+                    {
+                        "text": "[1-4]",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "[1-3]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION"
+            },
+            {
+                "text": "measurement of the helium concentration was generally about t1 ppb, meaning that there is a 67% confidence that the true concentration is within 1 ppb of the stated value and $9 5 \\\\%$ confidence at $2 0$ ie. $\\\\\\pm2$ ppb.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "EXPERIMENTAL"
+            },
+            {
+                "text": "Most of the palladium rod cathodes investigated in this study were obtained from Johnson Matthey. The Pd-Ag alloy cathode (4mm x 1.6 cm) was loaned to us by Dr. Shinji Nezu of IMR.A Japan. The palladium sheet cathode (1.0 mm x 3.2 mm x 1.6 cm) was cut from a sample loaned to us by Tanaka Metals (Japan). Two palladium rod cathodes (1mm x 1.5 em and $2 ~$ mm x 1.2 em) were produced by Johnson Matthey (UK) using the \"original recipe\" and were loaned to us by Dr. Haven E. Bergeson of the University of Utah.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "EXPERIMENTAL"
+            },
+            {
+                "text": "The flasks were made by welding dises onto the ends of sections of stainless steel pipe and high temperature silver soldering two 0.25 inch stainless steel tubes into the side of the pipe. Nupro brand model SS-4-BK-T W valves were soft soldered to the tubes using Sn-Ag 96%-4% solder and stainless steel soldering flux. The valves were moditied by replacing the standard bellows gasket with a copper gasket to effect a metal seal, while the normal Kel-F valve seat was retained in preference to a mctal scat, to preclude seat galling induced mass transport leaks. To effect an all metal envelope, the valves were fitted with Cajon VCR fittings soft soldered in place and sealed with a nickel gasket and cap fitting for storage and shipping; the volume between the valve scat and VCR cap seal was flushed out with boil-off nitrogen as it was sealed, to preclude helium diffusing through the Kel-F valve seat.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "EXPERIMENTAL"
+            },
+            {
+                "text": "Metal sample flasks are fragile and must be handled, packaged and shipped with care. The soft solder is easily broken using the leverage available from the valve knob and tubes. For best results, the flasks are routinely baked out at $\\\\\\approx1 0 0^{\\\\\\circ} C$ for four hours while dynamically evacuated to $s_{\\\\\\mu}$ vacuum, and stored filled with boil-off nitrogen to avoid contamination by residual helium that might oth ise be trapped in any pores present in the flask metal",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "EXPERIMENTAL"
+            },
+            {
+                "text": "Helium measurements in D.O and H,O control experiments are presented in Table II. Stainless steel metal flasks were used to collect the electrolysis gas samples in order to minimize atmospheric contamination due to helium diffusion.?l The helium concentrations in Table Il support a detection limit of approximately $1 0^{1 3}$ *He/500mL in these experiments as reported previously.l The measured helium concentrations in these control experiments yield a mean value of $4. 4 \\\\\\pm0$ .6 ppb or $5. 1 \\\\\\pm0. 7 \\\times1 0^{1 3} \\\\\\mathrm{\\\\\\mathrm{~^4 H e} / 5 0 0 ~ m L}.$ ",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Table II",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "Table Il",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS"
+            },
+            {
+                "text": "For experiments producing excess power, five helium measurements using these sa\ncompleted. These experiments are shown in Table Ill and yield a mean value of $1. 4 \\\\\\pm0. 7 \\\times1 0^{1 1} \\\\\\mathrm{\\\\\\mathrm{~^4 H c / s^{*} W}}$ after correcting for background levels of helium measured in control studies (Table ll), ic. 45 Mev per fHe atom. This value is the correct magnitude for typical deuteron fusion reactions that yield He as a productl-l. lt is interesting to note from Table lll that the two palladium rods produced by Johnson Matthey using the \"original recipe\" yielded excess power. The palladium sheet from Tanaka Metals also produced excess power. The exeess power density is greater than 1 W/cm* Pd for each of these three cathodes. However, the excess power levels measured duning the collection of the gas samples in these new experiments were only 0.1 $\\\\\\mathbf{w}$ or less, hence experimental errors are rather large (Table I). Further experiments using mctal flasks are needed that involve cqual numbers of control cells and cells producing large excess power effects. This should provide additional statistical evidence regarding helium production in Pd/D.O electrolys cells.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Table Ill",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "Table ll",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "Table lll",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "Table I",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS"
+            },
+            {
+                "text": "Table ll shows that no measurable differences occur in background levels of*He over a time period",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Table ll",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS"
+            },
+            {
+                "text": "exceeding four months. Nearly identical *He concentrations are obtained for the electrolysis cell $c$ gas sample collected on 24 February 1993 and then again in a different experiment on $7$ July 1993. Furthermore, Table ll illustrates that the particular metal flask used produces no significant differenee in the 'He result. The lowest 'He concentration $( 3. 4 \\\\\\pm1. 1$ ppb) was obtained using metal flask #4. However, the highest *He concentration $( 9. 7 \\\\\\pm1.$ l ppb) was obtained using this same metal flask in an experiment producing excess power (Table 1l).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Table ll",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "Table 1l",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS"
+            },
+            {
+                "text": "The strategy of the experimental work was to preclude atmospheric contamination by a system of overlapping and redundant precautionary measures. Cell, gas lines and D.O were flushed with nitrogen, and then the electrolysis off-gas itself was allowed to flush the entire system and the flask (usually over night). Because of the self flushing feature of open cell opcration, contamination by in-diffusion of helium reached a steady state value, allowing a reasonable background correction.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "By contrast, closed cell operation would have collected the sum of all contamination sources. Thus, a closed cell experiment requires the use of all-metal apparatus with all metal seals and high vacuum clectrical feedthroughs, lest the ingress of atmospheric helium cause the concentration to cquilibrate to that of air, followed then by the egress of any helium produced in the experiment to maintain the equilibrium helium concentration. Given impermeable sealing, quantitation of the closed cell build-up experiment for energy versus helium would require that the sum of all energy produced be measured.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "Thus, open cel operation provides a much more tractable and reliable experimental method than the closed eell build-up experiment, for the purpose of heat versus helium correlation. The open cell method when upgraded to an impermeably scaled apparatus provides for direct quantification, within instrumental resolution.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "The likely source of the measured helium concentration in the control experiments (rTable Il) is the diffusion of atmospheric helium through the glass in the system and through the thick-walled rubber tubing that connects the clectrochemical cell, collecting flask, and oil bubbler [3]. The contribution of atmospheric helium that diffuses through the glass in a system can be calculated by the equation",
+                "cite_spans": [
+                    {
+                        "text": "[3]",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "rTable Il",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "as discussed previously [1,2]. For Pyrex glass with surface area of 300 cmf and thickness (d) of 1.8 mm, Equation 1 yields 2 X 10* He'500mL when $\\\\\\mathbf{I}=5 0 0$ mA (500 mL of $\\\\\\mathbf{D}_{2}+\\\\\\mathbf{O}_{2}$ gas is generated in 4870 seconds at 23\"C and 700 torr). This amount of \"He is more than two orders of magnitude smaller than the measured helium levels in the control experiments (Table II). Thus diffusion of atmospheric helium through the thick-walled rubber tubing is the major source of helium in our control experiments. This conclusion is supported by measurd fiffusion rates of helium troghruber tubing [5l.",
+                "cite_spans": [
+                    {
+                        "text": "[1,2]",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "[5l",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Table II",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [
+                    {
+                        "text": "q=K P / d",
+                        "latex": "\\\\\\mathbf{q}=\\\\\\mathbf{K} \\\\\\mathbf{P} / \\\\\\mathbf{d}"
+                    }
+                ],
+                "section": "Discussion"
+            },
+            {
+                "text": "The background helium concentration of $4. 4 \\\\\\pm0. 6$ ppb or $5. 1 \\\\\\pm0. 7 \\\times1 0^{1 3}$ *He/500 mL places our helium production rate at $1 0^{1 1}-1 0^{1 2} \\\\\\mathrm{\\\\\\mathrm{~^4 H e / s^{*} ~ W}}$ as reported previously [2,6]. Furthermore, this background level of helium in our system explains why the effect of atmospheric helium diffusing into our glass flasks during storage and shipment was not observable in experiments involving the analysis of our clectrolysis gas samples at the University of Texas [1-3]. The experimental rate of atmospheric helium diffusion into our Pyrex glass flasks when filled with H, or $\\\\\\mathbf{D}_{2}+\\\\\\mathbf{O}_{2}$ is $1. 9 6 \\\\\\pm0. 3 4 \\\times1 0^{1 2}$ He atoms/day as measured by Rockwell International-. Based on this res uld require 26 days before the atmospheric diffusion of helium intour gas fakswoud equat th inim hlim etetion imit for tos studies'-l",
+                "cite_spans": [
+                    {
+                        "text": "[2,6]",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "[1-3]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "ln our initil study, whecin the glas lak smples were analyzed at the University of fexasl?\" e was found in $\\\\\\mathbf{s}$ out of 8 experiments generating significant excess power, while no He was found in 6 out of 6 control experiments not generating excess power; no He was detected. In a later study the helium diffusion rate for typical glass sample flasks was determined, and showed that our earlier findings were in fact quite reasonable; and further, that the quantity of helium produced was of the right order of magnitude to indicate a nuclear fusion reaction [6]. In the study described here, we approach direct identification of nuclear fusion as the heat producing process, by quantitative helium analysis\n(see Table lIl).",
+                "cite_spans": [
+                    {
+                        "text": "[6]",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Table lIl",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": ""
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "Correlation of Excess Power and Helium Production During D,O and H,O Electrolysis Using Palladium Cathodes",
+                "authors": [
+                    {
+                        "first": "M.H.",
+                        "middle": [],
+                        "last": "Miles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R..A.",
+                        "middle": [],
+                        "last": "Hollins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B.F.",
+                        "middle": [],
+                        "last": "Bush",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.J.",
+                        "middle": [],
+                        "last": "Lagowski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.E.",
+                        "middle": [],
+                        "last": "Miles",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": ".J. Electroanal. Chem.",
+                "volume": "346",
+                "issn": "",
+                "pages": "99-117",
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "Frontiers of Cold Fusion",
+                "authors": [
+                    {
+                        "first": "M.H.",
+                        "middle": [],
+                        "last": "Miles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B.F.",
+                        "middle": [],
+                        "last": "Bush",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Universal Academy Press,",
+                "volume": "",
+                "issn": "",
+                "pages": "271-278",
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": "Helium Production Durng the Electrolysis of D,O in Cold Fusion Experiments",
+                "authors": [
+                    {
+                        "first": "B.F.",
+                        "middle": [],
+                        "last": "Bush",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.J.",
+                        "middle": [],
+                        "last": "Lagowski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.H.",
+                        "middle": [],
+                        "last": "Miles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.S.",
+                        "middle": [],
+                        "last": "Ostrom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "J. Electroanal. Chem.",
+                "volume": "304",
+                "issn": "",
+                "pages": "271-278",
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": "Electrochemical Calorimetric Evidence for Cold Fusion n the Palladium-Deuterium System.",
+                "authors": [
+                    {
+                        "first": "M.H.",
+                        "middle": [],
+                        "last": "Miles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K.H.",
+                        "middle": [],
+                        "last": "Park",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.E.",
+                        "middle": [],
+                        "last": "Stilwell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "J. Electroanal. Chem.",
+                "volume": "296",
+                "issn": "",
+                "pages": "241-254",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Davidson",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "personal communication",
+                "volume": "",
+                "issn": "",
+                "pages": "",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": "Anomalous Effects Involving Excess Power, Radiation, and Helium Production During D.O Electrolysis Using Palladium Cathodes",
+                "authors": [
+                    {
+                        "first": "M.H.",
+                        "middle": [],
+                        "last": "Miles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B.F.",
+                        "middle": [],
+                        "last": "Bush",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.J.",
+                        "middle": [],
+                        "last": "Lagowski",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Fusion Technology",
+                "volume": "",
+                "issn": "",
+                "pages": "",
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "TABREF0": {
+                "text": "Helium Measurements in Control Experiments Using Metal Flasks. No excess power was measured.",
+                "type": "table"
+            },
+            "TABREF1": {
+                "text": "Helium Measurements Using Metal Flasks. Experiments Producing Excess Powe",
+                "type": "table"
+            },
+            "TABREF2": {
+                "text": "Theoretical Relationship Between Excess Power and Helium Production. Magnitude of Expected Experimental Eirors.",
+                "type": "table"
+            }
+        },
+        "back_matter": [
+            {
+                "text": "we tank anak Meils f the lon f t psllaium shet amles D. Shiai Nez for te loan of Pd-Ag rod, and Dr. Haven E. Bergeson for the loan of two palladium rods. We thank David $\\\\\\mathsf{L}$ Miles for the computer analysis and display of the experimental data. We thank Mary Garasu and the Joint Training Partnership Act Summer Youth Training Program for her expenimental and computer assistance. We also thank John Fontenot for material essential to the completion of this work.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "ACKNOWLEDGMENTS"
+            }
+        ]
+    }
+}

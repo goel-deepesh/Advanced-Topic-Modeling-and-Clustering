@@ -1,0 +1,372 @@
+{
+    "metadata": {
+        "title": "Condensed Matter Effects for Cold and Hot Fusion",
+        "authors": [
+            {
+                "first": "Y.",
+                "middle": [
+                    "E."
+                ],
+                "last": "Kim",
+                "suffix": "",
+                "affiliation": [
+                    "Department of Physics, Purd Jniversity\nWest Lafayette, IN 47907\nUSA"
+                ],
+                "email": ""
+            },
+            {
+                "first": "M.",
+                "middle": [],
+                "last": "Rabinowit",
+                "suffix": "Z",
+                "affiliation": [
+                    "Department of Physics, Purd Jniversity\nWest Lafayette, IN 47907\nUSA",
+                    "Electric Power Research Institute\nPalo Alto, CA 94303\nUSA"
+                ],
+                "email": ""
+            },
+            {
+                "first": "R.",
+                "middle": [
+                    "A."
+                ],
+                "last": "Rice",
+                "suffix": "",
+                "affiliation": [
+                    "Department of Physics, Purd Jniversity\nWest Lafayette, IN 47907\nUSA"
+                ],
+                "email": ""
+            },
+            {
+                "first": "J-H.",
+                "middle": [],
+                "last": "Yoon",
+                "suffix": "",
+                "affiliation": [
+                    "Department of Physics, Purd Jniversity\nWest Lafayette, IN 47907\nUSA"
+                ],
+                "email": ""
+            }
+        ],
+        "abstract": [
+            {
+                "text": "In dense plasmas, the ensemble of fusing particles has a significant exchange of kinetic and potential energies. Because of this condensed matter effect (CME), the higher $z$ nuclei thus have a larger reduction in fusion rates. Our proposed solution of the solar neutrino problem finds a larger reduction for $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma B e ( p, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma)^{8} B$ than for $p ( p, e^{+} \\\\\\\\\\\\\\\\\nu_{e} ) D$ . Our CME predictions are consistent with neutrino detection e CME have broad ranging astrophysical implications; may account for the anomalous branching ratio in cold fusion; and may be testable in laboratory beam fusion experiments with solid targets.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            },
+            {
+                "text": "lt has recently been shown [l,2] that the conventional nuclear physics description of fusion reaction rates needs to be modified in laboratory and astrophysical environments due to CME. The conventional fusion rate $R_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathsf{c o t t}}$ for nuclear fusion reactions between two nuclei is written as $R_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{c o n s}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\propto\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\langle\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma v \\\\\\\\\\\\\\\\\rangle$ where $. \\\\\\\\\\\\\\\\\bigskip$ is the relative velocity representing the incident flux and $.$ is the fusion cross-section. However, in condensed matter environments, $R_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{c o n s}}$ needs to be modified to a new expression $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\overline{{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\upsilon}}$ Negegerct unc nhan cndodno cross-section and $R_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{n e w}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\propto\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\langle\\\\\\\\\\\\\\\\\tilde{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\overline{{v}} \\\\\\\\\\\\\\\\\rangle$ , where $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\dot{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma}$\nmatter which can differ significantly from the incident velocity. As a specific application of our new formulation of $R_{n e \\\\\\\\\\\\\\\\\nu}$ to hot fusion, condensed matter effects for the solar neutrino problem will be presented. Application of our new formulation to cold fusion rates explaining the anomalous branching ratio for deuterium-deuterium fusion is in progress.",
+                "cite_spans": [
+                    {
+                        "text": "[l,2]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "exp[-{(uu*/2 + W/kT]. Since $f ( u )$ Srmnputhndn o J f(uld'u 1. fut is eplaced by fiu), $\\\\\\\\\\\\\\\\\tilde{f} ( u )=f ( u ) \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ d^{3} v / d^{3} u=( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu/ 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\pi k T )^{3 / 2}.$ exp (-pv /2kT) d*v/da which gives particle number conservation J f(u)d'u = l.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "l. Introduction"
+            },
+            {
+                "text": "The velocity U is the appropriate value to be used for the fusion rate rather than $v (=v_{i} )$ which has been used in the conventional eg. (2). For dense astro or laboratory plasmas, when a projectileparticle i moves through the plasma with welocity $u=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\overline{{v}}.$ treasoabir nrnon ecienmteror path length of the projectile is given by $P_{x}=n_{j} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma$ where $n_{1}$ elastic scattering target nuclei per unit volume of the plasma. HBecause of t\nprocesses described previously, the projectile traversal dist ance per unit time is u, and not v. Then the fusion reaction probability for the projectile path length 8 $P=u P_{s}=u n_{j} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma.$ The rate at which t; projectiles per unit $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hat{f} ( u )$ volume, each moving with a speed $u ( v )$ but in random directions, will react is then $R ( u )=n_{i} u P_{x}=( n_{i} u ) ( n_{j} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma).$ If a projectile velocity distribution\nis given, then the new fusion rate is given by $R_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{n e v}}=[ n_{i} n_{j} / ( 1+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\delta_{i j} ) ] \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\langle\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma v \\\\\\\\\\\\\\\\\rangle_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{n e v}}$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "l. Introduction"
+            },
+            {
+                "text": "The new fusion rate formula, eq. $( 3 ),$ \u6d77\u9970\u5546\u54c1 rln al t onan ndtg. $p ( p, e^{+} \\\\\\\\\\\\\\\\\nu_{e} ) D$ and $^7 B e ( p, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma)^{8} B,$ and\nplying CME reduction factors of\n $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\langle\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma v \\\\\\\\\\\\\\\\\rangle_{n e w} / \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\langle\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma v \\\\\\\\\\\\\\\\\rangle_{c o n s} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\;=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\; 0. 7 9$  $[ 3 ], [ 4 ],$ Refs. tiwely, to the standard solar model (SSM) calculations of Refs.\nData collection periods (month.year - month.year) are indicat\nand $[ 7 ]$ .",
+                "cite_spans": [
+                    {
+                        "text": "$[ 3 ], [ 4 ]$",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "$[ 7 ]$",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "l. Introduction"
+            },
+            {
+                "text": "Tihe observed neutrino flux due $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{to} ~^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma} B e ( p, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma)^{8} B ( e^{+} \\\\\\\\\\\\\\\\\nu_{e} )^{8} B e^{*} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha)^{4} H e^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ast}$ by the Kamiokande-  detector $[ 1 0, 1 1 ] \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{~ i s ~ 2.7 ~ \\\\\\\\\\\\\\\\\times~ 1 0^6 ( 1 ~ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\pm~ 0. 1 ) ~}$ . sta.,)10.13 (syst.)} m\"2g-t compared with the SSM result |3| of $5. 7 \\\\\\\\\\\\\\\\\times1 0^{6} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{~ c m}^{-2} s^{-1}$ . Our result of applying\n $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\langle\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma v \\\\\\\\\\\\\\\\\rangle_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{o t a v}} / \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\langle\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma v \\\\\\\\\\\\\\\\\rangle_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{c o n v}}=0. 4$ \nwhich agrees with the experimental data l10,11].",
+                "cite_spans": [
+                    {
+                        "text": "$[ 1 0, 1 1 ]$",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "l. Introduction"
+            },
+            {
+                "text": "We conclude that anomalies in both hot and cold fusion have a common origin in CME. lt is noteworthy that overlooked CME may supply both the solution to the long standing solar neutrino problem, as well as an explanation for the anomalous branching ratio for $D-D$ fusion.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "5. Conclusions"
+            },
+            {
+                "text": "tential $V_{s} ( r )$ For the purpose of obtaiming quantitative estimates of CME, we use a unetcnunanan lnudare",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Efective Flux Velocity"
+            },
+            {
+                "text": "For a number density of condensed (target) matter, n, and elastic cross-section $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma_{c},$ the mean free path is $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda_{e} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, ( n \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma_{e} )^{-1} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, r_{e} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, r_{2}.$ and for the fusion eross-section $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma_{f}, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda_{f}=( 1 / n \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma_{f} )+r_{2}=( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda_{e} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma_{e} / \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma_{f} ) \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,.$ +r2, where $r_{2}$ is chosen as the elassical dista pint) for a given barrier. The average interatomic distance is $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sim2 r_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{c}}$ in condensed matter. Then the average erivtetetie a an orien ae $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\langle v \\\\\\\\\\\\\\\\\rangle=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda_{f} / [ ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathfrak{e}} / \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma_{f} ) ( t_{i}+t_{0} )+t_{B}+t_{N} ]$  $= [ ( r_{e}-r_{2} ) ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma_{e} / \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma_{f} )+r_{2} ] / [ ( t_{i}+t_{0} ) ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma_{e} / \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma_{f} )+t_{B}+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\dot{t_{N}} ]$ wnere Ii, to, Ig ana $t_{N}$ are tne tumes tor tne inciaent partucles to traverse dustances $( r_{a} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\!-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\! r_{a} ), \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, ( r_{a} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\!-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\! r_{2} ), \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, ( r_{2} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\!-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\! r_{N} ),$  $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\langle v \\\\\\\\\\\\\\\\\rangle\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\approx\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\overline{{v}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,=$ an r. reaetie. or the ae at a. n on\n $( r_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sf e}-r_{2} ) ( t_{i}+t_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sf0} )=[ ( r_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sf e}-r_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sf s} )+( r_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sf s}-r_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sf2} ) ] / ( t_{i}+t_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sf0} ).$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Efective Flux Velocity"
+            },
+            {
+                "text": "The traversal time $t ( j )=t_{0}$ \u6d77\u7cd5\u54c1\u51fa\u884c $t ( j )=$ the barrier due to the target species $,$ can be estimated in the WKB ap- $t ( j ),$ proximation for the case of $V_{s} ( r ),$ eq. $( 1 ),$ with $E \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, < \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, B \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, V_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathfrak{s}} ( r_{N} )$ \n $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\int_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathfrak{r}_{2} ( j )}^{r_{s} ( j )} {[ ( 2 / \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu_{i j} ) | E-V_{s} ( r ) | ]^{-1 / 2} d r}$  $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu_{i j}=m_{i} m_{j} / ( m_{i}+m_{j} )$ \ncalculate $\\\\\\\\\\\\\\\\\bar{v} ( v )$ and $F ( E )=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\overline{{v}} / v$ as a function oft or $E=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu v^{\\\\\\\\\\\\\\\\\natural} / 2$ . Our caleula-tions show that $\\\\\\\\\\\\\\\\\tau<$ v where v is given by $v=v_{i}=( r_{e}-r_{s} ) / t_{i}.$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Efective Flux Velocity"
+            },
+            {
+                "text": "number densities $n$ mnrcsrnr n ndi iad $j$ with $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\delta_{i j} \\\\\\\\\\\\\\\\\rangle] \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\langle\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma v \\\\\\\\\\\\\\\\\rangle_{c o n v}$ where $n,$ is conventionally written as $R_{c o n v} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, [ n_{i} n_{j} / ( 1+1 ) ]$ \nwith kinetic energy $E \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu v^{2} / 2,$ intemrn ma C gnaentg Maxwell-Boltamann velocity distribution, $f ( v )=( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu/ 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\pi k T )^{3 / 2}$ \nwhere x is the reduced mass.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Eusion Rates"
+            },
+            {
+                "text": "Because of the continuous exchange of kinetic and potential energies in $= ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu/ 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\pi k T )^{3 / 2}$ dense plasmas, the original velocity $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\upsilon}$ whose distribution is described by $f ( {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{v}} )$ \nexp(-pu'/2kT) is reduced to $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\overline{{v}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ =\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ u ( v ) \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ < \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ v.$ The origi- $( m_{i}+m_{j} ) V^{2} / 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu u^{2} / 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,+W ( u )$ where $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\widehat{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega}, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ m_{i} v_{i}^{2} / 2+m_{j} v_{j}^{2} / 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, ( m_{i}+m_{j} ) V^{2} / 2+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu v^{2} / 2,$ Bpcome nal par total energ\n $W ( u )$ is the potential energy, $W ( u )$  $f ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{V} ) f ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{v} )$ Mepecdo e ne $f ( u )$ igvenby $f ( u )=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu/ 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\pi k T \\\\\\\\\\\\\\\\\right)^{3 / 2}$ \n $f ( {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{v}}_{i} ) f ( {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{v}}_{j} )=0$ \n $f ( {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{V}} ) f ( u )$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Eusion Rates"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "Condensed Matter Effects on Nuclear Fusion Rates in Laboratory and Astrophysical Environments",
+                "authors": [
+                    {
+                        "first": "Y.",
+                        "middle": [
+                            "E."
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issn": "",
+                "pages": "",
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "High Density Fusion and the Solar Neutrino Problem",
+                "authors": [
+                    {
+                        "first": "Y.",
+                        "middle": [
+                            "E."
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issn": "",
+                "pages": "",
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": null,
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Turck-Chieze",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Astrophys. J.",
+                "volume": "335",
+                "issn": "",
+                "pages": "415",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Berthomieu",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Astronomy and Astrophysics",
+                "volume": "",
+                "issn": "",
+                "pages": "",
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "BIBREF6",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "J.",
+                        "middle": [
+                            "K."
+                        ],
+                        "last": "Rowley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "AIP Conf. Proc.",
+                "volume": "126",
+                "issn": "",
+                "pages": "l",
+                "other_ids": {}
+            },
+            "BIBREF7": {
+                "ref_id": "BIBREF7",
+                "title": "Proceedings of the 13th International Conference on\nNeutrino Physics and Astrophysics, Neutrino '88",
+                "authors": [
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Davis",
+                        "suffix": "Jr."
+                    }
+                ],
+                "year": 1988,
+                "venue": "",
+                "volume": "",
+                "issn": "",
+                "pages": "518",
+                "other_ids": {}
+            },
+            "BIBREF8": {
+                "ref_id": "BIBREF8",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "P.",
+                        "middle": [],
+                        "last": "Anselmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Phys. Lett.",
+                "volume": "B285",
+                "issn": null,
+                "pages": "376",
+                "other_ids": {}
+            },
+            "BIBREF9": {
+                "ref_id": "BIBREF9",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "A.",
+                        "middle": [
+                            "I."
+                        ],
+                        "last": "Abazov",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Phys. Rev. Lett.",
+                "volume": "67",
+                "issn": "",
+                "pages": "3332",
+                "other_ids": {}
+            },
+            "BIBREF10": {
+                "ref_id": "BIBREF10",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S."
+                        ],
+                        "last": "Hirata",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Phys. Rev. Lett.",
+                "volume": "63",
+                "issn": null,
+                "pages": "16",
+                "other_ids": {}
+            },
+            "BIBREF11": {
+                "ref_id": "BIBREF11",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S."
+                        ],
+                        "last": "Hirata",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Phys. Rev. Lett.",
+                "volume": "65",
+                "pages": "1297",
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "",
+                "type": "figure"
+            },
+            "TABREF0": {
+                "text": "Comparison of CME results with the experimental data 6-9]",
+                "type": "table"
+            }
+        },
+        "back_matter": []
+    }
+}

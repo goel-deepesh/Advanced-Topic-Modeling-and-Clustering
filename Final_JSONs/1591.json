@@ -1,0 +1,732 @@
+{
+    "metadata": {
+        "title": "Neutron Yield for Energetic Deuterons in PdD and in D0O",
+        "authors": [
+            {
+                "first": "Peter",
+                "middle": [
+                    "L."
+                ],
+                "last": "Hagelstein",
+                "suffix": "",
+                "affiliation": [
+                    "Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, MA 02139, USA"
+                ],
+                "email": "Peter L. Hagelstein"
+            }
+        ],
+        "abstract": [
+            {
+                "text": "To account for the exess heat in the Fleischmann- Pons experiment, it has been proposed that the reaction energy can be shared aunong a large number of deuterons. In order to help quantify how many deuterans ane required to be consistent with experiment, we have computed the neutron yield fo deuteron-deuteron fusion reactions in both PdD and in D2O.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Some notable physicists were present, and after being exposed to some of the experimental results, their response was to put forth a number of proposals centered squarely within what Takahashi et al. described within their first scenario.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "In these proposals deuterons would in one fashion or another come together to produce -He, which would then carry away part of the reaction energy. The idea in these proposals was to try to have the overall mechanism remain consistent with one of the foundations of nuclear physics; that the reaction energy must be expressed as kinetic energy of the products as a consequence of energy and momentum conservation. At issue was the question of whether the reaction proceeds in a way consistent with the first scenario, or instead whether the reaction energy is communicated directly to low energy condensed matter degrees of freedom.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "In the end, we were not able to come to an agreement. On the one hand, a spirited defense of the fist scnario, energetic particles, and the established aforementioned foundation, was put forth; any raxdically new approach that would involve the direct communication of reaction energy to condensed matter modes was judged to be too farfetched to be worthy of serious consideration. On the other hand, an equally spirited argument was put forth that the proposals involving \"hidden'\" energetic products was simply inconsistent with experiment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "So, in the months following these meetings, some effort on our part has gone into an attempt to quantify the situation with respect to the hidden particles. In the workshop discussions, the focus was on an energetic alpha as the hidden particle. However, in order to understand quantitatively the yield of observable products due to energetic alpha particles, one first has to understand the yield of energetic deuterons. The reason for this is that one important way that energetic alphas give rise to neutron emission is through energetic deuterons produced from head on collisions with the alpha particles. So, to begin the analysis, we first need to determine the yield of an energetic deuteron.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "At ICCF15S, Storms put forth ideas about an energy release mechanism in which MeV reaction energy would be shared among a large number of deuterons in a cluster [2]. In some ways these ideas are like proposals due to Kim [3], in which the reaction energy would be shared with a large number of deuterons which he has proposed to condense in a Bose-Einstein condensate. Our focus here is not on the issues, merits, or challenges asscciated with these proposals. Instead, the results that we have obtained are useful in helping to quantify how many deuterons the reaction energy",
+                "cite_spans": [
+                    {
+                        "text": "[2]",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "[3]",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "We have used the SRIM-2008 code of J. F. Ziegler, J. P. Biersack and U. Littmark to compute the stopping power of energetic deuterons in PdD and in DyO. The stopping power for energetic deuterons in PdD is shown in Fig. 1, and the stopping power in D.O is shown in Fig. 2. To construct these plots, we used a density of 10.921 g/em' for PdD, and a density of 1.10 g/en $=$ for D2O.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "text": "Fig. 2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "2. Stopping power of deuterons in PdD and in D2O"
+            },
+            {
+                "text": "From a knowledge of the stopping power, one can comput th associatedrange using",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "R(E) = integral_0^E (dE/dx)^-1 dE",
+                        "latex": "R ( E ) \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ =\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\int_{0}^{E} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left( {\\\\\\\\\\\\\\\\\frac{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d} E} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d} x}} \\\\\\\\\\\\\\\\\right)^{-1} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d} E."
+                    }
+                ],
+                "section": "2. Stopping power of deuterons in PdD and in D2O"
+            },
+            {
+                "text": "Results for the range in the two cases are shown in Fig. 3.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "2. Stopping power of deuterons in PdD and in D2O"
+            },
+            {
+                "text": "To compute the neutron yield from deuteron-deuteron fusion reactions, we need to integrate the product of the cross section and deuteron density over the deuteron trajectory as it slows down",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Yield of neutrons from *H(-H,ny'He reactions"
+            },
+            {
+                "text": "Results of computations of the yicld are shown in Fig. 4. For these calculations, we took the sereening energy $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{U}_{c}$ to be 800 eV for PdD, and 25 eV for D20.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [
+                    {
+                        "text": "Y(E) = integral_0^{R(E)} N_d sigma[E(x)] dx",
+                        "latex": "Y ( E ) \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\;=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\; \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\int_{0}^{R ( E )} N_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma[ E ( x ) ] \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d} x."
+                    }
+                ],
+                "section": "3. Yield of neutrons from *H(-H,ny'He reactions"
+            },
+            {
+                "text": "would have to be shared with in order to be consistent with experiment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Yield of neutrons from *H(-H,ny'He reactions"
+            },
+            {
+                "text": "The experimental data set associated with the Fleischmann-Pons experiment is often perplexing and not always consistent. With respect to the presence of low-level neutron emissions correlated with excess heat, one find mostly the absence of a correlation. In our view, there are different regimes where different effects are observed. For example in the case of a Fleischmann-Pons type rod cathode, excess heat is observed at higher current densities (several hundred $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{m A / c m^{2}}$ l, while neutron emission is associated with lower current densities (tens of mA/cm-).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Upper limits from experiment"
+            },
+            {
+                "text": "lf so, then of interest in the present discussion is the question of how many neutrons are seen when a system is running well, producing excess heat, and very little in the way of energetic emissions. This case presents the strictest constraints in regard to theoretical models.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Upper limits from experiment"
+            },
+            {
+                "text": "Takahashi and coworkers reported on measurements of excess heat and neutron emission using Takahashi's high-low current protacol [4). From our perspective, we would associate neutron emission with the low current part of the protocol, and excess heat with the high current part of the protocol. The data presented in this paper probably can be considered to support this notion weakly. In any event, there are numbers given both for excess power and for neutron emission above background from which we can extract a ratio. The source neutron emission rate is on the order of l n's, largely uncorrelated with the presence of excess heat. The excess power is seen to reach about 100 W. Using these numbers leads to an estimate of O.01 nJ.",
+                "cite_spans": [
+                    {
+                        "text": "[4)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Upper limits from experiment"
+            },
+            {
+                "text": "Gozzi et al. reported positive measurements of excess heat run with neutron detection at ICCF4 [5]. In this case, excess power at levels on the order of 15 W, with no neutron emission above background. In the conference proceedings paper, the detector efficiency is not given. However, the detector was discussed in an earlier paper [6], and also in $1 >$ , and an efficiency of $2 2 0$ is given. Using this efficiency, the background is about 35 neutrons counted in 10 min per segment, which coresponds to $1 2 ( 0. 2 6 5 ) \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, 3. 2$ source neutrons/s equiwa-lent. We will assume that signals on the order of 10% of this numher are detectable. The peak excess power in some of the bursts are in the range of 10-15 W. This leads to a limit on neutron production as low as 0.021 nJ.",
+                "cite_spans": [
+                    {
+                        "text": "[5]",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "text": "[6]",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Upper limits from experiment"
+            },
+            {
+                "text": "Scott et al. reported observations of excess heat at the same time that neutrons were detected [8]. In this case,\nexcess heat was observed at the level of 4 W. Neutrons were monitored with an NE-213 detector with an efficiency of 0.00146, with a background of about 40 counts per day (about 0.32 n/s). If we assume that signals could be detected at the level of 10e of background, the associated upper limit is 0.008 nJ.",
+                "cite_spans": [
+                    {
+                        "text": "[8]",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "To compare with the calculations above, we have plotted the neutron yield divided by energy in comparable units (see Fig. 5). We see that in order to be consistent with the 0.008 n/J, that the upper limit on the deuteron energy is about 890 eV in the case of PdD. For low-energy deuterons in DyO, the yield is less due to the weaker screening in this model.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 5",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "lt has been suggested that the energy produced in the Flcischmann-Pons experiment is released as kinetic energy in a large number of low energy nuclei. Since most of the light nuclei in a Fleischmann-Pons experiment are deuterons, then one possibility is that the reaction energy is somehow distributed over a large number of deuterons, as has been discussed by Kim, and also by Storms. If so, then in order to be consistent with the experimental results discussed above, the average deuteron energy would have to be less than 900 eV if the deuterons remain in PdD. If the reaction energy is assumed to be 24 MeV, then this energy would need to be shared with at least 26,000 deuterons if all deuterons had the same energy. If the sharing process resulted in a thermal distribution, then probably more deuterons would be needed in onder to reduce the contribution from the high energv tail of the thermal distribution. In Kim's paper (3), it is assumed that the energy is shared by on the order of $1 0^{1 0}$ deuterons.",
+                "cite_spans": [
+                    {
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "Takahashi and coworkers presented a useful assessment of the theoretical situation at ICCFS [1], which remains relevant at the present time. Four scenarios were described, which we will outline here. In the first scenario, an aneutronic conventional fusion reaction is responsible for the excess heat, with the energetic fusion prducts hidden. In the second scenario, the reaction energy is communicated directly to the lattice, with no production of energetic particles. The third scenario is an exotic chemical or mechanical source for the energy, with weak associated nuclear emission. Finally, the fourth scenario is one in which the excess heat can be attributed to error.",
+                "cite_spans": [
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Time and many experiments have provided ample evidence against the last of these scenarios, as there have been a great many replications of the excess heat effect. There have not appeared to the author's knowledge any credible proposal for exotic chemical or mechanical sources for the energy. To the contrary, the amount of energy produced in some experiments has been sufficiently large that there simply cannot be exotic chemical or mechanical sources. We have been interested in the second scenario since March, 1989; subsequently we repoted on our progress at the ICCF conferenee series over the years.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "However, in ecent months we have developed an interest in the first scenario. Our interest has come about from a series of workshops that were held at the Naval Postgraduate School that were in part focused on the issue of mechanism.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "Proe. ICCFS",
+                "authors": [
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Takahashi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Inckuchi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y.",
+                        "middle": [],
+                        "last": "Chimi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Ikegawa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N.",
+                        "middle": [],
+                        "last": "KajL",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Nitta",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K.",
+                        "middle": [],
+                        "last": "Kobayashi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Taniguchi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "",
+                "volume": null,
+                "issn": null,
+                "pages": "69",
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "Laser and Purticle Beam",
+                "authors": [
+                    {
+                        "first": "X.",
+                        "middle": [
+                            "Z."
+                        ],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B.",
+                        "middle": [],
+                        "last": "Lia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q.",
+                        "middle": [
+                            "M."
+                        ],
+                        "last": "Wei",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H.",
+                        "middle": [],
+                        "last": "Hora",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "22",
+                "issn": null,
+                "pages": "469",
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": "Naturwissewxchaften",
+                "authors": [
+                    {
+                        "first": "Y.",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "",
+                "volume": "96",
+                "issn": null,
+                "pages": "803",
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": "Poe. ICCF3",
+                "authors": [
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Takahashi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Mega",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Takeuchi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": null,
+                "issn": null,
+                "pages": "79",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": "Pnw. IcCr4, VoL. l",
+                "authors": [
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "Gawzi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Caputo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P.",
+                        "middle": [
+                            "L."
+                        ],
+                        "last": "Cignini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Tomellini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Gigli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Balducci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Cisbani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Frullani.",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "Garibaldi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Joxdice",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [
+                            "M."
+                        ],
+                        "last": "Urciuoli",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "",
+                "volume": "l",
+                "issn": null,
+                "pages": "2-1",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": "Pnx. ICCF3",
+                "authors": [
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "Czzi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P.",
+                        "middle": [
+                            "L."
+                        ],
+                        "last": "Cignini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Caputo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Tomelim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Baldtwci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Gigli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Cisbani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Frullani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "Ganbaldi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Jodice",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [
+                            "M."
+                        ],
+                        "last": "Urciuwdi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": null,
+                "issn": null,
+                "pages": "155",
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "BIBREF6",
+                "title": "Aaucl. Iastc deta A",
+                "authors": [
+                    {
+                        "first": "E.",
+                        "middle": [],
+                        "last": "Cisbani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [
+                            "M."
+                        ],
+                        "last": "Urciuoli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Frullani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "Garibaldi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "Giuliani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "Gozzi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Gricia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "lodice",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Lacentini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "Santavenere",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "459",
+                "issn": null,
+                "pages": "247",
+                "other_ids": {}
+            },
+            "BIBREF7": {
+                "ref_id": "BIBREF7",
+                "title": "Furiow Techwol.",
+                "authors": [
+                    {
+                        "first": "C.",
+                        "middle": [
+                            "D."
+                        ],
+                        "last": "Sest",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.",
+                        "middle": [
+                            "E."
+                        ],
+                        "last": "Mrochek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [
+                            "C."
+                        ],
+                        "last": "Seot",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [
+                            "E."
+                        ],
+                        "last": "Michaels",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E.",
+                        "middle": [],
+                        "last": "Newman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Petck M",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "",
+                "volume": "18",
+                "issn": null,
+                "pages": "103",
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "Stoping power fur deuteoes in Pi fron SM",
+                "type": "figure"
+            },
+            "FIGREF1": {
+                "text": null,
+                "type": "figure"
+            },
+            "FIGREF2": {
+                "text": "Stopping power for enerpetic deulerons in D2O from SRIM2008",
+                "type": "figure"
+            },
+            "FIGREF3": {
+                "text": "Rnape of enereti durne in RHD omer eure and in D0 upper cure).",
+                "type": "figure"
+            },
+            "FIGREF4": {
+                "text": "lel of neuwnon due t desern-deten fusin eactis in Hi omer eune and in D-0 upper cure).",
+                "type": "figure"
+            },
+            "FIGREF5": {
+                "text": "Yield of neutrons per unit energy due to deuteron-deuteron fusica reactions in PiD (black) ad in  $\\\\\\\\\\\\\\\\\frac{} {}$ O (blue'; alo shown are resals for P-dD using 40 and d eV fr te sreeaing energy (grayh.",
+                "type": "figure"
+            }
+        },
+        "back_matter": [
+            {
+                "text": "Keywonds: Fleischmann-Pons effect, Correlation of neutrons with heat, Neutron yield for deuterons in PdD, Energy exchange with deuterons",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": null
+            }
+        ]
+    }
+}

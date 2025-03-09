@@ -1,0 +1,300 @@
+{
+    "metadata": {
+        "title": "The Preparation of Palladium for Cold Fusion Experiments",
+        "authors": [
+            {
+                "first": "I.",
+                "middle": [
+                    "S."
+                ],
+                "last": "Bullock",
+                "suffix": "N",
+                "affiliation": [
+                    "1"
+                ],
+                "email": null
+            },
+            {
+                "first": "R.",
+                "middle": [
+                    "L."
+                ],
+                "last": "Hallman",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "P.",
+                "middle": [
+                    "J."
+                ],
+                "last": "Horton",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "D.",
+                "middle": [
+                    "P."
+                ],
+                "last": "Hutchinson",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "C.",
+                "middle": [
+                    "L."
+                ],
+                "last": "Powll",
+                "suffix": null,
+                "affiliation": [
+                    "1"
+                ],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": "Techniques have been csablished to prepare palladium specimens for cold fusion experiments using am ultra-high-vacum, all-metal, high-temperature femace to melt palladium metal in high purity ahumina molds having a test tube shape. To date 6-mm and 15-mm cylinders have been fabricated, the latter being used to fabricate a sphere 12.5-mm in diameter. Technnques and faclities used for palladium-bydrogen isotope pressure-volume-temperature measuremenisl- have been wsed to anneal these palladium specimens afier machining and, in some cases, to charge these specimens with deunerium to PdD $m$ stoichiometry prior to their use in electrochemical cells. The modeling of palladium-hydrogen isonope pesure-compesition-iempernture curves is descnbed wherein existing data'.* is used to derive models that accurately describe the existing data and that extrapolate to high composlions. Experiments for reacting \"LiD wih Pd rods a 7OO*C to SOOrC, in an atiempt to precharge \"Li into he Pd rods, are bcing prepured.",
+                "cite_spans": [
+                    {
+                        "text": "[7]",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "With the rush of interest in cold fusion phenomena, facilities at the Oak Ridge Y-12 Plant for palladium-hydrogen isotope effect studies and Li/LiD research were directed toward the preparation of materials to support the cold fusion research projects in the Oak Ridge area. Initial effort was directed toward supplying Pd rods of good elermental purnty and sound metallurgcal properties to be installed in various electrochemical cells. Facilities for metal-hydrogen isotope effects were then modified to pre-charge these rods with deuterium to determine if that reduced the electrochemical charging time of thesc cells. Finally, available pressure-composition-tempera-ture (PCT) data for the Pd-D system werc cvalunted to make such information available to other experimenters.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION"
+            },
+            {
+                "text": "Metals, inclading Pd, can be prepared in a variety of conditioms. The first distinction to make is betwecn material that contains crystal-structure damage resulting from mechanical work, and that which does not. Such damage, or \"*work,*\" can be put into the bulk of a specimen by processes including forging, extrusion, swaging, and rolling. For a specimen without bulk work, the suface region can still be put into a worked state by processes including tuming, drilling, and tapping.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Options for Preparation of Pd Cathodes"
+            },
+            {
+                "text": "Material without work can tbe produced by chill-block casing, dud melung, drecbonal solidiicatiom, zone refining, boule growth, or the Czochralski method. The last four methods are capable of forming single or mear-singie crystals, which may be in itself desireable. All these methods produce oriented grains, and the first two are likely to yield material with shrink voids. These voids vary greatly in size from the microscopic to several millimeters.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Options for Preparation of Pd Cathodes"
+            },
+            {
+                "text": "Eartly information on the \"*cold fusion'\" proess indicated a superiority of ffcast\" material. Amy cast material could potentially have void problems. Hence, a preparation route imwolving bulk working to collapse internal voids seemed wise. In order to remove the residual work damage, annealing at about 0.6 of the absolute melting temperature was used. This of course results in isotropically-oniented grains rather than the preferentially-ornicnted grains typical of cast material. Such an-ncaling could also be used to remove work from surtace regions of cast materials that were machined. Annealing out bulk work results in somewhat rougher surfaces than annealing surface regions only.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Options for Preparation of Pd Cathodes"
+            },
+            {
+                "text": "Under conditions of hyperloading of deuterium into Pd by using cathodic polarization, very large deuterium activities can be reached. This is possible if, at the electrode surface, the recombination of deuterium atoms is poisomed (intentomally or arifactually). The high internal D activity will tend to come to equilibrium with correspondingly high pressures inside internal voids, especially since the void surfaces tend to be quitc clean. Thus, pressures inside voids in the range of thousands to millions of atmospheres are possible; these situations will bhe unstable, cxcept for the smallest vords.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Void Problem"
+            },
+            {
+                "text": "Available Pd metal, usually foil, was consolidated into rods by meluing in an uira-high-vacuum tungsten element fumace at 1600 $c$ in high-purity, high-density aluminum oxide molds shaped like a test tube and having internal diameters of 6-15-mm. An early attempt to melt and east in a carbon crucible/mold resulted in an excessively C-contaminated specimen. This method of using alumina crucibles worked very well for short castings with larger diameters. Long castings with small diameters had the expected difficulties associated with pure metals and their sharp melting points. Voids and defects were produced by rapid solidification along a very sharp solidification front. There was approximately 1% loss of material due to cvaporation. In all, six 6-mm rods were prepared of which four were machined and two were used as-cast. After machining, two of the rods were annealed at 900\u00b0C for 4 hours to remove residual work. The remaining rods were outgassed at 250-C for 24 hours in high vacuum, to remove residual protium without modifying the metallurgical structure of the metal. The 15-mm casting had a length to diameter ratio of 2 and a 12.5-mm diameter sphere was machined from it. All of these rods were carefully examined by x-radiography for voids and other defects, sunce vords will retlect the hydrogen activity as hydrogen pressure that may lead to catastrophic results. Some vendor-supplied 6.35-mm rods, received as-extruded, were also annealed at 900*C for 4 hours.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Palladium Rod Preparation"
+            },
+            {
+                "text": "The palladium rods were annealed, dchydrogenated and in some cases, pre-charged with deuterium using a pressure-composition-temperature apparatus.B The rods were enclosed within a quartz tube which extended into a tube fumace. The apparatus utilized a mechanicat pump for initial pump down, and an ion pump to achieve high vacuum. These rods were outgassed in the appuratus at 250rC in high-vacuum prior to deuteidng. A calibrated volame (1076 mL) was repeatedly filled with purified deuterium, which was expanded into the calibrated sarm-ple chamber (i00 mL). The pressures were mcasured with capacitance manometers which are 0.08% accurate, and the values were recorded, along with the gas temperature, on a 15-bit digital oscilloscope with disk mem- ory. The oscilloscope had the capability to calculate the composition of D in the rod from this pressure-volurme-temperature data. An inventory of the amount of gas dispensed was obtained from the digital data. Figure 1 shows a typical charging operation with the D/Pd ratios at a final value of 0.63.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Pre-Charging Rods with Deuterium"
+            },
+            {
+                "text": "Palladium pressure-composition-temperature $( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{P C T} )$ data for H, D, and T from Lisser ef al.S have been analyzed to derive analytical expressions for calculating the Pd-D, PCT' isotherms. .The alpha-phase deuterium solubility equations were taken from Powell and Las-ser.(lA The \" aur\" pressure equations were taken from Lasser er $d^{(7)}$ as separate equasions for the absorption and desorption reactions of deuterium. The beta-phase data was analyzed using a site-saturation model similar to that for the alpha-phase, but using a simplified temperature dependance for the equilibrium constant (K) and the activity parameter (a).",
+                "cite_spans": [
+                    {
+                        "text": "S",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "$$R/ ( ( 1 ~-~ R ) ~ {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{P}}^{0. 5} ) ~=~ K e^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha R} \\\\\\\\\tag{1}$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "R/ ( ( 1 ~-~ R ) ~ P0. 5 ) ~=~ K e\u03b1R",
+                        "latex": "R/ ( ( 1 ~-~ R ) ~ {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{P}}^{0. 5} ) ~=~ K e^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha R}"
+                    }
+                ],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "where R is the D/Pd atom ratio, In $K \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ =\\\\\\\\\\\\\\\\\\\\\\ -3 2. 0 4 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ +$ 13046 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{T},$ and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha=$ 43. $s 7-$ 18018/T.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "Figure $2 ~$ shows the agreement of these calculations with the data for a SO'C isothenm for both absoption and desorption reactions. The importance of the activity parameler is demonstrated by the dotted curve determined by calculating K on the basis of the desorption \"plateau'\" pressure and the beta-phase solvus line composition oaly $( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha=0 )$ . This demonstrates that the pressure increases much more rapidly with composition than predicted by configurational consderatsons alome.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "Figure 3 illustrates the effec of temperature on the high comgosition end of the PCT diagram, with the cf-fect of the activity parameter on the model leading to an apparent lowering of the slope of the pressure vs. composition curve as temperature is increased. This conver-genoe of the isotherms when extrapolated beyond the data probably warns of the inadequacy of the model and uncertainties involved in extrapoiations to compositions near unity.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 3",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "DISCUSSION"
+            },
+            {
+                "text": "Pd materials will be prepared as needed, both in the degassed and deuterium-charged condition. Pd rods will be exposed to molten *LiD above its meiting point, in an attempt to alloy the Pd with Li, if not LiD. The pressure-composition-temperature data will be further rmodeled to yicid a computer code that will accuratcly describe the existing data for hydrogen, deuterium, and tritium. The extrapolatibility of these tmodeis to high *H/ Pd ratios will be explored.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "FUTURE WORK"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "\u7cbe\u6c14\u4e13\u516c\u94f6\u4ea7\u6c7d\uff1a \u4e0a33\u7ebfT170",
+                "title": "c endf Amorphour Solidr, G. Bumhakis and R.",
+                "authors": [],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "B",
+                "title": null,
+                "authors": [],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Lisser",
+                        "suffix": null
+                    },
+                    {
+                        "first": "P.",
+                        "middle": [],
+                        "last": "Meufich",
+                        "suffix": null
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Fecnsira",
+                        "suffix": null
+                    }
+                ],
+                "year": 1988,
+                "venue": "Databeah der S57\u751f\u8f669 and Thitam (D in den Metalin V, Nb, Ta, Pd und den L.cgieran-snyey .rTa, b,.mo Pd,Ag. Kemforsbunganlinge",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lasser",
+                        "suffix": null
+                    },
+                    {
+                        "first": "K.",
+                        "middle": [
+                            "H.",
+                            "L."
+                        ],
+                        "last": "Klen",
+                        "suffix": null
+                    },
+                    {
+                        "first": "P.",
+                        "middle": [],
+                        "last": "Mecking",
+                        "suffix": null
+                    },
+                    {
+                        "first": "H.",
+                        "middle": [],
+                        "last": "Wen2l",
+                        "suffix": null
+                    }
+                ],
+                "year": 1967,
+                "venue": "Kern-firschusgranlage, Jalich, Repert",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "FIGREF1": {
+                "text": "Pd nods (6-am) bydrided to DPd ratias of 0.61 in 2 davs n 55'C(0 to 180 Ks) and to 0.63 when coaled to amhicat at dcuserium pressures ncar $1$ atmosphese.",
+                "type": "figure"
+            },
+            "FIGREF2": {
+                "text": "Presane-ompoinonistaerms cleulatd at SOC for shsorp-tice and desorptioa reactions. Data is froum Lasser er al.O Dociod cure neglects the activily parumeitr.",
+                "type": "figure"
+            },
+            "FIGREF3": {
+                "text": "Eaerapolation of these prssurs-composirion ischerm beyond the range o the dalta.",
+                "type": "figure"
+            }
+        },
+        "back_matter": []
+    }
+}

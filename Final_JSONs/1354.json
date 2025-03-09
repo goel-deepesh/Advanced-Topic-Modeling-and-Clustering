@@ -1,0 +1,601 @@
+{
+    "metadata": {
+        "title": "Tunneling Effect Enhanced by Lattice Screening as Main Cold Fusion Mechanism: An Brief Theoretical Overview",
+        "authors": [
+            {
+                "first": "Fulvio",
+                "middle": [],
+                "last": "Frisone",
+                "suffix": "",
+                "affiliation": [
+                    "Physics, University of Catania, Via Santa Sofia 64, I-95123 Catania"
+                ],
+                "email": ""
+            }
+        ],
+        "abstract": [
+            {
+                "text": "In this paper are illustratedthe main features of tuneling trveling between two deuterons withn alatice. Considering the screening effect due lattice electrons, we conpare the d d fusion rate evaluated from different authors assuming different screening eficiency and different d d potentials. Then, we propose an effective potenial which describe very well the attractive contribute due to plasmon exchange betaveen twe deuterons and by means of it we will conpute the d -d fusion raes for different energy values. Punally the gond agreement between theoretical and experimental results proves the reality of cold fusion phenomena and the reliability of our moxdel.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "The first cold fusion phenomenon has been observed in the 1926 by Paneth and Peters that passed $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{H_{2}}$ through a high temperature Pd capillary tube and observed He spectral line [1]. Of course this episode does not sign the rise of a new branch of science since they, subsequently, declared that the helium was released from the heated glass container. Then, for about 60 years, nobody spoke about low-energy nuclear reaction, until, on March 23, 1989, Fleischmann and Pons declared the achievement of a deuterons fusion at room temperature in a Pd electrolytic cell using D2O [2]-",
+                "cite_spans": [
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "text": "[2]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Since their discovery, a large amount of efforts have been spent in order to reproduce the fusion but actually the experimental knowledge and the know-how is not so far robust. However, the evidence of anomalous nuclear phenomenon had been built up in these last years [3-6].",
+                "cite_spans": [
+                    {
+                        "text": "[3-6]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "In this paper, we want to summarize some theoretical efforts in order to understand the probably mechanism of cold fusion. In particular we focus on tunneling traveling of coulomb barrier existent between two deuterons. More exactly it will be analyzed the possible contributions of lattice in oner to enhance of tunneling probability and, in this way, Drmewer.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "After the nuclear disintegration had been discovered. it son became clear that the laws of classical dynamics were not able to reproduce some experimental regularities as the radioactive decay law. This law involves that the time of disintegration of an atom is as independent of the previous history and of its physical condition, in other words the behavior of particles is governed by probability. Gamow [7] demonstrated that using the Copenhagen interpretation of Seridinger equation it was possible to obtain the correct decay law expression. In this way the tunnel effect was universally accepted. Actually we are not able to understand transmutation and disintegration phenomena without the no-classical traveling of potential barner.",
+                "cite_spans": [
+                    {
+                        "text": "[7]",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Tunneling in Molecular D2"
+            },
+            {
+                "text": "In this time, the tunneling effect is a very important statement of physics behavior' of microscopic particles; for example a very lot of the microelectronic devices as flash memories [8] base oneself on Fowler-Nordheim tunneling.",
+                "cite_spans": [
+                    {
+                        "text": "[8]",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Tunneling in Molecular D2"
+            },
+            {
+                "text": "Now, established the fusion process in terms of penetration of a particle of energy $E$ in a region classically forbidden whose potential is $v$ , the fusion reaction rate A $( s^{-1} )$ will be determined, according to quantum mechanics, from the following expression:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Tunneling in Molecular D2"
+            },
+            {
+                "text": "Here $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu$ is the nuclear reaction constant obtained from measured cross sections, the probability $| \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\psi( r_{0} ) |^{2}$ is the square modulus of the inter-particles wave-function, and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\eta$ is the point of forbidden zone. Finally, it is demonstrated that for a Coulomb ptential:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Tunneling in Molecular D2"
+            },
+            {
+                "text": ":",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "k(r) = sqrt(2\u03bc(V(r) - E)) / h",
+                        "latex": "k ( r )={\\\\\\\\\frac{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu( V ( r )-E )}} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hbar}}"
+                    }
+                ],
+                "section": "2. Tunneling in Molecular D2"
+            },
+            {
+                "text": "and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ddot{r}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\prime}$ is the classical urng point",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\u039b = A |\u03c8(r0)|^2.",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Lambda=A \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, | \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\psi( r_{0} ) |^{2} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,."
+                    },
+                    {
+                        "text": "|\u03c8(r0)|^2 = |k(re) / k(r0)| * exp(-2/h * \u222b[r0 to r'] sqrt(2\u03bc(V - E)) dr),",
+                        "latex": "| \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\psi( r_{0} ) |^{2}=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left| \\\\\\\\\frac{k ( r_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e}} )} {k ( r_{0} )} \\\\\\\\\right| \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\exp\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\{-\\\\\\\\\frac{2} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hbar} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\int_{r_{0}}^{r^{'}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left( V-E \\\\\\\\\right) )} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d} r \\\\\\\\\right\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\},"
+                    },
+                    {
+                        "text": "h^2 * k^2(re) / (2\u03bc) = E.",
+                        "latex": "\\\\\\\\\frac{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hbar^{2} k^{2} ( r_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e}} )} {2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu}=E."
+                    }
+                ],
+                "section": "2. Tunneling in Molecular D2"
+            },
+            {
+                "text": "Of course the pre-factor of exponential is about 1 and the exponential term is know as Gamow-amplitude. More exactly, we detine the Gamow-factor as:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\u03b7G(r0) = exp(-1/h * \u222b[r to r0] sqrt(2\u03bc(V - E)) dr).",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\eta_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{G}} ( r_{0} )=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\exp\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\{-{\\\\\\\\\frac{1} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hbar}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\int_{r}^{r_{0}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu( V-E ) )} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\; \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d} r \\\\\\\\\right\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\}."
+                    }
+                ],
+                "section": "2. Tunneling in Molecular D2"
+            },
+            {
+                "text": "Now compute the fusion probability between two nuclei of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{D},$ molecular. In this case we must consider that the average distance between two deuterons, within the $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{D,}$ -molecule, is $r_{0} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\approx0. 7 4 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\bar{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{A}}$ while the distance at which the nuelear force",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Tunneling in Molecular D2"
+            },
+            {
+                "text": "takes place is $r \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\approx 2 0 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{~F}$ . Then if we put $V=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha/ r$ . ie. the Coulomb potential, and with $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu$ label the reduced mass, we will compute $k=1$ . Finally for $E \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\approx0$ we can evaluate:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Deuterons Tunneling as Probably Cold Fusion Mechanism"
+            },
+            {
+                "text": "The cold fusion idea came independently to Fleischmann and Pons and to Jones that if deuterium could be forced into palladium, two deuterium nuclei would come so close together as to fuse giving out more power than was being put in. On this case the d-d fusion processes involved are:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Deuterons Tunneling as Probably Cold Fusion Mechanism"
+            },
+            {
+                "text": "In the previous section, we have computed that the fusion probability between two deuterons within $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{D}_{2}$ -molecular is very low. But at one time was evaluated in the 1986 that this fusion rate can be reduced |9]. In fact some mechanisms, as the replacing of the electron in a hydrogen molecular ion with a negatively charged muon, are able to increase the reduced mass and then to decrease the Gamow-factor [10]. More exactly,. Siclen and Jones, starting from the possibility of creating pressures of several million atmospheres presented by diamond-anvil cell, have considered deuterons fusion rates as function of pressure and, then, of the inter-nuclear distance obtaining an theoretical average fusion rate of $1 0^{-7 4} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, s^{-1}$ .",
+                "cite_spans": [
+                    {
+                        "text": "[9]",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "text": "[10]",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Deuterons Tunneling as Probably Cold Fusion Mechanism"
+            },
+            {
+                "text": "They discussed in the following way. In hydrogen molecular the potential has the trend shown in Fig. 1. In this case, a Morse potential is used in the interval that included the inner turning point $r$ and continues on toward $r=0$ , near which it is connected with the repulsive Coulomb potential $1 / r$ . The expression is",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "3. Deuterons Tunneling as Probably Cold Fusion Mechanism"
+            },
+            {
+                "text": "here $D$ is the depth of the potential well that is roughly equal to the dissociation energy and $r$ is related to the anhamonicity constant which is a measure of the curvature of the Morse potential well.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "V(r) = D[e^(-2\u03b3(r - r0)) - 2e^(-\u03b3(r - r0))],",
+                        "latex": "V ( r )=D [ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e}^{-2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma( r-r_{0} )}-2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e}^{-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma( r-r_{0} )} ],"
+                    }
+                ],
+                "section": "3. Deuterons Tunneling as Probably Cold Fusion Mechanism"
+            },
+            {
+                "text": "Sine the vibrtional ewels of Morse potential canbe witen in this way l11]:",
+                "cite_spans": [
+                    {
+                        "text": "[11]",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "Ev = -D[1 - (\u03b3h / sqrt(2\u03bcD)) * (v + 1/2)]^2,",
+                        "latex": "E_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{v}}=-D \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left[ 1-\\\\\\\\\frac{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma h} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu D}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left( v+\\\\\\\\\frac{1} {2} \\\\\\\\\right) \\\\\\\\\right]^{2},"
+                    }
+                ],
+                "section": "3. Deuterons Tunneling as Probably Cold Fusion Mechanism"
+            },
+            {
+                "text": "itis osible to cvaluateb fting te coastant $,$ and $D$ and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\infty$ The authors of Ref. [9] computed (in units $e^{2} / a_{0}$ and $a_{0} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{Bohr ~ r a d i u s} ) :$",
+                "cite_spans": [
+                    {
+                        "text": "[9]",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Deuterons Tunneling as Probably Cold Fusion Mechanism"
+            },
+            {
+                "text": "The molecular wave function has been evaluated following the method proposed by Langer [12] which now we will bnefly illustrate.",
+                "cite_spans": [
+                    {
+                        "text": "[12]",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "D = 0.1743,",
+                        "latex": "D=0. 1 7 4 3,"
+                    },
+                    {
+                        "text": "\u03b3 = 1.04,",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma=1. 0 4,"
+                    },
+                    {
+                        "text": "r0 = 1.4.",
+                        "latex": "r_{0}=1. 4."
+                    }
+                ],
+                "section": "3. Deuterons Tunneling as Probably Cold Fusion Mechanism"
+            },
+            {
+                "text": "where $V ( r )$ is the Coulomb potential for $r < \\\\\\\\\rho$ and the Morse potential fot $r > \\\\\\\\\rho$ being $\\\\\\\\\rho$ the point at which the Morse potential is connected to the purely Coulomb potential.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ". The Sereening Effect"
+            },
+            {
+                "text": "Using these results Van Siclen ad Jones demonstrated the possibility of scaling down of repulsive effect between two deuterons. Moreover, they showed that the average fusion rate was much more sensitive to the choice of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu$ than $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot$ (see Table 1).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Table 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": ". The Sereening Effect"
+            },
+            {
+                "text": "As showed in Section 3, the increasing of deuteron fusion rate is linked to the possibility that the inter-nuclear distance between two deuterons can be minimized. In 1989 Fleischmann and Pons observed that the establishment of negative over-potential on the outgoing palladium interface shows that the chemical potential can be raised to high values and it means that within palladium it is possible to have astronomical pressure of about $1 0^{2 6}$ atm [13]. After the Fleischmann and Pons experiments had bee published, it soon became clear the main role of palladium latice as catalyzing.",
+                "cite_spans": [
+                    {
+                        "text": "[13]",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ". The Sereening Effect"
+            },
+            {
+                "text": "To explain this over-potential and, consequently, the cold fusion phenomenon, many people supposed that in the lattice the coulomb potential between two deuterons is screened. To illustrate this topic we report the argument of Horowitz [14].",
+                "cite_spans": [
+                    {
+                        "text": "[14]",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ". The Sereening Effect"
+            },
+            {
+                "text": "The radial part of Serodinger equation is",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "[d^2/dr^2 + Q0^2(r)]\u03c7(r) = 0,",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left[ \\\\\\\\\frac{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d}^{2}} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d} r^{2}}+{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cal Q}_{0}^{2} ( r ) \\\\\\\\\right] \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\chi( r )=0,"
+                    }
+                ],
+                "section": ". The Sereening Effect"
+            },
+            {
+                "text": ":",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "Q0^2(r) = 2\u03bc/h^2 * [E - V(r)] - J(J + 1) / r^2",
+                        "latex": "Q_{0}^{2} ( r )=\\\\\\\\\frac{2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu} {h^{2}} [ E-V ( r ) ]-\\\\\\\\\frac{J ( J+1 )} {r^{2}}"
+                    },
+                    {
+                        "text": "\u03c7(r) = r\u03c8(r).",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\chi( r )=r \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\psi( r )."
+                    }
+                ],
+                "section": ". The Sereening Effect"
+            },
+            {
+                "text": "The ground $v=J=0$ molecular wave function in the interaction region is thus found to be:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\u03c8(r) = 1/4 * (\u03b1^2 / \u03c0^3)^(1/4) * \u03b7",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\psi( r )=\\\\\\\\\frac{1} {4} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left( \\\\\\\\\frac{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha^{2}} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\pi^{3}} \\\\\\\\\right)^{1 / 4} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\eta"
+                    }
+                ],
+                "section": ". The Sereening Effect"
+            },
+            {
+                "text": "with",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\u03b1 = \u03bc\u03c9/h",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha=\\\\\\\\\frac{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hbar}"
+                    }
+                ],
+                "section": ". The Sereening Effect"
+            },
+            {
+                "text": "and",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\u03b7 = exp{-1/2 * [\u222b[r to r0] (2|Q(r)| - 1/r) dr + ln(ra/2)]},",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\eta=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\exp\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\{-{\\\\\\\\\frac{1} {2}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left[ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\int_{r}^{r_{0}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left( 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left| Q ( r ) \\\\\\\\\right|-{\\\\\\\\\frac{1} {r}} \\\\\\\\\right) \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d} r+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ln{\\\\\\\\\frac{r_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{a}}} {2}} \\\\\\\\\right] \\\\\\\\\right\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\},"
+                    },
+                    {
+                        "text": "Q^2(r) = 2\u03bc/h^2 * [E - V(r)] - (J + 1/2)^2 / r^2,",
+                        "latex": "Q^{2} ( r )=\\\\\\\\\frac{2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hbar^{2}} [ E-V ( r ) ]-\\\\\\\\\frac{( J+1 / 2 )^{2}} {r^{2}},"
+                    }
+                ],
+                "section": ". The Sereening Effect"
+            },
+            {
+                "text": "The electrons in a metal should become a Fermi gas and the hydrogen nuclei interacting via screened coulomb potential. The effective potential between two nuclei $V ( r )$ which includes the effects of electron screening is given, in a simple Thomas-Fermi model, by:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "This constant $\\\\\\\\\nu_{0}$ would be just the difference between electronic energy of a He isolated atom $(-9. 0 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e V} )$ and the binding energy of two H atoms (-51.8 eV). The fusion rate has been evaluated using:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "where v is the vibrational frequency of the crystal's zero point motion (hv is about 1 eV) and $P_{n}$ is the probability of a d-d nuclear reaction once the nuclei have made it to $r_{n}$ . In other words, the fusion rate is calculated by multiplying $P$ by the frequency of attacks on the Coulomb barrier and the probability of a nuclear reaction.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "of course ) is te sereening length and depends on density. But fot $r \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ll\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda$ we ecan write at fist order:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "V(r) = (e^2 / r) * exp(-r/\u03bb)",
+                        "latex": "V ( r )={\\\\\\\\\frac{e^{2}} {r}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e x p} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left[-{\\\\\\\\\frac{r} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda}} \\\\\\\\\right]}"
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "V(r) = (e^2 / r) - V0.",
+                        "latex": "V ( r )={\\\\\\\\\frac{e^{2}} {r}}-V_{0}."
+                    },
+                    {
+                        "text": "A = \u03bdP\u03ba,",
+                        "latex": "A=\\\\\\\\\nu P_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\kappa},"
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "$P_{n}=1$  $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Lambda=1 0^{-7 0} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{s^{-1}}$  $r_{0}=0. 5 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\dot{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{A}}$  $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Lambda=1 0^{-2 5} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{s}^{-1}$ fo $r_{0}=0. 1 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\AA$ .",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Similar argumentations were proposed by Giuliano Preparata but starting from a new formulation of condense matter theory known as Coherence Theory. In fact aceording to the Coherence Theory of Condensed Matter we can visualize the plasma formed by d-shell electrons as consisting of charged shells of charge $n \\\\\\\\\triangleleft e$ (for palladium $n_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathsf{d}}=1 0$ radius $m=1 A$ and thickness a fraction of I A. The classical plasma frequency will be",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\u03c9d = e/sqrt(m) * sqrt(nd * N / V).",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d}}=\\\\\\\\\frac{e} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{m}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{\\\\\\\\\frac{n_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d}} N} {V}}."
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "According to the coherence theory of matter we must adjust this plasma frequency of a factor 1.38. We can understand this correction observing that the formula (22) is obtained assuming a uniform d-electron charge distribution. But of course the d-electron plasma is localized in a shell of radius $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\kappa$ (that is ahout 1 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{A}$ l, so the geometrical contribution is",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In Ref. [17] putting $Z_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathsf{4}}=1 0 / 3$ and $a_{0}=0. 7 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hat{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{A}}$ .itis culated a scrcening potential of aout 85 eV. It means that within a palladium lattice the Coulomb potential between two deuterons has the following expression:",
+                "cite_spans": [
+                    {
+                        "text": "[17]",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "sqrt(6/\u03c0) = 1.38",
+                        "latex": "{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{\\\\\\\\\frac{6} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\pi}}}=1. 3 8"
+                    },
+                    {
+                        "text": "\u03c9d = 41.5 eV/h.",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d}}=4 1. 5 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e V} / \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hbar."
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "\u7535\u70e4\u6d77\u8bdd\u4e0a\u6d7753\u7ebf\u7cfb3\u7ebf\u7535\u7ebf\u7535\u4e1a325351 19727 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Lambda=1 0^{-2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Sigma} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{s}^{-1}$ .\n $A=1 0^{2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Sigma} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{s}^{-1}$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "eV(r) = -Zd * (ke^2 / 2a0) * r^2.",
+                        "latex": "e V ( r )=-Z_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d}} {\\\\\\\\\frac{k e^{2}} {2 a_{0}}} r^{2}."
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "This last value of fusion rate has been experimentally checked [15,16], and for this reason we believe that it is cwrect. We conclude this section affirming that within a lattice, in according to the quantum mechanics principles, the fusion probability becomes theoretically possible and experimentally observable.",
+                "cite_spans": [
+                    {
+                        "text": "[15,16]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "V(r) = (e^2 / r) - 85 eV.",
+                        "latex": "V ( r )={\\\\\\\\\frac{e^{2}} {r}}-8 5 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e V}}."
+                    }
+                ],
+                "section": "5. An Effective Potential Proposed"
+            },
+            {
+                "text": "From the results reported in previous sections, appears clear that within lattice the d-d reactions take place in a Dy-molecule whose inter-nuclear distance is reduced by screening effects. More exactly by means of works repoted in references [9,14,17], we can say that within a lattice:",
+                "cite_spans": [
+                    {
+                        "text": "[9,14,17]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "5. An Effective Potential Proposed"
+            },
+            {
+                "text": "For this reason, starting to idea of Jones and Siclen, we tried to find a d-d effective potential that for distance smaller than $\\\\\\\\\rho$ (ie. the point where the attractive molecular potential is linked with the repulsive core) gives about the Coulomb",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "5. An Effective Potential Proposed"
+            },
+            {
+                "text": "feature while, for the distance bigger than $\\\\\\\\\rho$ , the Morse potential. In Ref. [18] to fit a such 'Coulomb-Morse linked' potential we have proposed the following effective potential:",
+                "cite_spans": [
+                    {
+                        "text": "[18]",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Of course the problem is to know the physical values that characterize, from a point of numerical view, a potential like that used by Siclen and Jones. More exactly the principal issue, that we must solve, is to estimate:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "V(r) = k(e^2 / r) * (VM(r) - A/r),",
+                        "latex": "V ( r )=k {\\\\\\\\\frac{e^{2}} {r}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left( V_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{M}} ( r )-{\\\\\\\\\frac{A} {r}} \\\\\\\\\right),"
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": ":",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "VM(r) = D'[e^(-2\u03b3(r - r'0)) - 2e^(-\u03b3(r - r'0))].",
+                        "latex": "V_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{M}} ( r )=D^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\prime} [ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e}^{-2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma( r-r_{0}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\prime} )}-2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e}^{-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma( r-r_{0}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\prime} )} ]."
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "Here A, $D^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\prime}, Y$ and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\acute{r}_{0}$ ae aramets to dtermiat b easofiting",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "(1) the point where the Morse potential is Iinked by Coulomb curve (i.e. p). (2) the equilibrium distance,\n(3) the well depth.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In order to evaluate the parameter relative to first bullet, we used the screening value proposed by Preparata (average: s et asatng pn. In hi my smembering Eg, 260, we compue $\\\\\\\\\rho=V_{0} / 2 6. 9$ and at ast $\\\\\\\\\rho=0. 1 6 5 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hat{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{A}}$ -",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Regarding the other topics i.e. equilibrium distance $r_{0}$ and disassociation energy $D$ t we have discussed in the following way.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In the ionized hydrogen molecular the equilibrium distance is about 1.065 , but in the neutral hydrogen molecular it is about 0.7 A. We can interpret this results saying that the screening potential due to second electron whose magnitude is",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Therefore, a screening magnitude of 85 eV will be able to reduce this distance of about 50%. Appling this argumentation to the neutral hydrogen molecular (and/or also to D2-molecular, see Ref. 191), we can suppose that inside the lattice the equilibrium distance between two nuclei of a D2-molecular is about 0.35 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hat{\\\\\\\\\rho}$ .",
+                "cite_spans": [
+                    {
+                        "text": "191",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "2 * 26.9/a0 = 53.8 eV",
+                        "latex": "2 \\\\\\\\\times\\\\\\\\\frac{2 6. 9} {a_{0}}=5 3. 8"
+                    }
+                ]
+            }
+        ]
+    }
+}

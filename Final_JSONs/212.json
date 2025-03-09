@@ -1,0 +1,503 @@
+{
+    "metadata": {
+        "title": "The Eleetrical Resistanee of Palladium and Palladium-Gold Alloy (50 wt% Au and Pd) in Gaseous Hydrogen up to 24000 at at 25 \"C",
+        "authors": [
+            {
+                "first": "B.",
+                "middle": [],
+                "last": "Baranowski",
+                "suffix": "",
+                "affiliation": [
+                    "Inatitute of Paysical Chemistry, Felich Adndemy of Scienea, Wersaw (a)"
+                ],
+                "email": ""
+            },
+            {
+                "first": "R.",
+                "middle": [],
+                "last": "Wisnuewski",
+                "suffix": "",
+                "affiliation": [
+                    "Inadilate of Physios, Wareawe Techaioal Uniwriy, Weraaw ()"
+                ],
+                "email": ""
+            }
+        ],
+        "abstract": [
+            {
+                "text": "The outline of a high-pressure advice for gascous hydrogen as a double piston-eylinder svstem is given. Anr contaet between the gacous volame and the presure-trunsmitting liquid is avoided. Tbe electrical resistnnce of Pd and Pd-Au $( 5 0-t \\\\\\% )$ foils waa measured as (25 1 0.1) *C up to 24000 at of gaseous hydrogen. A linear n p of relstive electrical resintance vernus the logarithm of the hydregen fugacity in oberved. The relative cleetrical",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            },
+            {
+                "text": "n wird das Schema ciner Hochdruckapparatur fhr gaafdrmigen Wascrstoff mit einrm doppelten Stempel-Zylinder-System angeeben, wobei jnglicher Kontakt zwischen dem Gas und der drueckabertragenden Flissigkeit vermieden wird. Der elektrische Wderstand von Pd und Pd-As {50 Gew.%) wurde bei $( 2 5 \\\\\\pm0, 1 )$ \"C bis su cinem Druck von 24000 at des asformigen Wasserstoffs gemessea. E Abhingigkeit wurde zwischen dem rela-tivon clektriachen Widerutand und dem Logarithmus der Waserutoffugazitat fostgestellt. Eine Abechatzang des relativen elcktrischen Widerstandes vea Pd wird als Funktion des H:Pd-Atomverhiltnisees gegeben.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "During the palladium hydride formation at room tempersture a large in-crease of the electrical resistance is observed $\\\\{1 \\\\}$ . This change is usually expresed in SpEWm th rnHSnrad oHe $R : R_{0}$ where $R$ in the actual renistanee of the\n $R_{\\\\\\circ}$ its initial value for the hydrogen free state. In the two-phase\nve electrical resistance is approximatively a linear function of the atomic ratio H:Pd |2]. After passing through a maximum at atomie ratio $\\\\\\mathbb{H} : \\\\\\mathrm{P d} \\\\\\approx0. 7$ a decrease of the resistance is observed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "1. Introduetion"
+            },
+            {
+                "text": "Recently [3] the clectrical resistance of plladium foils was measured in high pressure of gaseous hvdrogen at room temperature. It was shown that in the pressure range 1000 to 16000 at the relative renistance of palladium is a linear funetion of the logarithm of gaseous hydrogen fugacity (and thus a linear funetion of the chemical potential of this eomponent). It must be remarked that the fugacity values were extra polated from direct measurements performed up to 3000 at only [4]. The high-pressure deviee applied previously [3) and described in detail elsewhere [5] did not enable to attain pressures higher thun 17000 at and to avoid the contact between gaseous hydrogen and the pressure-transmitting medium (usually naphta was used for this purpose). In such conditions the formation of a mixture between some organic components and hydrogen or even the formation of two-phase gaseous mixtures was not exeluded [6]. The high-pressure device applied in this investigation exhibits the following",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "1. Introduetion"
+            },
+            {
+                "text": "advantages in comparison with thnt used previounly [3, 5]: (i) The available pressune range is extended up to 24000 at of gaseous hydrogen. This corresponds to the extrmspolated fugacity value of $4 \\\times 10^{\\\\\\circ}$ at in comparison with 10* at ob. tained previously [3]. ii) Any contact between the transmitting liquid and gaseous hydrogen is avoided. ii) The temperature was kept on a constant, stabilized vnlue with an uncertainty of +0.1 \"C.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Experimental"
+            },
+            {
+                "text": "The purpose of this paper is to present results of investigations of the electrical resistance of palladium and palladium-gold alloy (50 wt% Au and Pd) in gaseous hydrogen in the available pressure range at 25 *C. Palladium was chosen because of its large and reproducible changes of the eleetrical resistance obaerved in high-pressure gascous hydrogen |3]. It was interesting to check if the previously oberved [3] inear relationship between the relative clectrical renintance of palladium foils and ganeous hydrogen fugacity exints for higher pressure and if it depends on the contact between hydrogen and the organic liquid. The palladiurn-gold alloy was chosen because of its interesting course of the electrieal resistance at low hydrogen concentrations, namnely its decrease with the inerease of the atomic ratio H:Pd [7].",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Experimental"
+            },
+            {
+                "text": "The scheme of the high-pressure apparatus used is given on Fig. 1. This device is & double piston-cylinder system, working with a double hydraulic press. The first piston-cylinder syutem (I) is s typical Bridgman high-pressure apparatus which is made of high-quality steel. (More details are given in [8]) The gecond system (ll) eonsists of the high-pressure gaseous hydrogen (a). lt is separated from the transmitting liquind (b) by a sealed piston (e). The seal of that piston allows to fil the second system (ll) with pure hydrogen under preasure of 250 to 500 at in a special equipnent outuide of the systenm (I). This procedure is more effective in protecting the steel from the destructive action of gascous hydrogen than that uned previonnly (5]. The system (ll) is exposed to small pressure difference only and therefore its mechanical resistance is of little importance. The sampies investigated, consisting of 10 to 20 um Pd and Pd-Au foils, were placed around an organie glass cylinder $( c )$ avoiding any stressing. The electrical leads were drawn out from system (ll) to (1) and from (l) to the outaide of the apparatus bring isolated from the metallic parts by",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "2. Experimental"
+            },
+            {
+                "text": "an epoxide resin. The four-leads method of resistance measurement of the foils was used. The pressure was measured with manganin gauges placed as well in the hvdrogen volume as in the transmitting liquid-The tempersture was stnbilized by a thernostating medium (d}. The details of the device developed will be published later.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Experimental"
+            },
+            {
+                "text": "The results of measurements of the relative electrical resistance of palladium foils as plotted against the logarithm of gaseous hydrogen fugacity $p^{\\\bullet}$ are shown in Fig. 2. As we can see, the relative clectrical resistance of the palladium is a linear funetion of the logarithm of fugacity in the presure range lo00 to 18000 at. This means that the character of this dependence is the same as well for pure hydrogen as in the cane where this gns is in contact with nuphta [3]. Under the pressure of about 17000 at of gaseous hydrogen the electrical resistance of paladium is the same as for hydrogen-free specimens at l at and the same temperature. If the logarithm of hydrogen fugacity is larger than S the linear dependence discussed changes the slope whereby a smaller dependence on the hydrogen activity oceurs. A similar relationship has been observed for nickel foils being placed in high-pressure hydrogen [9. Probably it is caused by the change of the phase character of the hydrides discussed in thin pressure range. The decrease of the electrieal resistance in the palladium-hydrogen pananhrdwatontrtrnon at sn onranadacalnome $\\\\\\mathbf{H} : \\\\\\mathrm{P d} \\\\\\approx0. 8$ forms a disordered phasc (high concentration of non-occupied octahedral positions). This may be the reason of the high residual resistance observed within these hydrogen contents [10]. As the hydrogen concentration increases to higher values this disordered state is reduced continuoualy what corresponds simultaneouily to the decrenne of the residual resistance. Unfortunately we were unable to measure the atomic ratio H:Pd in the high-pressure region diretly.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "3. Results and Diseussion"
+            },
+            {
+                "text": "In this situation we took into account the known linear relationship between the atomic ratio HPd and the logarithm of pressure of hydrogen for the pure p-phase replacing the pressure by the hydrogen fugacity. Curve (b) in Fig. 3",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 3",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "3. Results and Diseussion"
+            },
+            {
+                "text": "reprewents the evaluated dependence of the relative clectrical resistance of the palladium foils as a function of the atomic ratio H:Pd. The following expression was applied:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "H : P d=0. 7 1 4+0. 0 4 8 4  l g  p^{\\\bullet}_{H_{s}}  }",
+                        "latex": "\\\\\\qquad\\\\\\mathbf{H \\\\\\! : \\\\\\! P d=0. 7 1 4+0. 0 4 8 4 \\\\\\ l g ~ p^{\\\bullet}_{H_{s}} ~ }"
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "where the numerical constante were taken from [ll). It results that at 24000 at of gaseous hvdrogen at 25 *C the atomie ratio H:Pd equals 1.2. One can assume that in such conditions the hydrogen oecupies tetrahedral as well as otahedral positions in the palladium lattice. Furthermore one can suppose that this change of the structure coincides with the region where the curve on Fig. 2 chrew hpdeBo GdbeGAde Sedmdamnedonamnm $u$ and 2],\n $( c )$ represents the relative electrical resistance of palladium $R : R_{0}^{\\\bullet}$ where $R_{0}^{\\\bullet}$ denotes the resistance of pure palladium at hydrostatie pressures being ntical with the hydrogen pressures applied. As can be scen this correction is negligible.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The results for the Pd-Au alloy are shown in Fig. 4 (curve {s) and (b)) In the low-pressure range of hydrogen the relative clectrical resintance decrenses with the increase of the hydrogen content [7]. After passing through a minimum, which takes place at pressures less than 300 at, an increase of the resistance is observed. In the pressure range 1000 to 24000 at the relative reistance of the investigated alloy increases linearly with the logarithm of the hydrogen fugacity, At about 7200 at the electrical resistance of the alloy attains the value $R_{0}$ drie de ahe e eoe de oeo ianpear ASRES7T7537 $R_{5}^{\\\bullet}$ cempirical mens were put in pure naphta). At pressures up to 13500 w",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 4",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "has been found. As can be seen in Fig. 4 the relative electrical resistance $R=R_{0}^{\\\bullet}$ (eurve (b)) fulfils better the linear dependence on the logarithm of hydrogen fugacity, especially at high values of the pressure, than it is the case for curve (a) where the relative resistance is cnlculated with reupeet to $R_{\\\bullet}$ the value characteristic of a pressure of l at, Let us remark that the total ange of the relative resistunce in the pressure range investigated is for palladium more than three times larger than for the Pd-Au alloy. This means that palladium could serve as a better gauge of chemical potential of hydrogen than the Pd-Au alloy. Unfortunately no dats exist in literature concerning the $A=A^{*}$  $x$\n\u80543331857775",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 4",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [
+                    {
+                        "text": "1  /R_{\\\\\\mathfrak{n}} ( \\\\\\mathfrak{d} R  /\\\\\\mathfrak{n} p )_{\\\\\\mathfrak{k}}=-\\\\\\; ( 1. 2 \\\\\\pm0. 1 ) \\\times1 0^{-6} \\\\\\mathrm{~ a t ~ }^{-1}",
+                        "latex": "$\\\frac{1} {R_{\\\\\\mathfrak{n}}} \\\\\\Big( \\\frac{\\\\\\mathfrak{d} R} {\\\\\\mathfrak{n} p} \\\\\\Big)_{\\\\\\mathfrak{k}}=-\\\\\\; ( 1. 2 \\\\\\pm0. 1 ) \\\times1 0^{-6} \\\\\\mathrm{~ at ~ }^{-1}$"
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "iatamle ratio H $:$ dmesaned diretiy)s. Ce deger-dhae of R: R, un H:nd oleerved upfer hiee prmaure\nH:Ne vhere $s;$ bs tha sletrical reitane ef therpe-idenskal with the hydegen prewure aygdied",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Results and Diseussion"
+            },
+            {
+                "text": "concentration of hydrogen at much high activities in the alloy investigated. The known results (l2, 13] do not allow to perform any extrapolation to the interesting pressure range. Thus we have no correlation between $R : R_{0}$ and H:Pd what was possible for palladium foils. Furthermore the interp. on of the changes of the relative electrical resistance as a function of the hydrogen fugacity remains unknown. This would require a detailed knowledge of the residual and phonon eontributions to the electrical resistance of the alloy system investignted. For thin resnon we do not suggeut here any interpretation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "Z. phys. Chem. N.F.",
+                "authors": [
+                    {
+                        "first": "T. B.",
+                        "middle": [],
+                        "last": "FLasaGas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F. A.",
+                        "middle": [],
+                        "last": "Lwrs",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1961,
+                "venue": "Z. phys. Chem. N.F.",
+                "volume": "27",
+                "issn": null,
+                "pages": "104",
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "J. Phys. Chem. Solids",
+                "authors": [
+                    {
+                        "first": "B.",
+                        "middle": [],
+                        "last": "BARASOWBKt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "WI\u00e9IETsEt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1968,
+                "venue": "J. Phys. Chem. Solids",
+                "volume": "29",
+                "issn": null,
+                "pages": "1275",
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": "Compresability , lsotherms, and Thermodynamic Functions of Hydrogen and Deuterium.",
+                "authors": [
+                    {
+                        "first": "W.",
+                        "middle": [],
+                        "last": "DR GRaAF",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1960,
+                "venue": "Thesis, University of Amsterdam",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": "Bull. Acnd. Polon. Sci., Str. Scl. chim.",
+                "authors": [
+                    {
+                        "first": "B.",
+                        "middle": [],
+                        "last": "BAANOWSEI",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Wi\u00e9strwHst",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1966,
+                "venue": "Bull. Acnd. Polon. Sci., Str. Scl. chim.",
+                "volume": "14",
+                "issn": null,
+                "pages": "273",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": "J. chem. Phys.",
+                "authors": [
+                    {
+                        "first": "J.",
+                        "middle": [],
+                        "last": "DE SwAAN Arows",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G. A. M.",
+                        "middle": [],
+                        "last": "DuEPON",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1966,
+                "venue": "J. chem. Phys.",
+                "volume": "44",
+                "issn": null,
+                "pages": "2322",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": "private commmunication.",
+                "authors": [
+                    {
+                        "first": "T.B.",
+                        "middle": [],
+                        "last": "FLASAGAS",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "BIBREF6",
+                "title": "Poutepy Fiz.",
+                "authors": [
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "WIAsIEWSKI",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1962,
+                "venue": null,
+                "volume": "18",
+                "issn": null,
+                "pages": "865",
+                "other_ids": {}
+            },
+            "BIBREF7": {
+                "ref_id": "BIBREF7",
+                "title": "Horan. Chemil",
+                "authors": [
+                    {
+                        "first": "B.",
+                        "middle": [],
+                        "last": "BARASOWSKI",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K.",
+                        "middle": [],
+                        "last": "BOCKESEA",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "MA3CIHREAK",
+                        "suffix": ""
+                    }
+                ],
+                "year": 167,
+                "venue": "Horan. Chemil",
+                "volume": "41",
+                "issn": null,
+                "pages": "2071",
+                "other_ids": {}
+            },
+            "BIBREF8": {
+                "ref_id": "BIBREF8",
+                "title": "Haleitekt und elcktrischer Widerstand der Systeme A-H und Pd-H.",
+                "authors": [
+                    {
+                        "first": "K.",
+                        "middle": [],
+                        "last": "SCHDIDBAUEE",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1966,
+                "venue": "Thesis. Minchen",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF9": {
+                "ref_id": "BIBREF9",
+                "title": "Z. Elektrochem. er. Hunsenges. phye. Chom.",
+                "authors": [
+                    {
+                        "first": "E.",
+                        "middle": [],
+                        "last": "WicxE",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "NINT",
+                        "suffix": ""
+                    }
+                ],
+                "year": 10,
+                "venue": "Z. Elektrochem. er. Hunsenges. phye. Chom.",
+                "volume": "Gs",
+                "issn": null,
+                "pages": "224",
+                "other_ids": {}
+            },
+            "BIBREF10": {
+                "ref_id": "BIBREF10",
+                "title": "J. phys. Chem.",
+                "authors": [
+                    {
+                        "first": "K.",
+                        "middle": [],
+                        "last": "ALLAED",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "MAELASD",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.W.",
+                        "middle": [],
+                        "last": "Stuos5",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.B.",
+                        "middle": [],
+                        "last": "FLANAGAN",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "J. phys. Chem",
+                "volume": "72",
+                "issn": null,
+                "pages": "136",
+                "other_ids": {}
+            },
+            "BIBREF11": {
+                "ref_id": "BIBREF11",
+                "title": "J. phys. Chem.",
+                "authors": [
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "MaELasD",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.H.",
+                        "middle": [],
+                        "last": "FLANAeAN",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1907,
+                "venue": "J. phys. Chem",
+                "volume": "71",
+                "issn": null,
+                "pages": "1950",
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "Scheme of the high-pressure apparatus for gaseous hydrogen. (I) first piston-cylinder system, (II) second piston-cylinder\nsystem, (a) high-pressure gaseous hydrogen, (b) transmitting liquid, (c) organic glass cylinder, (d) thermostating medium.",
+                "type": "figure"
+            },
+            "FIGREF1": {
+                "text": "Relative electrical resistance of palladium foils as function of the logarithm of the fugacity of gaseous hydrogen\n(curve (a)). Curve (b) gives the relative electrical resistance of palladium as function of atomic ratio H:Pd (non-measured directly). Curve (c) represents the relative electrical resistance if the resistance of pure palladium at pressures\nidentical with the hydrogen pressure applied ($R_{0}^{*}$ ) is taken as reference value.",
+                "type": "figure"
+            },
+            "FIGREF2": {
+                "text": "Curve (a) Relative electrical resistance ($R:R_{0}$) of palladium foils as function of the logarithm of the\nfugacity of gaseous hydrogen. Curve (b) Relative electrical resistance of palladium as function of atomic\nratio H:Pd (non-measured directly). Curve (c) Relative electrical resistance of palladium if the resistance\nof pure palladium at pressures identical with the hydrogen pressures applied ($R_{0}^{*}$) is taken as reference\nvalue.",
+                "type": "figure"
+            },
+            "FIGREF3": {
+                "text": "Relative electrical resistance of Pd-Au (50 wt%) alloy as function of the logarithm of the fugacity of\ngaseous hydrogen. Curve (a) refers to the resistance of the alloy at 1 at ($R_{0}$), curve (b) takes the resistance of the\nalloy under hydrostatic pressure (without hydrogen) as reference value ($R_{0}^{*}$).",
+                "type": "figure"
+            }
+        },
+        "back_matter": [
+            {
+                "text": "We thank Prof. T. B. Flanagan for the communication of his unpublished data and for sending us the specimen of Pd-Au alloy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Acknorledlgements"
+            },
+            {
+                "text": "Baian nknonstn nakn m. nm 10m",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Referenes"
+            },
+            {
+                "text": "( Raceived March 31, 1969)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": null
+            }
+        ]
+    }
+}

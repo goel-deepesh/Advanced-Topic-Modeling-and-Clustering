@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "title": "SEARCH FOR FUSION IN DEUTERATED TRANSITION NETALS: DYNANICAL PRESSURES ABOVE I HECABAR",
+    "authors": [
+      {
+        "first": "F.",
+        "middle": [
+          "M."
+        ],
+        "last": "Mueller",
+        "suffix": "",
+        "affiliation": [
+          "Los Alamos National Laboratory, Los Alamos. NN 87545"
+        ],
+        "email": ""
+      },
+      {
+        "first": "K.",
+        "middle": [
+          "A."
+        ],
+        "last": "Johnson",
+        "suffix": "",
+        "affiliation": [
+          "Los Alamos National Laboratory, Los Alamos. NN 87545"
+        ],
+        "email": ""
+      },
+      {
+        "first": "W.",
+        "middle": [
+          "J."
+        ],
+        "last": "Medina",
+        "suffix": "",
+        "affiliation": [
+          "Los Alamos National Laboratory, Los Alamos. NN 87545"
+        ],
+        "email": ""
+      },
+      {
+        "first": "A.",
+        "middle": [
+          "R."
+        ],
+        "last": "Manthei",
+        "suffix": "",
+        "affiliation": [
+          "Los Alamos National Laboratory, Los Alamos. NN 87545"
+        ],
+        "email": ""
+      },
+      {
+        "first": "C.",
+        "middle": [
+          "L."
+        ],
+        "last": "Talcott",
+        "suffix": "",
+        "affiliation": [
+          "Los Alamos National Laboratory, Los Alamos. NN 87545"
+        ],
+        "email": ""
+      },
+      {
+        "first": "E.",
+        "middle": [
+          "K."
+        ],
+        "last": "Storms",
+        "suffix": "",
+        "affiliation": [
+          "Los Alamos National Laboratory, Los Alamos. NN 87545"
+        ],
+        "email": ""
+      },
+      {
+        "first": "J.",
+        "middle": [
+          "W."
+        ],
+        "last": "Shaner",
+        "suffix": "",
+        "affiliation": [
+          "Los Alamos National Laboratory, Los Alamos. NN 87545"
+        ],
+        "email": ""
+      },
+      {
+        "first": "B.",
+        "middle": [],
+        "last": "Freeman",
+        "suffix": "",
+        "affiliation": [
+          "Los Alamos National Laboratory, Los Alamos. NN 87545"
+        ],
+        "email": ""
+      },
+      {
+        "first": "J.",
+        "middle": [
+          "E."
+        ],
+        "last": "Vorthman",
+        "suffix": "",
+        "affiliation": [
+          "Los Alamos National Laboratory, Los Alamos. NN 87545"
+        ],
+        "email": ""
+      },
+      {
+        "first": "N.",
+        "middle": [
+          "H."
+        ],
+        "last": "Fowler",
+        "suffix": "",
+        "affiliation": [
+          "Los Alamos National Laboratory, Los Alamos. NN 87545"
+        ],
+        "email": ""
+      }
+    ],
+    "abstract": [
+      {
+        "text": "One can conceive a number of possible solid state or metallurgical mechanisms to produce enhanced fluctuation fusion rates in Deuterated Netals. such as Coulomb Sereening. Crowdions. Dislocations. Crack Propagation. Shear Banding. Vacancy and Void Filling. Grain Interstices, Twinning. Tweeding and Surface Reconstruction. Dynamically Shrinking. through pressure. a transition metal lattice containing Deuterium probes all of these possible mechanisms simultaneously to some degree.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "section": "Abstract"
+      },
+      {
+        "text": "A Cylindrical Shock Experiment was performed on Deuterated Pd (O.3 gm) and Ti (O.l gm) foils using a fully recoverable. high pressure, and well tested design. Four gm of Zn was also inserted in the experimental chanber as a post shot neutron radiochemical detector. The system was pressure tested and its free volume was measured. The system was then cleaned to remove gas contaminants, surface poisons or deuterium transfer inhibitors. The system was then back loaded with deuterium at room temperature initially at a pressure of 50 psi which dropped to a pressure of 30 psi of Deuterium gas. The observed uptake rates showed that both foils deuterated to about O.7 D/N for Pd and about $0. 7$ for Ti. The sample container was removed from the loading system, maintaining gas tightness, and inserted into the high explosive configuration. The entire system was then subject to a Dynamical Shock Pressure of greater than O.l Tera Pascals. Prompt Neutron Detectors were placed behind protecting sandbags and Pb bricks in the close proximity of the experiment. Post Shot radiochemical analysis was also performed. The results showed that less than 104 neutrons were generated. No increased neutron flux over background was detected during the several microseconds of Dynamical Pressure on the deuterated foils. We conclude that whatever mechanisms are possible to enhance fusion rates in deuterated transition metals. they were not present at the detection level and pressures of this experiment.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "section": "Abstract"
+      }
+
+    ],
+    "body_text": [],
+    "bib_entries": {},
+    "ref_entries": {},
+    "back_matter": []
+  }
+}

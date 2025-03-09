@@ -1,0 +1,349 @@
+{
+    "metadata": {
+        "title": "Comments on Codeposition Electrolysis Results",
+        "authors": [
+            {
+                "first": "Ludwik",
+                "middle": [],
+                "last": "Kowalski",
+                "suffix": null,
+                "affiliation": [
+                    "Mawrelalr Snte Llaversity; Moncui, N/ 07055, UCSA",
+                    "Mawuclatr Saune Llwiversir; Momtcind, N1 070S5, LCSA"
+                ],
+                "email": null
+            }
+        ],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "Results from SPAWAR-type experiments show that dominant pits, recorded with CR-39 detectors, are probably not due to alpha particles, as originally suspected. Two points of conilict, one experimental and another interprctational, remain to be resolved.\n0 2010 1SCMNS. All rights reserved.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Can a chemical effect, such as electrolysis, trigger a nuclear effect? Numerous investigators, both theoreticians and experimentalists, have been trying to address this interesting question in different ways. This note is based on the most recent experimental contributions of US Navy Space and Naval Warfare System (SPAWAR)scientists 1,2). Their initial results were reproducible, as illustrated by several researchers, including [3]. Subsequent control experiments, deseribed in |1,2]. rule out the possibility of several previously suspected artifacts. For example, neariy all tracks disappear when D $\\big($ O, used to make the electrolyte, is replaced by H2O, or when PdC' $\\frac{} {}$ , also used to make the electrolyte, is replaced by CuCl2.",
+                "cite_spans": [
+                    {
+                        "text": "[3]",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "D $\\big($ O",
+                        "latex": null
+                    },
+                    {
+                        "text": "PdC' $\\frac{} {}$",
+                        "latex": null
+                    }
+                ],
+                "section": "Discussion"
+            },
+            {
+                "text": "Accepting the SPAWAR interpretation, that dominant CR-39 pits are due to a new nuclear process, the author of [4] argued that the recorded projectiles were not alpha particles, as claimed in [5]. The argument was based on the observation that dominant SPAWAR type pits observed in [3] were significantly larger than pits due to alpha particles. The same conclusion can be reached on the basis of photographs shown in [1]. This article is based on another published report [6], which supports the same conclusion: dominant SPAWAR type CR-39 pits are probably not due to alpha particles with energies higher than 2 MeV.",
+                "cite_spans": [
+                    {
+                        "text": "[4]",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "text": "[5]",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "text": "[3]",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "[6]",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "Experimental results described in [1.2] seem to be in conflict with results from a very similar experiment described in [6]. The authors of that paper discovered that at least 99.9% of dominant pits disappeared when a thin Mylar film was",
+                "cite_spans": [
+                    {
+                        "text": "[6]",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "placed between the cathode and the CR-39 detector. The number of remaining pits -200, after 15 days of electrolysis-was significantly larger than in the control chips. In other words, most remaining pits were not due to cosmic rays or to natural radioactivity. The analyzed pits, however, were identified as due to protons, with energies close to 2.5 MeV, and not to alpha particles. The thickness of the Mylar film, 6 um, would not have stopped alpha particles with energies above approximately 2 Mev.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "Note that an electrolytic cell with a thin Mylar window, of the same thickness, was also used by the SPAWAR team., as described in [1]. The authors confirmed a significant reduction (approximately 90%) in the number of pits due to Mylar. This can be interpreted as an indication that about 90% of the pits observed without protecting the detector with Mylar were not due to alpha particles with energies higher than 2 Mev. Unfrtunately, the most recent (2009y SPAWAR paper [1] does not refer to the earlier (2007) paper [6]. The difference between the \"at least 99.9%\" and \"about 90%\" is probably significant. The only obvious discrepancy between experimental conditions of the two teams was the presence of a strong magnetic field in [1] and its apparent absence in [6]. The effect of a magnetic field on the pit density is interesting, it seems to depend on the cathode material, acording to [2).",
+                "cite_spans": [
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "[6]",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "[6]",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "text": "[2)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "Another interesting observation, reported in [1], has to do with the identification of tracks that were recorded when the CR-39 detector was separated from the cathode by the Mylar film. The authors wrote: \"the majority of the particles formed as a result of Pd/D codeposition are 0.45-0.97 MeV protons, 0.55-1.25 MeV tritons, 1.40-3.15 MeV He, andfor 1.45-3.30 MeV alphas.\" This can be interpreted as independently confirming (by a different method) that the contribution of alpha particles to production of dominant pits observed without Mylar is minimal.",
+                "cite_spans": [
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "ldentifying particles listed above via tracks in CR-39 chips is difficult. Fortunately, this can be accomplished with commercially available surface-barrier silicon detectors. The SPAWAR electrolytic cell shown in [1] would be ideal for such a purpose. The guaranteed background noise of some commercially available detectors is one count per hour, provided the energy threshold is set up to 3 MeV. Furthermore\"extensive care regarding detector and chamber cleanliness can result in background count levels as low as 0.05 counts/hvem- of active area, corresponding to 6 counts/24 h, for a 450 mm- active areal'\" at energies higher than about 2 MeV [7].",
+                "cite_spans": [
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "[7]",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "Independent researchers have reported emission of nuclear projectiles produced during the codeposition-type electrolysis. The pits created by the projectiles can be divided into two groups: (a) very numerous, detected without using a thin protective Mylar foil, and (b) much less numerous, detected when the foil is used. The controversy about the nature of the first group of pits was recognized and discussed in [3-5]. The controversy about the second group of pits was not even recognized in [1]; it remains to be discussed. Note, however, that any kind of nuclear projectiles, if independently confirmed, would validate the basic CMNS claim--reality of a nuclear process due to a chemical process. Progress in the field of codeposition electrolysis has been remarkable during the last three years. But points of conflict, boch experimental and interpretational, remain.",
+                "cite_spans": [
+                    {
+                        "text": "[3-5]",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "To what extent are the ahove-mentioned discrepancies due to the \"state of the art\" limitations? That important question was asked by one of the referees. The author of this article was not able to provide an answer. His observations are based on the best information available, that is, on what has actually been published. Hopefully, the existing situation will provide impetus for better experiments.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion"
+            },
+            {
+                "text": "[] P.A. Mosier-Boss, S. Sapak, FE. Gordon and LP.G. Forsley, Characterization of tracks in CR-39 detectars obtuined as a result of Pd/D Co-depusition, Eu: Pkys. J. Appl. Phys. -46 (2009) 30901. The aurticle can be downloaded for CMNS library as: httpalenr-cantorg/acrooa/NMiosierBosscharacteri.pdf",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion"
+            },
+            {
+                "text": "",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": null,
+                "title": null,
+                "authors": [],
+                "year": null,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF1": {},
+            "BIBREF2": {},
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": "Our Galileo Project March 2007 Report, Winter Meeting of American Pkysical Sociery (2007), Cantent f\nthe presentation can be seen at htp:/pages.csam.montelait.edu/--kowalskikc/319galileo.biml",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Kowalski",
+                        "suffix": null
+                    },
+                    {
+                        "first": "et",
+                        "middle": [],
+                        "last": "al",
+                        "suffix": null
+                    }
+                ],
+                "year": 2007,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": "Use of CR-39 in Pd/D co-deposition experiments, Eu. Phy. J. Appl. Phys. 44 (2008) 287290. The article can be\ndownloaded for CMNS library as: http:lenr-canr.org/acrobadKowalskilcoaunentson.pdf",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Kawalski",
+                        "suffix": null
+                    }
+                ],
+                "year": 2008,
+                "venue": null,
+                "volume": "44",
+                "issn": null,
+                "pages": "287290",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": "Use of CR-39 in Pd/D co-depositioa experiments, En: Pkys. J.\nApt. Pkys. 40 (2007) 293303.",
+                "authors": [
+                    {
+                        "first": "P.A",
+                        "middle": [
+                            "Mosier-Bss"
+                        ],
+                        "last": "Szpak",
+                        "suffix": null
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Gordon",
+                        "suffix": null
+                    },
+                    {
+                        "first": "F.E",
+                        "middle": [],
+                        "last": "Farsley",
+                        "suffix": null
+                    },
+                    {
+                        "first": "L.P.G",
+                        "middle": [],
+                        "last": null,
+                        "suffix": null
+                    }
+                ],
+                "year": 2007,
+                "venue": null,
+                "volume": "40",
+                "issn": null,
+                "pages": "293303",
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "BIBREF6",
+                "title": "Analysis of the CR-39 detectors from\nSRI's SPAWAR/Galileo type electrolysis experiments #7 and t5. Signature of possible neutron emission, Pruceedings of ath\nluternarional Workshap on Anomalies in Hydrogen/Dewterinwm Londed Merals, Catania, Italy, Octcber 2007 (pp. 182203); edited\nby Jed Rothwell and Peter Mobberly-",
+                "authors": [
+                    {
+                        "first": "A.G",
+                        "middle": [],
+                        "last": "Lipson",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A.S",
+                        "middle": [],
+                        "last": "Roussetski",
+                        "suffix": null
+                    },
+                    {
+                        "first": "E.l",
+                        "middle": [],
+                        "last": "Saunin",
+                        "suffix": null
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Tanzella",
+                        "suffix": null
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Earle",
+                        "suffix": null
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "McKubre",
+                        "suffix": null
+                    }
+                ],
+                "year": 2007,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": "182203",
+                "other_ids": {}
+            },
+            "BIBREF7": {
+                "ref_id": "BIBREF7",
+                "title": "httpsflwww.jlaborgaccel/inj groupiesteave/motiultra htm also two telephone conwersations with Mr. Kennedy from ORTEC\n(20OT).",
+                "authors": [],
+                "year": 2007,
+                "venue": null,
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {},
+        "back_matter": []
+    }
+}

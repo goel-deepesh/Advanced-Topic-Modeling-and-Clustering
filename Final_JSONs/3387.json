@@ -1,0 +1,408 @@
+{
+    "metadata": {
+        "title": "Molecular dynamies of a dilute solution of hydrogen in palladium",
+        "authors": [
+            {
+                "first": "Lawrence",
+                "middle": [
+                    "R"
+                ],
+                "last": "Pratt",
+                "suffix": null,
+                "affiliation": [
+                    "Los Alawmes National Labovetory, Les Alamas, New Mexico 87345"
+                ],
+                "email": null
+            },
+            {
+                "first": "J.",
+                "middle": [],
+                "last": "Eckert",
+                "suffix": null,
+                "affiliation": [
+                    "Los Alawmes National Labovetory, Les Alamas, New Mexico 87345"
+                ],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": "Molecular-dynamics results on a dilute solution of H in Pd are peesented and compared with avanlable incoherent inelastic newtron-scattering resuits. The embedded-atom model adopted here does a good job of deacribing the H-Pd atomie forces probed by incohcrent inclastic ncutron scattering. The time correlation functions associated with the computed spectra are strongly damped and indicative of the anharmonicity that has been sugested as the principal contribution to the anomn-lous isotope dependence of the supercoaducting transition temperature in PdH. These results highligha the fact that the H-atom vibrations in Pd-H solutions are low-frequency, large-amplitude vibrations relative to vibrations of H atoms in usual covalent interactions. The rms displacement of the H atom from its mcan position in the ccnter of the Pd octahedron compares favorably with the avaulabie neutron-difraction results.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "The calculations were carried out for a system of 256 Pd atoms and one H atom. The Pd atoms were situated initially in a fee lattice with a lattice constant of 3.89 A and the H atom was placed in an octahedral interstitial site. The embedded-atom model description of interatomic forees presented in Rcf. S was uscd without modification except that the model atomic electron densi-s were smoothly truncated on a sphere of radius 7.780 \u03bb This latter distance corresponds to one-half the edge length of the cubical simulation cell within which the interaction potentinl energies and the interatomic forees were computed with the usual periodic boundary conditions. The model atomic electron densities were modified on the segment (6.675,7.780 A) by substitution with a cubic spline which vanished with zcro derivative at the outer boundary. The equations of motion were integrated by the explicit central diference mcthod 1 3 or summed Verlet method.'\" The estimated standard error was obtained by assuming that distimct 20 ps blocks of trajectory were independent samples of the property in question.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. MOLECULAR-DYNAMICS MEIHODS"
+            },
+            {
+                "text": "This paper presents molecular-dynamic simulation results for a dilute solution of hydrogen in palladium and compares the predicted motion of the hydrogen in the oc-chede hetonscan en ahn He cdctcatomn 5737 benefit from current advances in the description of interatomic forces in metallic solutions.-7\nculations focus on dynamical properties for which mca-sured and computed quantities can be simply and directly compared, they provide a new test of the cfhcacy of the model force law used. Such a test is cleurly a prudent step preparatory to atomically detailed theoretical studies of more global thermal properties of hydrogen-metal solutions such as phase transitions and more macroscopic transport processes. Furthermore, these results should be of guidance in describing interatomic forces in more complex metallic systems not satisfactorily trcated by the current models.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "I, INIRODUCTION"
+            },
+            {
+                "text": "Incorporation of hydrogen into metals clicits several phenomenon of intrinsic interest, for examplc, embrittle-ment of the metal The hydrogen-palladium system has probably been studied nore extensiwely than any other metal hydride. It displays unusual isotope effects on temperatures of transition to superconductive behavior.* Phonon-dispersion relations have bcen measured by inelastic neutron scattering for concentrated PdH, sytems, and these phonon spectra have been modeled by lattice-dynamical calculations.0 Molccular-dynamics calculations have been carried out previously'' on an empirical pairwise force model of PdH, in supercritical thermodynamic states.'* Under thosc conditions mach of the interest in PdH, is associated with the transport phenomena typitied by fast ion conductors.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "I, INIRODUCTION"
+            },
+            {
+                "text": "The mean kinetic energy of the system over our observation yiclds a temperature estimate of (29716) $\\\\\\mathbf{k}$ The predicted pressure of $P V / N k_{B} T=( 0. 0 1 )$ 10.02) was realistically low. It is known from experiment that H vibrational motions in Pd occur at frequencies which are low compared to those of H vibrations in usual covalent in-motions may be expected to be largely clussical in character, although quantum-mechanical characteristics are casily observed. This expectations can be tested simply and quantitatively in the context of the present calculations. In particular, the initial quantum-mcchanical correction to the classical-mechanical Helmholtz free energy of the system isl'",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "IIL. RESULTS"
+            },
+            {
+                "text": "The next section records procedural dctails of the moecular-dynamics calculatkons. Secion IIthen presents and discusses the results. The final section notes the conclusions drawn from theve culculations.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "I, INIRODUCTION"
+            },
+            {
+                "text": "$\\\beta A \\\\\\!=\\\\\\! \\\beta A_{\\\\\\mathrm{e m}} \\\\\\!+\\\\\\! {\\\textstyle{\\\frac{1} {8}}} \\\\\\sum_{j=1}^{N} \\\\\\, ( \\\beta\\\\\\hbar\\\\\\Omega_{j} )^{2} \\\\\\!+\\\\\\! o ( H^{2} ) \\\\\\ .",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\\\beta A \\\\\\!=\\\\\\! \\\beta A_{\\\\\\mathrm{e m}} \\\\\\!+\\\\\\! {\\\textstyle{\\\frac{1} {8}}} \\\\\\sum_{j=1}^{N} \\\\\\, ( \\\beta\\\\\\hbar\\\\\\Omega_{j} )^{2} \\\\\\!+\\\\\\! o ( H^{2} )",
+                        "latex": "\\\beta A \\\\\\!=\\\\\\! \\\beta A_{\\\\\\mathrm{e m}} \\\\\\!+\\\\\\! {\\\textstyle{\\\frac{1} {8}}} \\\\\\sum_{j=1}^{N} \\\\\\, ( \\\beta\\\\\\hbar\\\\\\Omega_{j} )^{2} \\\\\\!+\\\\\\! o ( H^{2} )"
+                    }
+                ],
+                "section": "II. RESULTS"
+            },
+            {
+                "text": "$\\\beta=( \\\\\\widehat{k}_{B} T )^{-1}$ Here, A is the Helmholtz free energy and $A_{\\\\\\infty}$ is that free enerev obtained from the classical phas se integral;\nis the inverse temperature in energy units. The frequency l, is",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. RESULTS"
+            },
+            {
+                "text": "$\\\\\\Omega_{j}^{2}=\\\frac{\\\beta\\\\\\langle F_{j}^{2} \\\rangle} {3 m_{j}}",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\\\\\\Omega_{j}^{2}=\\\frac{\\\beta\\\\\\langle F_{j}^{2} \\\rangle} {3 m_{j}}",
+                        "latex": "\\\\\\Omega_{j}^{2}=\\\frac{\\\beta\\\\\\langle F_{j}^{2} \\\rangle} {3 m_{j}}"
+                    }
+                ],
+                "section": "II. RESULTS"
+            },
+            {
+                "text": "where $\\\\\\langle F_{j}^{2} \\\rangle$ is the mean-square foree on particle $\\\\\\jmath$ and m, is the of that particle. The frequency fl, can also be obtained from observation of the classical motion of the jth particle through use of the sum rule",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. RESULTS"
+            },
+            {
+                "text": "$\\\\\\Omega_{j}^{2} {=} \\\frac{\\\\\\int_{-\\\\\\infty}^{\\\\\\infty} d \\\\\\omega\\\\\\, \\\\\\omega^{2} | v_{\\\\\\omega} |^{2}} {\\\\\\int_{-\\\\\\infty}^{\\\\\\infty} d \\\\\\omega| v_{\\\\\\omega} |^{2}} \\\\\\ .",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\\\\\\Omega_{j}^{2} {=} \\\frac{\\\\\\int_{-\\\\\\infty}^{\\\\\\infty} d \\\\\\omega\\\\\\, \\\\\\omega^{2} | v_{\\\\\\omega} |^{2}} {\\\\\\int_{-\\\\\\infty}^{\\\\\\infty} d \\\\\\omega| v_{\\\\\\omega} |^{2}}",
+                        "latex": "\\\\\\Omega_{j}^{2} {=} \\\frac{\\\\\\int_{-\\\\\\infty}^{\\\\\\infty} d \\\\\\omega\\\\\\, \\\\\\omega^{2} | v_{\\\\\\omega} |^{2}} {\\\\\\int_{-\\\\\\infty}^{\\\\\\infty} d \\\\\\omega| v_{\\\\\\omega} |^{2}}"
+                    }
+                ],
+                "section": "II. RESULTS"
+            },
+            {
+                "text": "Here we have used the notation",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. RESULTS"
+            },
+            {
+                "text": "$| v_{\\\\\\omega} |^{2} \\\\\\!=\\\\\\! {\\\frac{1} {2 \\\\\\pi}} \\\\\\! \\\\\\int_{-\\\\\\infty}^{\\\\\\infty} \\\\\\! d t \\\\\\, \\\\\\mathrm{c o s} \\\\\\omega t \\\\\\left< \\\\\\, v \\\\\\left( 0 \\\right) v \\\\\\left( t \\\right) \\\\\\, \\\right> / \\\\\\left< \\\\\\, v \\\\\\, \\\right> \\\\\\;,",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "$| v_{\\\\\\omega} |^{2} \\\\\\!=\\\\\\! {\\\frac{1} {2 \\\\\\pi}} \\\\\\! \\\\\\int_{-\\\\\\infty}^{\\\\\\infty} \\\\\\! d t \\\\\\, \\\\\\mathrm{c o s} \\\\\\omega t \\\\\\left< \\\\\\, v \\\\\\left( 0 \\\right) v \\\\\\left( t \\\right) \\\\\\, \\\right> / \\\\\\left< \\\\\\, v \\\\\\, \\\right> \\\\\\;",
+                        "latex": "| v_{\\\\\\omega} |^{2} \\\\\\!=\\\\\\! {\\\frac{1} {2 \\\\\\pi}} \\\\\\! \\\\\\int_{-\\\\\\infty}^{\\\\\\infty} \\\\\\! d t \\\\\\, \\\\\\mathrm{c o s} \\\\\\omega t \\\\\\left< \\\\\\, v \\\\\\left( 0 \\\right) v \\\\\\left( t \\\right) \\\\\\, \\\right> / \\\\\\left< \\\\\\, v \\\\\\, \\\right> \\\\\\;"
+                    }
+                ],
+                "section": "II. RESULTS"
+            },
+            {
+                "text": "where (u(Olu (r)) is the autocorrelation of the velocity of the particle. With this definition the denominator appearing in Eq. (3) is cqual to l. The present calculations produce the estimate 2.-(97113) meV tor the H-atom solute. This is only a factor of S larger, approximately, than the correspondoing frequency for the Pd atoms (averaged over all the Pd atoms), $\\\\\\Omega_{\\\\\\mathsf{P d}}=( 2 1. 2 \\\\\\pm0. 0 2 )$ mev. The ratio of the frequencies is therefore considerably smaller than the square root of the ratio of the masses, V 106. This implies that the forees on the H solute are typically considerably less then the forces which localized the Pd atoms in the fce solid. This situation is reflected in the fact that the rms displacement of the H atom from $\\\\\\mathbf{\\\\\\lambda}.$ ansunecnentonocnandsdodod",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. RESULTS"
+            },
+            {
+                "text": "$\\\begin{array} {l} {{[ \\\frac{1} {1} ( \\\\\\langle r_{\\\\\\mathrm{H}}^{2} \\\rangle-\\\\\\langle r_{\\\\\\mathrm{H}} \\\rangle^{2} ] ]^{1 / 2}=( 0. 1 )}} \\\\\\end{array}$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "$\\\begin{array} {l} {{[ \\\frac{1} {1} ( \\\\\\langle r_{\\\\\\mathrm{H}}^{2} \\\rangle-\\\\\\langle r_{\\\\\\mathrm{H}} \\\rangle^{2} ] ]^{1 / 2}=( 0. 1 )}} \\\\\\end{array}$",
+                        "latex": "\\\begin{array} {l} {{[ \\\frac{1} {1} ( \\\\\\langle r_{\\\\\\mathrm{H}}^{2} \\\rangle-\\\\\\langle r_{\\\\\\mathrm{H}} \\\rangle^{2} ] ]^{1 / 2}=( 0. 1 )}} \\\\\\end{array}"
+                    }
+                ],
+                "section": "II. RESULTS"
+            },
+            {
+                "text": "where $\\\\\\mathrm{n}$ is the position of the H gtom. This is consistent with the value of 10.2510.10) A cbtained by ncu-tron diffraction on dilute PdH, samples in the neighborhood of 600 K.* The larger value of the measured quantity is understood as a result of the higher temperature state studied by the available experime The ratio of these two quantities is consistent with a $\\\\\\sqrt{r}$ temperature dependence but the size of the estimated errors on the cx-perimental values does not permit a stronger conclusnon.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. RESULTS"
+            },
+            {
+                "text": "The vibrational spectrum of the H-atom motion dlis-solved at low concentrations in Pd has been measured by ments provide directly the Fourier transform of the autocorrelation function",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. A. Ncutron vibrational spectroscopy"
+            },
+            {
+                "text": "$F_{s} ( {\\\bf k}, t ) \\\\\\!=\\\\\\langle\\\begin{array} {l} {{\\\\\\exp[ i {\\\bf k} \\\\\\! \\\\\\cdot\\\\\\! {\\\bf e}_{\\\\\\mathrm{H}} ( t ) ] \\\\\\exp[-i {\\\bf k} \\\\\\! \\\\\\cdot\\\\\\! {\\\bf e}_{\\\\\\mathrm{H}} ( 0 ) ] \\\rangle}} \\\\\\end{array}.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "$F_{s} ( {\\\bf k}, t ) \\\\\\!=\\\\\\langle\\\begin{array} {l} {{\\\\\\exp[ i {\\\bf k} \\\\\\! \\\\\\cdot\\\\\\! {\\\bf e}_{\\\\\\mathrm{H}} ( t ) ] \\\\\\exp[-i {\\\bf k} \\\\\\! \\\\\\cdot\\\\\\! {\\\bf e}_{\\\\\\mathrm{H}} ( 0 ) ] \\\rangle}} \\\\\\end{array}.",
+                        "latex": "F_{s} ( {\\\bf k}, t ) \\\\\\!=\\\\\\langle\\\begin{array} {l} {{\\\\\\exp[ i {\\\bf k} \\\\\\! \\\\\\cdot\\\\\\! {\\\bf e}_{\\\\\\mathrm{H}} ( t ) ] \\\\\\exp[-i {\\\bf k} \\\\\\! \\\\\\cdot\\\\\\! {\\\bf e}_{\\\\\\mathrm{H}} ( 0 ) ] \\\rangle}} \\\\\\end{array}."
+                    }
+                ],
+                "section": "II. A. Ncutron vibrational spectroscopy"
+            },
+            {
+                "text": "For k sfeciently small e an wite",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. A. Ncutron vibrational spectroscopy"
+            },
+            {
+                "text": "$F_{t} ( {\\\bf k}, t ) \\\\\\!=\\\\\\! 1 \\\\\\!+\\\\\\! k_{a} k_{\\\\\\gamma} \\\big( \\\\\\delta r_{a b t} ( t ) \\\\\\delta r_{\\\\\\gamma b t} ( 0 ) \\\big)+o ( k^{2} )",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "$F_{t} ( {\\\bf k}, t ) \\\\\\!=\\\\\\! 1 \\\\\\!+\\\\\\! k_{a} k_{\\\\\\gamma} \\\big( \\\\\\delta r_{a b t} ( t ) \\\\\\delta r_{\\\\\\gamma b t} ( 0 ) \\\big)+o ( k^{2} )",
+                        "latex": "F_{t} ( {\\\bf k}, t ) \\\\\\!=\\\\\\! 1 \\\\\\!+\\\\\\! k_{a} k_{\\\\\\gamma} \\\big( \\\\\\delta r_{a b t} ( t ) \\\\\\delta r_{\\\\\\gamma b t} ( 0 ) \\\big)+o ( k^{2} )"
+                    }
+                ],
+                "section": "II. A. Ncutron vibrational spectroscopy"
+            },
+            {
+                "text": "where $\\\\\\delta r_{\\\\\\mathrm{o H}} ( t ) \\\\\\!=\\\\\\! r_{\\\\\\mathrm{o H}} ( t ) \\\\\\!-\\\\\\! \\\\\\langle r_{\\\\\\mathrm{o H}} \\\rangle$ and $r_{\\\\\\mathrm{o H}} ( t )$ is the ath Cartesian component of the instantancous position of the H atom. The octahedral site of the H atom has cubic symmetry; the mean position is a center of inversion symmetry and cach Cartesian axis is symmetric with the others. Therefore",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. A. Ncutron vibrational spectroscopy"
+            },
+            {
+                "text": "$\\\\\\langle\\\\\\, \\\\\\delta r_{\\\\\\mathrm{o l l}} ( t ) \\\\\\delta r_{\\\\\\gamma\\\\\\mathrm{H}} ( 0 ) \\\\\\, \\\rangle=\\\\\\left\\\\\\{\\\begin{array} {l} {{\\\\\\langle\\\\\\, \\\\\\delta x_{\\\\\\mathrm{H}} ( t ) \\\\\\delta x_{\\\\\\mathrm{H}} ( 0 ) \\\\\\, \\\rangle\\\\\\ \\\\\\mathrm{i f} \\\\\\ \\\\\\alpha=\\\\\\gamma\\\\\\,}} \\\\\\\\\\ {{0\\\\\\ \\\\\\ \\\\\\mathrm{o t h e r w i s e} \\\\\\,}} \\\\\\end{array} \\\right.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "$\\\\\\langle\\\\\\, \\\\\\delta r_{\\\\\\mathrm{o l l}} ( t ) \\\\\\delta r_{\\\\\\gamma\\\\\\mathrm{H}} ( 0 ) \\\\\\, \\\rangle=\\\\\\left\\\\\\{\\\begin{array} {l} {{\\\\\\langle\\\\\\, \\\\\\delta x_{\\\\\\mathrm{H}} ( t ) \\\\\\delta x_{\\\\\\mathrm{H}} ( 0 ) \\\\\\, \\\rangle\\\\\\ \\\\\\mathrm{i f} \\\\\\ \\\\\\alpha=\\\\\\gamma\\\\\\,}} \\\\\\\\\\ {{0\\\\\\ \\\\\\ \\\\\\mathrm{o t h e r w i s e} \\\\\\,}} \\\\\\end{array} \\\right.",
+                        "latex": "\\\\\\langle\\\\\\, \\\\\\delta r_{\\\\\\mathrm{o l l}} ( t ) \\\\\\delta r_{\\\\\\gamma\\\\\\mathrm{H}} ( 0 ) \\\\\\, \\\rangle=\\\\\\left\\\\\\{\\\begin{array} {l} {{\\\\\\langle\\\\\\, \\\\\\delta x_{\\\\\\mathrm{H}} ( t ) \\\\\\delta x_{\\\\\\mathrm{H}} ( 0 ) \\\\\\, \\\rangle\\\\\\ \\\\\\mathrm{i f} \\\\\\ \\\\\\alpha=\\\\\\gamma\\\\\\,}} \\\\\\\\\\ {{0\\\\\\ \\\\\\ \\\\\\mathrm{o t h e r w i s e} \\\\\\,}} \\\\\\end{array} \\\right."
+                    }
+                ],
+                "section": "II. A. Ncutron vibrational spectroscopy"
+            },
+            {
+                "text": "$\\\\\\mathrm{a n d}$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. A. Ncutron vibrational spectroscopy"
+            },
+            {
+                "text": "$F_{\\\\\\mathrm{s}} ( {\\\bf k}, t ) \\\\\\!=\\\\\\! 1 \\\\\\!+\\\\\\! k^{2} ( \\\\\\delta x_{\\\\\\mathrm{H}} ( t ) \\\\\\delta x_{\\\\\\mathrm{H}} ( 0 ) )+\\\\\\! o ( k^{2} ) \\\\\\ .",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "$F_{\\\\\\mathrm{s}} ( {\\\bf k}, t ) \\\\\\!=\\\\\\! 1 \\\\\\!+\\\\\\! k^{2} ( \\\\\\delta x_{\\\\\\mathrm{H}} ( t ) \\\\\\delta x_{\\\\\\mathrm{H}} ( 0 ) )+\\\\\\! o ( k^{2} )",
+                        "latex": "F_{\\\\\\mathrm{s}} ( {\\\bf k}, t ) \\\\\\!=\\\\\\! 1 \\\\\\!+\\\\\\! k^{2} ( \\\\\\delta x_{\\\\\\mathrm{H}} ( t ) \\\\\\delta x_{\\\\\\mathrm{H}} ( 0 ) )+\\\\\\! o ( k^{2} )"
+                    }
+                ],
+                "section": "II. A. Ncutron vibrational spectroscopy"
+            },
+            {
+                "text": "uwr nr nade able experiment' $| \\\\\\mathbf{k} |=4. 9 \\\\\\hat{A}.$ Therefore, $k^{2} \\\\\\langle\\\\\\, 8 x_{H}^{2} \\\\\\, \\\rangle=0. 8,$ and the approximation of Eq, (S) is Hkely to be reasonable but deserves checking- Figure 1 shows the time correlation functions identified in Eqs. (5) and (8l. On the 100 fs time scale associated with the decay. these quantities are strongly similar. The results for $F_{s} ( \\\\\\mathbf{k}, t )$ for nonzero values of |k were obtained by orienting k along a Cartesian axis but averaging over all the vectors in the star of $\\\\\\mathbf{k}$ Since the resulits obeained are not qualitatively changed by changes $\\\\\\mathrm{o f} \\\\\\ | \\\\\\mathbf{k} |$ in this regime, it is reasonable to assume that orientational averaging also would not change the results qualitatively. We note that on this time scalc, thesc atomic motions are strongly damped.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. A. Ncutron vibrational spectroscopy"
+            },
+            {
+                "text": "The spectra of these correlation functions are shown in Fig. 2 over the same range and with approximatcly the same resolution with which the experimental spectrum are avnilable. The experimental spectrum is shown in Fig. 3. The center of cach of these spectra is very close to the center of the measured spectra. The experimental spectrum also shows a shoulder ior perhaps a broad background) extending to higher energy, as do the computed results. However, this is considerably more prominent in",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 2",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "text": "Fig. 3",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "II. A. Ncutron vibrational spectroscopy"
+            },
+            {
+                "text": "lk|=4.9 A; $\\\\\\mathbf{k} \\\\\\vert=6. 5$ shown in Fig. 1. From top to botom: $| \\\\\\mathbf{k} |=0 ( 1 8 \\\\\\pi_{0} |^{2} ) ;$ \nA. These results are displayed over the same range and with approximately the same resolution as the aneasured spectra of Ref. 1.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "II. A. Ncutron vibrational spectroscopy"
+            },
+            {
+                "text": "with quantized overtone transitions for the H vibration. This is not present in the clussical mechanical caleula-tion. However, the intensity in the region between 90 and roughly 120 meV, which does appear to diminish for the |k|--0 spectrum, is likely a reffection of these overtone processes, although described classially,.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. A. Ncutron vibrational spectroscopy"
+            },
+            {
+                "text": "These computed spectra are suffeintly broad that identification of a fundamental frequency might be ambiguous without some dctailed consideration of the line shape. This is exemplified by the power spectrum $v_{\\\\\\omega}^{2}$ of the H-atom velocity of Fig. 4. This line shape differs for tor of $\\\\\\omega^{2}$ the Fourier transform of (bxplrNia $\\\\\\mu( 0 )\\\rangle$ by only a fac-\nBut the quantitative similarity between the molecular-dynamics results and the cxperiment would be",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 4",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "II. A. Ncutron vibrational spectroscopy"
+            },
+            {
+                "text": "significantly clouded if the function of Fig. 4 only were to crconansridhrenearue aestr rinpan calculations which varied the\nverified that these computed spectra do, indeed, shift with the square root of the solute mass, as expected.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 4",
+                        "ref_id": "FIGREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "II. B. Equilibrium structure"
+            },
+            {
+                "text": "The power spectrum of Fig. 4 also can provide the frequency $\\\\\\alpha_{n}$ noted above. The determination of this fre-queney ws us to test the descriptiom of the thermodynamic properties afforded by Eq. (1). In particular, we adns grn onm $k_{s} ( \\\\\\mathbf{H} ),$ for hydrogen disso-",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 4",
+                        "ref_id": "FIGREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "II. B. Equilibrium structure"
+            },
+            {
+                "text": "$k_{S} ( \\\\\\mathbf{H} )=\\\\\\*{\\\\\\lim}_{x_{\\\\\\mathrm{H}} \\\rightarrow0} ( x_{\\\\\\mathrm{H}} / {\\\\\\sqrt{p_{\\\\\\mathrm{H}_{\\\\\\mathrm{t}}}}} )$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "$k_{S} ( \\\\\\mathbf{H} )=\\\\\\*{\\\\\\lim}_{x_{\\\\\\mathrm{H}} \\\rightarrow0} ( x_{\\\\\\mathrm{H}} / {\\\\\\sqrt{p_{\\\\\\mathrm{H}_{\\\\\\mathrm{t}}}}} )$",
+                        "latex": "k_{S} ( \\\\\\mathbf{H} )=\\\\\\*{\\\\\\lim}_{x_{\\\\\\mathrm{H}} \\\rightarrow0} ( x_{\\\\\\mathrm{H}} / {\\\\\\sqrt{p_{\\\\\\mathrm{H}_{\\\\\\mathrm{t}}}}} )"
+                    }
+                ],
+                "section": "II. B. Equilibrium structure"
+            },
+            {
+                "text": "where $x_{1}$ is the mole fraction of hydrogen (H) in the metal and $P_{n_{2}}$ is the pressure of hydrogen gas (Hy) in the vapor c. We then inquire about the ratio $[ k_{s} ( \\\\\\mathbf{H} ) / k_{s} ( \\\\\\mathbf{D} ) ].$ The differences of the gas phases, Hy versus $\\\\\\mathbf{D}_{2}$ makes a very large contribution to this ratio. Thise ibution can be obtained from textbook material.'\" The nonclassical character of the atomic motion in the metal which is identifed by Eq. (1) contributes a factor of",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. B. Equilibrium structure"
+            },
+            {
+                "text": "$\\\\\\exp\\\\\\left[ \\\frac{1} {k} \\\\\\left[ \\\frac{m_{\\\\\\mathrm{H}}-m_{\\\\\\mathrm{D}}} {m_{\\\\\\mathrm{D}}} \\\right] ( \\\beta\\\\\\hbar\\\\\\Omega_{\\\\\\mathrm{H}} )^{2} \\\right] \\\\\\approx0. 4 \\\\\\.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "$\\\\\\exp\\\\\\left[ \\\frac{1} {k} \\\\\\left[ \\\frac{m_{\\\\\\mathrm{H}}-m_{\\\\\\mathrm{D}}} {m_{\\\\\\mathrm{D}}} \\\right] ( \\\beta\\\\\\hbar\\\\\\Omega_{\\\\\\mathrm{H}} )^{2} \\\right] \\\\\\approx0. 4",
+                        "latex": "\\\\\\exp\\\\\\left[ \\\frac{1} {k} \\\\\\left[ \\\frac{m_{\\\\\\mathrm{H}}-m_{\\\\\\mathrm{D}}} {m_{\\\\\\mathrm{D}}} \\\right] ( \\\beta\\\\\\hbar\\\\\\Omega_{\\\\\\mathrm{H}} )^{2} \\\right] \\\\\\approx0. 4"
+                    }
+                ],
+                "section": "II. B. Equilibrium structure"
+            },
+            {
+                "text": "This gives rise to an estimate of $[ k_{S} ( \\\\\\mathbf{H} ) / k_{S} ( \\\\\\mathbf{D} ) ] \\\\\\approx1. 1$ imental value.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. B. Equilibrium structure"
+            },
+            {
+                "text": "In view of the satisfactory agreement between the computed and mcasured vibrational spectrum for the H im-",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. B. Equilibrium structure"
+            },
+            {
+                "text": "purity, it seems likely that this discrepancy between the computed and meusured differential solubiity of H versus D indicates that the simplest description of the quantum mechanics, Eq. (1), s not satsfactonly accurate for the sytem under the present conditions. Ideas for numerically exact calculation of such effects have been the focus of recent research. Suitable basic approaches for these tasks have been clearly articulated and successful applications have been prescatly already.l-) However, dctailed implementations differ with the detais of the different problems which have been considered. We expect to return to this issue with subsequent work.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "II. B. Equilibrium structure"
+            },
+            {
+                "text": "The radial distribution functions obtained from thesc calculations appear in Fig. S. The cxpected and observed features of the Pd-H radial distribution are considerably bronder than those of the Pd-Pd distribution. This is associated with the above observation that the H atom vibrational motion is a low-frequency, large-amplitude motion compared to H vibration under typically covalent interactions. The rms displacement of the H atom which characterizes the Debye-Waller factor was given above and compured wnth expenmental values. An alternative way of displaying the relatively large amplitude of the H atom motions is given in Fig. $.$ There the Pd-H poten-ARAAA remarkably slowly varying over a spatial region within Q.1 A of the expected erystallorapie dislcement of",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. S",
+                        "ref_id": "FIGREF6"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "II. B. Equilibrium structure"
+            },
+            {
+                "text": "The embedded-ntom model adopted here does a good job of describing the H-Pd atomic forees probed by incoherent inelastic neutron scattering. The results highlight the fact that the H atom vibrations in PdH solutions are low-frequency large-amplitude vibrations relative to vibrations of H atoms in usual covalent interactions. The rms displacement of the H atom from its means position in the center of the Pd octahedron compares favorably with the available neutron-diffraction results. The solubility differences between H and D are not accurately described by the present calculation. This likely due to the perturbative treatment of the quantum-mechanical corrections to the thermodynumic properties which has beem tested here. In subsequent work, we expect to study the solubility of these isotopes with numerical path-integral methods for description of the quantum-mechanical nature of the H motion under these conditions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "IV. CONCLUSIONS"
+            },
+            {
+                "text": "The anharmonic character of the dynamies studied here deserves emphasis. It has been argued that this anharmonicity is the principal contribution to the anomalous isotope dependence of the supereonducting transi-",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "IV. CONCLUSIONS"
+            },
+            {
+                "text": "tan Rkr $2$ Phys. B 55, 23 PR. Hempleman and J. J. Rush, in Hydroges in Disordered and Amorphous Solids, edited by G. Bambak",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "IV. CONCLUSIONS"
+            }
+        ]
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "metadata": {
+        "title": "Helium Isotopes from Deuterium Absorbed in LaNis",
+        "authors": [
+            {
+                "first": "Hiroki",
+                "middle": [],
+                "last": "SAKAGUCHI",
+                "suffix": null,
+                "affiliation": [
+                    "Department of Applied Chemistry. Faculty of Engineering.\nosaka University. Yamadaoka, Suita, Osaka S6S, JAPAN"
+                ],
+                "email": null
+            },
+            {
+                "first": "Gin-ya",
+                "middle": [],
+                "last": "ADACHI",
+                "suffix": null,
+                "affiliation": [
+                    "Department of Applied Chemistry. Faculty of Engineering.\nosaka University. Yamadaoka, Suita, Osaka S6S, JAPAN"
+                ],
+                "email": null
+            },
+            {
+                "first": "Keisuke",
+                "middle": [],
+                "last": "NAGAO",
+                "suffix": null,
+                "affiliation": [
+                    "Institute of Study of the Earth's Interior, Okayama\nUniversity, Misasa, Tottori 682-02, JAPAN"
+                ],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": "Helium isotopes(He and He) from Da or H: gases absorbed in LaNis were analyzed with a noble gas mass spectrometer. The reproducible increase in JHe, corre-sponding to a fusion probability of >8.0x10-2e d-d-s-l, was observed on the $a_{2}$ -experiment, whereas JHe was not formed by the\nreaction of H and LaNi,. -He production was unreliable,\nbecause the reproducibility of the result has not been\nobtained.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            },
+            {
+                "text": "Helium is a suitable candidate in order to detect the cold fusion product, because helium generated can be accumulated and condensed in a closed system even ir the nuclear reaction occurs instantaneously or discontinu-ouslv.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            },
+            {
+                "text": "From this point of view, we have made a thorough\nstudy of the helium isotopes from the $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\circ_{2}$ gas absorbed in LaNig by using a noble gas mass spectr eteri-) since\nFleischmann and Ponsl and Jones et al.s) reported the\noccurrence of cold fusion.",
+                "cite_spans": [
+                    {
+                        "text": "l",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "s",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "section": "Abstract"
+            },
+            {
+                "text": "It is necessary to measure not only JHe and -He but\nalso other noble gases, because the elemental abundance\nof these gases suggests the origin of the helium iso-\ntopes. The estimation of the increase in He needs the\ngreatest care since the amount of 4He in the closed system is easy to be affected by the atmospheric He due to the air leakage. Such a work that only He has been measured is out of the question.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            },
+            {
+                "text": "we present the results of the precision analysis for the helium isotopes and other noble gases in the Dn gas",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "The reaction vessels(3.23x10-5) sealed with a copper gasket, gas samplers and vacuum-gas connecting lines were made of stainless steel to exclude helium in air. The\nreaction vessels were previously degassed by heating at 1123 K for half a day in vacuo. After loading in the\nvessels, the LaNis ingots(52.5 g) was heated at 1123 K for 18 h in the evacuated vessels, and then a portion of the resuiting gas was collected in a sampler(\"Degas\" in Table 1). The 99.5 t pure Dp gas or 99.999 % pure Ha gas were\napplied to the LaNis ingots at a pressure of 7.9x10s Pa.\nSince a large amount of helium was initially contained in the raw $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathtt{D_{2}}$ or He gas, the helium gas was removed by\nevacuating while the applied hydrogen gas was absorbed in the LaNi, ingot. After removing the helium gas, a part of the residual gas was collected in a sampler (\"Ante-reacted gas\" in Table l) .The temperature fluctuation process\n(77e300 K) to the vessel containing the hydrogenated\nLaNi, was repeated 135 times over a period of 130.0 days (2nd run;l3i times, 120.4 days), and a portion of the gas separated from the $0_{2}$ or Ha gas was withdrawn into another sampler(\"Post-reacted gas\" in Table l).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Table 1",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "text": "Table l",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "text": "Table l",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Exnerimantal detaiis"
+            },
+            {
+                "text": "A VG5400 mass spectrometer(Operating in the \"static\" mode) and a noble gas purification system installed at\nokayama University were used for helium isotopic analy-\nses. The detection limit of helium with this apparatus\nwas about 10-20 mJ STP(lOS atoms). For helium isotopic analyses, the mass resolutions necessary to separate the hydrogen and deuterium peaks are sio, 4o0 and 1o0 for He-\nHD, He-Hy and iHe-D, respectively, so that the high resolution{600) collector was used for the He analyses and\nthe low resolution(2o0) collector was used to separate 4He and $0=$ . The helium background of the system was about less than 1x10-16 m STP(<109 atoms) and 1x1O-2 m3 STP(<10S at-\noms) for He and He respectivel $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda}$ .",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Exnerimantal detaiis"
+            },
+            {
+                "text": "Nucleonic helium may be detected as an isotopic ratio different from the ratio of helium initially con-\ntained in the $D_{2}$ gas. The helium isotopic ratio, however, can be changed by air leakage and physical processes such as diffusional transport. Therefore, to determine such an effect on the helium isotopic ratio, the elemental abundance of neon, argon, krypton and xenon was measured in addition to the helium isotopic ratios in some of the\nsample gases.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results and niscussion"
+            },
+            {
+                "text": "Elemental abundances of helium, neon, argon, krypton and xenon, and isotopic ratios of He and He are listed",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results and niscussion"
+            },
+            {
+                "text": "in Table l. We assumed that the nuclear reaction occurs at the surface or near surface of LaNis and that the\ngenerated helium is released from LaNis with hydrogen. on the experiment using the D2 gas, it is noteworthy that the amount of JHe(2.74(0.83}x10f atoms) increased in the gas obtained after the repeated temperature cycling, while no enrichment of He was observed for the H-experiment. The phenomenon was reproduced in the second run. The increase in 4He(4.09(0.64} x10tl atoms) was also observed in the\nfirst run. The sHe production, however, was unreliable,\nbecause the reproducibility of the phenomenon was not\nobtained in the second run.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Table l",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results and niscussion"
+            },
+            {
+                "text": "The enhancement of He as well as He may be caused by only the air leakage. If we assume that the increment of He originated from the atmosphere, then it should be accompanied by 5.72(0.90)x10S atoms of JHe which is derived by using the atmospheric ratio of 1.399x10-6. Thus, the excess of JHe is 2.17(0.92)x106 atoms. Assuming that the -2.2x106 atoms He generated by the Dz gas(2.5x 102 molecules) absorbed in LaNi, during a period of the temperature fluctuation process for l.lxlO7 S, we obtained a lower limit of -8.Ox10-29 fusion/d-d's-l based on the reaction d + d - JHe + n. The fusion probability is comparable to that given by Jones et al.Sl and Menlove.o",
+                "cite_spans": [
+                    {
+                        "text": "Sl",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "text": "o",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results and niscussion"
+            },
+            {
+                "text": "Figure l shows the noble gas elemental abundance relative to that in air, expressing the following equation,\n $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\prime$  $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\epsilon}$",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure l",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results and niscussion"
+            },
+            {
+                "text": "where rx is the noble gas element with mass m and the subscript \"atmosphere\" means the atmospheric elemental able l. Contents and isotopic ratios of He, Ne, Ar, Kr and Xe.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results and niscussion"
+            },
+            {
+                "text": "The elemental abundance\npatterns provide significant\ninformation regarding the isotopic anomaly of helium ob-\nserved in this work, such as\nthe air leakage and the diffusional transport. If the leakage of air into the vessel\noccurred during the temperature fluctuation process, the abundance pattern of the post-\nreacted gas would be close to\nthat of air(logF(m)-O). The\nincrease in JHe was not significantly affected by the air\ncontamination, because the a-\nbundance patterns for both ante-and post-reacted gases resembled each other, and were mch different from those for air. The possibility of the diffusional transport was also denied due tc two patterns of the ante- and oc",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conelusions"
+            },
+            {
+                "text": "transport was also denied due to the coincidence of the two patterns of the ante- post-reacted gases.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conelusions"
+            },
+            {
+                "text": "The enrichment of He was observed in the $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathtt{D}_{2}$ gas\nabsorbed by LaNi, after the repeated temperature fluctuation cyeling. The phenomenon, however, was not obtained from the H-experiment. The elemental abundance patterns indicate that the increase of JHe was not obviously caused by the air leakage. The fusion prebabilit $,$ estimated by the He production was >8.0x10-24 fusion/d-d s-l which is\nin agreement with the value determined by Jones et al. or Menlove.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conelusions"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "Sakaguchi, H., Nagao, K. and Adachi. G., Proc. Topical\npf. on cold busion, osaka, February 27-2,(199o)",
+                "authors": [
+                    {
+                        "first": "H.",
+                        "middle": [],
+                        "last": "Sakaguchi",
+                        "suffix": null
+                    },
+                    {
+                        "first": "K.",
+                        "middle": [],
+                        "last": "Nagao",
+                        "suffix": null
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Adachi",
+                        "suffix": null
+                    }
+                ],
+                "year": 1990,
+                "venue": "Proc. Topical\npf. on cold busion, osaka",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "Sankei Shinbun, Sangyo Keizai Shinbun, Osaka, 17077, March 8, (1990}.",
+                "authors": [],
+                "year": 1990,
+                "venue": "Sankei Shinbun, Sangyo Keizai Shinbun, Osaka",
+                "volume": null,
+                "issn": null,
+                "pages": "17077",
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": "Adachi, G., Sakaguchi, H. and Nagao, N., 1992, J.\nAlloys & Compd. 18l, 469.",
+                "authors": [
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Adachi",
+                        "suffix": null
+                    },
+                    {
+                        "first": "H.",
+                        "middle": [],
+                        "last": "Sakaguchi",
+                        "suffix": null
+                    },
+                    {
+                        "first": "N.",
+                        "middle": [],
+                        "last": "Nagao",
+                        "suffix": null
+                    }
+                ],
+                "year": 1992,
+                "venue": "J.\nAlloys & Compd",
+                "volume": "18l",
+                "issn": null,
+                "pages": "469",
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": "Fleischmann, M. and Pons, S., 1989, J. Electroanal.\nChem. 261, 301.",
+                "authors": [
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Fleischmann",
+                        "suffix": null
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Pons",
+                        "suffix": null
+                    }
+                ],
+                "year": 1989,
+                "venue": "J. Electroanal.\nChem",
+                "volume": "261",
+                "issn": null,
+                "pages": "301",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": "Jones, S. E. et al., 1989, Nature, 338, 737.",
+                "authors": [
+                    {
+                        "first": "S.",
+                        "middle": [
+                            "E."
+                        ],
+                        "last": "Jones",
+                        "suffix": null
+                    }
+                ],
+                "year": 1989,
+                "venue": "Nature",
+                "volume": "338",
+                "issn": null,
+                "pages": "737",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": "Menlove, H. O., Workshop on Cold Fusion Phenamena,\nSanta Fe, NM, Meeting Abstracts LA-UR-89-1974, (1989).",
+                "authors": [
+                    {
+                        "first": "H.",
+                        "middle": [
+                            "O."
+                        ],
+                        "last": "Menlove",
+                        "suffix": null
+                    }
+                ],
+                "year": 1989,
+                "venue": "Workshop on Cold Fusion Phenamena,\nSanta Fe, NM, Meeting Abstracts",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF6": {}
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": null,
+                "type": "figure"
+            },
+            "FIGREF1": {
+                "text": null,
+                "type": "figure"
+            },
+            "TABREF1": {
+                "text": null,
+                "type": "table"
+            }
+        },
+        "back_matter": []
+    }
+}

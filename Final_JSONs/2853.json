@@ -1,0 +1,467 @@
+{
+    "metadata": {
+        "title": "Measurements of Excess Power Effects In Pd/D2O Systems Using a New Isoperibolic Calorimeter",
+        "authors": [
+            {
+                "first": "M.",
+                "middle": [
+                    "H."
+                ],
+                "last": "Miles",
+                "suffix": null,
+                "affiliation": [
+                    "Diuie State Caliege, St. Giearge, UT 84770, USA"
+                ],
+                "email": null
+            },
+            {
+                "first": "M.",
+                "middle": [
+                    "H."
+                ],
+                "last": "Miles",
+                "suffix": null,
+                "affiliation": [
+                    "Diuie State Caliege, St. Giearge, UT 84770, USA"
+                ],
+                "email": null
+            },
+            {
+                "first": "M.",
+                "middle": [],
+                "last": "Fleischmann",
+                "suffix": null,
+                "affiliation": [
+                    "Rury Ledge. Dock Sitreet, Tishur. Salfinbur. Wilts SP3 6L, UK"
+                ],
+                "email": null
+            },
+            {
+                "first": "M.",
+                "middle": [],
+                "last": "Fleischmann",
+                "suffix": null,
+                "affiliation": [
+                    "Rury Ledge. Dock Sitreet, Tishur. Salfinbur. Wilts SP3 6L, UK"
+                ],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": "Relatively inexpensive isoperiholic calorimeters have been designed and constructed with the goal of obtuining a constant heat transfer coeflicient that is insensitive to normal changes in the electrolyte level during electrolysis. Four prototypes were constructed from copper tubing and used different insulating materials. Preliminary tests on two of these new calcrimcters show excellent stability for the cell temperature measurements, stable heat transfer coefficients during electrolysis, aund precise power measurements. lnital applieatons include nitrate electrolytes and co-depsition systems. There was no evidence for any shuttle reactions in these",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "An important goal for isoperibolic calorimeters is a constant heat transfer coefficient that does not change as the electrolyte level decreases due to the electrolysis and evaporation. All measurements could then be evaluated with a single, predetermined value for the heat transfer ccefficient. The placement of the thermistors in a secondary compartment outside the cell has been shown to minimize the cell electrolyte level effect 1-4]. This type of calorimeter ean then be modeled as a fluid in which the electrochemical cell serves as a heating element for the substance in the adjacent compartment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction: Design Considerations"
+            },
+            {
+                "text": "The size of the calorimetric system must be carefully considered in the design. Large systems give slower electrolyte level changes along with larger heat capacities and time constants. Small calorimetric cells yield faster electrolyte level changes and smaller heat capacities and time constants, but their small cell volumes require more frequent makeup of H2O or D2O additions. The heat transfer coefficient will also increase with the surface area of the calorimetric system.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction: Design Considerations"
+            },
+            {
+                "text": "Although more complicated than Eq. (8) for heat transfer by conduction, the use of Eq. (10) for Dewar cells in a previous Pd-B study readily shows the pesenc of the \"beat-afer-death efect [5].",
+                "cite_spans": [
+                    {
+                        "text": "[5]",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "(8)",
+                        "latex": null
+                    },
+                    {
+                        "text": "(10)",
+                        "latex": null
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "Potassium nitrate (KNOy) has been widely used for years by electrochemists as an inert supporting electrolyte. However, it has been propsed that shuttle reactions involving nitrates may give false excess powver effects 10]. Theoretically, $\\\\\\\\\\\\\\mathrm{o r} \\\\\\\\\\\\\\, \\\\\\\\\\\\\\mathrm{N H}_{4}^{+}$ the nitrate ion may be reduced at the cathode to form various gaseous nitrogen oxides, nitrite ions $\\\\\\\\\\\\\\mathrm{N O_{2}^{-}}$ ), or even $\\\\\\\\\\\\\\mathbf{N}_{2}$ \n. With the use of special electrocatalyts and conditions, some electrochemical reduction of nitrates is possible [11]. In molten nitrates (LiNOy-KNO3) at elevated temperatures (250*C), there exists a large 4.5 $\\\\\\\\\\\\\\mathbf{v}$ electrostability region between the reduction of lithium ions and the oxidation of nitrate ions [12,13]. This demonstrates the stability of the nitrate ion even at high temperatures. The anodic limit for the ntrate melt is the oxidation of the ntrate ion, $\\\\\\\\\\\\\\mathrm{N O_{3}^{-} \\\\\to N O+O_{2}+e^{-}.}$ followed by the further reaction of NO with oxygen to form brown NO2 gas [12].",
+                "cite_spans": [
+                    {
+                        "text": "10]",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "text": "[11]",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "text": "[12,13]",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Because of the proposed shuttle reactions involving nitrates [10], an initial study using this new isoperibolic calorimeter was the investigation of 0.154 M KNOy in Cell B. This study used a platinum wire cathode (1 mm $=$ 15 mm)and a platinum coil anode. The H.0 + 0.154 M KNOvPt system was investigated over several days of electrolysis at currents of 80, 100, and 150 mA. These were no measurable excess power effects. The correct value of $k_{\\\\\bf C}^{\\\\\\\\\\\\\\prime}=0. 1 3 3$ W/K was obtained using Cell B and assuming $P_{X}=0$ . Therefore $k_{\\\\\\\\\\\\\\mathrm{{c}}} \\\\\\\\\\\\\\mathrm{{-}} k_{\\\\\\\\\\\\\\mathrm{{C}}}^{\\\\\\\\\\\\\\prime}=0$ and $P_{X}=0$ from Eg. (5). Recent cyelic voltam-metrie studies on KNO3tNaNO2 have confirmed that there are no reversible reactions involving nitrates or nitrites that could act as shuttle reactions.",
+                "cite_spans": [
+                    {
+                        "text": "[10]",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "(5)",
+                        "latex": null
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "The measured pH of the 0.154 M KNO: solution, however, changed from near neutral initially $( \\\\\\\\\\\\\\mathrm{p H}=7. 0 2 )$ to $\\\\\\\\\\\\\\mathrm{p H}=1 0. 2 4$ at the end of this study. Any electrochemical reaction of NC $\\\\\\\\\\\\\\cdot$ ions to form a neutral product such as $\\\\\\\\\\\\\\mathrm{N O_{2}}$ NO or N $=$ results in the production of OH-ions to maintain electroneutrality. For the total of 27,626 C used in this study, the ooserved pH change could be explained by 0.003%% of the current being consumed by the reaction of $\\\\\\\\\\\\\\mathrm{N O}_{3}^{-}$ to form a neutral product. The remaining 99.997% of the current was apparently consumed by the expected $( E_{H} )$ H-0 electrolysis. The electrochemical reaction of nitrates would, therefore, change the thermoneutral potential",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "when the current is of. The rearngement and integration of this differential quation yields",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "$$\\\\\\\\\\\\\\ln( T+T_{\\\\\\\\\\\\\\mathfrak{b}} ) ( T_{\\\\\\\\\\\\\\mathrm{o}}-T_{\\\\\\\\\\\\\\mathfrak{b}} ) / ( T_{\\\\\\\\\\\\\\mathrm{o}}+T_{\\\\\\\\\\\\\\mathfrak{b}} ) ( T-T_{\\\\\\\\\\\\\\mathfrak{b}} )+2 \\\\\tan^{-1} ( T / T_{\\\\\\\\\\\\\\mathfrak{b}} )-2 \\\\\tan^{-1} ( T_{\\\\\\\\\\\\\\mathrm{o}} / T_{\\\\\\\\\\\\\\mathfrak{b}} )=4 T_{\\\\\\\\\\\\\\mathfrak{b}}^{3} k_{\\\\\\\\\\\\\\mathrm{f f}} t / C_{\\\\\\\\\\\\\\mathrm{p}} M.$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\\\\\\\\\\\\\\ln( T+T_{\\\\\\\\\\\\\\mathfrak{b}} ) ( T_{\\\\\\\\\\\\\\mathrm{o}}-T_{\\\\\\\\\\\\\\mathfrak{b}} ) / ( T_{\\\\\\\\\\\\\\mathrm{o}}+T_{\\\\\\\\\\\\\\mathfrak{b}} ) ( T-T_{\\\\\\\\\\\\\\mathfrak{b}} )+2 \\\\\tan^{-1} ( T / T_{\\\\\\\\\\\\\\mathfrak{b}} )-2 \\\\\tan^{-1} ( T_{\\\\\\\\\\\\\\mathrm{o}} / T_{\\\\\\\\\\\\\\mathfrak{b}} )=4 T_{\\\\\\\\\\\\\\mathfrak{b}}^{3} k_{\\\\\\\\\\\\\\mathrm{f f}} t / C_{\\\\\\\\\\\\\\mathrm{p}} M.",
+                        "latex": "\\\\\\\\\\\\\\ln( T+T_{\\\\\\\\\\\\\\mathfrak{b}} ) ( T_{\\\\\\\\\\\\\\mathrm{o}}-T_{\\\\\\\\\\\\\\mathfrak{b}} ) / ( T_{\\\\\\\\\\\\\\mathrm{o}}+T_{\\\\\\\\\\\\\\mathfrak{b}} ) ( T-T_{\\\\\\\\\\\\\\mathfrak{b}} )+2 \\\\\tan^{-1} ( T / T_{\\\\\\\\\\\\\\mathfrak{b}} )-2 \\\\\tan^{-1} ( T_{\\\\\\\\\\\\\\mathrm{o}} / T_{\\\\\\\\\\\\\\mathfrak{b}} )=4 T_{\\\\\\\\\\\\\\mathfrak{b}}^{3} k_{\\\\\\\\\\\\\\mathrm{f f}} t / C_{\\\\\\\\\\\\\\mathrm{p}} M."
+                    }
+                ],
+                "section": "Experimental Tests for Shuttle Reactions"
+            },
+            {
+                "text": "ure 2. Cooling curve data of Fig. 1 wsing the iniegrated equaion wbere -ln (7) repreoents the lef-and side of Eq. (6",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "(6",
+                        "latex": null
+                    }
+                ],
+                "section": "Experimental Tests for Shuttle Reactions"
+            },
+            {
+                "text": "(10)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "(10)",
+                        "latex": null
+                    }
+                ],
+                "section": "Experimental Tests for Shuttle Reactions"
+            },
+            {
+                "text": "The heat capacity of the cell can also be estimated by considering the heat capacity of all materials in the cell or in contact with the cell that undergo the same temperature changes. These calculations give 208 J/K for the 50.0 mL of H2O used, 133 J/K for the 344 g of the inner copper cylinder, 84 J/K for 50 mL of Mobil-1 oil, 31 J/K for 42 g of the glass cell, and 2 J/K for the copper cathode, platinum wire, palladium and nickel present. The calculated total of total for $C_{\\\\\\\\\\\\\\mathrm{p}} M$ 458 J/K is close to the measured value for $C_{\\\\\\\\\\\\\\mathrm{p}} M$ \u4e0am\u4e0aaedhedi on \u533aescaceaned\nwould be 483 J/K. Methods tor minimizing the effect of errors for $C_{\\\\\\\\\\\\\\mathrm{p}} M$ \n[3,7].",
+                "cite_spans": [
+                    {
+                        "text": "[3,7]",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "text": "[7]",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Estimated heat capasity"
+            },
+            {
+                "text": "t should be noted that cooling curves such as Figs. 1 and 2 provide a useful method for determining lingering excess power effects or \"heat-after-death\" when electrolysis ceases in active D.O/Pd experiments. Cell cooling that departs from Eq. (8) or Fig. 2 would be readily apparent. Such studies of cooling curve behavior are planned for future D2O/Pd experiments. A previous study of Pd-B/D2O in a Dewar type cell showed marked deviations from the expected cooling curve behavior (see pp. 22-23 and Figs. A.23 and A.24 of Ref. (5]). For heat transfer by radiation with no excess power present, Eq. (1) becomes",
+                "cite_spans": [
+                    {
+                        "text": "(5]",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Figs. 1",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "text": "Fig. 2",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [
+                    {
+                        "text": "(8)",
+                        "latex": null
+                    },
+                    {
+                        "text": "(1)",
+                        "latex": null
+                    }
+                ],
+                "section": "Detection of \"Heat After Death\" effects"
+            },
+            {
+                "text": "$$C_{\\\\\\\\\\\\\\mathrm{p}} M {\\\\\\\\\\\\\\mathrm{d}} T / {\\\\\\\\\\\\\\mathrm{d}} t=-k_{\\\\\\\\\\\\\\mathrm{R}} ( T^{4}-T_{\\\\\\\\\\\\\\mathrm{b}}^{4} ),$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "C_{\\\\\\\\\\\\\\mathrm{p}} M {\\\\\\\\\\\\\\mathrm{d}} T / {\\\\\\\\\\\\\\mathrm{d}} t=-k_{\\\\\\\\\\\\\\mathrm{R}} ( T^{4}-T_{\\\\\\\\\\\\\\mathrm{b}}^{4} ),",
+                        "latex": "C_{\\\\\\\\\\\\\\mathrm{p}} M {\\\\\\\\\\\\\\mathrm{d}} T / {\\\\\\\\\\\\\\mathrm{d}} t=-k_{\\\\\\\\\\\\\\mathrm{R}} ( T^{4}-T_{\\\\\\\\\\\\\\mathrm{b}}^{4} ),"
+                    }
+                ],
+                "section": "Detection of \"Heat After Death\" effects"
+            },
+            {
+                "text": "Table $\\\\\\\\\\\\\\i$ Hecat capuciy Cp.Mf) for Cell B eakeulated from the coolimg Curve of Fig l using the differential equation (Eq. (8)A",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "(8)",
+                        "latex": null
+                    }
+                ],
+                "section": "Detection of \"Heat After Death\" effects"
+            },
+            {
+                "text": "(9)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "(9)",
+                        "latex": null
+                    }
+                ],
+                "section": "Detection of \"Heat After Death\" effects"
+            },
+            {
+                "text": "where $\\\\\\\\\\\\\\imath$ is the constant current, $\\\\\beta$ is the fraction of D2O lost by evaporation, and $\\\\\\\\\\\\\\gamma$ is the current efficiency for electrolysis. Thus, a more exact expression used in earlier publication by Fleischmann and Pons is",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "where $\\\\\\\\\\\\\\Delta T \\\\\\\\\\\\\\,=\\\\\\\\\\\\\\, T \\\\\\\\\\\\\\,-\\\\\\\\\\\\\\, T_{\\\\\\\\\\\\\\mathfrak{b}}$ For constant $T_{\\\\\\\\\\\\\\mathrm{b}}$ 4 $I \\\\\\\\\\\\\\Delta T / {\\\\\\\\\\\\\\mathrm{d}} t \\\\\\\\\\\\\\,=\\\\\\\\\\\\\\, {\\\\\\\\\\\\\\mathrm{d}} T / {\\\\\\\\\\\\\\mathrm{d}} t$ . Except for small cells and large currents, the simpler Eq. (A.2) is adequate.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "Eq. (A.2)",
+                        "latex": null
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "In chemical kineties. the differential equations for the rates of the reactions are seldom used because the integrated expressions are much more accurate. The use of numerical integration of the calorimetric data also results in greater accuracy. Integrals can be numerically evaluated by using the mean value of the function and the integration limits. Mathematically,",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "where $u$ and $\\\\\\\\\\\\\\cdot$ are the integration limits and $\\\\\\\\\\\\\\{f ( x ) \\\\\\\\\\\\\\}$ is the mean value of the function. Other approximate integration methods can also be used such as Simpson's Rule or the Trapezoidal Rule, but only Eq- (A.15) is, strictly speaking, coerect in that it agrees with the mathematical definition of an integral. The Trapezoidal Rule, however, allows integration around the discontinuities at $t=t_{\\\\\\\\\\\\\\|}$ and $t=t_{2}$ . The integrals of power over selected time periods give units of energy U).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "Eq- (A.15)",
+                        "latex": null
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "The required heat capacities at constant pressure $( C_{\\\\\\\\\\\\\\circ} )$ , enthalpy of vaporization of D2O (L), the vapor pressure ofD $\\\\\\\\\\\\\\cdots$ O(P), and the thermoneutral potential $( E_{\\\\\\\\\\\\\\mathsf{H}} )$ are available from thermodynamie tables at 25*C (298.15 K) and standard pressure. The temperature dependence of these calorimetric parameters at standard atmospheric pressure can be calculated from the following equations where $r$ is the Kelvin temperature. ${}^{\\\\\\\\\\\\\\circ} {\\\\\\\\\\\\\\cal C}+2 7 3. 1 5 )$ .",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "$$P_{\\\\\\\\\\\\\\mathrm{c a b c t}}=C_{\\\\\\\\\\\\\\mathfrak{p d}} / {\\\\\\\\\\\\\\mathrm{d}} t ( M \\\\\\\\\\\\\\Delta T )=C_{\\\\\\\\\\\\\\mathfrak{p}} M ( {\\\\\\\\\\\\\\mathrm{d}} \\\\\\\\\\\\\\Delta T / {\\\\\\\\\\\\\\mathrm{d}} t )+C_{\\\\\\\\\\\\\\mathfrak{p}} \\\\\\\\\\\\\\Delta T ( {\\\\\\\\\\\\\\mathrm{d}} M / {\\\\\\\\\\\\\\mathrm{d}} t )$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "P_{\\\\\\\\\\\\\\mathrm{c a b c t}}=C_{\\\\\\\\\\\\\\mathfrak{p d}} / {\\\\\\\\\\\\\\mathrm{d}} t ( M \\\\\\\\\\\\\\Delta T )=C_{\\\\\\\\\\\\\\mathfrak{p}} M ( {\\\\\\\\\\\\\\mathrm{d}} \\\\\\\\\\\\\\Delta T / {\\\\\\\\\\\\\\mathrm{d}} t )+C_{\\\\\\\\\\\\\\mathfrak{p}} \\\\\\\\\\\\\\Delta T ( {\\\\\\\\\\\\\\mathrm{d}} M / {\\\\\\\\\\\\\\mathrm{d}} t )",
+                        "latex": "P_{\\\\\\\\\\\\\\mathrm{c a b c t}}=C_{\\\\\\\\\\\\\\mathfrak{p d}} / {\\\\\\\\\\\\\\mathrm{d}} t ( M \\\\\\\\\\\\\\Delta T )=C_{\\\\\\\\\\\\\\mathfrak{p}} M ( {\\\\\\\\\\\\\\mathrm{d}} \\\\\\\\\\\\\\Delta T / {\\\\\\\\\\\\\\mathrm{d}} t )+C_{\\\\\\\\\\\\\\mathfrak{p}} \\\\\\\\\\\\\\Delta T ( {\\\\\\\\\\\\\\mathrm{d}} M / {\\\\\\\\\\\\\\mathrm{d}} t )"
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "$$\\\\\\\\\\\\\\mathrm{o r ~ e q u i v a l e}$$\nnty",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "$$P_{\\\\\\\\\\\\\\mathrm{c a l o r}}=C_{\\\\\\\\\\\\\\mathfrak{p}} [ M^{\\\\\\\\\\\\\\circ}-( l+\\\\\beta) \\\\\\\\\\\\\\gamma I t / 2 F ] ( {\\\\\\\\\\\\\\mathrm{d}} \\\\\\\\\\\\\\Delta T / {\\\\\\\\\\\\\\mathrm{d}} t ) \\\\\\\\\\\\\\,-C_{\\\\\\\\\\\\\\mathfrak{p}} \\\\\\\\\\\\\\Delta T ( l+\\\\\beta) \\\\\\\\\\\\\\gamma I / 2 F,$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "P_{\\\\\\\\\\\\\\mathrm{c a l o r}}=C_{\\\\\\\\\\\\\\mathfrak{p}} [ M^{\\\\\\\\\\\\\\circ}-( l+\\\\\beta) \\\\\\\\\\\\\\gamma I t / 2 F ] ( {\\\\\\\\\\\\\\mathrm{d}} \\\\\\\\\\\\\\Delta T / {\\\\\\\\\\\\\\mathrm{d}} t ) \\\\\\\\\\\\\\,-C_{\\\\\\\\\\\\\\mathfrak{p}} \\\\\\\\\\\\\\Delta T ( l+\\\\\beta) \\\\\\\\\\\\\\gamma I / 2 F,",
+                        "latex": "P_{\\\\\\\\\\\\\\mathrm{c a l or}}=C_{\\\\\\\\\\\\\\mathfrak{p}} [ M^{\\\\\\\\\\\\\\circ}-( l+\\\\\beta) \\\\\\\\\\\\\\gamma I t / 2 F ] ( {\\\\\\\\\\\\\\mathrm{d}} \\\\\\\\\\\\\\Delta T / {\\\\\\\\\\\\\\mathrm{d}} t ) \\\\\\\\\\\\\\,-C_{\\\\\\\\\\\\\\mathfrak{p}} \\\\\\\\\\\\\\Delta T ( l+\\\\\beta) \\\\\\\\\\\\\\gamma I / 2 F,"
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "$$\\\\\\\\\\\\\\int_{a}^{b} f ( x ) {\\\\\\\\\\\\\\mathrm{d}} x=( b-a ) \\\\\\\\\\\\\\langle f ( x ) \\\\\rangle,$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\\\\\\\\\\\\\\int_{a}^{b} f ( x ) {\\\\\\\\\\\\\\mathrm{d}} x=( b-a ) \\\\\\\\\\\\\\langle f ( x ) \\\\\rangle,",
+                        "latex": "\\\\\\\\\\\\\\int_{a}^{b} f ( x ) {\\\\\\\\\\\\\\mathrm{d}} x=( b-a ) \\\\\\\\\\\\\\langle f ( x ) \\\\\rangle,"
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "$$L=8 5 2 6 3. 9-1 7 3. 4 2 9 T+0. 2 5 8 6 T^{2}-1. 9 1 9 1 3 \\\\\times1 0^{-4} T^{3}-1 8 0 5 5 6 9 T^{-1} \\\\\\\\\\\\\\( \\\\\\\\\\\\\\mathrm{i n ~ 1/mol}^{-1} ),$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "L=8 5 2 6 3. 9-1 7 3. 4 2 9 T+0. 2 5 8 6 T^{2}-1. 9 1 9 1 3 \\\\\times1 0^{-4} T^{3}-1 8 0 5 5 6 9 T^{-1} \\\\\\\\\\\\\\( \\\\\\\\\\\\\\mathrm{i n ~ 1/mol}^{-1} ),",
+                        "latex": "L=8 5 2 6 3. 9-1 7 3. 4 2 9 T+0. 2 5 8 6 T^{2}-1. 9 1 9 1 3 \\\\\times1 0^{-4} T^{3}-1 8 0 5 5 6 9 T^{-1} \\\\\\\\\\\\\\( \\\\\\\\\\\\\\mathrm{i n ~ 1/mol}^{-1} ),"
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "$$\\\\\begin{array} {c} {{E_{\\\\\\\\\\\\\\mathrm{I I}}=-2. 3 4 3 3 3 3 3 3 3 1 1 1-2. 2 3 3 3 3 1 0 0 \\\\\\\\\\\\\\ \\\\\\\\\\\\\\ \\\\\\\\\\\\\\mathrm{t h e r}}}\n{{\\\\\\\\\\\\\\log\\\\\\\\\\\\\\mathrm{P}=3. 3 4 4 6 3 3 3 3 3 7 1-1 0 3 3 3 3 7 1-1 0 3 3 3 3 1 0 8 0 8 7+0. 0 0 0 4 1 0}}\n{{+2. 3 0 1 4 0 3 6-4 0 3 3 3 7-1 0 3 3 3 0 1 0}}\n{{+3 0 0 1 3-4 0 3 9 \\\\\times1 0^{-2} 7+3 7 3 3 0 7 \\\\\times1 0^{-6} T^{-1}}}\n{{-4. 4 5 4 7-1 0 3 3 7-1 0^{-2} \\\\\\\\\\\\\\mathrm{t h e r} 1 4 4 0 3 3 0 7 \\\\\times1 0^{-6} T^{2}}}\n{{+. 4 5 6 4 7 \\\\\times1 0^{-2} ( 1 0 3 7-1 0 3 0 0 3 )}}\n{{+. 4 5 6 4 1 7-1 0^{-2} ( 1 0^{-2}-1 0^{-2} ). 4 5 1^{-2} ( 0^{-2}+1 0^{-2}+1 0^{-2}+1 0^{-2} )}}\n{{+. 0. 4 5 4 4 8 < 1 0^{-2} ( 0^{-2}+1 0^{-2}+1 0 9 9 9 3 1^{-1} ).}} \\\\\\\\\\\\\\end{array}$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "$$C_{p, D_{2} O_{( t )}}=2 6. 7 0 0 6+2 1. 2 8 9 7 \\\\\times1 0^{-3} T+2. 6 6 7 7 4 \\\\\times1 0^{-6} T^{2}$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "C_{p, D_{2} O_{( t )}}=2 6. 7 0 0 6+2 1. 2 8 9 7 \\\\\times1 0^{-3} T+2. 6 6 7 7 4 \\\\\times1 0^{-6} T^{2}",
+                        "latex": "C_{p, D_{2} O_{( t )}}=2 6. 7 0 0 6+2 1. 2 8 9 7 \\\\\times1 0^{-3} T+2. 6 6 7 7 4 \\\\\times1 0^{-6} T^{2}"
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "$$C_{p, D_{2 ( t )}}=2 8. 9 7 7 8-1. 4 9 2 2 6 \\\\\times1 0^{-3} T+4. 1 4 7 7 9 \\\\\times1 0^{-6} T^{2}$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "C_{p, D_{2 ( t )}}=2 8. 9 7 7 8-1. 4 9 2 2 6 \\\\\times1 0^{-3} T+4. 1 4 7 7 9 \\\\\times1 0^{-6} T^{2}",
+                        "latex": "C_{p, D_{2 ( t )}}=2 8. 9 7 7 8-1. 4 9 2 2 6 \\\\\times1 0^{-3} T+4. 1 4 7 7 9 \\\\\times1 0^{-6} T^{2}"
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "$$C_{\\\\\\\\\\\\\\mathrm{p. O_{2 ( t )}}}=2 3. 1 4 3 6+1 8. 2 6 2 8 \\\\\times1 0^{-3} T-6. 6 0 5 \\\\\times1 0^{-6} T^{2}$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "C_{\\\\\\\\\\\\\\mathrm{p. O_{2 ( t )}}}=2 3. 1 4 3 6+1 8. 2 6 2 8 \\\\\times1 0^{-3} T-6. 6 0 5 \\\\\times1 0^{-6} T^{2}",
+                        "latex": "C_{\\\\\\\\\\\\\\mathrm{p. O_{2 ( t )}}}=2 3. 1 4 3 6+1 8. 2 6 2 8 \\\\\times1 0^{-3} T-6. 6 0 5 \\\\\times1 0^{-6} T^{2}"
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "For this new isoperibolic calorimeter, the heat transfer will be mostly by conduction, hence $P_{8}$ will be small and negligible compared with $P_{\\\\\\\\\\\\\\mathrm{C}}$ -",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The pressure terms in Eq. (A.4) are bolded to minimize confusion with any power terms. Under normal constant current $( I )$ operation, the terms $T$  $F$  $\\\\\backslash\\\\\\\\\\\\\\mathcal{I}$ , and $\\\\\\\\\\\\\\mathbf{P}$ will vary with time, $\\\\\textit{I}$ . The change of the cell temperature with time, as given by $P_{\\\\\\\\\\\\\\mathrm{o l d e c}}$ in Eq. (A.2), makes Eq. (A.1) a nonlinear, inhomogeneous differential equation. Although this differential equation can be used directly, numerical integration yields more accurate results (see Fig. 2). The $P_{\\\\\\\\\\\\\\mathrm{c s hor}}$ term is obviously larger when the cell temperature is changing more rapidly such as when D2O is replenished or when the intemal heater is turned on $( t_{1} )$ or off $( t_{2} )$ . The small progressive decrease with time for the cell temperature (Table 2) is due to the progressive increase of the electrolyte concentration due to electrolysis resulting in an increasing ionic conductance and hence a decreasing cell voltage and input power (Eq- (A.3)) as shown in Table 2.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "Eq. (A.4)",
+                        "latex": null
+                    },
+                    {
+                        "text": "Eq. (A.2)",
+                        "latex": null
+                    },
+                    {
+                        "text": "Eq. (A.1)",
+                        "latex": null
+                    },
+                    {
+                        "text": "Eq- (A.3)",
+                        "latex": null
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "The most complicated tem, $P_{y, a}$ is eal malescet when the eltmeratue exed4 OC. The elecrolysis reaction",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "consumes 0.5 mol of D2O and produces 0.5 mol of D gas and 0.25 mol of O2 ga per Faraday $F$ (96485.3415 C molT'y. The 0.75 mol total of electrolysis gases generated per Faraday also carry away D2O vapor due to the equilibrium vapor pressure of D2O in the cell, $\\\\\\\\\\\\\\mathbf{P}=\\\\\\\\\\\\\\mathbf{P}_{\\\\\\\\\\\\\\mathbf{D}_{\\\\\\\\\\\\\\Sigma} O ( g )}$ Using Dalton's law of partial pressures, the moles of $\\\\\\\\\\\\\\mathbf{D}_{2} \\\\\\\\\\\\\\mathbf{O} ( \\\\\\\\\\\\\\mathbf{g} )$ carried away per Faraday are given by",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "and is close to the atmospheric pressure for this open system. This $\\\\\\\\\\\\\\mathbf{P^{\\\\\\\\\\\\\\ast}}$ term dictates the monitoring of the atmospheric E\u533aMN\u533a h35\u4e0a\u533a53m dg 3am3 3 38 3693986 312 8670637\n $P_{\\\\\\\\\\\\\\mathrm{g a s}}$ resulis from the large enthalpy of vaporization of D.O, L =41678.9 J/mol at 101.42C. Therefore, simpler versions of Eaq- (A.4) are often used such as",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": " $\\\\\\\\\\\\\\mathrm{mW}$  $I=0$  $T_{\\\\\\\\\\\\\\mathsf{b}}=2 2. 0 0^{\\\\\\\\\\\\\\circ} \\\\\\\\\\\\\\mathsf{C}$  $P_{8 \\\\\\\\\\\\\\pm}$  $T=4 0$ \nat $T \\\\\\\\\\\\\\,=8 0. 0 0^{\\\\\\\\\\\\\\circ} \\\\\\\\\\\\\\mathbb ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            }
+        ]
+    }
+}

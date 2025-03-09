@@ -1,0 +1,198 @@
+{
+    "metadata": {
+        "title": "Multiple deuterium occupancy of vacancies in Pd and related metals",
+        "authors": [
+            {
+                "first": "P.",
+                "middle": [],
+                "last": "Nordlander",
+                "suffix": null,
+                "affiliation": [
+                    "Drparimeut of Physics nd Astronomy, Rutger University, Piscataway. New Jersry 08855-0849"
+                ],
+                "email": null
+            },
+            {
+                "first": "J.K.",
+                "middle": [],
+                "last": "Nerskow",
+                "suffix": null,
+                "affiliation": [
+                    "Lahorarory of Applied Phyaies. Techutcal Uinicersity of Denmmark, DK -2300 Lyngby. Deumart"
+                ],
+                "email": null
+            },
+            {
+                "first": "F.",
+                "middle": [],
+                "last": "Besenbacher",
+                "suffix": null,
+                "affiliation": [
+                    "lastitute of Phywics, Uninersity of Aarhus. DN-8000 Aarhr C. Denwmark"
+                ],
+                "email": null
+            },
+            {
+                "first": "S. M.",
+                "middle": [],
+                "last": "Myers",
+                "suffix": null,
+                "affiliation": [
+                    "Sandia Nationnl Laboratories. Albuguergue. New Mexico 87185"
+                ],
+                "email": null
+            },
+            {
+                "first": "P.",
+                "middle": [],
+                "last": "Nordlander",
+                "suffix": null,
+                "affiliation": [
+                    "Drpariment of Physics and Arronomy. Rufgers Uninvrtity. Picalaway. New Jersey 08855-08s"
+                ],
+                "email": null
+            },
+            {
+                "first": "J.K.",
+                "middle": [],
+                "last": "Norskow",
+                "suffix": null,
+                "affiliation": [
+                    "Lahorarory of Applied Phyaies. Techutcal Uinicersity of Denmmark, DK -2300 Lyngby. Deumart"
+                ],
+                "email": null
+            },
+            {
+                "first": "r",
+                "middle": [],
+                "last": "Besenbacher",
+                "suffix": null,
+                "affiliation": [
+                    "lastitute of Phywics, Uninersity of Aarhus, DK-8000 Aarhur c Densark"
+                ],
+                "email": null
+            },
+            {
+                "first": "S. M.",
+                "middle": [],
+                "last": "Myers",
+                "suffix": null,
+                "affiliation": [
+                    "Sandia Nationnl Laboratories. Albuguergue. New Mexico 87185"
+                ],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": "The binding energies of up to six deuterium atoms into monovacancics of Pd, Ni, Fe, Ce, Nb, and Mo have been calculated using the ffective-medium theory. For all metals it is found that al least six ID atoms can be accommodated in the wacancy. Of the systems .studied the deuterium-deuterium interaction is found to be least repulkive for Pd. This multiple occupancy of the vacancy defert can have potentially sienibcant implications for the reccatly proposed fusion of Datoms in Pd",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Recent discussionsl- concerning the possibity of room-temperature fusion of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{D}$ atoms in certain transition metals such as Pd open up questions relating to the inlluencc of vacancies on the D bchavior in transition mct-als. Metal vacancies would be created by the enereetic charged particles and neutrons generated in fusuon events; such defects can remove substantial numbers of D atoms from interstitial solution, and they may provide sites for nucleation of dense D plasmas.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "whecre $\\\\\\\\\tilde{n}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{substr}} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{r} )$ \u7535\u56fd a enaragya position $.$ in the vacancy, and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Delta{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{n}} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{r}, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{R}_{j} )$ \ndensity at position $.$ induced by the deuterium at position $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{R}_{j}$ For the low D occupancics considered in the present lication, the rclaxation of the mctal atoms can be neglected, and the total energy $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\varepsilon$ is a function of the 3N coordinates of the D atoms.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The equilibrium configuration of the D in the vacancy is obtained by a multidimensional minimization of the D coordinates. This process is computationally tedious and at present we have only treated up to six D atoms. The minimization is performed as follows: First a certain configuration of the D's is gucssed. Then the encrgy of the D systems is minimized by symmctrically varying the binding distance to the neurest metal atom (100) plane. After this initial minimization a steepest descent method is used to mowe each D to the nearest local minimum. This part of the minimization displaces the $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{D}$ somewhat out of the symmetrical position. The scarch for the energy minimum is repcated until a local minimum is obtained. The zero-point energy of deuterium atom k is then estimated by calculating the curvature of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\epsilon$ as function of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{R}$ and the procedure is repeated for several initial configurations. The equilibrium configuration $E ( N )$ is chosen as the lowest energy of the calculated local minima.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "In several previous papers we have applied the cffee-tive-medium theory to the calculation of heats of solution and vacancy trapping energies of hydrogen and deuterium in transition metals.3-6 The purpose of the present paper is to cxtend this treatment to Pd and some other transition metals that could be of potential interest in the context of room-temperature fusion and hydrogen storage. We also compare the theoretical calculations with new cxpcrimen-tal data. The method of calculation has been reported csewhere%* and will be reviewed only bricfly herc. We will present results for Pd, Nb, Mo, and Cu togcther with the old Ni and Fe results and present a discussion of the physical factors that influence the energetics of multiple D occupancy in mctal monovacancics.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "In the effecive-mediam theory, $\\\\\\\\\tau_{J}$ the total energy of N deuterium atoms in a metal vacancy can be written as a sum over the involved deuterium atoms",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Before presenting the results, we will review some general features of bydrogen interactions with solids. The dominant contribution to the binding energy of a single D to a metal IN -1 in Eq. (1)] comes from the AEEm term. This term represents the interaction between D and the metal valence electrons and only depends on the average electron density around the $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{D}.$ There exists an optimal density $\\\\\\\\\bar{n}_{0}$ for which this term is at minimum. On a mctal surfacc or in an open-volumc defect inside a mctal, the D is relatively free to move to a position close to this density. The binding energy of deuterium to such pasitions is",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "\\\\\\\\\begin{array} {r} {E ( {\\\\\\\\\bf R}_{1}, {\\\\\\\\\bf R}_{2}, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ldots, {\\\\\\\\\bf R}_{N} )=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sum_{k=1}^{N} [ \\\\\\\\\begin{array} {r} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\scriptstyle[ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Delta E_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{b o s}}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{gf}} ( \\\\\\\\\bar{n}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{b o s}} ( {\\\\\\\\\bf R}_{k} ) )+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Delta E^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{b y h}} ( {\\\\\\\\\bf R}_{k} )}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\scriptstyle+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Delta E^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{p o s}} ( {\\\\\\\\\bf R}_{k} ) ] \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\quad\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\$} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ () \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\end{array}",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "where ps represents pseudopotential. ${\\\\\\\\\tilde{n}}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{t o t}} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{R}_{k} )$ is the average clectron density in the ncighborhood of deuterium atom $k,$ and can be estimated by lincar superposition of atomic clectron densities:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "$\\\\\\\\\tilde{n}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{t o t}} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{r} )=\\\\\\\\\tilde{n}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{t u b s t r}} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{r} )+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sum_{j \\\\\\\\\neq k} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Delta\\\\\\\\\tilde{n} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{r,R}_{j} ) \\\\\\\\\tag{2}$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "TABLE IL. Calculated dcuterium-metal atom distance d(D- $y_{1}$ distance from the side of the wacancy $:$ and deuterium-deuterium distance dlD-D) as functiom of occupancy in a mono-vacancy. All units are in bohr.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "a.u.) As the D occupancy is increased the new D atoms can bind to the other sides of the vacancy. The D-D separations are thus rather large. At such distances the D induced clectron densities Af are negative, causing a depletion of the electron density in the vacancy, This reduction of electron density slightly increases the contribution of the AEils term to the total energy. For Fe, Mo, and Ni the lattice constant is smallcr and the D binds relatively far from the side of the vacancy. As the oocupancy s increased the D-D distances will thus be rather small and each deuterium atom will feel a positive clectron dcnsity from the other D atoms. This wil cause the D to rclax away from each other. This relaxation costs energy and makes the binding energy smaller. Nb is a rather open lattice and the deuterium-deuterium repulsion is small for cccupancics up to $N-6$ . We note that the D-D distances obtained within the vacancies in the present case are sugniicantly arger than the nuclear separation in the $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{D_{2}}$ molecule $( 1. 4 3. 1 ),$ but significantly smaller than in octahedral sitc solution (Pd: S.2 a.u; Ni: 4.7 a.u; Cu: 4.8 a.u.). Fusion within the vacancy is therefore not anticipated on simple grounds for N less than six atoms; higher cccupancies probably are necded.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The proper description of D in single vacancies requires\n $u$ \nwork the quantum aspects have been approximated by adding the zero-point motion as calculated using a harmonic approximation to the total energy. The calculated multiple bunding encrgies arc thcrcfore slightly uncertain. $W=$ estimate the errors introduced by this approximation to be smaller than 50 meV.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In conclusion, we have shown that open defects such as vacances in metals are able to trap a large mumber of deuterium atoms creating a uniqucly high local concentration of D atoms. The occupancics up to six atoms per vacancy studied here represent a lower bound and we cannot exclude even higher concentrations, We have shown that of the metals studied, only in Pd is multiple cccupancy favored ower single ocupancy. Furthermore, although the D-D spacing within the Pd vacancy is still larger than what is believed necessary for fusion, the D-D spacings in the vacancy are nonetheless substantially smaller than in octahedral site solution (5.2 a.u.). This fact may be of importance for the understanding of the proposed room-temperature fusion events in solid Pd. The computational approach developed in the present paper also provides a reliable basis for trcating D-D intcractions for interstitial solution as well as in other types of defects. Further calculations studying the effects of a localization of many D atoms in a small volume on the many-body wave function describing the motion of the D atoms and their mutual overlap are in progress.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion"
+            }
+        ],
+        "bib_entries": {},
+        "ref_entries": {},
+        "back_matter": [
+            {
+                "text": "The authors acknowledge valuable comments from Dr. D. $c$ Langreth and Dr. D. M. Follstaedt. This work is supported by the National Science Foundation under Grant No DMR-88-01027.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Acknowledgements"
+            }
+        ]
+    }
+}

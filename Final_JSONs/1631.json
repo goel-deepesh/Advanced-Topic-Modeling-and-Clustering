@@ -1,0 +1,651 @@
+{
+    "metadata": {
+        "title": "Coupling between the Center of Mass and Relative Degrees of Freedom in a Relativistic Quantum Composite and Applications",
+        "authors": [
+            {
+                "first": "Peter",
+                "middle": [
+                    "L."
+                ],
+                "last": "Hagelstein",
+                "suffix": "",
+                "affiliation": [
+                    "Massachusetts Institute of Technology, Cambridge, MA, USA"
+                ],
+                "email": ""
+            },
+            {
+                "first": "Irfan",
+                "middle": [
+                    "U."
+                ],
+                "last": "Chaudhary",
+                "suffix": "",
+                "affiliation": [
+                    "Lahore University of Engineering and Technology, Pakistan"
+                ],
+                "email": ""
+            }
+        ],
+        "abstract": [
+            {
+                "text": "If we cunsider the nucleus as a relativistic composite, then we are able to derive from a many-particke Dirac model a coupling between the center of mass motion anxd intermal naclear degrees of freedom. This interaction can be rotated out in fnee space, but has the potential to give rise ta new physics when two or mare nuclei exchange phcons with a comumon vibrational mode. The simplest exaumple of such a system is a homonuclear diatomic molecule in a frozen matrix, fur which we are able to devebbp an expression for the second-order phunon-nuclear interaction that can result in a splitting of the nuclear energy levels as a result of excitation transfer between the nuclei. The phonon-nuclcar counling is an El interaction, so the low energy 6.237 keV El transition\n $1 8 1_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{T 3}}$ \nmight be chservahle. We also consider excitation transfer in the case of a macruscopic a Ta plate.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "In most quantum mechanical treatments of interacting quantum systems, it is possible to specify Hamiltonians for the systems independently in the absence of an interaction, and then to identify what kind of interaction to use when they are coupled together. For excess heat in the Fleischmann-Pons experiment, a theoretical explanation would likely involve an interaction between the condensed matter environment and internal nuclear states. Consequently, we should be able to start with models for nuclear states in isolation, and models for condensed matter systems in isolation, and identify the coupling between them.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "1.Introduction"
+            },
+            {
+                "text": "lt was precisely this issue that contributed in an important way to the general dismissal of the field back in 1989. The intermal nuclear states are small and localized, with an energy scale not particularly well matched to the electronic or vibrational degrees of freedom of the lattice. The only coupling possible as was argued are the weak second-order electrostatic coupling (argued to be analogous to tidal forces in gravitation); or magnetic interactions which we might expect also to be weak. Mismatched energy scales combined with a weak coupling can never produce the dramatic effects claimed by Fleischmann and Pons, so it was argued.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Over the past decades we have been considering a theoretical explanation for the Fleischmann-Pons effect which is based on the down-conversion of the large nuclear energy quantum into a great many smaller condensed matter quanta, with a focus on vibrational quanta [1]. In the models that have emerged, a relatively weak coupling can result in much larger cooperative effects when many nuclei interact together. A down-coaversion of the large nuclear quantum would be able to account for the absence of energetic particles commensurate with the energy produced, and also account for the very large acceleration of the associated reaction rates. In an incoherent model we would expect the reaction rate to be very slow due to the (very small) tunneling factor bheing squared; but in a coherent model the rate can be much faster, since the maximum rate is linear in the tunneling factor.",
+                "cite_spans": [
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Nuclei are composite particles, with internal degrees of freedom associated with the nuclear states, and with center of mass coordinates that have to be considered lattice degrees of freedom [2]. In a nonrelativistic model there is a elean separation between intemal and center of mass degrees of freedom, so that the only coupling is through extermal field interactions that depend on both. The situation is more complicated in the relativistic version of the problem, where thene is in addition a relativistic coupling that can bhe attributed to the change in the nuclear potential when the nucleus is in mation. In free space we would expeet thene to be no consequence of this interaction, since it is possible to transfom to a frame in which the nucleus is at rest. However, the same is not true for a nucleus in a lattice. The thought is that this relativistic coupling can mediate interactions between internal nuclear states and lattice vibrations, and it would do so in ways that we as yet have litle intuition abkout",
+                "cite_spans": [
+                    {
+                        "text": "[2]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In what follows we will consider the separation of internal and center of mass degrees of freedom in a composite, the associated coupling terms that might mediate interactions, and then consider new experiments where we might be able to study this basic interaction.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "A relativistic description for a nucleus in an external field can be developed modeling the nucleons as Dirae spin 1/2 particles through the Hamiltonian",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. The Nucleus as a Relativistic Quantum Mechanical Composite"
+            },
+            {
+                "text": "weneoenr mas Rand $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hat{P}}$ mdeaie $( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\xi_{j}$ ndtypen acocing o",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "assuming $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda}$ nucleons in the nucleus. The external field Hamiltonian written in terms of center of mass and relative ccordinates is",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In this expression the scalar and vector fields (b and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{A}$ ) and their derivatives are evaluated at $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{R}$ . In the first line we see a nelativistic description of the composite (as a paticle) interacting with extermal fields, and also a relativistic deseription of the intermal problem; however, both the Hamiltonian for the center of mass and for the relative degrees of freedom share the same mass terms, and are hence coupled together in this description. In the second line there are dipole interactions with the scalar and vector potentials, and higher-order interactions are included in the terms that follow.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Nuclei in a condensed matter environment act as nonrelativistic composite particles, while we may remain in-tenested in a nelativistic description for the intermal proton and neutron dynamies. We have worked with a partial Foldy-Wouthuysen transformation which results in a rotated Hamiltonian in which the center of mass degrees of freedom are nonrelativistic whille the relative degrees of freedom are modeled relativistically. The transformation can be written as",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The low-order terms of the rotated Hamiltonian are [2]",
+                "cite_spans": [
+                    {
+                        "text": "[2]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "This rotated Hamiltonian is very interesting. The first two lines describe the center of mass degrees of freedom of the nucleus as a nonrelativistic composite interacting with the extemal field; the thind line includes a relativistic description of the relative degrees of freedom appropriate for a nuclear structure calculation; the fourth line includes the lowest-order coupling between the two degrees of freedom due to external field interactions; and in the last line are relativistic terms that couple the center of mass and relative degrees of freedom. We are intenested in these tems (in the last line) for the possibility that they provide the coupling between lattice vibrations and intermal nuclear degrees of freedom responsible for anomalies in Condensed Matter Nuclear Science.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In our models we have focused in earlier work on simple two-level system models to describe the nuclear states, in part because the mathematics becomes much more complicated when more general moxdels are used. Here it will be convenient to consider the more general finite basis approximation, which is easily adapted for describing two-level systems. We consider the finite basis approximation written as",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Finite Basis Approximation"
+            },
+            {
+                "text": "where $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\xi\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\}$ denotes the set of relative position vectors, where $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Psi( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\{\\\\\\\\\\\\\\\\\boldsymbol{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\xi} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\}, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{R}, t )$ is the dynamic wave funetion for the nucleus including center of mass and relative degrees of freedom, and the summation is ower terms that depend only on the center of mass $( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Psi_{n} ( {\\\\\\\\\\\\\\\\\bf R}, t ) )$ t or relative $( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\phi_{n} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\xi\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\} ) )$ degrees of freedom. The individual $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\phi_{n} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\xi\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\} )$ describe nuclear states, and associated with each nuclear state is a center of mass wave function $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Psi_{n} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{R}, t )$ -",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Of interest is to develop coupled-channel equations for the different center of mass wave functions, projecting out the intemal degrees of freedom. To proceed it will be convenient to make use of a vector and matrix formalism, with $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Psi} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{R}, t )$ a vector made up of all of the different $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Psi_{n} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{R}, t )$ associated with each of the channels. We can write the coupled-channel equations in vector and matrix form as [2]",
+                "cite_spans": [
+                    {
+                        "text": "[2]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The selection rule associated with these matrix elements are consistent with El electric dipole transitions, with the possibility of M2, E3, M4 coupling at higher order.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The problem of phonon-nuclear coupling in a homonuclear diatomic molecule is of special interest to us, since it is the simplest system in which there may be a possibility of observing the relativistic phonon-nuclear interaction discussed above. The basic idea is that phonon-nuclear coupling has the potential to introduce a splitting in the nuclear states of the molecule, which might be seen in a Missbauer experiment. At low temperature rotational motion in a gas can be eliminated; however, in a frozen matrix it is possible for the molecule to have a fixed orientation in a nonspherical confining potential, which eliminates averaging over angles and potentially allows for more information to be obtained from a Mossbawer spectrum.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "We can include the relativistic phonon-nuclear interaction in a model for the nuclear states and vibrational states for a diatomic molecule in a matrix with the Hamiltonian [5]",
+                "cite_spans": [
+                    {
+                        "text": "[5]",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Phonon-nuclear Coupling for a Diatomic Molecule in a Matrix"
+            },
+            {
+                "text": "We expect the phonon-nuclear coupling to be weak, so that we can make use of perturbation theory to develop a second-order interaction; the resulting model can be written as",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "where the second-order indirect interaction can be written (assuming that the molecule is in the vibrational ground state) as [5]",
+                "cite_spans": [
+                    {
+                        "text": "[5]",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "This interaction is qualitatively different than what would be expected from the quadrupole interaction associated with an electric field gradient. The form seems similar algebraically to the nuclear spin-spin interaction",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In this case elements of the a matrix are",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "but we would expect the splitting from phonon-nuclear coupling to be distinguishable if the interaction is sufficiently strong.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "There remains the issue of which nuclear transition we might be most interested in. We see that the interaction is inversely proportional to the square of the transition energy, which favors low energy nuclear transitions. Since the $a \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot c P$ interaction is an E1 interaction at lowest onder we seek a low energy nuclear transition with E1 symmetry. Of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\circ$ Dy the stable nuclei, the 6.237 ke V El transition in 181Ta is favored in this regard, with the 25.651 keV transition in\na distant second.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Unfortunately, the electronic ground state of molecularTa $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\theta}$ is predicted to be an electronic $^3 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Sigma_{8}^{-}$ state [6] (we would have preferred an electronic singlet state), which is unfortunate because of the additional com ions of the coupling between the electronic and nuclear spins. Although Missbauer experiments have been done on $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{F e}_{2}$ in a frozen argon matrix [7], and optical spectra have been taken with Ta $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot$ in a matrix [8], a Missbauer experiment with $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{T a}_{2}$ in a matrix to detect the splitting due to phonon-nuclear coupling looks to be a difficult one. At present we do not yet have a reliable estimate for the a-matrix elements, so that it is at present unknown from theory whether the splitting is expected to be observable.",
+                "cite_spans": [
+                    {
+                        "text": "[6]",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "text": "[7]",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "text": "[8]",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Given the headaches involved associated with Mossbauer experiments involving homonuclear diatomic $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot$ T $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdots$ in a frozen argon matrix, we seek an altemate experiment in which phonon-nuclear coupling might lead to effects more easily observed. For example, suppose that a l3'Ta nucleus were excited in a plate made up of 151Ta ground state nuclei, then perhaps it might be possible to observe an excitation transfer effect in which the excited state is transferred elsewhere in the plate.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In order to describe this kind of system, we work with a model that keps tak of the muclear intenal energy through a diagonal matrix $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{M} c^{2}$ . the lattice vibrational energy in the different modes, and the relativistic coupling between the internal nuclear degrees of freedom and center of mass motion. We can write",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "5. Excitation Transfer in a Plate"
+            },
+            {
+                "text": "where $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{u}_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{k}, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma}$ are unit vectors that specify the direction of displacement; where $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hbar\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{k, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma}$ \u5e97\u56fd\u6d772\u88c5\u516c\u4e2d\u56fd\u6d77 plate. $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sigma$  $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{R}_{j}^{( 0 )}$ is the equilibrium position of nucleus $,$ ; and there are $N_{L}$ ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "te copling tem as an nention $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\dot{v}$ We can think of te nuclear ad vibeational yste in he absene of coupling as te unprturbed system $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hat{H}_{0}$ and",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Making use of these identifications we can develop a second-order model based on infinite-order Brillouin-Wigner theory to write",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "We consider second-order interactions where whatever phonons are created are also destroyed, and vice versa, so that the overall phonon part of the interaction is resonant. In this case we can write for the second-order coupling between two sites",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In order to reduce this we require a separation of the a-matrix elements into components which excite $( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{a}^{+}$ ) and which de-excite $( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{a}^{-} )$ aecording to",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "where we have kept terms that preserve total nuclear excitation. The expectation value in this expression is taken over the vibrational degrees of freedom. Individual intermediate terms in the calculation depend on the degree of excitation, but due to the strong destructive interference that occurs in the end there is no dependence on lattice excitation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "With these we obtain an approximate phonon-averaged interaction",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "An approximate evaluation is possible in the limit that we model the dispersion relation as linear up to a cut-off momentum $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\kappa$ . We may write for the long range limit of the interaction",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "6. Conclusions and Discussion"
+            },
+            {
+                "text": "where $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha$ is the longitudinal sound speed, and where $c_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{T}}$ is the transverse sound speed. The integral can be done analytically, leading to",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "For large separation the resonant part of the second-order interaction Hamiltonian fall off as $1 / | \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{R}_{2 1} |^{2}$ , a result that suggests the possibility of observing delocalization of excitation in a Ta plate (although this interaction is very weak). lf we extend the argument to higher order",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "then we find that the analogous resonant fourth-order interaction depends explicitly on the number of phonons present. This is interesting because if a highly excited vibrational mode is present it may be possible to observe excitation transfer from an initial location, where the excitation is created, to another location which might be distant, as long as both locations interact with the (same) highly excited mode.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "A nucleus is a compound particle made up of protons and neutrons. If we make use of a relativistic description based on a Dirac spin $1 1 2$ model for the neutrons and protons, we find a coupling between the center of mass motion and the intemal nuclear degrees of freedom. This coupling can be rotated out to lowest order in free space (and completely eliminated in a Poincar\u00e9 invariant model), but the same rotation that works in free space generates a large number of coupling terms in the case of many interacting nuclei in a lattice [2].",
+                "cite_spans": [
+                    {
+                        "text": "[2]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "where this relativistic phonon-nuclear coupling would produce additional level splittings beyond what is expected from conventional hypertine splitting in a Mussbawer experiment. Untortunately, the resulting expeniment suffers from a number of pracical headaches which makes it a dificult experiment to do, and we currently lack an estimate from theory for the strength of the interaction, so it is not clear whether the splitting is suficiently large to be observed. A theoretical effort is currently under way to develop an estimate for the phonon-nuclear coupling matrix element.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The splitting in the 181Ta $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot$ molecule can be thought of as due to phonon-mediated excitation transfer between the two nuclei, which motivates us to consider the possibility of an excitation transfer experiment involving a much larger number of Ta nuclei. If an exeited 18l Ta nucleus is created in a Ta plate, then it may be possible to detect excitation",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "transfer through a delocalization of the emitted radiation. We discussed the resonant second-order interaction in this case, which as a result of destructive interference is independent of the level of vibrational excitation. This interaction is expected to fall off in proportion to the inverse square of the distance between the nuclei. At fourth-order the resonant contribution depends explicitly on lattice excitation, which suggests that substantially greater delocalization might occur in a plate with a strongly excited vibrational mxde. This motivates us to consider an experiment wbere a Ta plate is iradiated to produce localized $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{1 8 1} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{W}$ (which decays $6 6 6$ of the time to populate the 6.237 keV state in stimulate excitation transfer.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In previous work we described enhanced up-conversion and down-conversion effects with the lossy spin-boson model [1]; we would expect that excitation transfer may also be enhanced by loss.",
+                "cite_spans": [
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "Cerentstats t t etete an tdlieft ast fratitntion",
+                "authors": [
+                    {
+                        "first": "P.L.",
+                        "middle": [],
+                        "last": "shsgisiei",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Conensed Aarter Nucl. Sri.",
+                "volume": "19",
+                "issn": null,
+                "pages": "98-109",
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "Quantum campesites: A review, and new results for models for Condensed Matter Nuclear Science",
+                "authors": [
+                    {
+                        "first": "P.L.",
+                        "middle": [],
+                        "last": "Hagelstein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Cendensed .Mater Moel. Sci.",
+                "volume": "20",
+                "issn": null,
+                "pages": "139-225",
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": "Chiral effective field theory and naclear forces",
+                "authors": [
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Machleidt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.R.",
+                        "middle": [],
+                        "last": "Entem",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Phys. Repewts",
+                "volume": "503",
+                "issn": null,
+                "pages": "1-75",
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": "On the interaction of two electrons",
+                "authors": [
+                    {
+                        "first": "G.E.",
+                        "middle": [],
+                        "last": "Brown",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.G.",
+                        "middle": [],
+                        "last": "Ravenhall",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1951,
+                "venue": "Proc. Roy. Soc. Londion A: Marh, Pby. Eing. Sei.",
+                "volume": "20s",
+                "issn": null,
+                "pages": "552-559",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": "Pessibility of observing a center of mass interaction in a Missbauer experiment",
+                "authors": [
+                    {
+                        "first": "P.L.",
+                        "middle": [],
+                        "last": "Hagelstein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I.U.",
+                        "middle": [],
+                        "last": "Chaudhary",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Condensed Mtate fesl Sci.",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": "Electronic structure and chemical banding in the ground and low-lying electronic states of $\\\\\\\\\\\\\\\\\tau_{2}$ ",
+                "authors": [
+                    {
+                        "first": "A.C.",
+                        "middle": [],
+                        "last": "Barin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.P.",
+                        "middle": [],
+                        "last": "Gobbo",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "TMAAneEL aTRkNdokn",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "BIBREF6",
+                "title": "Hyperfine interactions of Fef in a froen argon matrix,",
+                "authors": [
+                    {
+                        "first": "P.H",
+                        "middle": [],
+                        "last": "Baret",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H.",
+                        "middle": [],
+                        "last": "Pul",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.K.",
+                        "middle": [],
+                        "last": "MeNab",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1970,
+                "venue": "Phys. Re Lent.",
+                "volume": "25",
+                "pages": "160l",
+                "issn": null,
+                "other_ids": {}
+            },
+            "BIBREF7": {
+                "ref_id": "BIBREF7",
+                "title": "Spectruscepy of mass-selected tuntalum dimers in argca matrices,",
+                "authors": [
+                    {
+                        "first": "Z.",
+                        "middle": [],
+                        "last": "Hu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B.",
+                        "middle": [],
+                        "last": "Shen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.R.",
+                        "middle": [],
+                        "last": "Lomburdi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.M.",
+                        "middle": [],
+                        "last": "Lindsay",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Chem. PNys.",
+                "volume": "96",
+                "pages": "8757",
+                "issn": null,
+                "other_ids": {}
+            },
+            "BIBREF8": {
+                "ref_id": "BIBREF8",
+                "title": "noG&Krkei 139n.Gm rays a 8lT n henime,",
+                "authors": [
+                    {
+                        "first": null,
+                        "middle": [],
+                        "last": "Krkei",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Phy Ren",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF9": {
+                "ref_id": "BIBREF9",
+                "title": "Audrple pliting of th 62-keV $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cdot$ ",
+                "authors": [
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "aindl",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "Salmn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Worman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1972,
+                "venue": "Let.",
+                "volume": "28",
+                "issn": null,
+                "pages": "952",
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {}
+    }
+}

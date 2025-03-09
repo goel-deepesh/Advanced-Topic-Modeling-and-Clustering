@@ -1,0 +1,387 @@
+{
+    "metadata": {
+        "title": "Search for Neutron Emission from Titanium-Deuterium Systems(*)(**).",
+        "authors": [
+            {
+                "first": "P.",
+                "middle": [],
+                "last": "PRATI",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "G.",
+                "middle": [],
+                "last": "RIcco",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "M.",
+                "middle": [],
+                "last": "TAIUT",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "C.",
+                "middle": [],
+                "last": "BORAGNO",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "R.",
+                "middle": [],
+                "last": "EGGENHOFFNER",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "U.",
+                "middle": [],
+                "last": "VALBUSA",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            }
+        ],
+        "abstract": [
+            {
+                "text": "Summary. -- We present the results of recent meusurements, performed in Genoa with a novel neutron detector, on some titanium-deuterium systems. In spite of the good dctector sensitivity, better than the one claimed by Jones and co-workers, no neutron emission was found.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "After the first claims about the so-called -cold fusion- phenomenon [1-3] and several different experiments, it has soon became clear that reliable detectors were necessary for research in this new and particular field, to avoid measurement errors. A new, multiparameter, high-efficieney neutron detector[4] was specifically designed in Genoa for cold-fusion measurements and used in some typical experiments on titanium-deuterium gus systems, Our aim was to verify, with an improved neutron sensitivity, the results reported by Scaramuzzi and co-workers[3] and to investigate neutron emisssion during high deuterium adsorption in the titanium lattice. In both eases no neutron emission was observed in our experiments. Aetually, in the first case, our experimental conditions, as described in the following, were not completely equivalent to the Scaramuzzi ones.",
+                "cite_spans": [
+                    {
+                        "text": "[1-3]",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "text": "[4]",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "[3]",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "As shown in fig. 1 the detector is composed of three cylindrical coaxial seintillators shells, each shell being 20em long and about 5em thick [4]. The iner sell is flled",
+                "cite_spans": [
+                    {
+                        "text": "[4]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Experimental set-up"
+            },
+            {
+                "text": "the liquid scintillator gives the START to a time-to-amplitude, converter that will wait 200us for the STOP from gamma-rays produced by neutron capture on one cadmium sheet and detected by at least one of the three coaxial scintillators. A neutron",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental set-up"
+            },
+            {
+                "text": "event is identified by two consecutive trigger signals: the first corresponding to a neutron-type pulse in the liquid scintillator, and the sccond to the detection of capture gamma-rays within the 200 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ast$ time window. For each event, the amplitude of the summed three scintillators pulses, proportional to the neutron energy, is recorded. The acquisition system, based on a CAMAC interface connected to a MICROVAX computer, allows off-line multiparameter analysis: as an example in fig. 2 is shown the pulse-shape and pulse-height correlation. The signals from the scintillators ane stored on the computer each minute: in this way time trends can be monitored. The detection efficieney for 2.45 MeV monochromatie neutrons was determined by two Monte Carlo cades $[ 6, 7 ],$ tested meusuring a calibrated, low-activity Am-Be neutron source, and turned out (12.5 t 0.5)%. The detector rensponse to 2.45 MeV monochro-matie neutrons is shown in $5 g$ 3. A typical background spectrum is shown in fig. 4: S303 $r$ tion seastity, with satisticlcondene lel, trns out .4. $T^{-1 / 2} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{n / s},$",
+                "cite_spans": [
+                    {
+                        "text": "[ 6, 7 ]",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "fig. 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Experimental set-up"
+            },
+            {
+                "text": "The system used to loud titanium with deuterium gus is sketched in fig. 5. Before admitting $b_{z}$ gas in the cell, the system was evacuated up to $1 0^{-6}$ mbar by a turbo-molecular pump. In a second step the gas was inserted in the dead volume (200em) flowing through a liquid-nitrogen trap to promote impurities condensation. Finally, the gas was admitted in the cell through the valve Vd. A manometer, with sensitivity 0.2 bar, was used to measure the pressure drop us. time and then to estimate the adsorption rate of the titanium. Details of the ccll are drawn in fig. 6. Great care was used to avoid thermal stresses on the neutron detector, for this reason high vacuum was continuously mantained in the external chamber. The temperature of the external wall of the cryostat was monitored by a thermocouple and, in measurement condition, it remained clase to the room temperature. A second thermocouple was used to measure the temperature of the Ti sample.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "fig. 5",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "text": "fig. 6",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Experimental set-up"
+            },
+            {
+                "text": "We have performed measurements flowing deuterium gas in two different titanium samples: shavings, of the same kind of those used hy Scaramuzzi and co-Hnrngr ntrc u nt nun c dnd daned",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measurements"
+            },
+            {
+                "text": "a) Titamium shaving: 24 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ast$ of titanium shaving were placed inside the cell without any kind of thermal treatment. The cell insulation was verified whit He gas at several pressuns in the range $( 5+2 5 )$ bar. The background was measuned with the vacuum system running (rotative and turbo-molecular pumps) and during thermal tranaients from room to liquid-nitrogen temperature. No variation in the buckground level was ohserved in these tests. The dead volume (see fig. 5) was then filled, at room temperature, with deuterium gas at a 16.5 bar presure and the valve (V4, see fig. 4) connecting the dead volume with the cell was opened: neither pressure nor cell temperature variations were observed. It is a well-known result, indeed. that no appreciable hydrogen adsorption can be obtained without any surface preparation [8]. In these conditions a 5 h measurement was performed and the neutron rate turned out compatible with the background level After this first step the liquid nitrogen was admitted in the cryostat: the cell temperatune went down to 77 K in about 10 minutes, then the liquid nitrogen was closed and the temperature went back to room tem-",
+                "cite_spans": [
+                    {
+                        "text": "[8]",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "fig. 5",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "text": "fig. 4",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Measurements"
+            },
+            {
+                "text": "perature in about 4 hours. This thermal cycle was repeated consecutively 4 times. During all the cyeles neither pressure variation nor neutron emission greater than the background level were observed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measurements"
+            },
+            {
+                "text": "b) Titaniun pouders 32 g of titanium powder then inserted in the cell wthout any preliminary thermal treatment and the dead volume was filled again with 16.5 bar of deuterium gas: the deuterium was then admitted inside the cell and two measurement, at roon temperature and during a thermal transient, down to 77K and back to 300 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{k}$ were performed. Once again neither pressure variation nor neutron emission were observed. Ater this first run we have degassed the titanium cell by pumping and heating 2h at 200*C. Temperature was eventually raised up to 560*C and the cell was maintained at this constant temperature in high vacuum conditions for approximately 7h. The temperature ramps in the oven were very slow. After these thermal treatments, performed to favour deuterium adsorption, the sample was inserted in the detector and the dead volume was filed with 16 bar of deuterium gas. When the deuterium was admitted in the cell the pressure went down to zero bar in a few minutes and the cell temperature increased up to 600*C. During this fast transient a neutron measurement was performed but no emission was detected. Then, a long measurement (15 hours) was performed holding the system in the same conditions, once again no neutrons emission was observed. After this first loading the dead volume was flled again with 10 bar of deuterium gas: when the deuterium was admitted in the cell the pressure in the dead volume went down to 8 bar and the cell temperature increased by $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e}$ We concluded that the sample was now loaded with deuterium at the maximum level and in these conditions we performed the following measurements:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measurements"
+            },
+            {
+                "text": "two consecutive runs during thermal transients induced by filling the cryostat with liquid nitrogen. These thermal cycles were completely equivalent to those performed on the titanium shavings. During all the measurements no neutron emission was observed. We evaluated, from the dead volume pressure variation, a deuterium-to-titanium ratio in the sample of about 0.65. In these runs the $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega$ parameter, defined according to Jones and eoworkers [l] as the fusion rate per deuterium pair, was lower than 10-fus/D pair/s.",
+                "cite_spans": [
+                    {
+                        "text": "[l]",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measurements"
+            },
+            {
+                "text": "Some measurements on two deuterium-titunium systems were performed without observing any neutron signal above the background level, also with a high deuterium adsorption inside the titanium lattice. With the first sample, the experimental eondi-tions were very similar, but not completely equivalent, to those of Searamuzzi and coworkers[8]. In particular, the thernal transient induced in the cell was slower and the multiparameter analysis, performed on the detector signals, had a dead time of 200us. The second point could make impossible the detection of -neutron burst-shorter than the detector dead time; nevertheless we rmust note that the scintillators count rates, for which the dead time is negligible, was fully compatible with the background level in all the measurements performed. The same considerations can be ap-pied to the secomd set of measurements.",
+                "cite_spans": [
+                    {
+                        "text": "[8]",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions"
+            },
+            {
+                "text": "As a conclusion, we think that the -Scaramuzzi-like- method, that we have fol-",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions"
+            },
+            {
+                "text": "lowed. is not reliable because deuterium is not adsorbed in the titanium lattice. Experimental contfigurations with high deuterium adsorption could be still investiguted, in particular in high stress conditions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "S.",
+                        "middle": [
+                            "E."
+                        ],
+                        "last": "JONES",
+                        "suffix": null
+                    },
+                    {
+                        "first": "E.",
+                        "middle": [
+                            "P."
+                        ],
+                        "last": "PALNER",
+                        "suffix": null
+                    },
+                    {
+                        "first": "J.",
+                        "middle": [
+                            "B."
+                        ],
+                        "last": "CZIRR",
+                        "suffix": null
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [
+                            "L."
+                        ],
+                        "last": "DECKER",
+                        "suffix": null
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [
+                            "L."
+                        ],
+                        "last": "JENSEN",
+                        "suffix": null
+                    },
+                    {
+                        "first": "J.",
+                        "middle": [
+                            "M."
+                        ],
+                        "last": "THORNE",
+                        "suffix": null
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [
+                            "F."
+                        ],
+                        "last": "TAYLOR",
+                        "suffix": null
+                    }
+                ],
+                "year": 1909,
+                "venue": "Nafere",
+                "volume": "338",
+                "issn": null,
+                "pages": "737",
+                "other_ids": {}
+            },
+            "BIBREF1": {},
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "DE NINNO",
+                        "suffix": null
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "FRATTOLILLO",
+                        "suffix": null
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "LOLLOBATTISTA",
+                        "suffix": null
+                    },
+                    {
+                        "first": "L.",
+                        "middle": [],
+                        "last": "MARTINIS",
+                        "suffix": null
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "MARTONE",
+                        "suffix": null
+                    },
+                    {
+                        "first": "L.",
+                        "middle": [],
+                        "last": "NORI",
+                        "suffix": null
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "PoDDA",
+                        "suffix": null
+                    },
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "SCAEAMUZI",
+                        "suffix": null
+                    }
+                ],
+                "year": 1989,
+                "venue": "Earophygs. Lett.",
+                "volume": "9",
+                "issn": null,
+                "pages": "221",
+                "other_ids": {}
+            },
+            "BIBREF3": {},
+            "BIBREF4": {},
+            "BIBREF5": {}
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "betetor geometry and composition: side view.",
+                "type": "figure"
+            },
+            "FIGREF1": {
+                "text": "Correlation between pulse pulse shape and pulse height in the liquid scintillator in a two-dimensional plot for an Am-Be neutron souree. The pulse height is plotted in MeV electron equivalent units [4] to take inte account the efleet of the light yield of a neutron insidde orgunic scintillators.",
+                "type": "figure"
+            },
+            "FIGREF2": {
+                "text": "The deuterium eontrol aystem.",
+                "type": "figure"
+            },
+            "FIGREF3": {
+                "text": "The titanium cell and the eryostat.",
+                "type": "figure"
+            }
+        },
+        "back_matter": [
+            {
+                "text": "(1] S. E. JoNES, E. P. PALNER. J. B. CZIRR. D. L. DECKER. G. L. JENSEN, J. M. THORNE and S. F. TAYLOR: Nafere, 338, 737 (1909).\n12 M. FLEISCHMANN, S PONS and M. HAWKINS: J. Slertrounal. Cicm., 261, 187,301 1969). I3] A. DE NINNO, A. FRATTOLILLO, G. LOLLOBATTISTA. L. MARTINIS, M. MARTONE, L. NoRI, S.\nPoDDA and F. SCAEAMUZI: Earophygs. Lett.,9, 221 (1989): Nuoro Cimento A, 101, 841 (19-9).\n|4] G. RICCO, M. ANGHINOLFI, P. CORVISIERO, E. DLRANTE, S. MAGG0LO, P. PHATI, A. HOT-TURa and M. TAIUT: A langpe sobd urngle multparameter neutron detector, in press in Nucd. Inatrum. Methods,\n[5J F. T. KUCHNIR and F. J. LYNCH: IEEE Trans. Nwcl. Sri., NS-15(9), 107 (1968).\n[6] M. ANGHINOLPT, G. RICCo. P. CoRVISIERO and F. MASULL.: Nscl. Iwstrum. Afethods, 165. 217 (1979.\n(7) M. TAU'Tm, M. ANGHINOLIT, P. CORVISIERO, G. RIoco and A. ZUOCHIATTI: Nucl. Iwstrwn. Methods, 211, 135 (1503).\n[8] M. A. PIcx: in Metol Hwdndes, edited by G. BANBAKIDIs (Plenum Press, New York. N. Y.. 190).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "REFERENCES"
+            }
+        ]
+    }
+}

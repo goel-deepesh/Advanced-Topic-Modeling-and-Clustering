@@ -1,0 +1,611 @@
+{
+    "metadata": {
+        "title": "Using Bakeout to Eliminate Heat from H/D Exchange During Hydrogen Isotope Loading of Pd-impregnated Alumina Powder",
+        "authors": [
+            {
+                "first": "Olga",
+                "middle": [],
+                "last": "Dmitriyeva",
+                "suffix": "",
+                "affiliation": [
+                    "Depurimet af Eiecvieal, Camower, and Energy Engtnering Cntressiry af Cotowudo, Bauinde, C0 802309-0425, tisA"
+                ],
+                "email": ""
+            },
+            {
+                "first": "Garret",
+                "middle": [],
+                "last": "Moddel",
+                "suffix": "",
+                "affiliation": [
+                    "Depurimet af Eiecvieal, Camower, and Energy Engtnering Cntressiry af Cotowudo, Bauinde, C0 802309-0425, tisA"
+                ],
+                "email": ""
+            },
+            {
+                "first": "Richard",
+                "middle": [],
+                "last": "Cantwell",
+                "suffix": "",
+                "affiliation": [
+                    " $r$ "
+                ],
+                "email": ""
+            },
+            {
+                "first": "Matt",
+                "middle": [],
+                "last": "McConnell",
+                "suffix": "",
+                "affiliation": [
+                    " $r$ "
+                ],
+                "email": ""
+            }
+        ],
+        "abstract": [
+            {
+                "text": "Earlier studies |1.2] have shown that a hydrogen-deulerium (WD) exchange chemical reaction initiated in Pd-impregnated material can account for at least some of the excess heat observed during gas-loading experiments. We report on using in-siw material bakeout for an extended time to assess and eliminate the chemical heat contribution.",
+                "cite_spans": [
+                    {
+                        "text": "|1.2]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "section": "Abstract"
+            },
+            {
+                "text": "Multiple studies on deuterium loading of Pd nanomaterials demonstrated consistent and repeatable anomalous heat production [3-7]. Low-energy nuclear reaction (L.ENR) has been offered as an explanation for this heat production. Excess heat production in such systems was observed only in the presence of deuterium, but not hydrogen - an isotope efiect. We replicated and analyzed the results of deutenunvhydrogen gas loading experiments. In the study reported here, we show that a coaventional heat generation process could account for these observations. Also, we proposed a method that would help to assess this chemical heat contribution.",
+                "cite_spans": [
+                    {
+                        "text": "[3-7]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "section": "Abstract"
+            },
+            {
+                "text": "These anomalous effects were demonstrated in nano-Pd-on-oxide materials, which are well-known catalytic systems. Catalysis is a surface phenomena, and hence an efficient catalyst must have a large surface area, implying that the active particles must be small. Small metal particles can be unstable and prone to sintering in order to reduce surface area. Therefore, most heterogeneous catalysts consist of particles inside the pores of inert substrates such as alumina, silica,",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            },
+            {
+                "text": "D 2013 1SCMNS. All rights reserved. ISSN",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            },
+            {
+                "text": "Keywonds: Excess heat, Gas-loading, H/D Exchange, LENR, Pd",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "titania magnesia, zinc oxide, zirconia, zeolite and others. Thus, Pd-impregnated alumina appears to be a suitable system to promote chemical reactions in the presence of hydrogen isotopes. However, the question of isotope selectivity of such a reaction still remained: why was the exeess heat observed during deuterium loading but not hydrogen? An explanation was proposed by Kidwell et al. [6], suggesting hydrogenvdeuterium (H/D) exchange as a heat generation mechanism in Pd-impregnated systems. Replacement of a hydrogen atom by deuterium in a water molecule or a hydroxyl group on oxide support is an exothermic reaction. However, if the same material is exposed to hydrogen, no exchange takes place and no heat is released.",
+                "cite_spans": [
+                    {
+                        "text": "[6]",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Experiment"
+            },
+            {
+                "text": "In our previous work [2], we tested the isotope dependence of heat generation in Pd-impregnated alumina and showed that Pd nanoparticles catalyze H/D exchange chemical reactions. One of the necessary reactants is a gas atom (deuterium or hydrogen), while the other reactant is a particular water isotope trapped in the material due to its hydroscopie nature. We called the water isotope fuel. This fuel can be supplied to the material in two ways: (1) material can be enriched with a particular water isotope during the fabrication or (2) by subsequent exposures to deuterium or hydrogen gas. We used both methods to enrich Pd-impregnated alumina powder with the water isotope of our choice. By subjecting the hydrogenated material to deuterium gas we produced an exothermic H/D exchange reaction and the system generated excess heat. While subjecting the deuterated material to hydrogen gas, we found that the system absorbed heat from the environment This can be explained by a reverse H/D exchange. Expected gas products of the reaction were consistent with those observed using a residual gas analyzer (RGA).",
+                "cite_spans": [
+                    {
+                        "text": "[2]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Experiment"
+            },
+            {
+                "text": "ln this paper we present an approach that allowed us to control the amount of water absorbed in the material, while measuring generated heat to quantify the contribution of the H/D exchange reactioa. The detailed description is given in Section 3:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Experiment"
+            },
+            {
+                "text": "Section 3.1 discusses TGA and RGA data that show the traces of water trapped in the material. Section 3.2 provides the results of H/D and reverse H/D exchange in Pd-impregnated alumina powder. Section 3.3 discusses the method of depleting material from water by baking it out in-situ at 390\"C in vacuum for at least 35 h. Section 3.4 demonstrates reactivation of the H/D exchange and heat production in the material following reabsorption of water. Section 3.5 includes experimental data on material reabsorbing water from air. The amount absorbed is quantified.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Experiment"
+            },
+            {
+                "text": "We used 80-200 mesh Al2Oa powder (Fisher Scientific P/N: CAS 1344-28-1) that was baked in vacuum at 350'C for 12 h before processing. Powder samples containing 2.0% by weight of Pd were fabricated by the incipient wetness method [8] of impregnating hot HzPdCl solution into alumina, forming a slurry. This slurry was then dried in air at room temperature without calcination. Prior to loading into an experimental apparatus, the sample was baked in a vacuum oven at 120 C for 24 h. However, some water is still trapped in the matenal even after prebake (discussed in Sections 3 and 3.1). During the loading process the sample was exposed to air for about S min, during which there was a chance for more water vapor to be absorbed. This fabrication method produces nanoscale Pd clusters on the surface of the alumina support, which was confirmed by TEM analysis.",
+                "cite_spans": [
+                    {
+                        "text": "[8]",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Experiment"
+            },
+            {
+                "text": "Figure 1 shows a block diagram of the experimental setup. The system was enclosed in an isothermal chamber (an HP 5890A gas chromatograph owen). The temperature of the oven can be set between 40\"C and 400\"C. The maximum oven temperature used in our experiments was 390\"C. A removable stainless steel vessel was placed inside the oven and connected to the gas line. The vessel contained 6 g of material. Hydrogen, deuterium or nitrogen could be supplied through the gas line. H, and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{D_{2}}$ were supplied through an oxygen-remowving hydrogen purifier. The D2 gas was 99.9%",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "2. Experiment"
+            },
+            {
+                "text": "pure and the He gas was 99.99% pure. Nitrogen was ud t fill the system while the vessels were exchanged and new material was loaded.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.2. Experimental setup"
+            },
+            {
+                "text": "A typical run consisted of (1) pressurization by hydrogen or deuterium, (2) a period of 2 h when system remained under pressure, (3) an evacuation for 4 h. The system was pressurized up to $1 0^{-4} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{P a} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, ( 1 0^{-6} )$ torr). Heat released or consumed by the the system was done using a turbo-molecular pump down to $1. 6 \\\\\\\\\\\\\\\\\times 1 0^{5}$ PL120 or) Eracuarion of system during gas lkad/unload cycles resulted in temperature changes that were measured by RTD sensors (Omega RTD-NPT-72-E-MTP-HT), located in the bottom of the vessels. A residual gas analyzer (SRS RG.A200) was connected to the system. Temperature changes that exceeded oven's background temperature fluctuations were associated with exothermic or endothermic heat generated in the system.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.2. Experimental setup"
+            },
+            {
+                "text": "Thermogravimetric analysis (TGA) of our material showed --10% of weight loss as the temperature was ramped up to 1000'C. Half of this weight was lost by the material bhefore the temperature reached 40OC. RGA data showed that water (mass 18) was a major chemical released during the bakeout.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Results"
+            },
+            {
+                "text": "In previous work [2]. we demonstrated (1) deuterium producing excess heat production in Pd-impregnated alumina previously exposed to the air, (2) excess heat tapering off with repeated runs, (3) subsequent exposure to hydrogen changing the reaction from exothermic to endothermic. The results were explained by the H/D and reverse H/D exchange chemical reactions activated by Pd nano-catalysts. Exchange reaction products were also observed using the RGA.",
+                "cite_spans": [
+                    {
+                        "text": "[2]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Results"
+            },
+            {
+                "text": "Figure 2, part I, shows the excess heat produced in 26 runs, where the reaction gas was switched from deuterium (first 16 runs - exothermic process) to hydrogen (subsequent 10 runs -endothermic process). The amount of heat was calculated as a difference between the energy released or absorbed by the system during pressurization and evacuation.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "3. Results"
+            },
+            {
+                "text": "System",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Results"
+            },
+            {
+                "text": "rontrol, and temperature, pessure and RGA data acquisition were done using LabView sofiware.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Results"
+            },
+            {
+                "text": "The system bakeout was carried out by ramping the temperature in 50\"C increments up to 390'C for a total time of about 35 h. The bakeout was carried out in situ, so that the material was not exposed to atmosphere between the bakeout and subsequent testing. Figure 2, part II, shows the result of the following hydrogen and deuterium pressurizations. The first Hy exposure resulted in an increased amount of released heat. We suggest it is due to chemucal reaction of the gas with the bakeout products. However, the temperature measurements of the subsequent 20 runs showed a significant decrease in the amount of heat generated by the system, with no difference between deuterium and hydrogen runs. For the subsequent runs RGA testing showed no evidence of H/D exchange reactions.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "3.3. High-temperature treatment"
+            },
+            {
+                "text": "After unloading from the apparatus the material was placed on the lab scale to monitor the reabsorption of the moisture from air. On average our materials reabsrbed about 6% water by its weight. Due to a delay in the transfer of the material to the scale, the percentage of absorbed water may be slightly underestimated. Twenty-four hours later the material was loaded back to the apparatus and pressurized with deuterium. Figure 2., part IIl, shows reactivation of the excess heat generation in the presence of deuterium. H/D exchange was evident from RGA data.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "3.4. Reactivation of exeess heat generation"
+            },
+            {
+                "text": "Assuming that water is a fuel for the exothermic H/D exchange reaction we can calculate the amount of energy available. $6 8$ by weight of reabsorbed water is equal to 0.36 g. The enthalpy of the exchange reaction is 8.3 k/mol [9], which would result in 166 J of released heat. Based on the data presented in Fig. 2, part 1l, we estimate that 165 J was generated.",
+                "cite_spans": [
+                    {
+                        "text": "[9]",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "3.5. Calculations"
+            },
+            {
+                "text": "lt is important to be able to assess the chemical heat contribution when reporting on LENR in Pd-impregnated oxide powders. In our previous work, we demonstrated that water isotopes trapped in a powdered Pd-impregnated alumina",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Diseussion and Conclusions"
+            },
+            {
+                "text": "catalyst act as a fuel to support H/D exchange chemical reactions. These reactions were shown to be either exothermic or endothermic. In this paper we describe a technique that allows control of the H/D chemical reaction. Extended bakeout is necessary to remove the residual water from the absorptive powdered material. It is important to avoid any air exposure between the elevated temperature treatment and gas-loading steps, to insure that material does not reabsorb water from the air. We found that an in-situ bakeout at 390 C for at least 35 h is suficient The reactivation of the H/D exchange to its initial level after water reabsorption from air suggests that the Pd catalyst did not undergo any significant physical or chemical transformation during the high temperature treatment. Thus, it-suu bakeout of the matenal in vacuum for an extended period of time prior to the contact with hydrogen or deuterium is an effective method to insure that chemical heat due to the H/D exchange is not present during gas-loading experiments.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Figure l. Schematic nepreseniation of the cxperimeatal apparaius. The sample wsoel is eaclosed in the owem. Hycrogen, deuterium., or mitrogen can be supplied tw the vesscl threugh the gas line.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure l",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "3. Results"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "Yes, Virginia there is heat, but it is most likely of chemical origin",
+                "authors": [
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "Kidwell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "Knies",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Mower",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "Domingues",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Proc. lSth int. Canf. own Candensed .Mater Nuclear Seience",
+                "volume": null,
+                "issn": null,
+                "pages": "100-109",
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "Origin of excess heat generated during loading Pd-impregnated alumina powder with deuternium and hyurogen",
+                "authors": [
+                    {
+                        "first": "O.",
+                        "middle": [],
+                        "last": "Dmitriyeva",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Cantwell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "MeConnel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Moddel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Thenmwcdhimica Acte",
+                "volume": "543",
+                "issn": null,
+                "pages": "260-266",
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": "Establishment of the Solid Furiow reactor",
+                "authors": [
+                    {
+                        "first": "Y.",
+                        "middle": [],
+                        "last": "Arata",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y.-C.",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "J. High Tewup Soc.",
+                "volume": "34",
+                "issn": null,
+                "pages": "85-93",
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": "Cold Fusion by gas laading: a review",
+                "authors": [
+                    {
+                        "first": "Jean-Paul",
+                        "middle": [],
+                        "last": "Biherian",
+                        "suffix": ""
+                    }
+                ],
+                "year": 200,
+                "venue": "Pro. 14th int. Cownf. Candensed Mater Mucl- Sci.",
+                "volume": null,
+                "issn": null,
+                "pages": "370-384",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": "Deuteron electromigraticn in thin Pd wires coated with nano-particles: evidense for ultra-fast deuterium kading and anomalous, large thermal effects",
+                "authors": [
+                    {
+                        "first": "FE.",
+                        "middle": [],
+                        "last": "Celani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "et al.",
+                        "suffix": ""
+                    }
+                ],
+                "year": 200,
+                "venue": "Pro. Idnh Int Cownf. Cowudeused AMatier Nncl. Sei.",
+                "volume": "S",
+                "issn": null,
+                "pages": "385-399",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": "Anomalous effects in charging of Pd powders with high density hydrogen isotopes",
+                "authors": [
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Kitamura",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Nohni",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y.",
+                        "middle": [],
+                        "last": "Sasaki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Tukahashi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Seto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y.",
+                        "middle": [],
+                        "last": "Fujita",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Phys. Lert. A",
+                "volume": "373",
+                "issn": null,
+                "pages": "3109- 3112",
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "BIBREF6",
+                "title": "Hydrogen/deuterium absorption property of Pd fine particle systerms and heat evolution assuciated with hydrogen/deuterium lauding",
+                "authors": [
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Hioki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H.",
+                        "middle": [],
+                        "last": "Azuma",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Nishi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Itoh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.",
+                        "middle": [],
+                        "last": "Guo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Hibi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Motohiro",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.",
+                        "middle": [],
+                        "last": "Kasagi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Pro. ISth Int. Cowf. Coundensed Marter Nucl. Sei.",
+                "volume": null,
+                "issn": null,
+                "pages": "88-93",
+                "other_ids": {}
+            },
+            "BIBREF7": {
+                "ref_id": "BIBREF7",
+                "title": "Chemical activity of palladium clusters: sorption of eE2\u533a8itd 2 8r a18280232727m767 $1^{-1}$ ed.",
+                "authors": [
+                    {
+                        "first": "Sheng-Yang",
+                        "middle": [],
+                        "last": "Hluang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Chin-Da",
+                        "middle": [],
+                        "last": "Huang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Beb-Tze",
+                        "middle": [],
+                        "last": "Chang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C-T.",
+                        "middle": [],
+                        "last": "Ych",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Hemisphere, Now",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF8": {
+                "ref_id": "BIBREF8",
+                "title": "Themodyuami Prperice f fadvidnaf Substanes",
+                "authors": [
+                    {
+                        "first": "LV.",
+                        "middle": [],
+                        "last": "Gurvich",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V.",
+                        "middle": [],
+                        "last": "Veyts",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C.",
+                        "middle": [],
+                        "last": "Alek",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "York",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "Schematic nepreseniation of the cxperimeatal apparaius. The sample wsoel is eaclosed in the owem. Hycrogen, deuterium., or mitrogen can be supplied tw the vesscl threugh the gas line.",
+                "type": "figure"
+            },
+            "FIGREF1": {
+                "text": "Heatgenenat by te uitia ring deutiun and hyedeoe pessuizations",
+                "type": "figure"
+            }
+        },
+        "back_matter": [
+            {
+                "text": "## References",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,709 @@
+{
+    "metadata": {
+        "title": "Nuclear Reactions in Condensed Matter: A Theoretical Study of D-D Reaction within Palladium Lattice by Means of the Coherence Theory of Matter",
+        "authors": [
+            {
+                "first": "Fulvio",
+                "middle": [],
+                "last": "Frisone",
+                "suffix": "",
+                "affiliation": [
+                    "Depurtmeur af Physies, Einthessity of Canuntia, Wa Sawwa Safia 64, -95025 Curtowhe, Inaly",
+                    "lrpurme fis, nensty f Can. a a91 61,-5025 cmia, haly"
+                ],
+                "email": ""
+            }
+        ],
+        "abstract": [
+            {
+                "text": "In the last decades, an indisputable experimental evidence was built up for Low-Energy Nuclear Reaction (LERN) phenomena in specialized heavy hydrogen systerms. Actually, the real problem is that, the theuretical statements of LERN are not knonrn; in fact, no new branch of science has begun, yet. In this work, we seck to analyse the deuteron-deuteron reactions within palladium lattice by means of Preparata nodel of palladium atice and we will show the occurrenee probability of fusm phenemena according to more accurate, but not claimed, experiments, in order to demonstrate theoretically the possibility of cold fusion. Further, we focus on tunnelling the Coulomb barrier existent between two deuteroes. Analysing the pussible contributions of lattice on improving the tunnelling probability, we will find that there is a real mechanism through which this probability could be increased: this mechanism is the screening effect dae to d-shell electrons of palladium lattice. Finally the guod agreement betwvoen theoretical and experimental results proves the reality of cold fusion phenomena and the reliability of our model.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            },
+            {
+                "text": "We have studied that within the Coherence Theory of Condensed Matter it was verified the cold fusion [1-4] phenomena. In this theory |5] it is assumed that the electromagnetic (e.m.) field, due to elementary constituents of matter (i.e. ions and electrons), plays a very important role on dynamic system. In fact considering the coupling between e.m. equations, because of charged matter, and the Schridinger equation of field matter operator, it is possible to demonstrate that in proximity of e.m. frequency  $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{0}$ , the matter system shows a dynamic coherence. That is why it is possible to speak about the coherence domains whose length is about $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{C D}}=2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\pi/ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{0}$",
+                "cite_spans": [
+                    {
+                        "text": "[1-4]",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "|5]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "section": "Abstract"
+            },
+            {
+                "text": "Obviously, the simplest model of matter with coherence domain is the plasma system. In the usual plasma thery,\n $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{F}}$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "D 2007 1SCMNS. Al ights reserved.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Kgywonds: Col frequency of th",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "lective plasmonic excitation, Dislocations. Fusion within a microcrack, Nuclear reaction, Tunneling effect, Vibration $:$ lattice",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "1. Introduction",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "That is not surprising beeause the Hamiltonian's describes, of this plasma, a system whose amplitude oscillations are arbitrary, while the limit over a certain amplitude does not exist in a real plasma.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "But in the plasma approximation as an homogeneous fuid, we suppose that our Hamiltonian's stops have to be valid for the oscillations bigger than the following:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "that is when the plasma's oscillations are of the same order of the inter-particle distance $=$ . In order to create some more realistie moxdels of plasma, we want to compute the breaking amplitude $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha_{m}$ obtained by the combination of Eas. (22) and (23) for a gas of electrons.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "This simple calculation shows how it is possible to change our quantum ideal plasma in a real plasma. For a plasma of electrons the oscillations remain very little and so a two levels model can be a good approximation (the dynamics only includes the first excited state). A consequence of this approximation, consisting in the reduction of the plasma in a homogeneus ui, is te haning af h lsma fequency oup",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Moreover, we study the \"nuclear environment\", that it is supposed existent within the palladium lattice D.-loaded and at room temperature as predicted by Coherence Theory. In fact when the palladium lattice is loaded with deuterium gas, some physicists declared that it is possible to observe traces of nuclear reactions [1-3]. For this reason many of these physicists speak about Low- Energy Nuclear Reaction (LERN).",
+                "cite_spans": [
+                    {
+                        "text": "[1-3]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "One of the biggest experiments tell us that in the Dy-loaded palladium ease the most frequent nuclear reactions are [3,4]:",
+                "cite_spans": [
+                    {
+                        "text": "[3,4]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "nthseaeis as t oboere hat for  $g_{0}=( 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\pi/ 3 )^{1 / 2}$ is nkel to saifty bot Ep. (10) nd 19.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "This esul quantum plas",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "t means that the energy of an ideal quantum plasma does not have a minimum; in other words the ide: ma does not exist.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "$\\\\\\\\\begin{array} {c c} {} & {} & {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{But ~ b y}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\end{array}$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "\\\\\\\\\begin{array} {c c} {} & {} & {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{But ~ b y}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\end{array}",
+                        "latex": "\\\\\\\\\begin{array} {c c} {} & {} & {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{But ~ b y}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\end{array}"
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "$\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\xi}=\\\\\\\\\frac{1} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{2 m \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{p}}}} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{a}+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{a}^{+} ),$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "vector(xi) = 1 / sqrt(2 m omega_p) (vector(a) + vector(a)^(+))",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\xi}=\\\\\\\\\frac{1} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{2 m \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{p}}}} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{a}+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{a}^{+} ),"
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "$\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{i t ~ i s ~ e a s y ~ t o ~ o b t a i n :}$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "$\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\langle\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\xi}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, 2} \\\\\\\\\rangle=\\\\\\\\\frac{1} {m \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{p}}} a^{2}.$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "<vector(xi)^2> = 1 / (m omega_p) a^2",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\langle\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\xi}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, 2} \\\\\\\\\rangle=\\\\\\\\\frac{1} {m \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{p}}} a^{2}."
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "$\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\langle\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\xi}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, 2} \\\\\\\\\rangle_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{max}}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\! 1 / 2} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\approx a=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left( \\\\\\\\\frac{V} {N} \\\\\\\\\right)^{1 / 2}$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "<vector(xi)^2>_max^(1/2) approx a = (V/N)^(1/2)",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\langle\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\xi}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, 2} \\\\\\\\\rangle_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{max}}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\! 1 / 2} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\approx a=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left( \\\\\\\\\frac{V} {N} \\\\\\\\\right)^{1 / 2}"
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "Using thedeinition of op, we have:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "$\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{max}}={\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{m \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathfrak{p}}}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left( {\\\\\\\\\frac{1} {3}} \\\\\\\\\right)^{1 / 3}=( m \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha)^{1 / 4} e^{1 / 2}$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "alpha_max = sqrt(m omega_p)(1/3)^(1/3) = (m alpha)^(1/4)e^(1/2)",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{max}}={\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{m \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathfrak{p}}}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left( {\\\\\\\\\frac{1} {3}} \\\\\\\\\right)^{1 / 3}=( m \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha)^{1 / 4} e^{1 / 2}"
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "taking",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "$$a \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\approx2. 5 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\dot{A}}$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "a approx 2.5 A",
+                        "latex": "a \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\approx2. 5 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\dot{A}}"
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "$\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{i t ~ i s ~ c a l c u l}$ated",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "$\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{max}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cong2. 7 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\AA}.$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "alpha_max approx 2.7 A",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{max}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\cong2. 7 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\AA}."
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "$\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{p}=\\\\\\\\\frac{Q} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{m}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{\\\\\\\\\frac{N} {V}}.$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "omega_p = Q / sqrt(m) * sqrt(N/V)",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{p}=\\\\\\\\\frac{Q} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{m}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{\\\\\\\\\frac{N} {V}}."
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "$\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{D+D \\\\\\\\\to^{3} H+p+4. 0 3 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, M e V},$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "D + D -> ^3H + p + 4.03 MeV",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{D+D \\\\\\\\\to^{3} H+p+4. 0 3 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, M e V},"
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "(a) (22)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "$\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{D+D \\\\\\\\\to^4 H e+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\; ( 2 3. 8 5 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\; M e V ).}$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "D + D -> ^4He + gamma (23.85 MeV)",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{D+D \\\\\\\\\to^4 H e+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\; ( 2 3. 8 5 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\; M e V ).}"
+                    }
+                ],
+                "section": "Introduction"
+            },
+            {
+                "text": "(b)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "2. The Plasmas Present within No Loaded Palladium",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. The Plasmas Present within No Loaded Palladium"
+            },
+            {
+                "text": "so we mu",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. The Plasmas Present within No Loaded Palladium"
+            },
+            {
+                "text": "st take into account the plasma of s-electron and d-eletro, n order to describe the latice evironmen",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. The Plasmas Present within No Loaded Palladium"
+            },
+            {
+                "text": "2.1. The Plasma of the d-Electrons",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.1. The Plasma of the d-Electrons"
+            },
+            {
+                "text": "$\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d}}=\\\\\\\\\frac{e} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{m}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{\\\\\\\\\frac{n_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d}} N} {V}},$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "omega_d = e / sqrt(m) * sqrt(n_d * N / V)",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d}}=\\\\\\\\\frac{e} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{m}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{\\\\\\\\\frac{n_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d}} N} {V}},"
+                    }
+                ],
+                "section": "2.1. The Plasma of the d-Electrons"
+            },
+            {
+                "text": "$${\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{\\\\\\\\\frac{6} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\pi}}}=1. 3 8.$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "sqrt(6/pi) = 1.38",
+                        "latex": "$${\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{\\\\\\\\\frac{6} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\pi}}}=1. 3 8.$$"
+                    }
+                ],
+                "section": "2.1. The Plasma of the d-Electrons"
+            },
+            {
+                "text": "lf we rewrite it with a the renormalized d-electron plasma frequency, we have",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.1. The Plasma of the d-Electrons"
+            },
+            {
+                "text": "$\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d}}=4 1. 5 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\; \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e V} / \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hbar$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "omega_d = 41.5 eV/hbar",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{d}}=4 1. 5 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\; \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e V} / \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hbar"
+                    }
+                ],
+                "section": "2.1. The Plasma of the d-Electrons"
+            },
+            {
+                "text": "and the maximum osilation ampliude $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\varepsilon_{a}$ is about0.5 A.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.1. The Plasma of the d-Electrons"
+            },
+            {
+                "text": "2.2. The Plasma of Delocalized s-Electrons",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.2. The Plasma of Delocalized s-Electrons"
+            },
+            {
+                "text": "$\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{s e}}={\\\\\\\\\frac{e} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{m}}} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{\\\\\\\\\frac{N} {V}}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{\\\\\\\\\frac{x} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{a}}}}},$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "omega_se = e/sqrt(m) * sqrt(N/V) * sqrt(x / lambda_a)",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{s e}}={\\\\\\\\\frac{e} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{m}}} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{\\\\\\\\\frac{N} {V}}} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sqrt{\\\\\\\\\frac{x} {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{a}}}}},"
+                    }
+                ],
+                "section": "2.2. The Plasma of Delocalized s-Electrons"
+            },
+            {
+                "text": "(23)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "(24)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "(25)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "(26)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "(27)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "(28)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "(29)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In our work, we aim to propose a \"coherence'\" moxdel by means of which we can explain the ocurrence of reactions (a) and (b) and their probability according to the most reliable experiments [6]. First of all, we will start by analysing the environment, i.e. of plasmas present within palladium (d-electron, s-electron, Pd-ions and D-ions) using the coherence theory of matter, lastly we will use the effective potential reported in [7,8] axlding the role of lattice perturbations by means of which we compute the D-D tunnelling probability.",
+                "cite_spans": [
+                    {
+                        "text": "[6]",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "text": "[7,8]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "According to the Coherence Theory of Condensed Matter, in a Pd crystal at room temperature the electron shells are in a coherent regime within coherent domain. In fact they oscillate in tune with a coherent e.m. field trapped in the coherent domains.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Similar argumentations were proposed by Preparata's but started from a new formulation of condense matter theory known as Coberence Theory.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In this theory, we can visualize the plasma formmed by d-shell electrons as consisting of charged shells of charge nae (for palladium nd = 10) radius $r_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathsf{d}}=1$ A and thickness a fraction of 1 $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\lambda$ The classical plasma",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "as d-electrons plasma frequency. But according to the coherence theory of matter we must adjust this plasma frequency of a factor 1.38.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "We can understand this correction by observing that the formula (26) is obtained assuming a uniform d-electron charge distribution. But of course the d-electron plasma is localized in a shell of radius $\\\\\\\\\boldsymbol{R}$ (that is about 1 A), so the geometrical contribution is",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The s-electrons are those which in the lattice neutralize the adsorbed deuterons ions. They are delocalised and their plasma frequency depends on loading ratio (DrPd percentage). The formula (28) can also be written as",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "This type of process has been extensively studied in the literature for metals and for the case of crystalline semiconductors at high temperature.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In the latter, for example, it is found that the concentration of interstitial impurities around a linear dislocation, with a point component, depends on the temperature according to the law written above where $J_{0}$ is the concentration of impurities in the zone with zero intemal pressure, $( b^{3} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\simeq v_{1}$ ) the volume of the ions constituting the lattice, while $s$ is proporinat to te difference  $v_{d}-v_{1}$ ) between the volume of the impurity atoms and tat of the lattice ions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "Our conjecture is that in a metal, such as Pd, a similar phenomenon could occur between the atoms of deuterium penetrating the lattice as a result of deuterium loading and the microcracks produced by variations in temperature. In this case, the parameter $\\\\\\\\\beta$ of the previous expression would be negative, determining an increase in the concentration of deuterons in the vicinity of the microcrack, which would then catalyse the phenomenon of fusion as:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "$\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Sigma=J K T R$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "Sigma = JKTR",
+                        "latex": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Sigma=J K T R"
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "and",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "$$B=J / \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\varsigma.$$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "B = J /varsigma",
+                        "latex": "B=J / \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\varsigma."
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "So we can wite te effective d-d potential",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "$$V ( r )=k_{0} \\\\\\\\\frac{q^{2}} {r} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left( V ( r )_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{M}}-\\\\\\\\\frac{J K T R} {r} \\\\\\\\\right),$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "V(r) = k_0 * (q^2 / r) * (V(r)_M - (JKTR / r))",
+                        "latex": "V ( r )=k_{0} \\\\\\\\\frac{q^{2}} {r} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left( V ( r )_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{M}}-\\\\\\\\\frac{J K T R} {r} \\\\\\\\\right),"
+                    }
+                ],
+                "section": null
+            },
+            {
+                "text": "Taking into account the role of coupling between deuteron and plasmons, in |131 it was numerically evaluated a D-D potential having the features of the potential (14) with $D^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\prime}=-5 0 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\; \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e V}$ and $r_{0}^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\prime}=0. 5 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\hat{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{A}}$ and $\\\\\\\\\rho=0. 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\bar{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{A}}$ (remember that in [13] are considered only two plasmon excitations at 7.5 and 26.5 eV).",
+                "cite_spans": [
+                    {
+                        "text": "|131",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "[13]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "According to the coherence theory of condensed matter, we study the role of potential (40) in the three different phases : $u$  $\\\\\\\\\beta$ and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "coning wn h itd r",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "can be:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The question is much more complicate for the second point. In fact the lattice environment is a combination of coherent plasmas (ion Pd, electron and deuterons plasma) at different temperature, due to diferent masses, that let be very difficult the description of the emerging potential.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The feature of the potential (37 is shown in Fig. 6:",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 6",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "This section, however, needs of some important explanation, such as:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "(1) what KT is,",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "(2) what is the role of electrons, ions plasma?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "rations",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "in,aecordingthe diftren eutero-latie cenig",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "(1) the loaded lattice temperature if we consider the deuterons in the $u$ -phase (2) $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\beta}$ if we consider the deuterons in $\\\\\\\\\beta$ BTane\n(3) $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma}$ if we consider the deuterons in the $y-$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "The method that in this work we propose is the following: to consider the total screening contribution of lattice environment at D-D interaction (i.e. $V_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{t o t}}$ ias random potential $Q ( t )$ So in this model we hawe",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "that is to sa that $Q ( t )$ (a second order potential contribution) is a periodic potential (the frequency will be called by $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\omega_{O}$ ) tht ociltles bween he maximm value $Q_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{m o x}}$ and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\circ$",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "More exactly the oscillation charges of d-shell produce a screening potential having a harmonic feature:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "In [5] putting $Z_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\sf d}=1 0 / 3$ and $a_{0}=0"
+            }
+        ]
+    }
+}

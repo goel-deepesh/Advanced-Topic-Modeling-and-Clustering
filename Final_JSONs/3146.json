@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "title": "Eeperimens onClaimed -Prtcie Emission Decay",
+    "authors": [
+      {
+        "first": "V.",
+        "middle": ["C."],
+        "last": "Noninski",
+        "suffix": null,
+        "affiliation": [
+          "Fichbune Stute Coege, Dept. of Chemistry, Fuchbung, Massackuselis, 01420-2697"
+        ],
+        "email": "vnoninski@fsc.edu"
+      },
+      {
+        "first": "J.",
+        "middle": ["L."],
+        "last": "Ciottone",
+        "suffix": null,
+        "affiliation": [
+          "Fichbune Stute Coege, Dept. of Chemistry, Fuchbung, Massackuselis, 01420-2697"
+        ],
+        "email": "ciottone@fsc.edu"
+      },
+      {
+        "first": "P.",
+        "middle": ["J."],
+        "last": "White",
+        "suffix": null,
+        "affiliation": [
+          "Fichbune Stute Coege, Dept. of Chemistry, Fuchbung, Massackuselis, 01420-2697"
+        ],
+        "email": "pwhite@fsc.edu"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "In a previous paper (Noninski, 1995) we reported comparative results of y-ray measurements before and afer burming of a mixtune of chemicals. Increase of $, ray activity after buming was claimed by some colleagues to be an indicalion of the lact that certain nuclear processes can be induced simply by carrying out chemical reactions. Although we observed an increase in the y-ray eounts after burning of the sample, we concluded that the reasons for this increase are trivial and are due to concentrating, as a result of burning, of the naturally ocurring isotopes of some elements, especially K. We noled, however, that there may be certain conditions, unknown to us, which may bring about the purported changes of nuelear character due simply to chemical reactions. In follaow-up of our manuscript, (Lin, 1995), presented data of B-particle decay when using a mixture whose composition includes fewer chemicals than those in the mixture studied by us. Also, the amounts of the various ingredients in the mixture differed from thse used in (Noninski). We carried out a series of measurements of the B-particle emission activity with this new recipe and are reporting the results from these studies in the present communication.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "section": "Abstract"
+      }
+    ],
+    "body_text": [
+      {
+        "text": "Nine separate bums were carried out. The composition of the mixture used was: $\\mathbf{C}-1 0 0 \\, \\mathbf{g}$ , Johnson Matthey, Carbon Graphite Powder, 300 mesh, 99.0%; $\\mathrm{K N O, ~}-3 0 0 \\mathrm{~ g.}$ , Fisher, ACS grade Mallinckrodt; $\\textbf{S}-3 0 \\textbf{g}$ Johnson Matthey. sulfur Powder. Sublimed USP: $\\mathrm{S i O}_{2}-3 0 \\mathrm{~ g}$ , Fluka, Seesand, 40-200 mesh, acid purified; $\\mathrm{F e} \\mathrm{\\ensuremath{S}}-4 0 \\mathrm{\\ensuremath{g}}$ , unknown origin, granular; $\\mathsf{H g}_{2} \\mathbb{C} \\mathbb{l}_{2}-1 0 \\textnormal{g.}$ Merck, $\\mathrm{U S P : P b O-~ 1 0 ~ g.}$ Pisher certified lead monoxide. All chemicals are from the stockroom of the department.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [
+          {
+            "text": "C - 100 g",
+            "latex": "\\mathbf{C}-1 0 0 \\, \\mathbf{g}"
+          },
+          {
+            "text": "KNO3 - 300 g.",
+            "latex": "\\mathrm{K N O, ~}-3 0 0 \\mathrm{~ g.}"
+          },
+          {
+            "text": "S - 30 g",
+            "latex": "\\textbf{S}-3 0 \\textbf{g}"
+          },
+          {
+            "text": "SiO2 - 30 g",
+            "latex": "\\mathrm{S i O}_{2}-3 0 \\mathrm{~ g}"
+          },
+          {
+            "text": "FeS - 40 g",
+            "latex": "\\mathrm{F e} \\mathrm{\\ensuremath{S}}-4 0 \\mathrm{\\ensuremath{g}}"
+          },
+          {
+            "text": "Hg2Cl2 - 10 g.",
+            "latex": "\\mathsf{H g}_{2} \\mathbb{C} \\mathbb{l}_{2}-1 0 \\textnormal{g.}"
+          },
+          {
+            "text": "PbO - 10 g.",
+            "latex": "\\mathrm{P b O-~ 1 0 ~ g.}"
+          }
+        ],
+        "section": "Experimental"
+      },
+      {
+        "text": "For measurement of the B-particle emission activity a Ludlum 44-1 Beta Survey Detector consisting of a plastic scintillator of 0.01 thickness with 1 1.6 em' window area was used. The window was covered by 0.8 mg/em* metalized mylar for light tightness. The plastic scintillator (crystal itself), 1 inch in diameter, was NE102. The operating range/lefficiency is from $C^{1 4} / 1 5 9 6$ to ${\\bf P}^{3 2} / 6 0 9 6$ . The PM tube used was the 10 stage head-on type. The detector was attached to a Ludlum Model 2200 Scaler Ratemeter whose settings were as follow: window 3.02: Threshold 6.0: Range xlk; set for 60 min intervals: meter readings 200 cpm: Window ON. The ratemeter was typically set to acquire counts in the course of one hour. The number of counts acquired for one hour (from bum 4 on) were dumped into the memory of a computer through a",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [
+          {
+            "text": "C14 / 1596",
+            "latex": "C^{1 4} / 1 5 9 6"
+          },
+          {
+            "text": "P32 / 6096",
+            "latex": "{\\bf P}^{3 2} / 6 0 9 6"
+          }
+        ],
+        "section": "Experimental"
+      },
+      {
+        "text": "serial port. A larger paint pail (leaktite paint pot #5) from HQ was used as a vessel. As also required by the recipe, two $6$ inch galvanized framing nails were placed in the reaction vessel. Counting was carried out by placing the detector-sample combination in a dark space. Initially the detector and the sample were placed simply in a bench cabinet. The room background count was approximately & cpm. Later a specially prepared wooden enclosure was used. In the latter configuration sample and detector were placed in the box which was covered with lead sheets. The sample was placed in a 50 ml beaker and the detector was suspended at about 5 mm from the surface of the sample. Experiments with and without dessicant in the enclosed space were carried out. Finally the sample and detector were placed in a glass vessel painted black on the outside. The cover of this vessel had provisions for maintaining vacuum conditions (-30 inch underpressure) internally -- Figure l.",
+        "cite_spans": [],
+        "ref_spans": [
+          {
+            "text": "Figure l.",
+            "ref_id": "FIGREF0"
+          }
+        ],
+        "eq_spans": [],
+        "section": "Experimental"
+      },
+      {
+        "text": "Simultaneous temperature measurements within the sample were also carried out with some experiments. A thermistor in a glass tube was placed within the sample and resistance readings determined by a Fluke 8840A DMM were aweraged over an hour and dumped through a GPIB (IEEE-488) bus into the memory of a computer.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "Experimental"
+      },
+      {
+        "text": "One of the samples after burning was brought to MIT on the same day of the burn for observation of the y-emission spectrum. The Ge(Li) detector showed an overwhelming signal of $\\circ\\mathbf{K}$ in the sample and it was found that further studies are necessary if one is to use a Ge(Li) detector to determine whether any unusual nuclear events have occurred due to buming.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [
+           {
+             "text": "K",
+             "latex": "\\circ\\mathbf{K}"
+           }
+        ],
+        "section": "Experimental"
+      },
+      {
+        "text": "Neutron activation analysis of samples before and after burning was per-中 $r$ spectra. The peak at 411.7 keV, originally thought to be due to \"Au, was determined in reality to be the dou-",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "Discussion"
+      },
+      {
+        "text": "${{n o}_{V}}$ The photopeak at 1434 keV and the single escape peak at 923 keV were also present in the spectrum. Observation of the decay rate of these peaks verified the identification. Details of these studies will be reported in a separate communication.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [
+            {
+                "text": "no_V",
+                "latex": "{{n o}_{V}}"
+            }
+        ],
+        "section": "Discussion"
+      },
+      {
+        "text": "In Figure 2 the B-counts as a function of time are presented of a sample prepared according to the above recipe. The p-counting of that sample was done in a manner similar to that by which the data in (Lin) were obtained. As seen from Figure 2 a decrease of the p-counts in time, similar to that reported in (Lin), is clearly observable. The question which then had to be answered is whether this decrease is due to nuclear decay or to some trivial reason. One trivial reason may be the hygroscopicity of the sample, as mentioned in our previous publication (Noninski). One of the sources of B-emission from the sample is the decay of the naturally occurring radioactive isotopes such as K. Absorption of water vapors would be an attenuating factor for this naturally",
+        "cite_spans": [],
+        "ref_spans": [
+          {
+            "text": "Figure 2",
+            "ref_id": "FIGREF1"
+          }
+
+        ],
+        "eq_spans": [],
+        "section": "Discussion"
+      },
+      {
+        "text": "occurring p-emission. Thus, any decrease of 0-emission activity due to such cause should be considered an artifact. Another factor which may cause attenuation is oxidation of the ashes from the bum. Instead of further exploring whether absorption of water vapors or oxidation is the trivial cause for B-emis-sion decrease we decided to measure p-emission under conditions where any such cause would be eliminated. The measurement of p-emission activity of the bumed sample was carried out in a container from which a continuous evacuation of the air was performed as described above -- Figure I. An cxam-ple of the results from these measurements is shown in Figure 3. As is seen from Figure 3 no decrease of the $\\beta$ counts is observed when measures are taken to avoid oxidation and/or absorption of water vapors by the sample. It was found that variations over time, if any, of the p-counts are in good concordance with room temperature changes.",
+        "cite_spans": [],
+        "ref_spans": [
+          {
+            "text": "Figure I",
+            "ref_id": "FIGREF0"
+          },
+          {
+            "text": "Figure 3",
+            "ref_id": "FIGREF2"
+          }
+        ],
+        "eq_spans": [],
+        "section": "Discussion"
+      },
+      {
+        "text": "We conclude from the above studies and from the studies reported in (Nonin-ski) that at the level of accuracy of our apparatus and methods and the precision of our determinations we were not able so far to determine signatures of unusual nuclear events invoked by burning of the proposed sample.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [],
+        "section": "Discussion"
+      }
+
+    ],
+    "bib_entries": {
+        "BIBREF0":{
+            "ref_id": "BIBREF0",
+            "title": null,
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": null
+                }
+            ],
+            "year": 1995,
+            "venue": "J.umnt scentie aplomtion",
+            "volume": "9",
+            "issn": null,
+            "pages": "959-207",
+             "other_ids": {}
+        },
+        "BIBREF1":{
+           "ref_id": "BIBREF1",
+            "title": null,
+            "authors": [
+                {
+                    "first": "V.",
+                    "middle":["C."],
+                    "last": "Noninski",
+                    "suffix": null
+                }
+
+            ],
+            "year": 1995,
+            "venue": null,
+            "volume": null,
+            "issn": null,
+            "pages": null,
+            "other_ids": {}
+
+        }
+    },
+    "ref_entries": {
+      "FIGREF0": {
+        "text": "S上海国上c电S业区 g cTE MEDL $5-8 lass vessel externally $2-\\mathtt{BNC}$  $3-$ valve, gauge. $+-$ painted black, 6 -- Ludlum 44-1 Beta Survey Decector, 7 -sample.",
+        "type": "figure"
+      },
+      "FIGREF1": {
+        "text": "Piot of p-counts vs. time of a sample after burming. The sample was prepared acording to the recipe in (lin) and counting was carried out in air. B.delector and sample t\nplaced in a beach cabinet to avoad extenmal light.",
+        "type": "figure"
+      },
+      "FIGREF2": {
+        "text": "Plot of B-coumts ws. time of a sumple after burning. The sumple was prepured ucording to the resipe in Lin). |-coumting was carried out in the vacwam system shown in Figure",
+        "type": "figure"
+      }
+    },
+    "back_matter": [
+      {
+        "text": "The authors would like to thank Dr. Peter Hagelstein from Massachusetts Institute of Technology and $\\mathsf{L e o}$ Bobek of Worcester Polytechnic Institute for providing use of their facilities and the useful discussions.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "section": "Acknowledgements"
+      }
+    ]
+  }
+}

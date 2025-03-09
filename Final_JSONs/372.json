@@ -1,0 +1,788 @@
+{
+    "metadata": {
+        "title": "Pressurized Plasma Electrolysis Experiments",
+        "authors": [
+            {
+                "first": "Jean-Paul",
+                "middle": [],
+                "last": "Biberian",
+                "suffix": "",
+                "affiliation": [
+                    "NP Grenobie. BP 53-3804f Grenoble Ceder 9, Frune"
+                ],
+                "email": ""
+            },
+            {
+                "first": "Mathieu",
+                "middle": [],
+                "last": "Valat",
+                "suffix": "",
+                "affiliation": [
+                    "Mfurtin Fleischmanm Afemoriaf Projiet"
+                ],
+                "email": ""
+            },
+            {
+                "first": "Walter",
+                "middle": [],
+                "last": "Sigaut",
+                "suffix": "",
+                "affiliation": [
+                    "CNALM. 292 Rwe Swiut-Martin. 75003 Puris. Frawre"
+                ],
+                "email": ""
+            },
+            {
+                "first": "Pierre",
+                "middle": [],
+                "last": "Clauzon",
+                "suffix": "",
+                "affiliation": [
+                    "CNAM. 292 Rue Swiu-Martin, 75003 Purir. Firawre"
+                ],
+                "email": ""
+            },
+            {
+                "first": "Jean-Francois",
+                "middle": [],
+                "last": "Fauvarque",
+                "suffix": "",
+                "affiliation": [
+                    "CNAM. 292 Rue Swiu-Martin, 75003 Purir. Firawre"
+                ],
+                "email": ""
+            }
+        ],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "The cathode was a 2 mm tungsten rod, and the anode was a stainless-steel foil. The electrolyte was 0.6 mol K $\\\\\\cdot$ cC $-$ in light water. In one instance, we observed excess heat of 20 W for 90 min.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "In recent years, plasma electrolysis has gained much interest for several reasons: it is easy to implement at a low cost, and very spectacular when the plasma ignites in water. However, in spite of the easy implementation, the measurements call for a lot of care. Ohmori and Mfizuno [1] demonstrated the production of excess energy, neutrons and transmutation in a plasma electrolysis experiment with a tungsten cathode in K2CC $=$ light water electrolyte. Mizuno et al. [2] confirmed excess heat production. Mizuno et al. also [3-5] showed an increase in the prxduction of hydrogen by a factor of 80 compared to the Faraday law, due to thermal dissociation of water vapor at high temperature during plasma electrolysis. In some experiments they measured excess heat. Cirillo and lorio [6], and Cirillo et al. [7) showed by",
+                "cite_spans": [
+                    {
+                        "text": "[1]",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "text": "[2]",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "[3-5]",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "[6]",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "text": "[7)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "Introduction",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "1. Introduction"
+            },
+            {
+                "text": "be due to contamination from the electrolyte or the various components in the reactor. Only isotopic analysis can be meaningful.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "In our experimental work, we focused only on excess heat measurements. For that purpose, we have developed a unique calorimeter enabling us to measure with precision the power input and the heat produced. We assume positive feedback takes place with temperature, so our experimental set-up enables the cell to work under pressure, so that the water temperature is higher than 1orC.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "with the extermal stainless-steel envelope. The lid contains the electrical feedthroughs for the anode, cathode and calibration resistor, a mechanical pressure gauge, as well as a mechanical relief valve that maintains the chamber at constant pressure, and therefore at constant temperature. There is no sensor to measure the temperature of the electrolyte. All measurements of excess heat are made when the pressure reaches a constant value, and a constant temperature is deduced from the pressure. In order to lower the heat loss by convection and conduction, the extermal stainless steel surface is covered with an insulating blanket.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "The cell is positioned on a 6 kg Sartorius balance Signum 1 having a precision of 100 mg (see Fig. 2). The weight loss is converted in heat production assuming that all the water is escaping through the relief valve as dry vapor.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "The electric power is measured with a wattmeter (Norma D6100), with a sampling rate of 70 kHz. The cell is operated at constant voltage with a Sorensen DCS 300-3.5E switching power supply. which produces up to 300 V and",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "Experimental",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Experimental"
+            },
+            {
+                "text": "3.6 A. When larger voltages or currents were used, two of these power supplies were put in series, or in parallel.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "At atmospherie pressure, the beat of vaporization of water is 2258 $\\\\\\mathbf{1/g}$ , and the boiling temperature is 100C. At fie timae the atmuncnharie nnacenee the haat nf wanrivatinn ie 71N7 lJe and tha hnilina tamn-atue ie 1590O",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "All the data were recorded on a PC with LabVIEWIB software. In order to minimie the size of the data fles, we averaged the values in 30-second intervals.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "The heat loss of the calorimeter was determined by placing a 300 W resistor in the cell. The difference between the power input and the heat measured through the weight loss corresponds to the heat lost through the walls of the calorimeter. At 5 bar of pressure, this loss was 92 W. In the actual experiments we added 92 W to the heat calculated from the weight loss.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "We have performed a large number of experiments at atmospheric pressure and at S bar. We have used tungsten rods of various diameters: 1, 2, and 4 mm. We tested tungsten with and without thorium (2%). We have also tested 2 mm nickel wires. We systematically employed $\\\\\\mathbf{K}_{2} \\\\\\mathbf{C O}_{3}$ as electrolyte. The electrolyte concentration varied between 0.01 and 0.0e moll.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "Figure 3 shows that the vapor leaving the cell is dry. The condensation cloud forms about 6 mm away from the exit of the exhaust tube.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 3",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "Not all experiments were positive. Many failed for various reasons: the cathde was often sputtered away and destroyed by the plasma. There are many parameters to take into account: electrode material; diameter and length of the electrode; concentration of the electrolyte; and woltage applied. At S bar, i.e. 152-C, with a 2 mm diameter, 2 em long cathode, we measured an average excess heat of 19 W. With an average input power of 175 W, for 60 min, the COP is thus 1.11. The voltage was 305 $\\\\\\mathbf{v}$ and the average current was 0.57 A.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "Calibration",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Calibration"
+            },
+            {
+                "text": "Experiments",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "4. Experiments"
+            },
+            {
+                "text": "Preliminary Results",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "5. Preliminary Results"
+            },
+            {
+                "text": "Scanning Electron Microseopy the formation of new elements on a tungsten cathode. Mizuno et al. [8], Fauvarque et al. [9] showed the production of excess heat Cirillo et al. [10] have measured neutron emission during plasma electrolysis, but this was not confirmed by Faccini et al. [11.",
+                "cite_spans": [
+                    {
+                        "text": "[8]",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "text": "[9]",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "text": "[10]",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "text": "[11.",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "This type of experiment has seweral attractive features: fist of all it is very spectacular with the formation of bright plasma in water, which is a show by itself. Second, the cost is low, since it calls for ordinary water, inexpensive K2COs electrolyte, and standard tungsten welding rods. The power supply can be as simple as the main voltage coming from the wall rectified to produce a more or less direet curent woltage.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "The resulis obtained in the various experiments are of four kinds: excess heat, abnormal production of hydrogen, neutrons; and transmutation. Even though the experiments are easy to perform, the various parameters are not simple to measure. Because the plasma is unstable, at constant voltage the current varies greatly, and it becomes difficult to measure the electric input power. Also, it is complicated to measure the heat production, because it comes from the temperature rise of the electrolyte and its evapwation. One of the key issues is the risk of water droplets that are splashed out of the cell in liquid form, and then mistakenly accounted for as vapor, giving rise to a faulty excess heat. Measuring neutrons is not easy, since they are scarce, and they are absorbed by the water. They have been detected only by placing CR39 near the cathode. Finally, the presence of what appear to be new elements could very well",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "This high-pressure calorimeter has a number of advantages: it operates at constant temperature, above 100'C and it can be easily changed by changing the pressure of operation. With our present design, we can work at up to 10 atm. of vapor pressure. Because the temperature is constant, the time constant of the system when input power changes is short. Our preliminary results confirm the production of excess heat, and we believe that it can be made much higher than what we have obtained so far after tuning the various parameters. Moreover, this design is very well adapted for finding deuterium in the gas if the reaction mechanism is $\\\\\\mathrm{H}+\\\\\\mathrm{H} \\\rightarrow\\\\\\mathrm{D}$ .",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "text": "H+H ->D",
+                        "latex": "\\\\\\mathrm{H}+\\\\\\mathrm{H} \\\rightarrow\\\\\\mathrm{D}"
+                    }
+                ],
+                "section": ""
+            },
+            {
+                "text": "There are some disadvantages linked to this design: the duration of the experiment is limited by the quantity of water in the cell, because we cannot add water during operation since we operate under pressure. Also, the cathode gets eroded most of the time, and this also limits the duration of the experiment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": ""
+            },
+            {
+                "text": "Conclusion",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "6. Conclusion"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "Strong excess energy evolution, new element production, and electromagnetic wave and/or neutron emission in the light water electrolysis with a tungsten cathade",
+                "authors": [
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Ohmori",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Mizuno",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Proc. eyf the 7Ih Int. Conf. un Cold Fwrian",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "Production of heat during plasma eletrlyi in iquid",
+                "authors": [
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Mizuno",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Ohmari",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Akimoto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Takahashi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Jju. J. Appl Pkys.",
+                "volume": "39",
+                "issn": null,
+                "pages": "6055-6061",
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": "Confirmation of anomalous hydrogen generation by plasma electrolysis",
+                "authors": [
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Mizuno",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Akimoto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Ohmori",
+                        "suffix": ""
+                    }
+                ],
+                "year": 203,
+                "venue": "dth Meeting of Jaqpue CF Research Saeiety",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": "Generatiow of heat and pwaducts during plasuma electnalysis / liquids",
+                "authors": [
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Mizuno",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y.",
+                        "middle": [],
+                        "last": "Aoki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.",
+                        "middle": [
+                            "Y."
+                        ],
+                        "last": "Chung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E.",
+                        "middle": [],
+                        "last": "Sestiel",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Proc ICCFl1",
+                "volume": null,
+                "issn": null,
+                "pages": "161-177",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": "Hydrogen evolution by plasma electrolysis in aqueous solution",
+                "authors": [
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Mizuno",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Akimato",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K.",
+                        "middle": [],
+                        "last": "Azumi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Ohmuri",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y.",
+                        "middle": [],
+                        "last": "Aoki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Takahashi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Japn. J. App. Phys.",
+                "volume": "44",
+                "issn": null,
+                "pages": "396- 401",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": "Transmutation of metal at kw energy in a confined plasma in water",
+                "authors": [
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "Cirillo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V.",
+                        "middle": [],
+                        "last": "Iario",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Pnoe. ICCFIl",
+                "volume": null,
+                "issn": null,
+                "pages": "492-504",
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "BIBREF6",
+                "title": "Water plasma modes and noclear transmutations on the metallic cathode of a plasma discharge electrolytic cell",
+                "authors": [
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "Cirillo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E.",
+                        "middle": [],
+                        "last": "Del Giudice",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Germano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Sivasubrammanian",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y.N.",
+                        "middle": [],
+                        "last": "Srivasata",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V.",
+                        "middle": [],
+                        "last": "Tontodonato",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Vitiello",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Widom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Aey Eng. Mat",
+                "volume": "495",
+                "issn": null,
+                "pages": "124-128",
+                "other_ids": {}
+            },
+            "BIBREF7": {
+                "ref_id": "BIBREF7",
+                "title": "Production of heat during plasma electrolysis in liquid",
+                "authors": [
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Mizuno",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Ohmuri",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T.",
+                        "middle": [],
+                        "last": "Akimuto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Takahashi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 200,
+                "venue": "Jpu. J. Apupl Plys.",
+                "volume": "39",
+                "issn": null,
+                "pages": "6055-6061",
+                "other_ids": {}
+            },
+            "BIBREF8": {
+                "ref_id": "BIBREF8",
+                "title": "Abnormal exeess heat observed during Mizuno-type experiments",
+                "authors": [
+                    {
+                        "first": "J.-F.",
+                        "middle": [],
+                        "last": "Fauvarque",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P.",
+                        "middle": [],
+                        "last": "Clauzon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Le Buzit",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J.-M.",
+                        "middle": [],
+                        "last": "Lalleve",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "ICCF12 Proe. Yokohama",
+                "volume": null,
+                "issn": null,
+                "pages": "8D-85",
+                "other_ids": {}
+            },
+            "BIBREF9": {
+                "ref_id": "BIBREF9",
+                "title": "Experimental evidence of neutron flux generation in a plasma discharge electrolytic cell",
+                "authors": [
+                    {
+                        "first": "D.",
+                        "middle": [],
+                        "last": "Cirillo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Germano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V.",
+                        "middle": [],
+                        "last": "Tontodonato",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Widom",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y.N.",
+                        "middle": [],
+                        "last": "Srivasata",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E.",
+                        "middle": [],
+                        "last": "Del Giudice",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G.",
+                        "middle": [],
+                        "last": "Vitiella",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Aey Eng. Mar.",
+                "volume": "495",
+                "issn": null,
+                "pages": "104-107",
+                "other_ids": {}
+            },
+            "BIBREF10": {
+                "ref_id": "BIBREF10",
+                "title": "Search for neutron fiux generation in a plasma discharge electrolytic cell",
+                "authors": [
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Faccini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Pilloni",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.D.",
+                        "middle": [],
+                        "last": "Polosa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Angelone",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E.",
+                        "middle": [],
+                        "last": "Castagna",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Lecci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Pictropaoo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Pillon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Sansovini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F.",
+                        "middle": [],
+                        "last": "Sarto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V.",
+                        "middle": [],
+                        "last": "Vulante",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Bedogni",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A.",
+                        "middle": [],
+                        "last": "Espoxit",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "arAiv",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "Sthematic of the reaction chamber.",
+                "type": "figure"
+            },
+            "FIGREF1": {
+                "text": "A view of the cell an the balanse without the insulation blanket.",
+                "type": "figure"
+            },
+            "FIGREF2": {
+                "text": "Dry stam oming ot f hehuws pipe.",
+                "type": "figure"
+            }
+        },
+        "back_matter": [
+            {
+                "text": "References",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "References"
+            }
+        ]
+    }
+}

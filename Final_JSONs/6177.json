@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "title": "Properties of Nuclear Reactions Between Hydrogen Isotopes from R-Matrix Calculations",
+    "authors": [
+      {
+        "first": "G.",
+        "middle": [
+          "M."
+        ],
+        "last": "Hale",
+        "suffix": "",
+        "affiliation": [
+          "Theoretical Division",
+          "Los Alamos National Laboratory, Los Alamos, New Mexico 87544"
+        ],
+        "email": ""
+      },
+      {
+        "first": "R.",
+        "middle": [
+          "D."
+        ],
+        "last": "Smith",
+        "suffix": "",
+        "affiliation": [
+          "Theoretical Division",
+          "Los Alamos National Laboratory, Los Alamos, New Mexico 87544"
+        ],
+        "email": ""
+      },
+      {
+        "first": "T.",
+        "middle": [
+          "L."
+        ],
+        "last": "Talley",
+        "suffix": "",
+        "affiliation": [
+          "Theoretical Division",
+          "Los Alamos National Laboratory, Los Alamos, New Mexico 87544"
+        ],
+        "email": ""
+      }
+    ],
+    "abstract": [
+      {
+        "text": "We discuss properties of nuclear reactions (branching ratios, reaction eonstants, etc.) between hydrogen isotopes from the standpoint of recent R-matrix calculations. These caleulations predict, for example, quite different branching ratios for the d+d reactions when they are initiated by S-waves than when they are initiated by P-waves. We will also give a more speculative discussion of the constraints on possible non-radiative elecromagnetic transitions that could occur for the d-d and p-d reactions in the metal latice.",
+        "cite_spans": [],
+        "ref_spans": [],
+        "section": "Abstract"
+      },
+      {
+        "text": "When R-matrix theory is used to include nuclear effects at small distances in the ealculation of fusion rates, the rate expression exhibits a more complex interplay of the short-ranged (nuclear) and long-ranged (screened Coulomb) forces than does the familiar separable form,",
+        "cite_spans": [],
+        "ref_spans": [],
+        "section": "Abstract"
+      },
+      {
+          "text": "to which the R-marix expression reduces if the appropriate approximations are made. Using the latest nuclear R-matrix infonmation for the d+d and d+t reacions in this more correct formulation, we have calculated rates for a variety of screened Coulomb potentials. The fusion rate calculations are presented as a function of the screening radius at fixed relative energy, and as a function of relative energy at fixed screening radius. They are compared with ealculations made using the standard expression above.",
+          "cite_spans": [],
+          "ref_spans": [],
+          "section": "Abstract"
+      }
+    ],
+    "body_text": [
+        {
+            "text": "λ=A_{0}  | Ψ( r=0 ) |^{2}",
+            "cite_spans": [],
+            "ref_spans": [],
+            "eq_spans": [
+              {
+                "text": "λ=A_{0}  | Ψ( r=0 ) |^{2}",
+                "latex": "\\lambda=\\mathrm{A_{0}} \\big| \\Psi( \\mathrm{r=0} ) \\big|^{2}"
+              }
+            ],
+            "section": ""
+        }
+    ],
+    "bib_entries": {},
+    "ref_entries": {},
+    "back_matter": []
+  }
+}

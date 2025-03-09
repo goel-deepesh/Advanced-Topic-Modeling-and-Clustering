@@ -1,0 +1,433 @@
+{
+    "metadata": {
+        "title": "EXPERIMENTAL DETAILS FOR LIGHT WATER COLD FUSION RESEARCH AT CAL. POLY.- POMONA",
+        "authors": [
+            {
+                "first": "Robert",
+                "middle": [
+                    "D."
+                ],
+                "last": "Eagleton",
+                "suffix": "",
+                "affiliation": [
+                    "Physies Department, California State Polytechnic University*",
+                    "ENECO, Inc. (Formerly FEAT, Inc.)**"
+                ],
+                "email": ""
+            }
+        ],
+        "abstract": [
+            {
+                "text": "This paperpresents a detailed dsritionof te constuction n opcationof he tw tyes of letrolytic cells employed in the experimental light water cold fusion research of R. Bush and R. Eagleton at California State Polytechnic University - Pomona.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "ABSTRACT"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "lectoltie cels oft te leishman nd ran l pe si gh at it icel athodes nd akali carbonates were first employed at Cal. Poly - Pomona in August of 1991 following the announcement of\n $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{K n c i z y s}^{| 2 |}.$ \nby considerations based upon the theoretical work of R. Bush'. Since that time a total of 27 light water cells have been run with alkali carbonate and alkali hydroxide electrolytes using two different cell and calorimeter contfigurations. These contigurations and other details are described in this paper. The experimental results",
+                "cite_spans": [
+                    {
+                        "text": "$^{| 2 |}$",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION"
+            },
+            {
+                "text": "The two types of cells used in our light water work are actually third and fourth generation cell designs which evolved from carlier work with heavy water. Consequently these cell types are designated as $c$ and D respectively. They are illustrated in figures 1 and 2. Cells of type C were first used with heavy water in July of 1990 and continued to be used until January 1993. During that period $1 7$ light water cells and 36 heavy water cells were run. Type D cells were phased in commencing February of 1993 and used for all cells constructed from that time until the present. To date ten light water cells have been operated using the type D configuration. Table I gives a summary of the light water cells that have been run to date.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "figures 1",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "text": "2",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "text": "Table I",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "INTRODUCTION"
+            },
+            {
+                "text": "(1) They are all closed ells. This is achieved by use of a platinum black recombiner which is enclosed in the air space above the electrolyte. The recombiner is fabricated by bonding platinum black to a nickel screen mesh and coating one side of the mesh with a non-wetting agent (Teflon). The recombiner for all cells of type D and some of type $c$ were enclosed within a nickel foil baffle that had extensions on cither sides which served to returm the recombination heat back into the electrolyte. This baffle also served to protect the recombiner from becoming contaminated with electrolyte residue. The recombiner for type $c$ cells that was not placed in the baffle arrangement was instead afixed to the bottom side of the stopper and was unshielded. The cell is vented to the atmosphere via an oil bubbler which serves two purposes: (a) to maintain near ambient pressures, and (b) to isolate the cell from the external environment. $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{A}$ ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CELL AND CALORIMETER DESIGN"
+            },
+            {
+                "text": "balloon attached to the open end of the bubbler is used to monitor a cll for recombiner malfunctions. Of the light water cells run to date no recombiner malfunctions have been experienced. (2) Magnetic stiring is used to permit more uniform electrolyte temperatures. Tests have shown that these stirrers have no were either pyrex coated with Teflon (type $c$ measurable effect on the electrolyte temperatures. (3) All surfaces except for electrodes and the nickel heat sinks are coated with Teflon. The neoprene stoppers are covered with form fitting Teflon tape and the cells\nt or made of Teflon bottles (type D). A special bonding agent is required to prevent the Teflon from becoming unbonded from the pyrex upon repeated thermal cycling. lt is anticipated that the nickel heat sinks exposed to the electrolyte should pose no problems since they are shielded electrolytically by the nickel cathodes. (4) The electrodes are as follows: Platinum (AESAR 99.95%) wire anodes were l mm diameter and lengths of about 18 em folded into five equal segments, nickel fibrex cathodes were formed into open ended cylinders having the platinum anode located along their central axis. Figures 3 and 4 are electron micrographs of a typical piece of 80/20 nickel tibrex mesh. Shown in these micrographs are nickel powder (20%) bonded to nickel fibers (80%) where the fibers are about 20 microns in diameter (Fig. 4). Also it should be noted that the nickel fibers are not fabricated from drawn nickel wires but are made from sintered nickel powder. These fibers are formed by extruding a slurry of nickel powder mixed in a plasticizer through a small onitice. After the plasticizer sets, the tibers are sintered in a hydrogen environment so that only porous nickel remains after the heat treatment. (5) Electrolytes were made of chemicals obtained from AESAR/Johnson Matthey and nanopure water (17 Mohm-cm) from a Barnstead filtering system. All electrolytes were 0.57 molar solutions. (6) A port for extracting electrolyte samples consists of a capped I mm diameter Teflon tube which passes through the neoprene stopper and into the electrolyte. (7) The electrolyte temperature is monitored by use of two 26 gauge type-K thermocouples. These are threaded into opposite ends of a 1 mm diameter Teflon tube that loops through the neoprene stopper to just below the cathode and above the magnetic stirrer. This tube is filled with mineral oil to permit more efficient thermal contact of thermocouples with the electrolyte. As shown in figures 1 and 2 these thermocouples are placed at different depths in the electrolyte. We find that these thermocouples read very nearly the same temperature provided the magnetic stirrer is operative. However, in the event of a stirrer malftunction the thermocouple readings may differ by as much as two or three degrees Celsius",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figures 3",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "text": "4",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "text": "Fig. 4",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "text": "figures 1",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "text": "2",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "CELL AND CALORIMETER DESIGN"
+            },
+            {
+                "text": "Cell Type $c$ - As illustrated in Figure 1, this is a double wall pyrex vessel which provides for a water jacket enclosing the electrolytic cell except for the top which is capped with a Teflon covered neoprene stopper. The inlet and outlet coolant temperatures were monitored with type K thermocouples. The pyrex cell was completely enclosed with a one inch thick layer of styrofoam.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "CELL AND CALORIMETER DESIGN"
+            },
+            {
+                "text": "Calibration for these cells was performed in one of two ways: (1) Either a nichrome reference heater was used $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\operatorname{o r} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\left( 2 \\\\\\\\\\\\\\\\\right)$ the cll was calibrated by running anodically. When a nichrome reference heater was used it was placed in a close fitting Tetlon tube that looped down into the electrolyte. The nichrome heating element was attached to electncal leads so as to have it completely immersed within the electrolyte. The cell calibration procedure is as follows: (1) The temperature of the coolant flowing through the water jacket was regulated so as to maintain the cell contents at a constant temperature. A typical value for the cell operation temperature was about $3 9^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\circ} C$ At this temperature the cells could be calibrated from O to $2 0$ watts while using the laboratory as the heat sink for the cell bath. Table Il gives typical calibration data for this type of cell. Note that the standard deviation in the calibration temperatures is less than 0.1 C. The cell calibration data points are obtained by plotting the steady state thermal power output $( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{P}_{u} )$ from the cell as a function of the average temperature decrease (oT') across the cell walls. This temperature decrease is found by taking the difference between the average of the two cll thermocouples",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Table Il",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "CELL AND CALORIMETER DESIGN"
+            },
+            {
+                "text": "readings and the average of the inlet and outlet thermocouple readings. (For steady state calibration conditions the electrical power input to the cell is equal to the thermal power output.) This plot of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{P}_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{ou}}$ versus $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gamma_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{T}}$ was fit by either a linear or a third order polynomial. Figure 5 shows a typical calibration curve that was obtained for cell 62. The excess power $( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{P}_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha} )$ was determined by subtracting the electrical power delivered tsnalstalecfs $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{P}_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha}$ \u6e56eoemeoueumenoeueomomunrlue",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 5",
+                        "ref_id": "FIGREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "CELL AND CALORIMETER DESIGN"
+            },
+            {
+                "text": "Cell Type D - Cells of this type are illustrated in Figure 2. They are constructed from Teflon bottles and are designed to be immersed directly within the coolant water bath. The bath water was temperature regulated as well as stirred. The calibration procedure for these cells are essentially the same as that for type $c$ cells with the exception that the temperature decrease across the cell walls were obtained by subtracting the bath temperature from the average of the two cell thermocouple readings. Table Ill gives a typical set of calibration data for this type of cell.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 2",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "text": "Table Ill",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "CELL AND CALORIMETER DESIGN"
+            },
+            {
+                "text": "All temperatures, currents, and voltages were monitored and logged using a Macintosh Ilx computer equipped with National Instrument's LabView software. For type $c$ cells four type $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{k}$ thermocouples were used: one at the bath inlet port, one at the bath outlet port, and two within the electrolyte. In the case of type D cells there was one type K thermocouple within the bath and two within the electrolyte. The thermocouple sampling rate is 1000wminute with the temperature averaged each minute. The thermocouple voltages were converted to temperature readings $(^{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\circ} C )$ by use of AD595AQ9217 integrated circuit chips. This system permitted steady state temperature measurements with standard deviations of about 0.05-C. Corections tor thermocouple temperature offsets were made within the software. Cell currents and voltages were logged from Fluke 45 dual display multimeters equipped with IEEE interface. Figure 6 shows a front panel view of the virtual instrument used for cell monitoring and control of data logging. Since our cells are calibrated for only steady state operation at a specified temperature, we make use of this virtual strip chart recorder to determine when the requisite conditions are achieved before logging data. Table IV gives a typical spread sheet of data logged for a cell which produced excess heat. Not shown but recorded with this spread shect were the following: room temperature, multiplexer reference junction temperature, time mark and date mark. The data acquisition rate for both Table IV and Figure 5 was for one minute intervals. In Table IV it should be noted that the fractional uncertainty in $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{P}_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\alpha}$ about $2 4$ for the $2 3$ minute time interval shown there. However, all values of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{P}_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{ex}}$ which we report are corrected for any differences found after recalibration.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Figure 6",
+                        "ref_id": "FIGREF5"
+                    },
+                    {
+                        "text": "Table IV",
+                        "ref_id": "TABREF3"
+                    },
+                    {
+                        "text": "Figure 5",
+                        "ref_id": "FIGREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Data Acquisition System"
+            },
+            {
+                "text": "The principal features which are common to bothcell designs are as follows:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CELL AND CALORIMETER DESIGN"
+            },
+            {
+                "text": "eatures haftdf t t wo eltpe ae as follos:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CELL AND CALORIMETER DESIGN"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF1": {
+                "ref_id": "BIBREF1",
+                "title": "Electrolytically Induced Nuclear Fusion of Deuterium",
+                "authors": [
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Fleischmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Pons",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "J. Electroanal. Chem.",
+                "volume": "261",
+                "issn": "",
+                "pages": "301",
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "BIBREF2",
+                "title": ": Electrolyte and the Implications of Cold Fusion",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Mills",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K.",
+                        "middle": [],
+                        "last": "Kneizys",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Fusion Technol.",
+                "volume": "20",
+                "issn": "",
+                "pages": "65",
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "BIBREF3",
+                "title": "A Light Water Excess Heat Reaction Suggests that 'Cold Fusion' May Be Alkali-Hydrogen Fusinon",
+                "authors": [
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Bush",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Frusion Technol.",
+                "volume": "22",
+                "issn": "",
+                "pages": "301",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "BIBREF4",
+                "title": "Experiments Supporting the Transmission Resonance Model for Cold Fusion in Light Water: I. Correlation of Isotopic and Elemental Evidence with Excess Heat",
+                "authors": [
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Bush",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Eagleton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Proceedings of the 3rd International Conference on Cold Fusion",
+                "volume": "",
+                "issn": "",
+                "pages": "405",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "BIBREF5",
+                "title": "Experiments Supporting the Transmission Resonance Model for Cold Fusion in Light Water: II. Corelation of X-Ray Emission with Excess Power",
+                "authors": [
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Bush",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Eagleton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Proceedings of the 3rd International Conference on Cold Fusion",
+                "volume": "",
+                "issn": "",
+                "pages": "409",
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "BIBREF6",
+                "title": "Calorimetric Studies for Several Light Water Electrolytic Cells with Nickel Fibrex Cathodes and Electrolytes with Alkali Salts of Potassium, Rubidium, and Cesium",
+                "authors": [
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Bush",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Eagleton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "paper at 4th International Conference on Cold Fusion",
+                "volume": "",
+                "issn": "",
+                "pages": "",
+                "other_ids": {}
+            },
+            "BIBREF7": {
+                "ref_id": "BIBREF7",
+                "title": "Evidence for Electrolytically Induced Radioactivity and Transmutation of Rubidium to Strontium Correlated with the Light Water Excess Heat Produced with Rubidium Salt",
+                "authors": [
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Bush",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Eagleton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "",
+                "volume": "",
+                "issn": "",
+                "pages": "",
+                "other_ids": {}
+            },
+            "BIBREF8": {
+                "ref_id": "BIBREF8",
+                "title": "Evidence for an Electrolytically Induced Shift in the Abundance Ratio of Sr86 and Sr88",
+                "authors": [
+                    {
+                        "first": "R.",
+                        "middle": [],
+                        "last": "Bush",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "paper at International Cold Fusion and Energy Conference, Minsk, Belarus",
+                "volume": "",
+                "issn": "",
+                "pages": "",
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "RLGLR L Tn enrninclin Geltype\"C\"",
+                "type": "figure"
+            },
+            "FIGREF1": {
+                "text": "HGLR . ounh enaioncl dein:cCel ype\"D\"",
+                "type": "figure"
+            },
+            "FIGREF2": {
+                "text": "nun . Aront crtiesel ne ctht ari hanin C ickel iber nd ntrs rmse oredr orngerie.on o fdth.",
+                "type": "figure"
+            },
+            "FIGREF3": {
+                "text": "cnATCngcndto ondom",
+                "type": "figure"
+            },
+            "FIGREF4": {
+                "text": "Fig Jre $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{s}$ Ftont pare otvituatistip char recrde fr el 70.",
+                "type": "figure"
+            },
+            "FIGREF5": {
+                "text": "",
+                "type": "figure"
+            },
+            "FIGREF6": {
+                "text": "",
+                "type": "figure"
+            },
+            "FIGREF7": {
+                "text": "",
+                "type": "figure"
+            },
+            "FIGREF8": {
+                "text": "",
+                "type": "figure"
+            },
+            "TABREF0": {
+                "text": "Table I: Details of Cell Type, Cathodes, and Electrolytes for all Light Water Cells Run as of 2/94.",
+                "type": "table"
+            },
+            "TABREF1": {
+                "text": "Table I:-Caliration dat fur ?.n = 14.6 wats far cell 62 at  $T_{c+1 1}=3 9C$ .",
+                "type": "table"
+            },
+            "TABREF2": {
+                "text": "le IHI: Calibration data for $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{P}_{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{i} n} ~=~ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{9}. \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{59}$ wals for cel1 0 t 3OC",
+                "type": "table"
+            },
+            "TABREF3": {
+                "text": "Table IV: FEaxcess power data for celi 70 at 39c..",
+                "type": "table"
+            }
+        },
+        "back_matter": [
+            {
+                "text": "The following institutions are to be acknowledged for their support that has made this research possible: Southern California Edison, ENECO (Formerly FE.AT of Salt Lake City, Utah). Roger Bush, son of R. Bush, is thanked for the software design of the virtual instrumentation employed in the data acquisition system.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "ACKNOWLEDGMENTS"
+            },
+            {
+                "text": "Cutboais",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "REFERENCES"
+            }
+        ]
+    }
+}

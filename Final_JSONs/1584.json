@@ -1,0 +1,527 @@
+{
+    "metadata": {
+        "title": "Input to Theory from Experiment in the Fleischmann-Pons Effect",
+        "authors": [
+            {
+                "first": "Peter",
+                "middle": [
+                    "L."
+                ],
+                "last": "Hagelstein",
+                "suffix": "",
+                "affiliation": [
+                    "Research Laboratory of Electronics, MIT, Cambridge, MA"
+                ],
+                "email": ""
+            },
+            {
+                "first": "Michael",
+                "middle": [],
+                "last": "Melich",
+                "suffix": "",
+                "affiliation": [
+                    "Naval Postgraduate School, Monterey, CA"
+                ],
+                "email": ""
+            },
+            {
+                "first": "Rodney",
+                "middle": [],
+                "last": "Johnson",
+                "suffix": "",
+                "affiliation": [
+                    "Naval Postgraduate School, Monterey, CA"
+                ],
+                "email": ""
+            }
+        ],
+        "abstract": [
+            {
+                "text": "Excess heat in the Flesichmann-Pons effect constitutes a new physical effect unlike other physical processes with which we are familiar. Many groups have proposed theoretical mechanisms to account for the effect, but at present none has been generally accepted. This motivates us to review what experiment tells us about theory. There exists a relatively large body of experimental results, and it is possible to connect many of these individual results to theoretical statements, which might then be used as the basis for the development of new theoretical models.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "Abstract"
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Nuclear physicists have studied deuteron-deuteron fusion over the years using energetic deuteron beams incident on different targets that contain deuterium. Local conservation of energy and momentum dictates that in an exothermic reaction, the reaction energy is expressed in the kinetic energy of the reaction products. As a result, we know what the primary reaction channels (ptt and nt`He) are, since the reaction products can be observed directly. The particle energies and angular distributions are also available directly from experiment. A theoretical model for the deuteron-deuteron reaction follows directly from solving the Schrodinger equation (approximately) for the relevant four-body problem, with two deuterons in the input channel, and with pt and n+'He in the exit channels. The results from such models are in good agreement with experiment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "1. Introduction"
+            },
+            {
+                "text": "Because the associated theoretical problem is so simple, at least conceptually, one would not imagine that there could be anything that could compete with the primary reaction mechanism, or change fundamentally what happens when two deuterons interact. The excess heat effect in the Fleischmann-Pons experiment seems not to follow this clear and simple picture. As such, if the experiments are right, then they suggest that something else can happen. In the decades following the announcement of the excess heat effect, there have been a great many positive experiments which seem to confirm the existence of the effect. Hence, we are faced with the theoretical problem of figuring out how the effect works.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "1. Introduction"
+            },
+            {
+                "text": "We might turn to nuclear physics and solid-state physics, both mature disciplines, in order to develop a theoretical model. Unfortunately, over the years no one has had much luck convincing their colleagues that a suitable explanation can be obtained from such a starting place. Moreover, such a model if developed would not be accepted without very strong experimental support. In the end, one must understand theory through an experimental foundation. We only know what happens because we can observe it in an experiment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "1. Introduction"
+            },
+            {
+                "text": "This presents a serious issue when we address the Fleischmann-Pons experiment. The basic effect is nuclear, yet due to the absence of commensurate energetic nuclear particles, we are not able to study the primary reaction mechanism directly as we can in the case of deuteron-deuteron fusion. This provides us with the motivation to re-examine the experiments in order to understand better what we can learn about theory.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Excess heat effect"
+            },
+            {
+                "text": "The excess heat effect is observed as a temperature increase in heavy water electrochemical experiments where palladium cathodes are loaded with deuterium. The increase in temperature appears to be due to power generation in the palladium cathode. Perhaps the most important question regarding the excess heat effect itself is whether or not it is real.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Excess heat effect"
+            },
+            {
+                "text": "The first report of excess power in association with PdD electrochemical experiments was by Fleischmann, Pons and Hawkins [l]. Unfortunately, this work was not well written, and the discussion provided was insufficient to allow for replication in general; this resulted in a large number of subsequent negative results early on (see [2] as an example). Confirming experiments were reported subsequently by Fleischmann and Pons [3]; by the SRI effort [4]; by Storms [5]: and by many other groups around the world. By now, there have been reported more than 100 observations of excess heat in Fleischmann-Pons experiments.",
+                "cite_spans": [
+                    {
+                        "text": "[l]",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "text": "[2]",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "text": "[3]",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "text": "[4]",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "text": "[5]",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2. Excess heat effect"
+            },
+            {
+                "text": "Much discussion has been devoted to the issue of excess energy in the experiments. In the basic Fleischmann-Pons experiment the Pd cathode must be charged for a month or so prior to the observation of excess power events. As a result, it has been argued that the energy produced in the bursts is small compared to the input energy, so that there may be no net energy production, but only the release of stored power not accounted for during charging",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.1. Energy"
+            },
+            {
+                "text": "We note that in the experiment reported in [3] the excess power integrated over a roughly 100 hour burst event was comparable to the total input energy, so that the total output energy was roughly twice the input energy. A hypothetical storage mechanism for this experiment would need to accommodate 4 MJ in 0.157 cc of cathode; which can be compared to the 1.2 kJ energy release which would be produced by the detonation of an equivalent volume of the explosive TNT. This argues strongly against any conventional storage mechanism.",
+                "cite_spans": [
+                    {
+                        "text": "[3]",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.1. Energy"
+            },
+            {
+                "text": "Other experiments have been reported with higher energy gains. Swartz has claimed reproducible energy gains over 250% using the method described in [6]. The Energetics team reported in 2003 an observed energy gain of $6. 7$ in a glow discharge experiment $[ 7 ]$ , and in 2004 an observed energy gain of 25 in an electrochemical PdD experiment [8]. The conclusion from these experiments and others is that net energy is produced, and that the energy storage argument is inconsistent with experiment.",
+                "cite_spans": [
+                    {
+                        "text": "[6]",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "[ 7 ]",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "text": "[8]",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.1. Energy"
+            },
+            {
+                "text": "To determine the associated power density, we require information about what part of the cathode is active. One relevant observation (to be discussed below) concerns the emission of \"He (as ash) into the gas stream, which could only occur if the helium were created within about a micron from the surface. In the Szpak experiment, Pd is co-deposited on a copper substrate, and excess heat is observed [9]. The observed power per unit area is on the order of 80 mW/em-, and the corresponding power per unit Pd volume is in the range of 160-800 W/em* for an active Pd thickness estimated to be in the range of 5 um to l um. In some experiments significantly higher nurwascrnsncsnesason ownb n o nsonc eches. about 4 W/em\", which corresponds to about kW/cmi if we assume a 5",
+                "cite_spans": [
+                    {
+                        "text": "[9]",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.2. Power density"
+            },
+            {
+                "text": "There is evidence for hot spots [10] and localized surface melting in some experiments [1l].",
+                "cite_spans": [
+                    {
+                        "text": "[10]",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "text": "[1l]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.2. Power density"
+            },
+            {
+                "text": "There appear to be two different requirements on deuterium loading. In the SRI experiments, the cathodes need to achieve a loading of about 0.95 (deuterium atoms per palladium atom) for excess heat to be observed at all [12]. A cathode which has achieved this during the roughly month-long charging period then later on needs to be loaded above a threshold near 0.85 to produce an excess heat burst. In many experiments [l3-15] there has been observed a linear dependence of the excess power on current density above a threshold as first described by Fleischmann and Pons [16].",
+                "cite_spans": [
+                    {
+                        "text": "[12]",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "text": "[l3-15]",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "[16]",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.2.2. Loading, current density and flux"
+            },
+            {
+                "text": "Excess power in Fleischmann-Pons experiments is dependent on the deuterium flux in the cathode. Although this is implicit in the ideas presented by Fleischmann on the Coehn effect in ICCF4 [17], it was first noticed in connection with a Fleischmann-Pons experiment at SRI, where the excess heat seemed to increase when a cathode spontaneously went into a breathing mode. This led to an empirical relation [18] for the excess power $P_{u}$",
+                "cite_spans": [
+                    {
+                        "text": "[17]",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "text": "[18]",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.2.2. Loading, current density and flux"
+            },
+            {
+                "text": "where $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\imath$ is the current and $x$ is the loading. Subsequently, experiments reported by Li and coworkers have taken advantage of deuterium flux [19], and also by Arata and Zhang [20].",
+                "cite_spans": [
+                    {
+                        "text": "[19]",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "[20]",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.2.2. Loading, current density and flux"
+            },
+            {
+                "text": "Fleischmann and Pons noticed that the excess heat increased following the application of a resistive calibration pulse to their cell, which suggested that they could take advantage of the effect to achieve higher power operation [2l]. Somewhat later, Storms observed a dependence of excess power on temperature of the form",
+                "cite_spans": [
+                    {
+                        "text": "[2l]",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.2.3. Temperature"
+            },
+            {
+                "text": "This dependence is not seen in all experiments. It has been suggested that since the observed AE is close to that for helium diffusion in Pd, that this temperature dependence may be associated with helium accumulation in active sites in experiments with high local excess power per unit volume.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "2.2.3. Temperature"
+            },
+            {
+                "text": "In association with the press conference in March 1989, Fleischmann and Pons apparently claimed that helium had been observed in association with the excess heat effect. Subsequent measurements did not provide a confirmation, and the issue of helium production subsequently has been contentious.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3. Helium"
+            },
+            {
+                "text": "A significant step forward was made with the observation of \"He in the gas phase by Miles and Bush [23]. Prior to this, a great deal of effort had been focused on searches for elemental and isotopic anomalies in the Pd cathodes, as well as for trapped helium, with few positive results. Since the excess heat effect has no accompanying energetic particles, one could not learn much about reaction mechanisms or possible products, and all elements and isotopes were potential suspects. Helium as a reaction product had been considered previously, but was expected to be trapped in the metal if it was produced. That it might be observed in the gas was unexpected.",
+                "cite_spans": [
+                    {
+                        "text": "[23]",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3.1. Detection in the gas phase"
+            },
+            {
+                "text": "Subsequent work has largely confirmed the presence of *He in the gas outside of the cathode in Fleischmann-Pons experiments [24]. At ICCF6, Gozzi presented some striking results that",
+                "cite_spans": [
+                    {
+                        "text": "[24]",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3.1. Detection in the gas phase"
+            },
+            {
+                "text": "Helium as a product has been of interest since the Fleischmann-Pons experiment requires deuterium, and two deuterons contain two protons and neutrons which is the same as He. The mass difference is",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3.1. Mass difrene, helium in the gas, and retention"
+            },
+            {
+                "text": "If the excess energy was produced through a physical process in which deuterons interacted somehow to make \"He, then one should be able to tell from a comparison of the energy produced per *He atom detected. In Gozzi's experiments, the ratio of *He atom detected seemed to vary from burst to burst in the range of $1 0 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\%$ to 100% of that expected from the mass difference. A possible explanation for the results observed was that the helium was produced initially near the cathode surface, so that it could get out; but different amounts would be released during particular events. The missing helium was assumed to remain inside the outer surface of the cathode.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3.2. Energy per \"He"
+            },
+            {
+                "text": "In an experiment carried out at SRI, excess heat was observed in a calorimeter that was helium leak tight, and \"He was measured. The amount of helium measured was $6 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\%$ of that expected based on the 23.86 MeV mass difference. Subsequently an effort was made to recover the helium remaining in the cathode; this was done through cycling deuterium in and out of the cathode. More helium was captured, and in the end the ratio of energy to He was observed to be 104% of the 23.86 MeV mass difference with 10% error [12]. This result is supported by the measurements reported in [26]. In two of the experiments reported, the amount of \"He detected was low (about 51% and 69%, taking into account the background) of the amount expected based on the mass difference. However, in another experiment (Laser-3) an attempt was made to recover the helium remaining in the cathode [27], and the result was that the amount of helium observed was slightly over 100% of the expected amount. Hence, the two experiments reported to date in which helium recovery was attempted both give results in agreement with the mass difference within experimental error.",
+                "cite_spans": [
+                    {
+                        "text": "[12]",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "text": "[26]",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "text": "[27]",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3.2. Energy per \"He"
+            },
+            {
+                "text": "Letts and Cravens [28] found that an excess heat could be triggered in a Pd cathode near threshold with a laser beam at low intensity. In these experiments, an incident diode laser beam",
+                "cite_spans": [
+                    {
+                        "text": "[28]",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "4. Laser stimulation"
+            },
+            {
+                "text": "of 30 mW was shown to lead to excess power levels in the range of 200-800 mW . Polarization dependence was observed, which was later studied by the ENEA group [26]. It was found that p-polarized light (with electric field partly normal to the surface) could stimulate excess heat, but s-polarization (with electric field aligned with the surface) was ineffective. This is consistent with coupling to compressional plasmon modes. In the Letts and Cravens experiment, a thin gold coating is deposited on the surface, with a surface plasmon resonance expected near the frequency of the incident light.",
+                "cite_spans": [
+                    {
+                        "text": "[26]",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "4. Laser stimulation"
+            },
+            {
+                "text": "At this conference, Letts presented results for dual laser stimulation where the excess heat was found to respond to the beat frequency [29]. Strong responses were found at three difference frequencies (8.3 THz, 15.3 THz, and 20.4 THz), the first two of which can be associated with the k=0, or zero group velocity, optical phonon frequencies of PdD (the 20.4 THz frequency matches the upper k=0 frequency in PdH, but as yet there is no experimental evidence to support this). Once again, the dual laser beating effect is sensitive to laser polarization, and requires both laser beams to be oriented with p-polarization.",
+                "cite_spans": [
+                    {
+                        "text": "[29]",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "4. Laser stimulation"
+            },
+            {
+                "text": "There has been much discussion over the years as to whether the low-level nuclear emissions which have been reported are related to the excess heat effect. Attempts to detect nuclear signatures at the time of an excess heat event have yielded no commensurate signals, and generally no low-level signals [30].",
+                "cite_spans": [
+                    {
+                        "text": "[30]",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "5. Connection with low-level nuclear emission"
+            },
+            {
+                "text": "In Fleischmann-Pons experiments, excess heat is reported at relatively high current density (200-1000 mA/cm\"), while neutron emission tends to be seen at much lower current density (10-30 mA/cm\"). In [31] results from experiments that were run using Takahashi's high-low current protocol showed that cathodes which produced excess heat (and no neutron emission) at high current density, also showed low-level neutron emission (and no excess heat) at low current density. Such observations indicate a connection, in this case an anticorrelation.",
+                "cite_spans": [
+                    {
+                        "text": "[31]",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "5. Connection with low-level nuclear emission"
+            },
+            {
+                "text": "Evidence for low-level neutron and proton emission consistent with deuteron-deuteron fusion has been put forth over the years. Jones first repoted the effect in TiD in 1989, and subsequent measurements after 1989 have provided confirmation (some of this work is reviewed in [12]), and evidence that deuteron-deuteron fusion reaction products are seen in Fleischmann-Pons experiments in PdD at low current density.",
+                "cite_spans": [
+                    {
+                        "text": "[12]",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "5.1. Low-level deuteron-deuteron fusion"
+            },
+            {
+                "text": "Ceil and coworkers have claimed the observation of low-level energtic aticles from TiD up to and beyond 10 MeV [33,34], as well as protons consistent with deuteron-deuteron fusion. Lipson and coworkers have reported repeated observations of low-level nuclear emissions from PdD included protons near 3 MeV (consistent with deuteron-deuteron fusion), as well as alpha particles between 10 and 20 MeV [35,36].",
+                "cite_spans": [
+                    {
+                        "text": "[33,34]",
+                        "ref_id": null
+                    },
+                    {
+                        "text": "[35,36]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "5.2. Other energetic emissions"
+            },
+            {
+                "text": "Karabut has reported the collimated emission of x-rays between 1-1.5 keV from Ti and Pd cathodes in glow discharge experiments run in deuterium, as well as in other gases [37,38]. The x-ray energy from energy-integrated absorption appears to be correlated with the cathode metal, and discharge voltage. Ti and Pd do not have fluorescence lines in the range. These observations raise the possibility that the emission is of nuclear origin, and that the collimation arises from local phase coherence among the emitters (the collimation is observed to be normal from the cathode surface). It seems implausible that phase coherence could be established in the case of electronic transitions.",
+                "cite_spans": [
+                    {
+                        "text": "[37,38]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "5.3. Karabut's x-rays"
+            },
+            {
+                "text": "There are at least two different kinds of beam experiments that have been done with metal deuterides that are of note in this discussion. One of these addresses the question of screening, and the other concerns localization.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "6. Relevant beam experiments"
+            },
+            {
+                "text": "There was much discussion about the impact of screening between deuterons in metal deuterides back in 1989, with the general consensus that significant screening effects would not be expected in PdD. However, low-energy deuterium beam experiments over the past decade has shown strong screening effects for deuteron-deuteron fusion reactions in metals in general, and particularly strong screening in PdD in particular [39.40].",
+                "cite_spans": [
+                    {
+                        "text": "[39.40]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "6.1. Screening"
+            },
+            {
+                "text": "In the mid-1990s, Kasagi and coworkers described beam experiments (in TiD and in PdD) where broad energetic proton and alpha signals were observed. Normally, deuteron-deuteron fusion produces two-body products, such as pt and nt'He. In this case, the reaction energy is sharp, with the reaction energy apportioned inversely to the mass. In a secondary reaction such as t(d,o)n, there is a spread in the alpha energy due to the initial 800 keV energy of the triton. However, in the experiments described in [41], a much broader alpha and proton signal was seen. Such a broad signal could only come about from a three-body exit channel, which in this case was attributed to ntp+o. The particles and end-point energies in this case are consistent with a three-body reaction dtdtd -+ ntptu, which would require two of the deuterons initially within the same to be localized on the 10 fm seale.",
+                "cite_spans": [
+                    {
+                        "text": "[41]",
+                        "ref_id": "BIBREF40"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "6.2. Kasagi effect"
+            },
+            {
+                "text": "Based on the discussion above, which is incomplete both in scope and in citations to the relevant literature (by necessity given the limitations of a proceedings paper), we can begin to discuss what experiment provides as input to theory. Perhaps the most significant feature is that experiment seems to support the notion of a new kind of nuclear reaction in which the reaction energy is not expressed through the kinetic energy of the products. This statement is very significant, in that as commented on above, local conservation of energy and momentum require that energetic particles result from an exothermic reaction. No such process has been observed previously in nuclear physics. We note that among those working on excess heat in the Fleischmann-Pons experiment, that many are convinced even now that commensurate energetic particles are produced, only to have escaped detection so far. Future experiments that address upper limits on the energy of possible reaction products would be helpful in this discussion.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "7. Discussion"
+            },
+            {
+                "text": "As to what it is that reacts, there is no general consensus at this time. However, deuterium seems implicated (since for the most part no excess heat is reported with Fleischmann-Pons",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "7. Discussion"
+            },
+            {
+                "text": "produced implicates it as the ash. The two experiments in which an effort was made to account for retained He give results consistent with 24 MeV per He, consistent with the mass difference between two deuterons and He. However, there is agreement among a subset of workers that the mechanism involved converted deuterons to *He, while others contest this. Badly needed are new experiments which address the correlation of \"He with energy, taking care to collect all helium produced. Also needed are experiments which address how close to the surface the retained helium is, which should help shed light on where the reactions occur.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "7. Discussion"
+            },
+            {
+                "text": "If the reaction energy is not expressed kinetically, then it is a reasonable question as to where it does go. In the end, the energy produced shows up as heat. There are no direct measurements of the energy produced in condensed matter modes prior to thermalization. The dual laser experiment may be relevant to this question, since the excess heat responds to the beat frequency, suggesting a nonlinear response, under conditions where the laser intensity is orders of magnitude too weak for any nonlinear response to be expected by conventional means. If the reaction energy were deposited into plasmon modes [keeping in mind that one would expect hybridization of low energy $( 2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{e V} )$ plasmon modes with optical phonon modes], then these internal modes may have sufficient excitation to provide a nonlinear response. Hence, there is an indirect argument for where the energy goes at least in one kind of experiment. The very high local power per unit volume production may be connected with the dual laser nonlinearity. What is really needed is some new experiment which can detect enhanced excitation in longitudinal plasmon modes and in optical phonon modes in association with excess heat production.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "7. Discussion"
+            },
+            {
+                "text": "Attention should be drawn to the three-body Kasagi experiment, which suggests the possibility of deuteron-deuteron localization on the fermi scale. If correct, this experiment is of great signiicance, and may provide a glimpse into pat of the intermal reaction dynamics. Deuteron-deuteron fusion anticorrelated with excess heat production is supportive of mechanisms involving deuterium, but this is not universally agreed on at present. The strong screening effects observed in beam experiments are thought by many to be related to the low-level fusion effect; however, neutron production seems to come in (hour long) bursts events, similar to excess heat bursts. Most likely, there is more involved in low-level deuteron-deuteron fusion than simple screening effects.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "7. Discussion"
+            },
+            {
+                "text": "Attention should also be drawn to the energetic alpha signal. The key question here should be: where does the energy come from? There are no energetic particles with even greater energy present in the amounts needed for the disintegration of nuclei with alpha particles in the 10-20 MeV range. So, the energy must come from somewhere else. But from where? The significance of the observation is in the implication that a large quantum may be communicated somehow by the local condensed matter environment leading to the disintegration of a nucleus. This would be unprecedented in nuclear physies, but seems to be a direct consequence of the Cecil and Lipson experiments. If such a large quantum can be so communicated, then the possibility of it somehow being chopped up into a large number of small quanta seems perhaps more plausible.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "7. Discussion"
+            },
+            {
+                "text": "The requirements on loading probably tell us something about the local environment needed for the reactions to occur. Arguments put forth over the years include: increased density results in increased conventional reaction probability; a connection with the D to Pd loading at which PdD becomes thermodynamically unstable; the development of a new phase; and a connection with the D to Pd loading at which host Pd vacancies are stabilized. Calculations indicate that $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathrm{D_{2}}$ cannot form inside bulk PdD due to occupation of antibonding orbitals, but perhaps the situation is different near vacancies where the electron density is lower. NMR experiments may be able to clarify this in the case of thin film samples of PdD with high vacancy concentration. There is no agreement on these issues at this time, and experiments have not yet clarified the role of loading.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "7. Discussion"
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "BIBREF0",
+                "title": "Journal of Electroanalytical Chemistry",
+                "authors": [
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Fleischmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S.",
+                        "middle": [],
+                        "last": "Pons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M.",
+                        "middle": [],
+                        "last": "Hawkins",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Journal of Electroanalytical Chemistry",
+                "volume": "261",
+                "issn": null,
+                "pages": "301-308",
+                "other_ids": {}
+            }
+        }
+    }
+}

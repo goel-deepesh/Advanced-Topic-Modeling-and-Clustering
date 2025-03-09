@@ -1,0 +1,396 @@
+{
+    "metadata": {
+        "title": "Do the Laws of Nature and Physics Agree About What is Allowed and Forbidden?",
+        "authors": [
+            {
+                "first": "Mario",
+                "middle": [],
+                "last": "Rabinowitz",
+                "suffix": null,
+                "affiliation": [
+                    "Armor Research"
+                ],
+                "email": "lrainbow@stanford.edu"
+            }
+        ],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "There are countless examples in the history of science that not only were the laws of physics often incomplete and more limited in their domain of validity than was\nrealized, but at times they missed the mark completely. Despite this, our collective\nmemory is often short on such matters focusing on present triumphs and quickly\nforgetting past failures. This makes us less tolerant to that which challenges present orthodoxy. It may be of value to recall such past deficiences as well as present\nshortcomings, particularly since science may always be encumbered with such\nlimitations. We can avoid serious pitialls if we let thepast serve as a guide to the future. Subiects covered will include Gidel's theorem, superconductivity, zero-point energy. the quantum and classical Aharonov-Bohm and similar effects, theories of general\nrelativity, Mach's principle, black hole radiation, ball lightning, and the universels).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "On October 9, 1992, I gave an extemporaneous lecture to physics teachers and students on the topic \"Do the Laws of Nature and Physics Agree on What is Allowed and Forbidden?\" at Virginia Commonwealth University in Richmond, Viriginia.\nEditors of 21st Century Sience and Technology taped and transcribed my talk. They sent me the transeription and asked to publish a much-shortened version to meet space requirements of their magazine. The present paper utilizes some of the one-third\nmaterial that was published in the Spring 1993 edition of 21 st Century Science and\nTechnology, some of the two-thirds that wasn't used, and some new material. Some of the subjects not included from the previous article are the solar neutrino problem,\nquantum and elassical tunneling, and the nuclear electromagnetic pulse. Thus, a slihtly changed tile seems appropriate.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Both evolutionary and revolutionary corrections or changes are needed as physics progresses. I will touch upon clear-cut examples or paradigms of both kinds of\ncorrections. They are indicative of the way that physical laws evolve when discrepancies are found with the prevailig view, and how they can be resolved. Sometimes the\nresolution is that the domain of validity is more limited than we originally thought.\nNewton's laws being a special case of Einstein's theory of special relativity for low\nvelocities is an example of this. Many changes are abrupt, but we forget very quickly all the things that were wrong and how different they were from the things we now think. Corrections or changes usually rectify existing discrepancies, but as we shall next see, a more fundamental dilemma may always exist.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "To me, physics strives to be a logical system like mathematics, with one more requirement that other logical systems don't have. That additional requirement is an isomorphism with physical reality --a one-to-one correspondence between the elements in the system and what we call the real world. Physical reality may not be the same to everyone, but weill just sidestep that issue for now.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "I'd like to tell you a little bit about Gidel's theorem and as a prelude to that, it is valuable to know the milieu in which Godel developed this theorem. In Euclidean\ngometry one fteaioms i teal ine aio., whih baial says tat paral lines extended to infinity remain the same distance apart. Their separation doesn't\ndiverge or converge. An age-old question for mathematicians is: Can we pare down the number of axioms that we need for a given system? It was very strongly felt that one should be able to derive the parallel line axiom. It didn't appear to be needed as an axiom for the system. Some of the best mathematical minds tried and were unable to do it by what is called a constructive proof, that is, by a direct derivation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Then they thought, Well, if we can't prove it constructively, it may be much easier to do a non-constructive proof, i.e. by reductio ad absurdum.\" If there is a\ndichotomy and something is either $\\\\\\mathrm{A}$ or B, then if one assumes that it's A and that leads",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "to an absurdity or contradiction, the conclusion is that it must be B. It can only be A or B and it has been shown that it can't be A. So, independently, they assumed the opposite. Whether they assumed that the lines get closer together as they ent to infinity, or that they diverge, a contradiction was never reached. Theorems were never derived that were self-contrdictry So te posibility f convergence o diergene o parallel lines was never disproved. Thus, Nicolai Lobachevski in 1829, Janos Bolyai in 1832, Bernard Riemann in 1854, and even Karl Gauss in 1792 independently discovered non-Euclidean geometries. However, Gauss didn't publish his papers on this subiect, keeping them locked up, because he thought there would be too much controversy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "That's one of the conundrums that occurred before Godel's theorem.\nFurthermore, Alfred North Whitehead and Bertrand Russell felt that mathematics had grown so big and so disparate that it would be nice to bring it all together on a single unified basis. Just as we'd like to have a unified field thory in physics (the unified equations that describe all of nature), they wanted to unify mathematics on a sound basis starting with a given set of axioms and, by deduction, derive everything. They finished their book, Principia Mathematica , in 1925. Although they may not have\ncompleted the whole task, they did an admirable job.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Not ong after, a young upstart threw a monkey wrench into the whole thing. This was Kurt Giodel, a twenty-four year old mathematician who in 1931 published the paper On Formally Undecidable Propositions of Principia Mathematica and Related Systems.\" He restricted himself, basically, to arithmetic systems and showed that there were two things that you could never decide about the set of axioms. One was the question of consistency: Are your axioms self-consistent? Could you possibly have two or more axioms that were not explicitl inconsistent, but eventually, by no errors in logic, could lead to two theorems that are contradictory?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The second one is the question of compieeness: Do you really have all the axioms that you need to answer all the relevant questions in the system? If the system is",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "lt has been sad thtallof ftahematis isa autology. Some would even go so far as to say all of physics is a tautology. You can't quite say that for physics. Even if physics were to try to be a tautology, I don't think it would sueceed, and it's because of experimental discovery. What is meant by a tautology is that everything is in your initial axioms and postulates. Now, one may not be smart enough to see that it s all there, but it is all there. Enlightenment results from the exposition. You're just making explicit what is implicit. So, I try to find the source that leads to major conclusions in theories.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Where in the Bardeen-Cooper-Schrieffer (BCS) theory does the\nsuperconductivity come from? It's put in, where the electron pairs are assumed to have equal and opposite momenta so that when one of the electrons scatters, the other\nelectron is required to scatter in an equal and opposite direction. Thus the center-of-mass of the pair just keeps on moving along, as if there had been no scattering. Of\ncourse, there's a lot more to it than that.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "I have really enjoyed reading James Clerk Maxwell. He was very interested in the viscosity of gases. I think he's one of the most honest scientists that I've read. He pointed out his own mistakes and gave due credit, in saying something like \"that's wrong in the previous paper wote, and Prfsso Clausius ot it right.\" He was one of the few\ntheoreticians in the old days who paid attention to experiments and often quoted recent results, and where they agreed and disagreed with his theory. To predict viscosity was a tough problem. Reading Maxwel's thoughts on the viscous free gas reminded me of BCS and the equal and opposite momenta of an electron pair.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "To my knowledge, the transition temperature has rarely been predicted before it was measured. Ordinarily it is not possible to calculate the transition temperature $\\\\\\mathrm{T}$ of superconductors without knowing the interaction that leads to electron (Cooper)\npairing. This is difficult to do even when the mechanism is known because of the\nexponential dependence on the density of states in the BCS theory. Based upon a",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "However, if pairing occurs before condensation, i.e. at a higher temperature, then it should be possible to calculate $\\\\\\mathbb{T}_{\\\\\\mathrm{cond}}$\nis because the pairs (bosons) are there waiting for a low enough temperature to\ncondense, and then $\\\\\\mathbf{T}_{\\\\\\mathrm{cond}}=\\\\\\mathbf{T}_{\\\\\\mathrm{c}}.$ $\\\\\\mathbf{T_{p}}$ The reason that the BCS theory is successful is that $\\\\\\mathrm{T}_{\\\\\\mathrm{p}} < \\\\\\mathrm{T}_{\\\\\\mathrm{c}},$ because metallic conductors have a high number density of electrons.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "superfluid is:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "or a two dimensionsal superconductor such as the high-T, cuprates it is: (1)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "where h is Planck's constant, k is the Boltzmann constant, n is the number density of free electrons (or carriers), m is the effetive mass of the electrons in the given material, $\\\\\\mathbf{g}=1$ if the pari a boson of zero spin nd $g=3$ if te airi a bosono $\\\\\\mathbf{s p i n}=1$ . The\n$\\\\\\delta$ $\\\\\\mathbf{T}_{\\\\\\mathrm{F}}^{2 0}$\nwhch is related to $\\\\\\mathbf{T}_{\\\\\\mathrm{F}}^{3 0}$ .the threedimensional Fermi temperature. My theory is the only one that simply relates $\\\\\\mathbf{T}_{\\\\\\mathrm{c}}$ to the experimental Fermi temperature.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Eauations (1) and (2) work well for superfuid and all known classes of\nsuperconductors (except the metallics) such as heavy electron metals, cuprates, and layered organics, as well as making reasonable predictions for hydrides, metallic hydrogen, and neutron stars. They don't work well for metallic conductors such as Cu, Ag, and Au\nbecause $\\\\\\mathrm{T_{c} > T_{p}}$ for these high electron number density mateials. Netlesle, it is\nnoteworthy that my theory works so well with no arbitrary parameters, such simplcity, and for the entire range of superconductors. The input comes from experimentaly\ndetermined parameters. Table includes predictions for the heavy fermion, cuprat,\norganic, bismuth oxide, and dichalcogenide superconductors for which other theories",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "cannot even calculate $\\\\\\mathrm{T_{c}.}^{1}$ Furthermore, as shown, the same simple equations make accuratecalculations for superiluids e and He. o other theory even attempts both superfluids and superconductors with the same equation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "To show the generality of my theory, let us see the excellent predictions it makes\n$\\\\\\mathrm{T_{cP}}$\n$\\\tau_{\\\\\\mathrm{cP}}$\ncompression of the superconducting material compresses the free electron volume,\nincreasing the electron number density.2 We can write equations (l) and (2) as one\ngeneral equation",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "where $\\\\\\mathbf{A}=\\\\\\mathbf{A}_{3}=0. 218$ for isotropic 3-D SC and $\\\\\\mathbf{A_{2}}=( 3 / 2 ) \\\\\\mathbf{A_{3}}=0. 328$ for anisotropic 2-D SC, h is (Planck's constant)/2n, m is the electron (carrier) effective mass, and k is the Boltzmann constant. The number density of electrons is $\\\\\\mathbf{n}=\\\\\\mathbf{N} / \\\\\\mathbf{V}.$ , where N is the number of electrons and $\\\\\\mathbf{v}$ is the volume of the sample.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "where k' is the average compressibility over the range AP from $\\\\\\circ$ to P. Substituting equation (6) into equation (3)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "$\\\\\\mathrm{er a e ain anineneanainl l plin g e\\\ncP$\npressure differential AP, and ${\\\\\\mathrm{T}}_{\\\\\\mathrm{c}}^{\\\\\\mathrm{exp}}$\natmospheric pressure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Table Il shows the excellent agreement equation (8) gives for a variety of high-T. superconductors for very high pressures. This is quite an achievement, as to my\nknowledge there is no other equation or algorithm for doing this.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Table Il",
+                        "ref_id": "TABREF13"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "It was not until 1933, twenty-two years after the discovery of superconductivity, that the Meissner effect was discovered. From Maxwells equations you expect the field to be frozen-in during transition from the normal to the superconducting states rather than\nexpelled. It was not because it was a hard experiment to do, but many people just didn't think it was worth doing. So people thought for those twenty-two years that the Meissner effect was impossible. Then, after the Meissner effect became entrenched, they thought that the anti-Meisner effectwas imposible. I nd my colleagues at Stanford University decided there could be a virtual violation of the Meissner effet, i.e. trapping instead of expelling the field. Thus when we submited our mangetic flux trapping papers for publication in 1973. the referees responded that this shouldn't be published and made reference to books that said this was impossible. My answer was \"Ours isn't a theoretical paper, it's an experimental paper. Weive done it.\" Iy just shows how things become entrenched.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "To produce a precis field with an electromagnet or a permanent magnet you have to go to great pains. With an electromagnet you need to wind it very\naccurately. The physical geometry of a permanent magnet has to be carefully\nmachined. Once you have your first pattern magnet, you can walk in with some glob of superconductor, stick it in the magnet -- it has its own smarts built into it -- trap the",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "field, and walk off with it. Not only do you have a large field, but you' ve got a field with very high fidelity to the original field and not just simply uniform fields, but dlipoles, quadrupoles, etc. You name it. If you can make it, a superconductor can trap it.3",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The vacum ero pint energy problem ahallenges the very core of physics. lt makes quantum physics look bad, and even challenges classical physics. Timothy Boyer has shown that zero-point energy may equally well be regarded as a classical phenomenon. Itis a very serious problem that has been around since the 1930s, to which no satisfactory solution has been offered. I have an idea that helps to resolve it, but first let us see what the problem is.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Aristotle wrote that natur abhos a acum, and modern zero-point energy physics seconds this notion in which a vacuum teams with not only field energy\nfluctuations, but with particle-antiparticle pairs that spontaneously pop in and out of existence. As fantastic as this may sound, it does lead to detectable effects like the Lamb shift of atomic energy lels and the Casimir effect that are found to agree with theory to high accuracy. But this comes with a high price to pay. Though most of the effects are finite, the calculated total zero-point energy is infinite.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "This infinity can be reduced to a finite energy, by somewhat arbitrary theoretical ut-ofs sc as oalong avelengths shortet ta the Planck engt 103 cm). This is inconsistent with special relativity, as wavelength is a function of the observers frame of reference. Nevertheless, it is done -- but only with hollow success. Another approach relates to the standard model of fundamental particles. In these approaches, the resulting nrsg i fnie, but s betwen $1 0^{4 6}$ o102 imesto arge.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The Cosmological Constant (CC) of General Relativity is proportional to the energy density of the vacuum. With the above exceptionally large vacuum energy, depending on the sign of the Cosmological Constant (CC), according to General",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Relativity the universe would have to be much smaller (-CC) or larger (+CC) than it is. There is a problem even without a Cosmological Constant, as such an enormous\nenergy would give the universe a strong positive curvature e- contary to observations of a flat universe.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "I am aware that when all matter and heat radiation have been removed from a regon f sae, eve iasial the sil rmin apatn of r-poin\nelectromagnetic field energy throughout the space. Nevertheless, as an interesting exercise let us see how much of the discrepancy can be reduced if we assume that the vacuum zero-point energy is only associated with matter, i.e. it only exists in the vicinity of mater dueto raid atenuation of fields. In contrast to the prevailing view, in my speculative hypothesis this energy would be limited to the region of space near matter and there would only be negligible vacuum zero-point energy in the vast regions of space where there is no matter. If the volume of matter in the universe is mainly\nnucleons, we can easily estimate the reduction:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "$\\\\\\scriptstyle5-4 4=1 0^{2}$\n$1 0^{1 20-4 4}=1 0^{7 6}$ ims tolageithsremise asei. t he l m en, the dicaney is almost resolved, but at the highedt it is still unacceptably large. The discrepancy can be further reduced by including the free space within nucleons which are made of\nquarks. This divergence between experience and theory is perhaps the most\nbewildering problem in physics, whose resolution may lead to far-reaching\nconsequences of our view of nature.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Einstein's General RelativityS (EGR) is one of the most profound creations of the human mind. But, EGR is a non-linear theory that becomes highly non-linear inside a",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "black hole, resulting in a singularity. EGR not only predicts black holes, but also predicts that the mass inside the black hole will inevitably shrink down to a point, resulting in\ninfinities of mass density, energy density, etc. Such singularities and other more subtle effects are indicative that at least in this regime EGR may be inconsistent with nature. This is similar to the breakdown of continuum hydrodynamics when length scales comparable to atomic diameters are considered.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "In EGR all fields, except the gravitational field, produce space-time curvature, since the gravitational field is but a consequence of the curvature of space-time. Einstein reasoned that since curvature produced gravity, curvature cannot change gravity, i.e. make more or less gravity. To Einstein this would be double counting. The argument becomes less clear when inverted: Gravity cannot change curvature. This prohibition in EGR ultimately leads to black holes, in which singularities are the most egregious\ndifficulties.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Huseyin Yilmaz* made an interesting variation of EGR which avoids not only the singularities but the black holes altogether. He assumed that gravitation field energy also produces curvature of space-time by adding a \"gravitational stress-energy tensor\" to Einstein's equations. Since this term is relatively small in the three major tests of EGR, Yilmaz' General Relativity (YGR) make essentall the same predictions as EGR for the advance of the perihelion of mercury raviational red shi, nd the bending of starlight (the least accurately measured of the three tests). EGR and YGR cannot both satisfy the equivalence principle of GR - -at east not in its strong form. The Misner, Thorne, and Wheeler tome' and other texts cover many competing theories of gravitation and point out their shortcomings, but they seem not to have discussed or referenced Yilmaz'\ngeneral reltivity.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "lt may not be obvious why including gravitational field energy as a source of space curvature eliminates black holes. Here is a simple intuitive way to understand this. The static field and the near field (induction field) of a time-varying gravitational",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "field have negative energy. (This can be tricky since the electrostatic field energy is\npositive. The radiation field has positive energy for both fields.) Negative energy gives negative curvature tending to cancel the positive curvature due to mass. Instead of black holes, YGR has grey holes where the emitted light is greatly red-shifted. If\nneutron stars with mass much greater than 3 solar masses, or white dwarfs with mass much smaller than 1.4 solar masses were detected, this would favor YGR over EGR.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Despite much effort, no one has yet solved the two-body problem in Einstein's General Relativity. Yilmaz and his colleagues would say that they never will since it is their view that EGR is a one-body theory in which one body $( e. g.$ the Sun) establishes a space-time curvature (field) which determines the motion of a test body $( e. g$ . Mercury) that hardly perturbs the established field. YGR claims to be an N-body theory. Yilmaz says that if one takes the weak field limit of EGR and considers a many body problem like the perturbation effects of planetary orbits on each other, EGR doesn't work. He asserts that the weak field limit of YGR gives exactly the same results as Newtonian\ngravity including perturbation effects. Another point in favor of Yilmaz is that in particle physics, energy is ascribed to the gravitational field.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "I have mixed emotions and biases to overcome with respect to the absence of black holes in both YGR and Dicke's polarizable vacuum (ether) theory of gravitation. I certainly like the absence of singularities in these theories and they intrigue me. Until recently, I never had any reason to doubt the soundness of EGR. I did worry about black hole \"no hir\" theorems that appeared easily vulnerable to violation by the\npresence of otherbodis. Misner as challenged Yilmaz ormulation withrebttal by Alley and Yilmaz. At this point there is only a fracas. Whether it will develop into a full-fledged battle or remain a minor skirmish remains to be seen. If properly and fairly conducted, this is a healthy thing for physics, for honest dissension is a major mode by which physics progresses and comes into closer agreement with nature.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "With respect to the 43\"\" per century advance of the perihelion of Mercury\npredicted by both EGR and YGR, a special tribute is owed to astronomers as well as an",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "while. It was motivated to clearly comply with Mach's principle. In the Brans-Dickell GR theory, masses throughout the universe generate a scalar potential field, in addition to Einstein's curvature of spacetime, which can influence the strength of the universal\ngravitational constant G in space or time since G is linked to the matter-energy distribution of the universe. Whenever the scalar field is high, G is low. Dicke led theoretical and\nexperimental challenges to GR. At the same time that he was promoting BDGR, he helped with experiments that brought about its downfall, and bolstered EGR. It is not clear what bearing these experiments had on YGR.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Local determination of an inertial frame can be made by observing a stationary bucket of water with a flat surface versus a concave parabolic surface for a non-nertial rotating pail, or by a Foucault pendulum. (A bucket of superfluid helium has its own surprises.3) Global determination of an inertial fame can be made by observation of a frame relative to the distant fixed stars i.e. the rest of the universe. It is remarkable that both methods give the same result. Mach was the first to conclude that this agreement implies that the distant stars determine the local inertial frame of reference since the local frame cannot conceivably affect the clistant stars. Mach had trouble publishing his\nprinciple in the scientific journals of his day, so he included it in his 1912 book,The Science Mechaics.lt",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Einstein was impressed that the distant stars have an influence on the local\nproperties of matter, and tried to incorporate Mach's principle into General Relativity\n(GR), but succeeded in only a limited sense. GR does include Mach's principle in some\nspeal cases.l But this omes with sm poblem ofits own. In G i is ar osee how those distant stars can impose their choice of which frames are inertial and which\naccelerating with sufficient alacrity to affect rapidly changing frames, if the frame\ninformation is limted to propagate at the speed of light. Aside from this problem, with respect to the rotating bucket, EGR does suggest that if the bucket is at rest and the distant",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "stars rotate around it, its surface will be parabolic as if it were rotating. The BDGR theory was an attempt to better incorporate Mach's principle than does EGR.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Occasionally theories become established without a good foundation of\nsupporting experiments. They become part of the lore of physics and are difficult to displace by a competing theory. Until the old theory is proven wrong by experiment, new paradigms are considered wrong by definition since they predict results which differ from those of the established, hence correct\" theory. This has been the case for Hawking's seniority model of black hole radiation which has been theoretically but not experimentally established.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "If YGR is correct and there are no black holes, this impinges more on Hawking's model of black hole radiation than it does on my field emission-like model of\nsame between a very dense little grey hole and a second body.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "ininxk.2 ant athinint ftil fgenr erlait,unequivocal concludes \"the effect lHawking radiation] does not exist.\" He argues against Hawking radiation due to the infinite frequency of wave modes at the black hole horizon, and that the effect is merely an artifact resulting from an inadequate treatment of\nsingularities.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "The fact that a derivation is invalid does not disprove the existence of the effect. Belinski probes deeper than this by setting up the problem with what in his terms are proper finite wave modes. He then concludes that no particle creation can occur. The Rabinowitz radiation tunneling model involves no infinite frequency wave modes, and arideaiarieaind ntarto b creaed.lG19",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "Hawking takes the position that radiation does not originate from within a black hole, but",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            }
+        ]
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "metadata": {
+        "title": null,
+        "authors": [
+            {
+                "first": "V.S.",
+                "middle": [],
+                "last": "POSTNIKOV",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "V.V.",
+                "middle": [],
+                "last": "PCSTNIKOV",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            },
+            {
+                "first": "V.M.",
+                "middle": [],
+                "last": "FEDOROV",
+                "suffix": null,
+                "affiliation": [],
+                "email": null
+            }
+        ],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "Recently Buckel and Stritzker $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\l$ using ion implantation at low temperatures found a peculiar instability in Pd-Ag-D alloys, in which a maximum $\\\\\\\\\tau_{c}$ above 15 K could be achieved. This inatability looks like a break-off in previous superconductivity, at least above 1 K, with further implantation of D ions. So far the nature of this phenomenon is unknown.\n\nWe sugest here a mechanlsm explaining this result us a phase tranaition in the hydrogen sublattice, constructed by hydrogen, which occuples interstitial poeitions in the host alloy lattice.\n\nSince the principle, equlvalent to Paull's princlple is realized in interatital solid solution $/ y$ , i.e. every interstitial sito can be occupied by one proton ( deuteron ) or none, the proton distribution function for interstitial sites has the form of a Fermi distribution:\n\nwhere il and $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{b}_{p}$ are the unit cell nd ineraitial position ndia-vector, respe-tively; $.$ ia the proton chemical potential;\n\n $( {\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{R}}}+{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\vec{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{h}}}_{p} )$ site: $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{v}$ is the pair interaction potential.\n\nAt igh tomprtrs the solution of $a$ ts tnlopendent ot corstataecatacn\uff0c\uff09\u4e00 = n/N ( where n and N are the proton and interstitial site quantities, respectively ), l.e. the disordered state ia realized. At low temperatures every sot of n/N, T values has s particular aolution of (1), which correaponds to the abeolute free enengy minimum and describes the stable hydrogen sublattice. After the formation of such a a superstructure, oquivalent in a disordered state interatiials are distinguished into \"occupied\" and \"ireo\" with a large onergy difference seemingly to be character-",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction"
+            },
+            {
+                "text": "tstic of metal-hydrogen systema $/ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathcal{Y}$ . Further implantation of hydrogen leads to the filling of free'\" positions, i.e. the generated state is incompatible with the free energy minimum.\n\nt is known $1 4/$ that hydrogen implantation up to a definite concentration result-od in the incr ane of $\\\\\\\\\tau_{e}$ in Pd and Pd noble mtal alloys. There is an opinion /5/ that optic phonon modes take part in an eflective way in the attractive electron-elec-tron interaction leading to an enhancement in superconductivity. In this case the enhanced electron-phonon interaction munt lend to un overscreening of the proton-\nbecomes instable. $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Phi( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\stackrel{\\\\\\\\\bullet} {\\\\\\\\\bf R}+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\stackrel{\\\\\\\\\bullet} {\\\\\\\\\bf h}_{\\\\\\\\\bf p} ) \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,,$\n\nA new aituation arises when an other solution of (1) and, hence, another superstructure corresponds the lowest free energy state. In this case the change of one solution for another will describe the phase transition in the hydrogen sublattice.\n\nAs faras $\\\\\\\\\tau_{e}$ depende on the clectron-optic phonon interaction, it munt be sensitive to the variations in the hydrogen sublattice, which is responsible for this interaction.\n\n $\\\\\\\\\tau_{c}$ versus the atomic number $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbb{H} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbb{D} )/$ at dependence caiculated from the results of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mu$  $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathcal{V}$ is plotted in Fig. 1 for two metastable Pd-Ag-D and Pd-H alloys An approximation formula $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbb{H} ( D ) / \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{M} \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\approx\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\approx d+c$ was used for the calculation of the atomic number-value, where d is a dose of implantation. G, starting coacentration, o a = 0.02 (mA s) . The results of $/ y$ were used for the calculation of $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbf{\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\epsilon}$ , assuming that the implantation profile is independent of the isotope mass and of the bost lattice composition.\n\nversus $\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbb{H} ( \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\mathbb{D} )/$ M curves have some peculiarities which we think to be assoctat-ed with the phase transition in the hydrogen sublattice. In our opinion the type I phase",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "text": "Fig. 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": null
+            },
+            {
+                "text": "transition, caused by deuteron transler from octahedral to tetrahedral sites, takes\nplace in the D sublattice inside the Pd-Ag matrix, i.e. there Is formed a superetruc-ture, the localized mode of which do not participate in the electron-electron attractive interaction. Such a transier inside the Pd matrix is eaergetically unfavourable, because the proton zero-point amplitude is larger than that of the deuteroa, and the lattice\nconstant of Pd is less than that of Pd-Ag. Hence, the Pd-H order parameter, probably , changes continuously , and then the phase transition must be of type I.\n\nAn about 20 % drop in the residual resistance when superconductivity vaniahes in the Pd-Ag-D system is consistent with the above mechanism.\n\nln conclusion we would like to underline that Pd-noble metal-H(D) and Pd-H(D) alloys, probably , present a new clnas of compounds i which instability as well as high-lemperature superconductivity is driven by the optic phonon mode.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "/1/",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "W.",
+                        "middle": [],
+                        "last": "BUCKEL",
+                        "suffix": null
+                    },
+                    {
+                        "first": "B.",
+                        "middle": [],
+                        "last": "STRITZKER",
+                        "suffix": null
+                    }
+                ],
+                "year": 1973,
+                "venue": "Phys. Letters A",
+                "volume": "43",
+                "issn": null,
+                "pages": "403",
+                "other_ids": {}
+            },
+            "BIBREF1": {
+                "ref_id": "/2/",
+                "title": "Theory of Phase Tranaformations and the Structure\nof Solid Solutions",
+                "authors": [
+                    {
+                        "first": "A.G.",
+                        "middle": [],
+                        "last": "KIACHATURYAN",
+                        "suffix": null
+                    }
+                ],
+                "year": 1974,
+                "venue": "Nauka, Moscow",
+                "volume": null,
+                "issn": null,
+                "pages": null,
+                "other_ids": {}
+            },
+            "BIBREF2": {
+                "ref_id": "/3/",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "V.A.",
+                        "middle": [],
+                        "last": "SOMENKOV",
+                        "suffix": null
+                    },
+                    {
+                        "first": "S.SH.",
+                        "middle": [],
+                        "last": "SHILSHTEN",
+                        "suffix": null
+                    }
+                ],
+                "year": 1975,
+                "venue": "Fiz. izkikh Temp.",
+                "volume": "1",
+                "issn": null,
+                "pages": "651",
+                "other_ids": {}
+            },
+            "BIBREF3": {
+                "ref_id": "/4/",
+                "title": "Application of Ion Beams to Metals",
+                "authors": [
+                    {
+                        "first": "W.",
+                        "middle": [],
+                        "last": "BUCKEL",
+                        "suffix": null
+                    },
+                    {
+                        "first": "B.",
+                        "middle": [],
+                        "last": "STRITZKER",
+                        "suffix": null
+                    }
+                ],
+                "year": 1974,
+                "venue": "Plenam Press Publ. Corp., New Yoik",
+                "volume": null,
+                "issn": null,
+                "pages": "3",
+                "other_ids": {}
+            },
+            "BIBREF4": {
+                "ref_id": "/5/",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "B.N.",
+                        "middle": [],
+                        "last": "GANGULY",
+                        "suffix": null
+                    }
+                ],
+                "year": 1975,
+                "venue": "Z. Phys. B22",
+                "volume": null,
+                "issn": null,
+                "pages": "127",
+                "other_ids": {}
+            },
+            "BIBREF5": {
+                "ref_id": "/6/",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "B.",
+                        "middle": [],
+                        "last": "STRTTZNER",
+                        "suffix": null
+                    },
+                    {
+                        "first": "W.",
+                        "middle": [],
+                        "last": "BUCKEL",
+                        "suffix": null
+                    }
+                ],
+                "year": 1972,
+                "venue": "Z. Phys.",
+                "volume": "257",
+                "issn": null,
+                "pages": "1",
+                "other_ids": {}
+            },
+            "BIBREF6": {
+                "ref_id": "/7/",
+                "title": null,
+                "authors": [
+                    {
+                        "first": "R.J.",
+                        "middle": [],
+                        "last": "MILLER",
+                        "suffix": null
+                    },
+                    {
+                        "first": "C.B.",
+                        "middle": [],
+                        "last": "SATTERTEWAITE",
+                        "suffix": null
+                    }
+                ],
+                "year": 1975,
+                "venue": "Phys. Rev. Letters",
+                "volume": "324",
+                "issn": null,
+                "pages": "144",
+                "other_ids": {}
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "Transition temperature of Pd-Ag-D (O ) and Pd-H (*)alloys versus atomic rntio, calculated from /4,6/",
+                "type": "figure"
+            }
+        },
+        "back_matter": [
+            {
+                "text": "(Received October 10, 1977)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "section": "References"
+            }
+        ]
+    }
+}
