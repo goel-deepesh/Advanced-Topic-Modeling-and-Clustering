@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "title": "<str>",
+    "authors": [                        // list of author dicts, in order
+      {
+        "first": "<str>",
+        "middle": ["<str>"],            // list of strings for middle names
+        "last": "<str>",
+        "suffix": "<str>",
+        "affiliation": ["<str>"],
+        "email": "<str>"
+      }
+    ],
+    "abstract": [                       // list of paragraphs in the abstract
+      {
+        "text": "<str>",
+        "cite_spans": [                 // list inline citations linked to bibliography
+          {
+            "text": "[7]",
+            "ref_id": "BIBREF3"
+          }
+        ],
+        "ref_spans": [                  // list of inline references (e.g., to figures/tables)
+          {
+            "text": "Table 1",          // example of inline reference
+            "ref_id": "TABREF1"
+          }
+        ],
+        "section": "Abstract"
+      }
+    ],
+    "body_text": [                      // list of paragraphs in full body
+      {
+        "text": "<str>",
+        "cite_spans": [],
+        "ref_spans": [],
+        "eq_spans": [                   // list of equations in text
+          {
+            "text": "<equation in simple mathematic format>",
+            "latex": "<equation in latex>"
+          }
+        ],
+        "section": "Introduction"
+      },
+      {
+        ...,
+        "section": "Conclusion"
+      }
+    ],
+    "bib_entries": {
+      "BIBREF0": {
+        "ref_id": "<str>",
+        "title": "<str>",
+        "authors": [                    // list of authors without affiliation or email
+          {
+            "first": "<str>",
+            "middle": ["<str>"],
+            "last": "<str>",
+            "suffix": "<str>"
+          }
+        ],
+        "year": "<int>",
+        "venue": "<str>",
+        "volume": "<str>",
+        "issn": "<str>",
+        "pages": "<str>",
+        "other_ids": {
+          "DOI": ["<str>"]
+        }
+      },
+      "BIBREF1": {},
+      ...
+      "BIBREF25": {}
+    },
+    "ref_entries": {
+      "FIGREF0": {
+        "text": "<str>",                  // figure caption text
+        "type": "figure"
+      },
+      "TABREF13": {
+        "text": "<str>",                  // table caption text
+        "type": "table"
+      }
+    },
+    "back_matter": [                    // list of paragraphs in back matter
+      {
+        "text": "<str>",
+        "cite_spans": [],
+        "ref_spans": [],
+        "section": "<str>"
+      }
+    ]
+  }
+}
+
