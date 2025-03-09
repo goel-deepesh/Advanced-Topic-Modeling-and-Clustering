@@ -1,7 +1,7 @@
 import os
 
 # Define the folder containing the JSON files
-json_folder = "/Users/deepesh/Documents/BDS_SP25/Clustering_HW_1/final_jsons"  # Update with your actual folder path
+json_folder = "JSON folder path"
 
 # Iterate through all files in the folder
 for file_name in os.listdir(json_folder):
