@@ -2,8 +2,7 @@ import re
 import os
 import google.generativeai as genai
 
-# Set your API key
-genai.configure(api_key="AIzaSyCVSlBNuCBid5g127Ci3CbW93YdHI9c-78")
+genai.configure(api_key="enter key")
 
 # Load the JSON schema
 with open("json_schema.txt", "r") as file:
@@ -34,11 +33,11 @@ def process_markdown_file(md_file_path):
     """
 
     # Call the Gemini API
-    model = genai.GenerativeModel('gemini-2.0-pro-exp') #or gemini-pro-vision if you need it.
+    model = genai.GenerativeModel('gemini-2.0-pro-exp') 
     response = model.generate_content(prompt)
 
     # Get the generated JSON
-    generated_json = response.text
+    generated_json = clean_json_output(response.text)
 
     # Save JSON file in the same folder as the Markdown file
     output_file_path = os.path.splitext(md_file_path)[0] + ".json"
@@ -47,9 +46,9 @@ def process_markdown_file(md_file_path):
     
     print(f"JSON output saved to {output_file_path}")
 
-# Traverse multiple folders and process each Markdown file
+# Process each Markdown file
 root_dir = "/Users/deepesh/Documents/BDS_SP25/Clustering_HW_1/output"
-target_subdirs = ['3543', '3594', '3556', '3436', '3387']
+target_subdirs = ['3543', '3594', '3556', '3436', '3387'] #Batch processing to evade quota limit issues
 
 for subdir in target_subdirs:
     subdir_path = os.path.join(root_dir, subdir)
