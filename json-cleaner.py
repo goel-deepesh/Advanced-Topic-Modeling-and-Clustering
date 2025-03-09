@@ -2,7 +2,7 @@ import os
 import re
 import json
 
-json_folder = "/Users/deepesh/Documents/BDS_SP25/Clustering_HW_1/json_files"  
+json_folder = "enter folder path"  
 
 def clean_json_content(json_text):
     # Remove markdown code blocks if present
@@ -20,7 +20,7 @@ def clean_json_content(json_text):
     
     # Fix unterminated strings by identifying and closing unclosed quotes
     try:
-        # Test if we can parse it after fixing escapes
+        # Test if it can be parsed after fixing escapes
         json.loads(json_str)
         return json_str
     except json.JSONDecodeError as e:
@@ -76,7 +76,7 @@ def clean_json_content(json_text):
         elif "Invalid \\escape" in error_msg:
             # Replace all single backslashes with double backslashes
             json_str = json_str.replace('\\', '\\\\')
-            # Then fix the valid escape sequences that we just doubled
+            # Then fix the valid escape sequences that were just doubled
             json_str = json_str.replace('\\\\n', '\\n')
             json_str = json_str.replace('\\\\r', '\\r')
             json_str = json_str.replace('\\\\t', '\\t')
@@ -87,14 +87,12 @@ def clean_json_content(json_text):
             # Fix any double escaped unicode
             json_str = re.sub(r'\\\\u([0-9a-fA-F]{4})', r'\\u\1', json_str)
             
-        # As a last resort for severely corrupted JSON, try a regex-based approach
+        # For severely corrupted JSON, a regex-based approach
         try:
-            # See if our fixes worked
+            # See if fixes worked
             json.loads(json_str)
         except json.JSONDecodeError:
-            # Brute force approach: balance all quotes and brackets
-            # This is a simplified approach and might not work for all cases
-            
+            # Brute force approach: balance all quotes and brackets            
             # Count opening and closing braces/brackets
             open_braces = json_str.count('{')
             close_braces = json_str.count('}')
@@ -107,7 +105,7 @@ def clean_json_content(json_text):
             if open_brackets > close_brackets:
                 json_str += ']' * (open_brackets - close_brackets)
                 
-            # Balance quotes - replace odd quotes with escaped quotes
+            # Balance quotes i.e. replace odd quotes with escaped quotes
             in_string = False
             escaped = False
             balanced_json = ""
@@ -130,7 +128,7 @@ def clean_json_content(json_text):
                 
             json_str = balanced_json
             
-    # One final attempt to validate
+    # Validate again
     try:
         json.loads(json_str)
         return json_str
@@ -168,7 +166,6 @@ def process_json_file(file_path):
     except Exception as e:
         return False, f"Error processing file: {str(e)}"
 
-# Main processing loop with retry mechanism
 for file_name in os.listdir(json_folder):
     if file_name.endswith("_combined.json"):  
         file_path = os.path.join(json_folder, file_name)
@@ -181,13 +178,13 @@ for file_name in os.listdir(json_folder):
         else:
             print(f"✗ {message}")
             
-            # For persistently problematic files, consider a more manual approach
+            # For persistently problematic files, more manual approach
             print("Attempting manual recovery...")
             try:
                 with open(file_path, "r", encoding="utf-8") as file:
                     content = file.read()
                 
-                # Try to find the actual JSON object start and end
+                # Find the actual JSON object start and end
                 json_pattern = re.compile(r'(\{(?:[^{}]|(?1))*\})', re.DOTALL)
                 matches = json_pattern.findall(content)
                 
