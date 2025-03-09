@@ -25,5 +25,5 @@ def combine_output_markdowns(output_dir):
                 else:
                     print(f"Combined markdown saved to {combined_md_path}")
 
-output_dir = '/Users/deepesh/Documents/BDS_SP25/Clustering_HW_1/output'
+output_dir = 'Enter Output Folder Path'
 combine_output_markdowns(output_dir)
