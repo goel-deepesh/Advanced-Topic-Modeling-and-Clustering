@@ -66,6 +66,6 @@ def process_pdfs(input_dir, output_dir):
         doc.close()
         print(f"Completed processing {pdf_file}")
 
-input_dir = '/Users/deepesh/Documents/BDS_SP25/Clustering_HW_1/input'
-output_dir = '/Users/deepesh/Documents/BDS_SP25/Clustering_HW_1/output'
+input_dir = 'Input Folder Path'
+output_dir = 'Output Folder Path'
 process_pdfs(input_dir, output_dir)
